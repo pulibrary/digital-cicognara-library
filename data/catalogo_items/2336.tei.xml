@@ -1,0 +1,24 @@
+  <teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+    <fileDesc>
+                <titleStmt>
+            <title>Catalogo Cicognara Number {$ciconum}</title>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org</ref>
+            </publisher>
+            <idno type="cico">2336</idno>
+        </publicationStmt>
+        <sourceDesc>
+            <bibl><title>NOTIZIE patrie spettanti alle arti del disegno</title>, <pubPlace>Torino</pubPlace> <date>1792</date>, libretto di 11 pagine in 8.
+    <pb type="cico" n="396"/>— <bibl>Aggiuntovi: <title>Elogio del Molinari</title>. <pubPlace>Torino</pubPlace> <date>1793</date>, altro opuscolo di 14 pagine.
+    <note>Crediamo che il dotto Baron Vernazza ne sia l’autore.</note></bibl>
+    
+    </bibl>
+        </sourceDesc>
+    </fileDesc>
+</teiHeader>
+        
+</teiCorpus>

@@ -1,0 +1,25 @@
+  <teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+    <fileDesc>
+                <titleStmt>
+            <title>Catalogo Cicognara Number {$ciconum}</title>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org</ref>
+            </publisher>
+            <idno type="cico">1764</idno>
+        </publicationStmt>
+        <sourceDesc>
+            <bibl><author>POLIDORI Virgilii Urbinatis</author>. <title>De rerum inventoribus libri octo: eiusdem in dominicani precem
+  <pb type="cico" n="303"/> commeritaribus</title>, <pubPlace>Lugduni</pubPlace>, apud <publisher>Tornesium</publisher>, <date>1558</date>, in 8.
+  <note>Quest’opera fu dedicata a Lodovico Odassio padovano dall’autore con data d’Urbino li 5 Agosto 1499, anno in
+  cui si eseguì la prima edizione.</note>
+  
+  </bibl>
+        </sourceDesc>
+    </fileDesc>
+</teiHeader>
+        
+</teiCorpus>

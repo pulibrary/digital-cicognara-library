@@ -1,0 +1,26 @@
+  <teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+    <fileDesc>
+                <titleStmt>
+            <title>Catalogo Cicognara Number {$ciconum}</title>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org</ref>
+            </publisher>
+            <idno type="cico">2429</idno>
+        </publicationStmt>
+        <sourceDesc>
+            <bibl><author>CAMPER Pierre</author>, <title>Discours prononcé à l’Accademie du Dessin à Amsterdam sur le moyen de
+    représenter les passions qui se manifestent sur le visage</title>, <pubPlace>Utrecht</pubPlace> <date>1793</date>, in 4, fig. con 11 tavole.
+<fw type="foot"/>
+                  <pb type="memofonte"/>
+                  <fw type="head"/>
+    
+               </bibl>
+        </sourceDesc>
+    </fileDesc>
+</teiHeader>
+        
+</teiCorpus>

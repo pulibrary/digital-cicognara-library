@@ -1,0 +1,23 @@
+  <teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+    <fileDesc>
+                <titleStmt>
+            <title>Catalogo Cicognara Number {$ciconum}</title>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org</ref>
+            </publisher>
+            <idno type="cico">3000</idno>
+        </publicationStmt>
+        <sourceDesc>
+            <bibl><author>SESTINI Domenico</author>, <title>Illustrazione d’un’antica medaglia di piombo appartenente a Velletri</title>, <pubPlace>Roma</pubPlace> <date>1796</date>, in 4, fig.,
+M. 65 e 10.
+<note>Vedi anche Visconti Lettera sullo stesso argomento.</note>
+</bibl>
+        </sourceDesc>
+    </fileDesc>
+</teiHeader>
+        
+</teiCorpus>

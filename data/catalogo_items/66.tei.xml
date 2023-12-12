@@ -1,0 +1,28 @@
+  <teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+    <fileDesc>
+                <titleStmt>
+            <title>Catalogo Cicognara Number {$ciconum}</title>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org</ref>
+            </publisher>
+            <idno type="cico">66</idno>
+        </publicationStmt>
+        <sourceDesc>
+            <bibl>
+                     <author>ALBERTI Leon Battista</author>, 
+                     <title>La pittura tradotta per mess. Lodovico Domenichi.</title> 
+                     <extent>Libri tre,</extent> 
+                     <pubPlace>Venezia,</pubPlace>
+	                    <publisher> Giolito, </publisher>
+                     <date>1547,</date>
+                     <ex> in 8.</ex>
+                  </bibl>
+        </sourceDesc>
+    </fileDesc>
+</teiHeader>
+        
+</teiCorpus>

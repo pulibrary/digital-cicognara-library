@@ -1,0 +1,22 @@
+  <teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+    <fileDesc>
+                <titleStmt>
+            <title>Catalogo Cicognara Number {$ciconum}</title>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org</ref>
+            </publisher>
+            <idno type="cico">1157</idno>
+        </publicationStmt>
+        <sourceDesc>
+            <bibl><author>FONTANINI (Giusto)</author>, <title>De le masnade ed altri servi secondo l’uso de’ Longobardi</title>.
+    Ragionamento steso in una lettera al Sig. Girolamo de’ Puppi, <pubPlace>Venezia</pubPlace> <date>1698</date>, in 4, M. 41.
+    </bibl>
+        </sourceDesc>
+    </fileDesc>
+</teiHeader>
+        
+</teiCorpus>

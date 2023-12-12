@@ -1,0 +1,25 @@
+  <teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+    <fileDesc>
+                <titleStmt>
+            <title>Catalogo Cicognara Number {$ciconum}</title>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org</ref>
+            </publisher>
+            <idno type="cico">2481</idno>
+        </publicationStmt>
+        <sourceDesc>
+            <bibl><author>BIANCHINI Francesco</author>, <title>La istoria universale provata con monumenti e figurata con simboli degli antichi</title>, <pubPlace>Roma</pubPlace>
+                        <date>1797</date>, in 4 fig.
+<note>Quest’opera utilissima per la cronologia, la storia e l’antiquaria è illustrata da molte bellissime incisioni in rame
+eseguite da P. S. Bartoli in 65 tavole sparse nei varj luoghi <pb type="cico" n="2"/> voluti dal testo, oltre il bellissimo frontespizio
+   figurato: e sono da ritenersi fra le migliori produzioni di questo artista. Freschissimo e magnifico esemplare.</note>
+</bibl>
+        </sourceDesc>
+    </fileDesc>
+</teiHeader>
+        
+</teiCorpus>

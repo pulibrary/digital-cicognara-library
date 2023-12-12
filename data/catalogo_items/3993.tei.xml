@@ -1,0 +1,25 @@
+  <teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+    <fileDesc>
+                <titleStmt>
+            <title>Catalogo Cicognara Number {$ciconum}</title>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org</ref>
+            </publisher>
+            <idno type="cico">3993</idno>
+        </publicationStmt>
+        <sourceDesc>
+            <bibl><author>CORONELLI</author>, <title>Singolarità di Venezia, e del suo dominio divise in più parti</title>, vol. 3, in fol., contenenti i palazzi, le
+chiese, e la Brenta.
+<note>Quest’opera informemente, e infedelmente disegnata, e peggio intagliata con sempre vario, ed immenso numero
+di tavole, non può rendere la menoma idea della magnificenza di Venezia, servibile soltanto come repertorio pel
+nome dei luoghi, e delle cose.</note>
+</bibl>
+        </sourceDesc>
+    </fileDesc>
+</teiHeader>
+        
+</teiCorpus>

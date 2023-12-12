@@ -1,0 +1,30 @@
+  <teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+    <fileDesc>
+                <titleStmt>
+            <title>Catalogo Cicognara Number {$ciconum}</title>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org</ref>
+            </publisher>
+            <idno type="cico">74</idno>
+        </publicationStmt>
+        <sourceDesc>
+            <bibl>
+                     <author>ARMENINI Giovan Battista da Faenza</author>,
+                     <title> Dei veri precetti della pittura libri tre,</title> 
+                     <pubPlace>Ravenna</pubPlace> 
+                     <date>1587,</date> 
+                     <extent>in 4</extent>
+	                    <fw type="foot"/>
+	                    <pb type="memofonte"/>
+	                    <fw type="head"/>
+	  
+	  pic. Prima edizione, esemplare in mar. dorato.</bibl>
+        </sourceDesc>
+    </fileDesc>
+</teiHeader>
+        
+</teiCorpus>

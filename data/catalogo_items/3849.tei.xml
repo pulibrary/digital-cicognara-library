@@ -1,0 +1,38 @@
+  <teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+    <fileDesc>
+                <titleStmt>
+            <title>Catalogo Cicognara Number {$ciconum}</title>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org</ref>
+            </publisher>
+            <idno type="cico">3849</idno>
+        </publicationStmt>
+        <sourceDesc>
+            <bibl> <title>RACCOLTA di scrittori sulla cupola di S. Pietro</title>, in 4.
+— <title>Parere dei tre matematici le Sneur, Jacquier, e Boscovich, 1742 Roma. Serie di lettere, e viglietti, tra la
+Segreteria di Stato, e alcuni matematici, lettere di monsignor Bottari, e di Gabriello Manfredi, e di Giovanni
+Poleni, manoscritte</title>.
+— <title>Riflessioni dei tre primi suddetti matematici sopra alcune difficoltà spettanti i danni della Cupola</title>, <date>1743</date>.
+— <title>Risoluzione del dubbio proposto dal p. Ravaglia, e parere del p. Santini</title>, <pubPlace>Roma</pubPlace> <date>1743</date>.
+— <title>Riflessioni di Lelio Cosatti sopra il sistema dei tre matematici, e suo parere</title>, <pubPlace>Roma</pubPlace> <date>1743</date>.
+— <title>Elementi di architettura per erigerla in scienza con un discorso sopra la cupola di S. Pietro</title>, <pubPlace>Venezia</pubPlace>, <date>1744</date>, dal
+cavalier <author>Giovanni Rizzetti</author>.
+— <title>Relazioni e osservazioni sopra i difetti visti nella cupola di S. M. del Fiore nel 1695</title> dal signor <author>Giovan Battista
+Nelli</author>, <pubPlace>Firenze</pubPlace>, manoscritto.
+— <title>Relazione di alcuni difetti osservati nel ponte a S. Trinita</title>.
+— <title>Discorso sopra la stabilità della cupola di S. M. del Fiore, di Bartolommeo Vanni, manoscritto, con alcuni tratti
+anonimi sul ristauro delle fabbriche</title>.
+— In fine, <title>scritture concernenti i danni della cupo <pb type="cico" n="214"/> la di S. Pietro e loro rimedii</title>, <pubPlace>Venezia</pubPlace>, presso <publisher>Simone
+Occhi</publisher>, senz’anno.
+<note>Queste collezione d’opuscoli edita, e inedita deve ritenersi come preziosa e rara per le opinioni poste in conflitto
+d’uomini rinomatissimi: a’ suoi luoghi stanno le opportune tavole, e disegni.</note>
+</bibl>
+        </sourceDesc>
+    </fileDesc>
+</teiHeader>
+        
+</teiCorpus>

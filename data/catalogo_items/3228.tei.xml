@@ -1,0 +1,23 @@
+  <teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+    <fileDesc>
+                <titleStmt>
+            <title>Catalogo Cicognara Number {$ciconum}</title>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org</ref>
+            </publisher>
+            <idno type="cico">3228</idno>
+        </publicationStmt>
+        <sourceDesc>
+            <bibl><author>GEORGII Dominici</author>, <title>Interpretatio veteris monumenti in agro Lanuvino detecti et in aedes Capitolinas nuper inlati
+in qua effigies Archigalli Autistitis magnae Deum Matris exprimitur</title>, <pubPlace>Romae</pubPlace> <date>1737</date>, in 4, fig., M. 19 e 71.
+<note>Con la tavola del monumento.</note>
+</bibl>
+        </sourceDesc>
+    </fileDesc>
+</teiHeader>
+        
+</teiCorpus>

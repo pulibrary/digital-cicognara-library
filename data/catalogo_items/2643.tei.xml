@@ -1,0 +1,26 @@
+  <teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+    <fileDesc>
+                <titleStmt>
+            <title>Catalogo Cicognara Number {$ciconum}</title>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org</ref>
+            </publisher>
+            <idno type="cico">2643</idno>
+        </publicationStmt>
+        <sourceDesc>
+            <bibl><author>ALLATIUS Leo</author>, <title>De templis graecorum recentioribus: de narthece ecclesiae veteris, nec non de graecorum hodie
+quorundam opinationibus</title>, <pubPlace>Coloniae Agr.</pubPlace> <date>1645</date>, in 8, fig.
+<note>Libro non comune. Sono tre tavole della pianta dei templi in principio di questo eruditissimo volume, al quale
+sono aggiunte le due opere seguenti dello stesso.</note>
+— <title>De Mensura temporum antiquorum et praecipue grecorum exercitatio.</title>
+— <title>Confutatio fabulae de Joanna Papissa ex monumentis graecis. Stesso luogo ed anno.</title>
+</bibl>
+        </sourceDesc>
+    </fileDesc>
+</teiHeader>
+        
+</teiCorpus>

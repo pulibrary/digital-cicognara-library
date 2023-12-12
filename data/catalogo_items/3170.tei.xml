@@ -1,0 +1,23 @@
+  <teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+    <fileDesc>
+                <titleStmt>
+            <title>Catalogo Cicognara Number {$ciconum}</title>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org</ref>
+            </publisher>
+            <idno type="cico">3170</idno>
+        </publicationStmt>
+        <sourceDesc>
+            <bibl><author>BARTOLI Giuseppe</author>, <title>L’antro Eleusino rappresentato in un greco antico basso rilievo del Museo Nani e spiegato col
+paragone del 6 libro delle Eneide di Virgilio</title>, <date>1761</date>, in 4, fig., M. 77 e 78.
+<note>Con una tavola intagliata in rame.</note>
+</bibl>
+        </sourceDesc>
+    </fileDesc>
+</teiHeader>
+        
+</teiCorpus>

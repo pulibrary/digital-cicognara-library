@@ -1,0 +1,29 @@
+  <teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+    <fileDesc>
+                <titleStmt>
+            <title>Catalogo Cicognara Number {$ciconum}</title>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org</ref>
+            </publisher>
+            <idno type="cico">2163</idno>
+        </publicationStmt>
+        <sourceDesc>
+            <bibl><author>LACOMBE</author>, <title>Dictionnaire portatif des beaux arts</title>, <pubPlace>Paris</pubPlace> <date>1759</date>, in 8.
+    <note>Buona edizione in 686 pagine con un supplemento d’altre 19 pagine.</note>
+    
+    — <bibl>Lo stesso. Traduzione dal francese in italiano, <pubPlace>Bassano</pubPlace> <date>1781</date>, in 8.
+    <note>Opera utilissima agli artisti per la riunione di molte buone cognizioni.</note></bibl>
+<fw type="foot"/>
+                  <pb type="memofonte"/>
+                  <fw type="head"/>
+    
+               </bibl>
+        </sourceDesc>
+    </fileDesc>
+</teiHeader>
+        
+</teiCorpus>

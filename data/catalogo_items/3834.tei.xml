@@ -1,0 +1,24 @@
+  <teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+    <fileDesc>
+                <titleStmt>
+            <title>Catalogo Cicognara Number {$ciconum}</title>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org</ref>
+            </publisher>
+            <idno type="cico">3834</idno>
+        </publicationStmt>
+        <sourceDesc>
+            <bibl><author>PIRANESI</author>, <title>Lapides capitolini, sive fasti consulares triumphalesque romanorum</title>, <pubPlace>Roma</pubPlace> <date>1762</date>.
+— Aggiuntevi: <title>Le antichità di Cora descritte ed incise; e il castello dell’acqua Giulia</title>, <pubPlace>Roma</pubPlace> <date>1761</date>, in fol. mas.
+<note>La prima di queste opere è insigne per gli elenchi in essa contenuti e per la gran tavola colle lapidi, la quale è una
+delle più belle produzioni dell’autore. La secondo riscontrasi in 10 tavole. La terza in 19.</note>
+</bibl>
+        </sourceDesc>
+    </fileDesc>
+</teiHeader>
+        
+</teiCorpus>

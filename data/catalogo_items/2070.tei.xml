@@ -1,0 +1,30 @@
+  <teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+    <fileDesc>
+                <titleStmt>
+            <title>Catalogo Cicognara Number {$ciconum}</title>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org</ref>
+            </publisher>
+            <idno type="cico">2070</idno>
+        </publicationStmt>
+        <sourceDesc>
+            <bibl><author>De NOBILIBUS Petrus</author>, <title>Vita et miracula S. Francisci de Paula aeneis typis accurate expressa,
+  opera, studio, et expensis D. Petri etc.</title>, <pubPlace>Romae</pubPlace> <date>1584</date>, in 4, constat tab. 38.
+  <note>Queste tavole in rame somigliano affatto alle più rozze incisioni in legno. Nel frontespizio al basso leggesi
+  Ambrogius Brambilla ec.</note>
+  
+  — <bibl>Addita vita et miracula eiusdem de novo typis excusa et novis tabulis et miracolis aucta a
+  Joa. le Clerc <date>1615</date>, constat tab. 27, in 4.</bibl>
+  <note>Questo Gio. Le Clerc era ben lunge dalle qualità e dal me <pb type="cico" n="357"/>rito di Sebastiano: anzi possono dirsi tavole di
+  pessimo intaglio.</note>
+  
+  </bibl>
+        </sourceDesc>
+    </fileDesc>
+</teiHeader>
+        
+</teiCorpus>

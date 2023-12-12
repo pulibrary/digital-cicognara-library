@@ -1,0 +1,26 @@
+  <teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+    <fileDesc>
+                <titleStmt>
+            <title>Catalogo Cicognara Number {$ciconum}</title>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org</ref>
+            </publisher>
+            <idno type="cico">555</idno>
+        </publicationStmt>
+        <sourceDesc>
+            <bibl> 
+                     <author>MAROT Jean</author>, 
+                     <title>Recueil des plans, profils et élévations des plusieurs palais, chàteaux, eglises, sépultures, grottes et autels bâtis dans Paris,</title> 
+                     <date>senza data,</date> 
+                     <extent>in fol. pic. fig.</extent>
+	                    <note>Prima edizione delle opere architettoniche di questo autore: freschissimo esemplare contenente 125 tavole.</note>
+                  </bibl>
+        </sourceDesc>
+    </fileDesc>
+</teiHeader>
+        
+</teiCorpus>

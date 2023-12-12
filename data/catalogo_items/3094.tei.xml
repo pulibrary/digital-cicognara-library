@@ -1,0 +1,22 @@
+  <teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+    <fileDesc>
+                <titleStmt>
+            <title>Catalogo Cicognara Number {$ciconum}</title>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org</ref>
+            </publisher>
+            <idno type="cico">3094</idno>
+        </publicationStmt>
+        <sourceDesc>
+            <bibl><author>AMADUTII</author>, <title>Lettera sopra un antico marmo contenente il catalogo delle tragedie di Euripide</title>, <pubPlace>Lucca</pubPlace> <date>1767</date>, in 12,
+M. 67.
+</bibl>
+        </sourceDesc>
+    </fileDesc>
+</teiHeader>
+        
+</teiCorpus>

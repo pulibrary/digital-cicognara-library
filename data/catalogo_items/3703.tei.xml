@@ -1,0 +1,27 @@
+  <teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+    <fileDesc>
+                <titleStmt>
+            <title>Catalogo Cicognara Number {$ciconum}</title>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org</ref>
+            </publisher>
+            <idno type="cico">3703</idno>
+        </publicationStmt>
+        <sourceDesc>
+            <bibl><title>DISCORSO sopra il nuovo ornato della guglia di S. Pietro</title>, <pubPlace>Roma</pubPlace> <date>1723</date>, in fol., fig., con tre grandi tavole.
+— Aggiuntavi: <title>La relazione della statua equestre <pb type="cico" n="188"/> di Carlo Magno nel portico Vaticano scolpita da
+Agostino Cornacchi</title>, <pubPlace>Siena</pubPlace> <date>1735</date>.
+— Aggiuntavi: <title>L’istoria della città di Chiusi in Toscana dal 1436 al 1595 di messer Jacopo Gori da Senalonga</title>, in
+fol., <pubPlace>Firenze</pubPlace> <date>1747</date>.
+— In fine Corsini Eduardi Herculis quies et expiatio in eximio Farnesiano marmore expressae. Colla tavola in
+fine.
+</bibl>
+        </sourceDesc>
+    </fileDesc>
+</teiHeader>
+        
+</teiCorpus>

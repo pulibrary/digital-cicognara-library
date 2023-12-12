@@ -1,0 +1,24 @@
+  <teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+    <fileDesc>
+                <titleStmt>
+            <title>Catalogo Cicognara Number {$ciconum}</title>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org</ref>
+            </publisher>
+            <idno type="cico">2956</idno>
+        </publicationStmt>
+        <sourceDesc>
+            <bibl><author>PACCIAUDI Paolo M.</author>, <title>Osservazioni sopra alcune singolari medaglie</title>, 
+                        <pubPlace>Napoli</pubPlace> <date>1748</date>, in 4, fig., M. 26 e 38.
+<note>Quattro sono le medaglie coi loro rovesci figurate nel frontespizio. La materia è divisa in quattro articoli o
+dissertazioni.</note>
+</bibl>
+        </sourceDesc>
+    </fileDesc>
+</teiHeader>
+        
+</teiCorpus>

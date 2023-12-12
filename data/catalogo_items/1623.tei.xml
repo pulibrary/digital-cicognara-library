@@ -1,0 +1,24 @@
+  <teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+    <fileDesc>
+                <titleStmt>
+            <title>Catalogo Cicognara Number {$ciconum}</title>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org</ref>
+            </publisher>
+            <idno type="cico">1623</idno>
+        </publicationStmt>
+        <sourceDesc>
+            <bibl><author>CHAMBERS</author>, <title>Design of Chinese buildings furniture, dresses, machines and utensils, engraved
+    by <pb type="cico" n="281"/> the best hands from the originals, drawn in China</title>, <pubPlace>London</pubPlace> <date>1753</date>, in fol. fig.
+    <note>Sono 11 tavole ben intagliate oltre un elenco, una prefazione e 19 pagine d’illustrazione.</note>
+    
+    </bibl>
+        </sourceDesc>
+    </fileDesc>
+</teiHeader>
+        
+</teiCorpus>

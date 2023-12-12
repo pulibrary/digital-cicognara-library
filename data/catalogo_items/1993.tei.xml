@@ -1,0 +1,24 @@
+  <teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+    <fileDesc>
+                <titleStmt>
+            <title>Catalogo Cicognara Number {$ciconum}</title>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org</ref>
+            </publisher>
+            <idno type="cico">1993</idno>
+        </publicationStmt>
+        <sourceDesc>
+            <bibl><author>DE BIE Jacques</author>, <title>Les vrais portraits des rois de France augmentés de nouveaux portraits et des
+  vies des rois par de Costes</title>, <pubPlace>Paris</pubPlace> <date>1689</date>, in fol. pic. figurato.<note>
+  Giunge quest’opera a Luigi XIII al quale è intitolata. Le tavole sono appena mediocri.</note>
+  
+  </bibl>
+        </sourceDesc>
+    </fileDesc>
+</teiHeader>
+        
+</teiCorpus>

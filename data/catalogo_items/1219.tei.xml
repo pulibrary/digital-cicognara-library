@@ -1,0 +1,24 @@
+  <teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+    <fileDesc>
+                <titleStmt>
+            <title>Catalogo Cicognara Number {$ciconum}</title>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org</ref>
+            </publisher>
+            <idno type="cico">1219</idno>
+        </publicationStmt>
+        <sourceDesc>
+            <bibl><author>De’ VEGNI D. Leonardo</author>, <title>Lettere al Signor Avvoc. Carlo Fea, tratte dall’Antologia Romana
+    nel <date>1794</date></title> (Si estendono queste sulla metereologia e sui lavori di figulina).
+    — <title>Note al parere della pittura delle volte del Sig. Giuseppe Manetti: dalla stessa Antologia</title>,
+    <date>1796</date>, in 4, M. 62.
+    </bibl>
+        </sourceDesc>
+    </fileDesc>
+</teiHeader>
+        
+</teiCorpus>

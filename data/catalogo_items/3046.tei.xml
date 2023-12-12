@@ -1,0 +1,23 @@
+  <teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+    <fileDesc>
+                <titleStmt>
+            <title>Catalogo Cicognara Number {$ciconum}</title>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org</ref>
+            </publisher>
+            <idno type="cico">3046</idno>
+        </publicationStmt>
+        <sourceDesc>
+            <bibl><author>De VENUTIS Philippus</author>, <title>Duodenorum numismatum antehac ineditorum brevis expositio</title>, Labronis portum anno
+urbis <pubPlace>Romae</pubPlace> Varroniano <date>MMDXIII</date>, in 4, fig., M. 78 e 17.
+<note>Colla tavola delle medaglie e un medaglione nel frontespizio.</note>
+</bibl>
+        </sourceDesc>
+    </fileDesc>
+</teiHeader>
+        
+</teiCorpus>

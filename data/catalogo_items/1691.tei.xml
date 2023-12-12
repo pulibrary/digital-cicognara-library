@@ -1,0 +1,25 @@
+  <teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+    <fileDesc>
+                <titleStmt>
+            <title>Catalogo Cicognara Number {$ciconum}</title>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org</ref>
+            </publisher>
+            <idno type="cico">1691</idno>
+        </publicationStmt>
+        <sourceDesc>
+            <bibl><author>LIPSII Justi</author>, <title>Saturnalium sermonum lib. duo, qui de gladiatoribus, noviter corredi, aucti et
+    formis aeneis illustrati</title>, <pubPlace>Ant., Plant</pubPlace>, <date>1685</date>, in 4.
+    <note>In questa edizione sono sedici tavole intagliate in rame e in fine è aggiunta Justi Lipsii Satira Menippeea
+    Somnium Lusus in nostri aevi Criticos.
+    </note>
+    </bibl>
+        </sourceDesc>
+    </fileDesc>
+</teiHeader>
+        
+</teiCorpus>

@@ -1,0 +1,25 @@
+  <teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+    <fileDesc>
+                <titleStmt>
+            <title>Catalogo Cicognara Number {$ciconum}</title>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org</ref>
+            </publisher>
+            <idno type="cico">2095</idno>
+        </publicationStmt>
+        <sourceDesc>
+            <bibl><author>RIDINGER Jean Elias</author>, <title>Parfaite et exacte réprésentation des divertissements des grands
+    Seigneurs, ou parfaite déscription des chasses de toute sorte de bêtes</title>, <pubPlace>Ausbourg</pubPlace> <date>1729</date>, in fol.
+    obl.</bibl><bibl>Unita all’altra opera: <title>Contemplatio ferarum bestiarum carminibus Dom. Bartholdi Brokes
+    illustrata. Io. Elias Ridinger inventor scul. et excud.</title>, <pubPlace>Aug. Vind.</pubPlace> <date>1786</date>, in fol.
+    <note>Opere intagliate all’acqua forte con molto brio e colle descrizioni incise appiè delle stampe in tedesco e in
+    francese. Compresi i due frontespizi sono tavole 79.</note></bibl>
+        </sourceDesc>
+    </fileDesc>
+</teiHeader>
+        
+</teiCorpus>

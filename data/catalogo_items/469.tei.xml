@@ -1,0 +1,31 @@
+  <teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+    <fileDesc>
+                <titleStmt>
+            <title>Catalogo Cicognara Number {$ciconum}</title>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org</ref>
+            </publisher>
+            <idno type="cico">469</idno>
+        </publicationStmt>
+        <sourceDesc>
+            <bibl>
+                     <author>CATANEO Pietro</author>, 
+                     <title>L’architettura, alla quale oltre all’esser stati dallo stesso autore rivisti,
+	ordinati, e arricchiti i primi quattro libri per l’addietro stampati, sonosi aggiunti di più il 5, 6,
+	7 ed 8 libro,</title> 
+                     <pubPlace>Venezia,</pubPlace> 
+                     <publisher>Aldo,</publisher> 
+                     <date>1567,</date>
+                     <extent> in fol. fig.</extent>
+	                    <note>Opera bene concepita e di bella esecuzione colle tavole di purgato disegno, intagliate in legno e inserite fra il
+	testo. La prima edizione fu intitolata ad Enea Piccolomini, la seconda a Francesco dei Medici.</note>
+                  </bibl>
+        </sourceDesc>
+    </fileDesc>
+</teiHeader>
+        
+</teiCorpus>

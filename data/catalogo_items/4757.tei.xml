@@ -1,0 +1,23 @@
+  <teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+    <fileDesc>
+                <titleStmt>
+            <title>Catalogo Cicognara Number {$ciconum}</title>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org</ref>
+            </publisher>
+            <idno type="cico">4757</idno>
+        </publicationStmt>
+        <sourceDesc>
+            <bibl><author>VETTORI Francesco</author>, <title>Del culto di Cibele, dissertazione ove s’illustra una statuetta del suo museo</title>, <pubPlace>Roma</pubPlace> <date>1753</date>, fig.,
+in 4, M. 19.
+<note>Con una tavola grande intagliata in rame. Dissertazione dottissima.</note>
+</bibl>
+        </sourceDesc>
+    </fileDesc>
+</teiHeader>
+        
+</teiCorpus>

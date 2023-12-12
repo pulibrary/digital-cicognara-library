@@ -1,0 +1,27 @@
+  <teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+    <fileDesc>
+                <titleStmt>
+            <title>Catalogo Cicognara Number {$ciconum}</title>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org</ref>
+            </publisher>
+            <idno type="cico">2048</idno>
+        </publicationStmt>
+        <sourceDesc>
+            <bibl><title>ILLUSTRIUM iurisconsultorum imagines quae inveniri potuerunt ad vivam effigiem expressae
+  ex Musaeo Marci Mantuae Benavidii Patavini Jurisconsulti clarissimi</title>, <pubPlace>Romae</pubPlace> <date>1566</date>, in fol.
+  <publisher>Antonii Lafrerii</publisher> formis.
+  <note>Sono 25 ritratti intagliati in rame in altrettanti foglietti col frontespizio indicato. Freschissime esemplare.</note>
+  
+ <bibl> — Accedunt imagines et elogia virorum illustrium ex Bibliotheca Fulvii Ursini, <date>1570</date>. V.
+  Ursini.</bibl>
+  </bibl>
+        </sourceDesc>
+    </fileDesc>
+</teiHeader>
+        
+</teiCorpus>

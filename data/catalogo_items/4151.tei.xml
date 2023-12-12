@@ -1,0 +1,29 @@
+  <teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+    <fileDesc>
+                <titleStmt>
+            <title>Catalogo Cicognara Number {$ciconum}</title>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org</ref>
+            </publisher>
+            <idno type="cico">4151</idno>
+        </publicationStmt>
+        <sourceDesc>
+            <bibl><author>SCOTTO Francesco</author>, <title>Itinerario, ovvero descrizione dei viaggi principali d’Italia</title>, 
+                        <pubPlace>Padova</pubPlace> <date>1659</date>, in 8, fig., diviso in
+<fw type="foot"/>
+                     <pb type="memofonte"/>
+                     <fw type="head"/>
+tre parti.
+<bibl>— Aggiuntovi: <title>La descrizione di tutto il mondo, e molte altre città, che nell’opera si contengono.
+Infedelissime sono le tavole sparse nell’opera di questo autore, e le sue relazioni non sono spoglie degli antichi
+pregiudizj e superstizioni</title>.</bibl>
+</bibl>
+        </sourceDesc>
+    </fileDesc>
+</teiHeader>
+        
+</teiCorpus>

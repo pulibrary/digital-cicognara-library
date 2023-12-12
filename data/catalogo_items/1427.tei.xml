@@ -1,0 +1,31 @@
+  <teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+    <fileDesc>
+                <titleStmt>
+            <title>Catalogo Cicognara Number {$ciconum}</title>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org</ref>
+            </publisher>
+            <idno type="cico">1427</idno>
+        </publicationStmt>
+        <sourceDesc>
+            <bibl><author>STROZZI Giulio</author>. <title>Esequie fatte in Venezia dalla nazione Fiorentina al Sereniss. Cosimo II.
+    quarto Gran Duca di Toscana, il dì 25 Maggio <date>1621</date></title>, in fol. fig.
+    <note>Questa descrizione fu stesa da Giulio Strozzi, e le 18 tavole vennero eseguite sui quadri e disegni di Filippo
+    Esegrenio Veneziano, Agostino Verona e Matteo Ingoli da Ravenna. Aggiuntevi <title>le pompe funebri (poesie e
+    ritratto) per la morte di Elena Lucrezia Cornera Piscopia</title>, Padova 1686, fol. figurato.</note>
+    MDCXXI
+    
+<fw type="foot"/>
+                  <pb type="memofonte"/>
+                  <fw type="head"/>
+    
+               </bibl>
+        </sourceDesc>
+    </fileDesc>
+</teiHeader>
+        
+</teiCorpus>

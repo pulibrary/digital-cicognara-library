@@ -1,0 +1,32 @@
+  <teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+    <fileDesc>
+                <titleStmt>
+            <title>Catalogo Cicognara Number {$ciconum}</title>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org</ref>
+            </publisher>
+            <idno type="cico">3917</idno>
+        </publicationStmt>
+        <sourceDesc>
+            <bibl><author>VISCONTI Ennio Quirino</author>, <title>Iconographiae grecque et romaine</title>, <pubPlace>Paris</pubPlace>, <publisher>Didot</publisher> l’ainé imprimeur du Roi, <date>1817</date>, vol. 4,
+in fol. gr., fig.
+<note>Non è ancora completa questa grand’opera, che dell’ico <pb type="cico" n="225"/> nografia romana non vide pubblicata se non la
+parte prima. La greca è completa, ed abbraccia tre volumi. Le tavole sono accuratamente intagliate, e con lusso
+appariscente, ma il bulino invase il buon gusto, che deve esprimere il carattere delle pietre, delle medaglie, delle
+gemme. Le tavole in questo nostro esemplare sono inserite fra il testo, e i tipi dei caratteri sono della maggior
+eleganza e magnificenza. Il Visconti morì dopo pubblicati questi quattro volumi, lasciando i materiali per altri
+due, che sono imminenti a vedere la luce, e che saranno editi per cura del signor Monges membro dell’Istituto di
+Francia. Questa è la più grande opera che abbiamo per riconoscere le vere dalle apocrife imagini degli antichi.
+Avvi di quest’opera un’edizione in 4 che è accompagnata dalle stampe a maniera di atlante in volume separato. E
+questa in gran foglio, da noi posseduta, non trovasi in commercio, ma ci venne regalata dalla Regia munificenza
+di Luigi XVIII.</note>
+</bibl>
+        </sourceDesc>
+    </fileDesc>
+</teiHeader>
+        
+</teiCorpus>

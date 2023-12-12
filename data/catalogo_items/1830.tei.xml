@@ -1,0 +1,25 @@
+  <teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+    <fileDesc>
+                <titleStmt>
+            <title>Catalogo Cicognara Number {$ciconum}</title>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org</ref>
+            </publisher>
+            <idno type="cico">1830</idno>
+        </publicationStmt>
+        <sourceDesc>
+            <bibl><author>ACCADEMICI Gelati</author>, <title>Prose, Bologna, per li Manolessi, 1671; Unito alle Memorie, Imprese e
+                     Ritratti de Sig. Accademici</title>, <date>1672</date>, in 4. <note>I due volumi legati assieme fig.
+    Questo grosso volume di circa 900 pagine contiene 88 emblemi e 32 ritratti, oltre i frontespizi, ove vennero più
+    in grande intagliati da un imitatore i bellissimi rami di Agostino Caracci che ornano le rime dei Gelati.</note>
+    
+    </bibl>
+        </sourceDesc>
+    </fileDesc>
+</teiHeader>
+        
+</teiCorpus>

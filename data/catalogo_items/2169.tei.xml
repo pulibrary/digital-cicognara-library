@@ -1,0 +1,24 @@
+  <teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+    <fileDesc>
+                <titleStmt>
+            <title>Catalogo Cicognara Number {$ciconum}</title>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org</ref>
+            </publisher>
+            <idno type="cico">2169</idno>
+        </publicationStmt>
+        <sourceDesc>
+            <bibl><author>ORLANDI Pellegrino Antonio</author>, <title>Abecedario Pittorico diviso in tre parti</title>, <pubPlace>Bologna</pubPlace> <date>1704</date>, in quarto
+    con frontespizio figurato da Giovan Pietro Zanotti.
+    <note>Quest’opera fu tratta da tutte le opere biografiche con molta cura e divenne la più comoda fonte di simili notizie.</note>
+    
+    </bibl>
+        </sourceDesc>
+    </fileDesc>
+</teiHeader>
+        
+</teiCorpus>

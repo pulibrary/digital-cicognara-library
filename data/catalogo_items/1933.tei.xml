@@ -1,0 +1,31 @@
+  <teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+    <fileDesc>
+                <titleStmt>
+            <title>Catalogo Cicognara Number {$ciconum}</title>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org</ref>
+            </publisher>
+            <idno type="cico">1933</idno>
+        </publicationStmt>
+        <sourceDesc>
+            <bibl><author>PHILOSTRATE</author>, <title>Les images ou tableaux de platte peinture des deux Philostrates sophistes
+    grecs</title>, mis en français par Blaise de Vigénere et representéz en taille douce, <pubPlace>Paris</pubPlace> <date>1629</date>, in fol.
+    fig.
+<fw type="foot"/>
+                  <pb type="memofonte"/>
+                  <fw type="head"/>
+    <note>Opera che non gode gran credito per la sua prolissità e poca giustezza di critica e intralciata erudizione, ma che
+    non manca di essere di qualche pregio per chi sa sciegliere il grano dalla zizania; volume di presso a 1000 pagine
+    comprendendovi gli indici e i prolegomeni. Le numerose tavole di cui va ornato non sono spregievoli. Sembra
+    che ne fosse fatta un’anteriore edizione nel 1614.</note>
+    
+    </bibl>
+        </sourceDesc>
+    </fileDesc>
+</teiHeader>
+        
+</teiCorpus>

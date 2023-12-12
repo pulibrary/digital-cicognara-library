@@ -1,0 +1,29 @@
+  <teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+    <fileDesc>
+                <titleStmt>
+            <title>Catalogo Cicognara Number {$ciconum}</title>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org</ref>
+            </publisher>
+            <idno type="cico">417</idno>
+        </publicationStmt>
+        <sourceDesc>
+            <bibl>BAROZZIO Giacomo da Vignola, <title>Regola delli cinque ordini d’architettura,</title> 
+                     <pubPlace>Siena</pubPlace> 
+                     <date>1635,</date> 
+                     <publisher>presso
+	Pietro Marchetti.</publisher>
+	                    <note>Dopo il frontespizio segue la dedica al Sig. Volunio Bandinelli: e si compie la pagina colla dichiarazione del
+	Vignola: è rimpiazzato il terzo foglio dei privilegi con una tavola di più dell’edizione originale, ove sono le
+	colonne dei cinque ordini riunite; cosi si procede sino alla tav. 32 e seguono poi le porte tratte dalle opere del
+	Buonarroti, che fanno arrivare il numero delle tavole di quest’edizione sino alle 45.</note>
+                  </bibl>
+        </sourceDesc>
+    </fileDesc>
+</teiHeader>
+        
+</teiCorpus>

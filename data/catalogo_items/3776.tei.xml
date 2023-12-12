@@ -1,0 +1,23 @@
+  <teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+    <fileDesc>
+                <titleStmt>
+            <title>Catalogo Cicognara Number {$ciconum}</title>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org</ref>
+            </publisher>
+            <idno type="cico">3776</idno>
+        </publicationStmt>
+        <sourceDesc>
+            <bibl><author>MARINI Gaetano</author>, <title>Gli atti e monumenti dei fratelli Arvali</title>, vol. 2, <pubPlace>Roma</pubPlace> <date>1795</date>, fig., in 4.
+<note>Opera dottissima e preziosissima, decorata delle grandi tavole dei monumenti, e del fac simile di queste rare e
+singolari iscrizioni.</note>
+</bibl>
+        </sourceDesc>
+    </fileDesc>
+</teiHeader>
+        
+</teiCorpus>

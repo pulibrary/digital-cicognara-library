@@ -1,0 +1,25 @@
+  <teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+    <fileDesc>
+                <titleStmt>
+            <title>Catalogo Cicognara Number {$ciconum}</title>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org</ref>
+            </publisher>
+            <idno type="cico">1027</idno>
+        </publicationStmt>
+        <sourceDesc>
+            <bibl><title>MARTE e VENERE rappresentanti la Pace</title>, gruppo del Sig. Luigi Acquisti scultore bolognese;
+      componimenti dedicati al suo merito, <pubPlace>Roma</pubPlace> <date>1807</date>, in 8.
+      <note>Questo gruppo appartiene al N. sig. Giovan Battista Soramariva mecenate delle arti e doviziosissimo possessore
+      d’immense preziosità di ogni genere.</note>
+      
+      </bibl>
+        </sourceDesc>
+    </fileDesc>
+</teiHeader>
+        
+</teiCorpus>

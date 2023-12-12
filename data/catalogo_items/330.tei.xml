@@ -1,0 +1,25 @@
+  <teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+    <fileDesc>
+                <titleStmt>
+            <title>Catalogo Cicognara Number {$ciconum}</title>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org</ref>
+            </publisher>
+            <idno type="cico">330</idno>
+        </publicationStmt>
+        <sourceDesc>
+            <bibl>
+                     <author>KILIAN Filippo Andrea</author>, Elementi di disegno, Augustae Vindelicorum, con tavole 12.
+	Aggiuntevi altre 12 tavole elementari di disegno, Norimberga ec. d’autore anonimo non
+	migliori delle prime. Aggiuntevi Expression de passions de l’âme representées en plusieurs
+	têtes gravées d’après les desseins de M. Le Brun premier peintre du roi, par Martin
+	Engelbracht, Augusta Vindelicorum 1732, avec 20 planches. In fol.</bibl>
+        </sourceDesc>
+    </fileDesc>
+</teiHeader>
+        
+</teiCorpus>

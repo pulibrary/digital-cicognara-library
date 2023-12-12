@@ -1,0 +1,23 @@
+  <teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+    <fileDesc>
+                <titleStmt>
+            <title>Catalogo Cicognara Number {$ciconum}</title>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org</ref>
+            </publisher>
+            <idno type="cico">1930</idno>
+        </publicationStmt>
+        <sourceDesc>
+            <bibl><author>PARACIN Claudii</author>, <title>Symbola Heroica</title>, <publisher>Plantin</publisher> <date>1600</date>, in 16.
+		 <note>Sono 216 tavole di bellissimo intaglio in legno, fra le quali bisogna osservare se alla pag. 115 non fosse stato
+		 levato l’emblema Quo tendis, che ha l’aspetto d’un FALLO benché nol sia.</note>
+		 </bibl>
+        </sourceDesc>
+    </fileDesc>
+</teiHeader>
+        
+</teiCorpus>

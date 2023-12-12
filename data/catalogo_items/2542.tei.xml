@@ -1,0 +1,31 @@
+  <teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+    <fileDesc>
+                <titleStmt>
+            <title>Catalogo Cicognara Number {$ciconum}</title>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org</ref>
+            </publisher>
+            <idno type="cico">2542</idno>
+        </publicationStmt>
+        <sourceDesc>
+            <bibl><title>OBELISCI Vaticani Opuscula. Sive Gallesini Petri, obeliscus vaticanus, pietate invictissimae crucis sacerd. ad
+perpetuitatem praeclaris litteris laudatus</title>, <pubPlace>Romae</pubPlace> <date>1587</date>.
+— <bibl><title>Ordo dedicationis obelisci</title>, <pubPlace>Romae</pubPlace> <date>1586</date></bibl>.
+— <bibl><title>Familiaris epistola e Roma in Hispaniam missa in qua explicatur translatio obelisci</title>, <pubPlace>Romae</pubPlace> <date>1586</date>.</bibl>
+— <bibl><author>Bargaei Petri Angeli</author>, <title>Commentarius de obelisco</title>, <pubPlace>Romae</pubPlace> <date>1586</date>.</bibl>
+— <bibl><author>De Aguilar Jo.</author> <title>Baptista in dedicatione obelisci epigrammata collecta</title>, <pubPlace>Romae</pubPlace> <date>1587</date>.</bibl>
+— <bibl><author>Blanci Guglielmi</author>, <title>Epigrammata in obeliscum</title>, <pubPlace>Romae</pubPlace> <date>1586</date>.</bibl>
+— <bibl><author>Gaci Cosimo</author>, <title>Dialogo in cui si parla delle operazioni di Sisto V e in particolare del trasporto dell’obelisco
+vaticano</title>, <pubPlace>Roma</pubPlace> <date>1586</date>.
+</bibl>— <bibl><author>Pigafetta Filippo</author>, <title>Discorso intorno la storia della guglia e della ragione del muoverla</title>, <pubPlace>Roma</pubPlace> <date>1586</date>, in 4.
+<note>Collezione difficile a riunirsi. Col ritratto di Sisto V in principio.</note></bibl>
+</bibl>
+        </sourceDesc>
+    </fileDesc>
+</teiHeader>
+        
+</teiCorpus>

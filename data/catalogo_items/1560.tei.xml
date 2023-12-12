@@ -1,0 +1,28 @@
+  <teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+    <fileDesc>
+                <titleStmt>
+            <title>Catalogo Cicognara Number {$ciconum}</title>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org</ref>
+            </publisher>
+            <idno type="cico">1560</idno>
+        </publicationStmt>
+        <sourceDesc>
+            <bibl><author>ANTONINO Filippo</author>, <title>Introduzione a’ discorsi dell’antichità di Sarsina</title>, <date>1606</date>, in 4. Queste sono
+    20 pagine precedute dall’indicato frontispizio e sono seguite dall’altro:<bibl><title> Delle antichità di
+       Sarsina et <pb type="cico" n="270"/> de’ costumi di Romani nel trionfo e nel Trichlinio antico,</title> <pubPlace>Sarsina</pubPlace> <date>1607</date>, in
+    4, p. M. 56.</bibl>
+    <note>Segue la dedica al Cav. Aldobrandino e 18 foglietti di tavole delle materie. Indi si incomincia la numerazione del
+    testo fino alla pagina 256. Ordinariamente questo libro si trova imperfetto a cagione della duplicità dei
+    frontespizi: sono fra il testo molte lapidi e iscrizioni.</note>
+    
+    </bibl>
+        </sourceDesc>
+    </fileDesc>
+</teiHeader>
+        
+</teiCorpus>

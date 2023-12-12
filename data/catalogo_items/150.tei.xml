@@ -1,0 +1,29 @@
+  <teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+    <fileDesc>
+                <titleStmt>
+            <title>Catalogo Cicognara Number {$ciconum}</title>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org</ref>
+            </publisher>
+            <idno type="cico">150</idno>
+        </publicationStmt>
+        <sourceDesc>
+            <bibl>
+                     <author>LACOMBE</author>, 
+                     <title>Le spectacle des beaux arts, ou considerations touchantes leur nature etc.,</title> 
+                     <pubPlace>Paris</pubPlace>
+	                    <date>1758,</date>
+                     <extent> in 12.</extent>
+                  </bibl><bibl>– Aggiuntovi: <title>Les moyens de dévénir peintres en trois heures et d’exécuter au pinceau les
+	  ouvrages des plus grands maîtres, sans avoir appris le dessein,</title> 
+                     <pubPlace>Paris</pubPlace> 
+                     <date>1755</date>.</bibl>
+        </sourceDesc>
+    </fileDesc>
+</teiHeader>
+        
+</teiCorpus>

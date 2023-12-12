@@ -1,0 +1,29 @@
+  <teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+    <fileDesc>
+                <titleStmt>
+            <title>Catalogo Cicognara Number {$ciconum}</title>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org</ref>
+            </publisher>
+            <idno type="cico">2958</idno>
+        </publicationStmt>
+        <sourceDesc>
+            <bibl><author>PARUTA Filippo</author>,<title> La Sicilia descritta con medaglie e ristampata con aggiunta da Leonardo Agostini, ora in miglior
+ordine disposta da Marco Majer</title>, <pubPlace>Lione</pubPlace> <date>1697</date>, in fol., fig.
+<note>Quest’edizione e più completa, ma meno rara della prima, che seguì nel 1612 e tiensi in maggior pregio. Le
+<fw type="foot"/>
+                     <pb type="memofonte"/>
+                     <fw type="head"/>
+tavole appariscono 183 ma sono distribuite in 123 fogli: ogni medaglia essendo intagliata in un rame a parte e
+riunite dodici laminette sopra la maggior parte delle pagine, acciò fosse in libertà dell’autore il cangiare a suo
+talento la distribuzione, nel corso dell’opera.</note>
+</bibl>
+        </sourceDesc>
+    </fileDesc>
+</teiHeader>
+        
+</teiCorpus>

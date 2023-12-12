@@ -1,0 +1,25 @@
+  <teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+    <fileDesc>
+                <titleStmt>
+            <title>Catalogo Cicognara Number {$ciconum}</title>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org</ref>
+            </publisher>
+            <idno type="cico">2898</idno>
+        </publicationStmt>
+        <sourceDesc>
+            <bibl><author>KHEVENULLER Francisci Antonii</author>, <title>Regum veterum numismata anecdota aut perrara notis illustrata</title>,<pubPlace> Viennae</pubPlace>
+Austriae, in 4, fig.
+<note>Opera apparentemente giovanile in occasione di pubblici esami al termine dell’anno scolastico: con tre tavole di
+medaglie; ma sostanzialmente poi profonda, poiché del p. Erasmo Froelich professore, il quale all’uso dei collegi
+metteva l’opera e gli alunni prestavano il nome. Il che dallo stampatore è indicato in un avviso al lettore</note>.
+</bibl>
+        </sourceDesc>
+    </fileDesc>
+</teiHeader>
+        
+</teiCorpus>

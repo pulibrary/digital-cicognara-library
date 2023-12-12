@@ -1,0 +1,23 @@
+  <teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+    <fileDesc>
+                <titleStmt>
+            <title>Catalogo Cicognara Number {$ciconum}</title>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org</ref>
+            </publisher>
+            <idno type="cico">4174</idno>
+        </publicationStmt>
+        <sourceDesc>
+            <bibl><author>MALVASIA Carlo Cesare</author>, <title>Le pitture di Bologna che rendono il passaggiero disingannato ed istrutto: dell’Ascoso
+                           Accademico Gelato terza edizione</title>, <pubPlace>Bologna</pubPlace><date> 1732</date>, in 12.
+                           <note>Il conte Malvasia dedicò questo suo libro sotto il nome di Ascoso la prima volta che lo stampò a Carlo le Brun.</note>
+</bibl>
+        </sourceDesc>
+    </fileDesc>
+</teiHeader>
+        
+</teiCorpus>

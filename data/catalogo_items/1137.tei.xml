@@ -1,0 +1,22 @@
+  <teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+    <fileDesc>
+                <titleStmt>
+            <title>Catalogo Cicognara Number {$ciconum}</title>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org</ref>
+            </publisher>
+            <idno type="cico">1137</idno>
+        </publicationStmt>
+        <sourceDesc>
+            <bibl><author>BIANCHI Gio.</author>, <title>Lettera intorno il Panteo sacro di <pb type="cico" n="205"/> quella città ed alcune altre antichità</title>,
+    inserita poi nelle Novelle Letterarie Fiorentine <date>1751</date>, in 4, M. 1.
+    </bibl>
+        </sourceDesc>
+    </fileDesc>
+</teiHeader>
+        
+</teiCorpus>

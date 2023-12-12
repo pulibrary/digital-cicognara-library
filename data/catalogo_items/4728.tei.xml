@@ -1,0 +1,22 @@
+  <teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+    <fileDesc>
+                <titleStmt>
+            <title>Catalogo Cicognara Number {$ciconum}</title>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org</ref>
+            </publisher>
+            <idno type="cico">4728</idno>
+        </publicationStmt>
+        <sourceDesc>
+            <bibl><author>MOLANO Jo.</author>, <title>De historia S. S. imaginum et picturarum pro vero earum usu contra abusus lib. IV</title>, <date>1594</date>, in 8.
+<note>Elegante edizione di un’operetta che in questo genere può ritenersi fra le migliori.</note>
+</bibl>
+        </sourceDesc>
+    </fileDesc>
+</teiHeader>
+        
+</teiCorpus>

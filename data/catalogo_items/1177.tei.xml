@@ -1,0 +1,26 @@
+  <teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+    <fileDesc>
+                <titleStmt>
+            <title>Catalogo Cicognara Number {$ciconum}</title>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org</ref>
+            </publisher>
+            <idno type="cico">1177</idno>
+        </publicationStmt>
+        <sourceDesc>
+            <bibl><title>LETTRE sur l’exposition des ouvrages de peinture, sculp. ec. et en général sur l’utilité de ces
+    sortes d’exposition à M. R. D. R. pour l’année <date>1747</date></title>, in 8.
+    <note>Questo libretto è scritto dallo stesso che scrisse su questo soggetto l’anno precedente 1746 sotto il titolo
+    Réfléxions sur quelque causes ec. Vedi un rametto intagliato con grazia e satirico sta nel principio. In fine una
+    versione in francese dei poema sulla pittura del P. Marsy.</note>
+    
+    </bibl>
+        </sourceDesc>
+    </fileDesc>
+</teiHeader>
+        
+</teiCorpus>

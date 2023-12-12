@@ -1,0 +1,25 @@
+  <teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+    <fileDesc>
+                <titleStmt>
+            <title>Catalogo Cicognara Number {$ciconum}</title>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org</ref>
+            </publisher>
+            <idno type="cico">1075</idno>
+        </publicationStmt>
+        <sourceDesc>
+            <bibl><author>VITO Niccolo di Gozze gentiluomo raguseo</author>, <title>Dialogo della Bellezza detto antos secondo la
+      niente di Platone composto e nuovamente posto in luce</title>, <pubPlace>Venezia</pubPlace> <date>1581</date>, per <publisher>Francesco Ziletti</publisher>,
+      in 4.
+      <note>Unito a questo è anche il Dialogo d’Amore secondo li mente di Platone.</note>
+      
+      </bibl>
+        </sourceDesc>
+    </fileDesc>
+</teiHeader>
+        
+</teiCorpus>

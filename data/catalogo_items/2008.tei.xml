@@ -1,0 +1,29 @@
+  <teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+    <fileDesc>
+                <titleStmt>
+            <title>Catalogo Cicognara Number {$ciconum}</title>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org</ref>
+            </publisher>
+            <idno type="cico">2008</idno>
+        </publicationStmt>
+        <sourceDesc>
+            <bibl><author>De CAVALLERUS Jo. Bap.</author>, <title>Ecclesia; militantis triumphi</title>, <pubPlace>Romae</pubPlace> <date>1585</date>, in f. p. ex officina
+  <publisher>Barth. Grassi</publisher>. Queste sono 32 tav. compreso il frontespizio rappresentanti martirii diversi.
+  —<bibl>Aggiuntevi. <title>Ecclesiae Anglicanae trophea</title> <date>1584</date>. <note>Sono 36 tav. cominciate all’acqua forte e
+  terminate a bulino con molto valore.</note></bibl>
+  — <bibl>Seguono le 5 tavole intitolate <title>Crudelitas in Catholicis mactandis</title>, <date>1584</date></bibl>
+  — <bibl>Termina il volume: <title>Beati Apollinaris martiris primi Ravennatum. Episc. res gestae</title>,
+  <pubPlace>Romae</pubPlace> <date>1586</date>.
+  <note>Sono 13 tavole compreso il frontespizio, terminate a bulino. Tutte queste opere sono di prima freschezza.</note></bibl>
+  
+  </bibl>
+        </sourceDesc>
+    </fileDesc>
+</teiHeader>
+        
+</teiCorpus>

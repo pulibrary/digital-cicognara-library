@@ -1,0 +1,24 @@
+  <teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+    <fileDesc>
+                <titleStmt>
+            <title>Catalogo Cicognara Number {$ciconum}</title>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org</ref>
+            </publisher>
+            <idno type="cico">3728</idno>
+        </publicationStmt>
+        <sourceDesc>
+            <bibl><author>FONTANA Carlo </author> cav. architetto,<title> Discorso sopra l’antico monte Citatorio situato in Campo Marzio</title>, <pubPlace>Roma</pubPlace> <date>1708</date>, in
+fol., fig., seconda edizione.
+— Aggiuntovi: <title>Anzio, e sue antichità dalla Porta di S. Giovanni ai Volsci in vicinanza del nuovo porto dello
+stesso</title>, <pubPlace>Roma</pubPlace> <date>1710</date>.
+</bibl>
+        </sourceDesc>
+    </fileDesc>
+</teiHeader>
+        
+</teiCorpus>

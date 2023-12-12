@@ -1,0 +1,24 @@
+  <teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+    <fileDesc>
+                <titleStmt>
+            <title>Catalogo Cicognara Number {$ciconum}</title>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org</ref>
+            </publisher>
+            <idno type="cico">192</idno>
+        </publicationStmt>
+        <sourceDesc>
+            <bibl>
+                     <title>RÉFLEXIONS sur quelques causes de l’état présent de la peinture en France, avec un examen des
+	  ouvrages exposées au Louvre, l’an 1746, à la Haye</title> 
+                     <pb type="cico" n="31"/> <date>1747,</date> avec une lettre à la fin de
+	  l’auteur des dites réflexions.</bibl>
+        </sourceDesc>
+    </fileDesc>
+</teiHeader>
+        
+</teiCorpus>

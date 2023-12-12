@@ -1,0 +1,23 @@
+  <teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+    <fileDesc>
+                <titleStmt>
+            <title>Catalogo Cicognara Number {$ciconum}</title>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org</ref>
+            </publisher>
+            <idno type="cico">1370</idno>
+        </publicationStmt>
+        <sourceDesc>
+            <bibl><title>La POMPA FUNEBRE e le esequie del già Re Cristianissimo di Francia Francesco I</title>, di questo
+		nome, in <pubPlace>Vinegia</pubPlace>, per <publisher>Paolo Gherardo</publisher>, <date>1547</date>, in 8. Aggiuntavi: <title>La entrata del Re
+		Cristianissimo Enrico II nella città di Reims e la sua incoronazione</title>, in <pubPlace>Vinegia</pubPlace>, per <publisher>Paolo
+		Gherardo</publisher>: e in fine, in <pubPlace>Vinegia</pubPlace> per <publisher>Cormin de Trino</publisher>, <date>1547</date>, in 8.</bibl>
+        </sourceDesc>
+    </fileDesc>
+</teiHeader>
+        
+</teiCorpus>

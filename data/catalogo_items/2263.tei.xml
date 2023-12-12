@@ -1,0 +1,141 @@
+  <teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+    <fileDesc>
+                <titleStmt>
+            <title>Catalogo Cicognara Number {$ciconum}</title>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org</ref>
+            </publisher>
+            <idno type="cico">2263</idno>
+        </publicationStmt>
+        <sourceDesc>
+            <bibl><author>FELIBIEN M.</author> <title>Éntretiens sur les vies et sur les ouvrages des plus excellens peintres anciens et
+    modernes vol. 2 in 4</title>, <pubPlace>Paris</pubPlace>, chez <publisher>Marbre Cramoisy</publisher>, <date>1685</date>.
+    <note>Le opere di questo autore preziose singolarmente, poiché fra le prime che resero conto alla Francia della Storia
+    dell’Arte, meritano anche d’essere consultate perla saviezza di molti giudizi.</note>
+    
+    </bibl>
+        </sourceDesc>
+    </fileDesc>
+</teiHeader>
+        <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:local="http://library.princeton.edu" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Entretiens sur les vies et sur les ouvrages des plus excellens peintres anciens et modernes.</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9930293013506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/bh5p8z</idno>
+            <idno>(OCoLC)40514001</idno>
+            <idno type="cico">2263</idno>
+            <idno type="dcl">08v</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Entretiens sur les vies et sur les ouvrages des plus excellens peintres anciens et modernes.</title>
+                  <respStmt>
+                     <persName>Félibien, André, sieur des Avaux et de Javercy, 1619-1695.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>French</textLang>
+                  <imprint>
+                     <publisher>Paris, S. Mabre-Cramoisy</publisher>
+                     <date>1685-1688</date>
+                     <date>1685</date>
+                  </imprint>
+                  <extent>2 v.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/c98349a6-0190-4b90-90ac-c9ee925983e3/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Painters.</term>
+               <term>Architects.</term>
+               <term>Painting -- History.</term>
+               <term>Architecture -- History.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/c98349a6-0190-4b90-90ac-c9ee925983e3/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:local="http://library.princeton.edu" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Entretiens sur les vies et sur les ouvrages des plus excellens peintres anciens et modernes [microform].</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985344073506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/vb2p4m</idno>
+            <idno type="cico">2263</idno>
+            <idno type="dcl">08v</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Entretiens sur les vies et sur les ouvrages des plus excellens peintres anciens et modernes [microform].</title>
+                  <respStmt>
+                     <persName>Félibien, André, sieur des Avaux et de Javercy, 1619-1695.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>French</textLang>
+                  <imprint>
+                     <publisher>A Paris : Chez Sebastien Mabre-Cramoisy</publisher>
+                     <date>1685-1688</date>
+                     <date>1685</date>
+                  </imprint>
+                  <extent>2 v.</extent>
+                  <extent>24 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/61c015ed-18cc-483f-8e4b-51e8e6ce726f/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Architects -- Biography -- Early works to 1800.</term>
+               <term>Architecture -- History -- Early works to 1800.</term>
+               <term>Illumination of books and manuscripts.</term>
+               <term>Painters -- Biography -- Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/61c015ed-18cc-483f-8e4b-51e8e6ce726f/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

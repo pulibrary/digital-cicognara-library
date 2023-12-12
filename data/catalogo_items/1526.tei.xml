@@ -1,0 +1,26 @@
+  <teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+    <fileDesc>
+                <titleStmt>
+            <title>Catalogo Cicognara Number {$ciconum}</title>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org</ref>
+            </publisher>
+            <idno type="cico">1526</idno>
+        </publicationStmt>
+        <sourceDesc>
+            <bibl><title>LETTERA ad un amico nella quale si dà ragguaglio della funzione per solennizzare il battesimo
+    di Maria Teresa Carolina primogenita di Ferdinando IV di Napoli con 14 tavole disegnate dal
+    Vanvitelli e dal Bibiena e incise da Carlo Nolli</title>, oltre le altre vignette dalli stessi eseguite,
+    <pubPlace>Napoli</pubPlace> <date>1772</date>, in fog. fig.
+    MDCCIXXV
+    
+    </bibl>
+        </sourceDesc>
+    </fileDesc>
+</teiHeader>
+        
+</teiCorpus>

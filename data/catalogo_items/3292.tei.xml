@@ -1,0 +1,22 @@
+  <teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+    <fileDesc>
+                <titleStmt>
+            <title>Catalogo Cicognara Number {$ciconum}</title>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org</ref>
+            </publisher>
+            <idno type="cico">3292</idno>
+        </publicationStmt>
+        <sourceDesc>
+            <bibl> <title>OSSERVAZIONI di un frammento di tavoletta antica d’avorio stimata consolare</title>, <pubPlace>Bologna</pubPlace> <date>1775</date>, fig., M. 39 e 51.
+<note>Con una tavola intagliata in rame.</note>
+</bibl>
+        </sourceDesc>
+    </fileDesc>
+</teiHeader>
+        
+</teiCorpus>

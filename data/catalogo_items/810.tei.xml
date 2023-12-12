@@ -1,0 +1,25 @@
+  <teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+    <fileDesc>
+                <titleStmt>
+            <title>Catalogo Cicognara Number {$ciconum}</title>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org</ref>
+            </publisher>
+            <idno type="cico">810</idno>
+        </publicationStmt>
+        <sourceDesc>
+            <bibl><author>BAROZZI Jacomo da Vignola</author>, <title>Le due regole della prospettiva pratica coi commentari del P.
+	Danti</title>, <pubPlace>Roma</pubPlace> <date>1583</date>, in fol. fig. <note>Prima edizione</note>.
+	— La stessa in <pubPlace>Roma</pubPlace> <date>1611</date> in fol. fig. Esemplare in mar. dor.
+	<note>Bella ristampa colle medesime tavole.</note>
+	
+	</bibl>
+        </sourceDesc>
+    </fileDesc>
+</teiHeader>
+        
+</teiCorpus>

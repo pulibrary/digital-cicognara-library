@@ -1,0 +1,28 @@
+  <teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+    <fileDesc>
+                <titleStmt>
+            <title>Catalogo Cicognara Number {$ciconum}</title>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org</ref>
+            </publisher>
+            <idno type="cico">2887</idno>
+        </publicationStmt>
+        <sourceDesc>
+            <bibl><author>HUTTICHIUS Joannes</author>, <title>Imperatorum et Caesarum vi <pb type="cico" n="65"/>tae cum imaginibus ad vivam effigiem expressis.
+                        Libellus auctus cum Elenco et iconibus Consulum ab authore 1534 cum privilegio Caesareo</title>. (In fine)
+Argentorati Wolfangus Coephaloeus excudit anno 1534, in 8.
+<note>Dietro al frontespizio con contorno figurato è la dedica, indi l’elenco dei nomi degli Imperatori, che in tutto sono
+8 foglietti: seguono le medaglie in mezzo ad ornamenti, il tutto in legno con brevi cenni intorno le vite dei
+soggetti raffigurati: e questi sono 90 foglietti. Ricomincia con nuovo titolo Consulum Romanorum Elenchus e fra
+l’elenco e le tavole, non sono che 16 foglietti: leggesi in fine De Consulibus libellum alium a nobis expectes
+propediem et vale. Argent. an. sal. 153</note>.
+</bibl>
+        </sourceDesc>
+    </fileDesc>
+</teiHeader>
+        
+</teiCorpus>

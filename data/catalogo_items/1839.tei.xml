@@ -1,0 +1,33 @@
+  <teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+    <fileDesc>
+                <titleStmt>
+            <title>Catalogo Cicognara Number {$ciconum}</title>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org</ref>
+            </publisher>
+            <idno type="cico">1839</idno>
+        </publicationStmt>
+        <sourceDesc>
+            <bibl><author>D’AMBOISE François</author>, <title>Discours ou traité des Dévises compilé par Adrian d’Ambois son fils</title>,
+                     <pubPlace>Paris</pubPlace><date> 1620</date>, in 8.
+   <bibl> — Aggiuntovi: <title>Les Dévises Royales par Adrien d’Amboise au Roi</title>, <pubPlace>Paris</pubPlace> <date>1621</date>.
+    <note>Con 13 tavole intagliate in rame.</note></bibl>
+    
+    — <bibl>E in fine: <title>Dévises héroiques et emblemes de M. Claude Paradin</title> revues et augtmentées de
+<fw type="foot"/>
+                  <pb type="memofonte"/>
+                  <fw type="head"/>
+    
+    moitié par François d’ Amboise, <pubPlace>Paris</pubPlace> <date>1622</date>.
+    <note>Con 178 tavolette finamente ed elegantemente intagliate in rame.</note></bibl>
+    
+    </bibl>
+        </sourceDesc>
+    </fileDesc>
+</teiHeader>
+        
+</teiCorpus>

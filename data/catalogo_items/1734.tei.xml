@@ -1,0 +1,24 @@
+  <teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+    <fileDesc>
+                <titleStmt>
+            <title>Catalogo Cicognara Number {$ciconum}</title>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org</ref>
+            </publisher>
+            <idno type="cico">1734</idno>
+        </publicationStmt>
+        <sourceDesc>
+            <bibl><author>NIEUPOORT</author>, <title>Explication abrégé des coutumes et cérémonies des Romains</title>, à <pubPlace>Toulouse</pubPlace> <date>1783</date>,
+  in 12.
+  <note>Quest’opera scritta in latino originariamente qui venne tradotta in francese dall’Ab. ***.</note>
+  
+  </bibl>
+        </sourceDesc>
+    </fileDesc>
+</teiHeader>
+        
+</teiCorpus>

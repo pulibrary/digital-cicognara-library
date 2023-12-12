@@ -1,0 +1,22 @@
+  <teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+    <fileDesc>
+                <titleStmt>
+            <title>Catalogo Cicognara Number {$ciconum}</title>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org</ref>
+            </publisher>
+            <idno type="cico">3918</idno>
+        </publicationStmt>
+        <sourceDesc>
+            <bibl><author>ZACCARIAE Franc. Ant.</author>, <title>Dissertationes in S. Flavii Clementis tumulum; in S. Marii et Alexandri epitaphiis</title>; de S.
+Barbarae Nicomediensis cultu; de inventione S. Crucis, in 4, M. 30.
+</bibl>
+        </sourceDesc>
+    </fileDesc>
+</teiHeader>
+        
+</teiCorpus>

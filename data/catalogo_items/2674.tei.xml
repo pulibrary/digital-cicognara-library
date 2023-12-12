@@ -1,0 +1,24 @@
+  <teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+    <fileDesc>
+                <titleStmt>
+            <title>Catalogo Cicognara Number {$ciconum}</title>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org</ref>
+            </publisher>
+            <idno type="cico">2674</idno>
+        </publicationStmt>
+        <sourceDesc>
+            <bibl><author>GUASCO Ottaviano</author>, <title>Dell’edificio di Pozzuolo, volgarmen <pb type="cico" n="31"/>te detto il tempio di Serapide</title>. Opera di un
+membro dell’Accademia R. di Parigi e dell’Accademia di Cortona, <pubPlace>Roma</pubPlace> <date>1773</date>, in 8, fig.
+<note>Dottissima operetta annunciata come anonima con due tavole incise in rame, ma della quale è autore il sig.
+Ottaviano Guasco. M. 60.</note>
+</bibl>
+        </sourceDesc>
+    </fileDesc>
+</teiHeader>
+        
+</teiCorpus>

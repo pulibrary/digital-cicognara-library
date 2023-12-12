@@ -1,0 +1,30 @@
+  <teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+    <fileDesc>
+                <titleStmt>
+            <title>Catalogo Cicognara Number {$ciconum}</title>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org</ref>
+            </publisher>
+            <idno type="cico">2726</idno>
+        </publicationStmt>
+        <sourceDesc>
+            <bibl><author>AGOSTINI</author>, <title>Dialoghi intorno le medaglie, iscrizioni ed altre antichità tradotti dalla lingua spagnuola all’italiana da
+<fw type="foot"/>
+                     <pb type="memofonte"/>
+                     <fw type="head"/>
+Dionigi Ottaviano Sada</title>, in <pubPlace>Roma</pubPlace>, <date>1650</date>, presso <publisher>Filippo Bussi</publisher>, in fol.
+<note>Edizione seconda italiana, la prima però della versione di Ottaviano Sada. Tutte le traduzioni del Sada e le
+numerose edizioni che ne furono fatte sono da tenersi in poco conto, poiché le medaglie intagliate in legno fra il
+testo sono di cattiva esecuzione e non rendono alcun’idea de’ monumenti. Il p. Scotti aggiunse un duodecimo
+libro, che manca nell’opera dell’Agostini. Almeno sei edizioni comparvero consimili alle 3 che noi possediamo
+di questa versione.</note>
+</bibl>
+        </sourceDesc>
+    </fileDesc>
+</teiHeader>
+        
+</teiCorpus>

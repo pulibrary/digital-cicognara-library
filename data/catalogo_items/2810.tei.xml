@@ -1,0 +1,22 @@
+  <teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+    <fileDesc>
+                <titleStmt>
+            <title>Catalogo Cicognara Number {$ciconum}</title>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org</ref>
+            </publisher>
+            <idno type="cico">2810</idno>
+        </publicationStmt>
+        <sourceDesc>
+            <bibl><author>CORSINI Eduardi</author>, <title>De Minnisari aliorumque Armeniae Regum Nummis et Arsacidarum epocha dissertatio</title>,
+<pubPlace>Liburni</pubPlace> <date>1754</date>, in 4, M. 42.
+</bibl>
+        </sourceDesc>
+    </fileDesc>
+</teiHeader>
+        
+</teiCorpus>

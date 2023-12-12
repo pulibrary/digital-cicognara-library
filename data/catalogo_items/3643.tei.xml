@@ -1,0 +1,25 @@
+  <teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+    <fileDesc>
+                <titleStmt>
+            <title>Catalogo Cicognara Number {$ciconum}</title>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org</ref>
+            </publisher>
+            <idno type="cico">3643</idno>
+        </publicationStmt>
+        <sourceDesc>
+            <bibl><author>CANCELLIERI</author>, <title>Le due campane di Campidoglio con varie notizie sopra i campanili e gli orologi</title>, 
+                        <pubPlace>Roma</pubPlace> <date>1806</date>, in 4,
+M. 6.
+<note>Sonovi le tavole intagliate in rame relative al Campidoglio collocate prima e dopo il frontespizio, e si trova in
+quest’opera una quantità sterminata di preziosa erudizione.</note>
+</bibl>
+        </sourceDesc>
+    </fileDesc>
+</teiHeader>
+        
+</teiCorpus>

@@ -1,0 +1,26 @@
+  <teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+    <fileDesc>
+                <titleStmt>
+            <title>Catalogo Cicognara Number {$ciconum}</title>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org</ref>
+            </publisher>
+            <idno type="cico">1472</idno>
+        </publicationStmt>
+        <sourceDesc>
+            <bibl><title>RELATION de la feste de Versailles, du 18 Juillet 1668</title>, <pubPlace>Paris</pubPlace>, de <publisher>l’Imprimerie Royale</publisher>, <date>1679</date>, in
+    fol. fig.
+    <note>Esemplare di dedica che appartenne a Carlo di Lorena: sonovi tavole 21 intagliate da le Pà tre e da Silvestri
+    molto gusto.</note>
+    MDCLXXX
+    
+    </bibl>
+        </sourceDesc>
+    </fileDesc>
+</teiHeader>
+        
+</teiCorpus>

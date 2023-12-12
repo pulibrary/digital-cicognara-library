@@ -1,0 +1,28 @@
+  <teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+    <fileDesc>
+                <titleStmt>
+            <title>Catalogo Cicognara Number {$ciconum}</title>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org</ref>
+            </publisher>
+            <idno type="cico">2759</idno>
+        </publicationStmt>
+        <sourceDesc>
+            <bibl><author>BEGERII Laurentii</author>, <title>Paenae infernales Ixionis, Sisyphi, Ocni, et Danaidum ex delineatoine Pighiana desumptae et
+dialogo illustratae</title>, <pubPlace>Coloniae Marcichae</pubPlace> <date>1703</date>, fig.
+— Addito: <title>Alcestis pro marito moriens, et vitae ab Hercule restituta</title>, <pubPlace>Coloniae Brandeburgicae</pubPlace> <date>1703</date>.
+— <title>Accedunt de nummis Cretensium Serpentiferis</title>, <pubPlace>Coloniae Marcichae</pubPlace> <date>1702</date>.
+— <title>Ulisses, sirenes praetervectus</title>, <pubPlace>Coloniae Brandeurgicae</pubPlace> <date>1703</date>.
+— <title>Examen dubiorum quorundam etc.</title> <pubPlace>Berolimi</pubPlace> <date>1704</date>.
+<note>Questa è una risposta modesta e ingegnosa alle critiche <pb type="cico" n="45"/> del Gronovio. 50 tavole intagliate in rame
+accuratissimamente sono sparse fra il testo di tutti questi opuscoli dottissimi legati in un volume.</note>
+</bibl>
+        </sourceDesc>
+    </fileDesc>
+</teiHeader>
+        
+</teiCorpus>

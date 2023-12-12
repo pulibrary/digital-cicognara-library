@@ -1,0 +1,34 @@
+  <teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+    <fileDesc>
+                <titleStmt>
+            <title>Catalogo Cicognara Number {$ciconum}</title>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org</ref>
+            </publisher>
+            <idno type="cico">809</idno>
+        </publicationStmt>
+        <sourceDesc>
+            <bibl><author>BARBARO Daniele patriarca d’Aquileia</author>, <title>La pratica della prospettiva</title>. Opera molto profittevole
+	a’ pittori, scultori e architetti, <pubPlace>Venezia</pubPlace> <date>1569</date>, presso <publisher>Carmmilo e Rutilio Borgominieri</publisher>, in fol.
+	fig.
+	<note>Trovasi questo libro, quantunque impresso nello stesso anno, con due diversi frontespizi, l’uno de’ quali è inciso
+	in legno, l’altro in caratteri. Ma è sempre la stessa edizione, siccome abbiamo verificato per essere amendue in
+	questa nostra raccolta.
+	<fw type="foot"/>
+	                 <pb type="memofonte"/>
+	                 <fw type="head"/>
+	Opera dottissima e diligentissima divisa in 9 parti, nell’ottava delle quali si tratta delle proporzioni del corpo
+	umano. Le tavole copiosissime sono tutte frapposte al testo. L’autore meno curando gli altri che l’avevano
+	preceduto, che i contemporanei, si professa obbligato a un certo Giovan Zamberto Veneziano pratico prospettico
+	da cui disse aver imparato, ma che molto gli costò a ridurre a facile comunicazione gl’insegnamenti.</note>
+	
+	</bibl>
+        </sourceDesc>
+    </fileDesc>
+</teiHeader>
+        
+</teiCorpus>

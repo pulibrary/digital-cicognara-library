@@ -1,0 +1,24 @@
+  <teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+    <fileDesc>
+                <titleStmt>
+            <title>Catalogo Cicognara Number {$ciconum}</title>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org</ref>
+            </publisher>
+            <idno type="cico">3192</idno>
+        </publicationStmt>
+        <sourceDesc>
+            <bibl><author>CARYOPHILI Paschalis</author>, <title>De thermis Herculanis, nuper in Dacia detectis</title>, <pubPlace>Mantuae</pubPlace> <date>1739</date>, in 4.
+— <title>Accedit ejusdem de usu et praestantia thermarum Herculanarum</title>, <pubPlace>Mantuae</pubPlace> <date>1739</date>, in 4, fig.
+<note>L’erudizione di cui sono sparse queste due dissertazioni è arida in un argomento che prestavasi ad una maggiore
+amenità nel trattarlo.</note>
+</bibl>
+        </sourceDesc>
+    </fileDesc>
+</teiHeader>
+        
+</teiCorpus>

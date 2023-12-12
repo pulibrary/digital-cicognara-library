@@ -1,0 +1,30 @@
+  <teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+    <fileDesc>
+                <titleStmt>
+            <title>Catalogo Cicognara Number {$ciconum}</title>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org</ref>
+            </publisher>
+            <idno type="cico">754</idno>
+        </publicationStmt>
+        <sourceDesc>
+            <bibl><author>CAMILLO Giulio Delminio</author>, <title>Tutte le opere, nelle quali è compresa anche la sovraddetta del
+	teatro</title>, volumi due stampati, il primo nel <date>1563</date> il secondo <date>1565</date> in <pubPlace>Vinegia</pubPlace> per <publisher>il Giolito</publisher> in 12
+	legati in un solo volume.Aggiuntovi: in fine <author>Leon B. Alberti</author>, <title>Concetti amorosi</title>, ne’ quali sotto
+	il nome di Hecatonfila si insegna la bella e ingegnosa arte d’amore con un dialogo intitolato
+	Deifira, che ne mostra come si debbe fuggire il mal cominciato amore. <pubPlace>Genova</pubPlace> presso <publisher>Ant.
+	Bellone</publisher> <date>1672</date>.
+	<fw type="foot"/>
+	                 <pb type="memofonte"/>
+	                 <fw type="head"/>
+	
+	              </bibl>
+        </sourceDesc>
+    </fileDesc>
+</teiHeader>
+        
+</teiCorpus>

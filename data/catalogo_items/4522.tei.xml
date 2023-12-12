@@ -1,0 +1,21 @@
+  <teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+    <fileDesc>
+                <titleStmt>
+            <title>Catalogo Cicognara Number {$ciconum}</title>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org</ref>
+            </publisher>
+            <idno type="cico">4522</idno>
+        </publicationStmt>
+        <sourceDesc>
+            <bibl><author>PAILLET</author>, <title>Catalogue des tableaux, desseins, pastels et emaux etc. du Cabinet de M. Watelet</title>, <pubPlace>Paris</pubPlace> <date>1786</date>.
+</bibl>
+        </sourceDesc>
+    </fileDesc>
+</teiHeader>
+        
+</teiCorpus>

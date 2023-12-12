@@ -1,0 +1,23 @@
+  <teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+    <fileDesc>
+                <titleStmt>
+            <title>Catalogo Cicognara Number {$ciconum}</title>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org</ref>
+            </publisher>
+            <idno type="cico">3668</idno>
+        </publicationStmt>
+        <sourceDesc>
+            <bibl><author>Du CHOUL Guglielmo</author>, <title>Discorso della religione antica dei romani, insieme con un altro discorso della
+castramentazione, tradotti in toscano da Gabriel Simeoni fiorentino</title>, <pubPlace>Lione</pubPlace>, <publisher>Rovillio</publisher>, <date>1559</date>, in fol.
+<note>Seconda edizione non meno bella della precedente, e piena di medaglie, e tavole stampate fra il testo.</note>
+</bibl>
+        </sourceDesc>
+    </fileDesc>
+</teiHeader>
+        
+</teiCorpus>

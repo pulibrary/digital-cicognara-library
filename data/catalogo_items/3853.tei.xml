@@ -1,0 +1,33 @@
+  <teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+    <fileDesc>
+                <titleStmt>
+            <title>Catalogo Cicognara Number {$ciconum}</title>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org</ref>
+            </publisher>
+            <idno type="cico">3853</idno>
+        </publicationStmt>
+        <sourceDesc>
+            <bibl><author>Del RE dottor Antonio</author>, <title>Dell’antichità tiburtine.</title> Capitolo V diviso in due parti, nel quale si descrivono le
+maraviglie del palazzo e giardino della famiglia d’Este nella parte I e nella seconda si pone un ristretto degli
+edifici della Villa di Adriano, con tre indici, <pubPlace>Roma</pubPlace>, <date>1611</date>, presso <publisher>Giacomo Mascardo</publisher>, in 4 pic.
+<note>Non fu mai stampata l’intera storia tiburtina, da cui fu tratto questo capitolo. Il cardinal Francesco Barberini
+comprò il manoscritto, ma non escì più dalla sua biblioteca. L’Avercampo tradusse in latino questo capitolo
+inserto nel tomo VII parte seconda, dal Burmano arricchito di note.
+I pochi bibliografi che citano questo libro lo annoverano fra i molto rari.
+RIZETTI C. Gio. Vedi Raccolta di scrittori sulla cupola di S. Pietro.</note>
+<fw type="foot"/>
+                     <pb type="memofonte"/>
+                     <fw type="head"/>
+
+                     <pb type="cico" n="215"/>
+                  </bibl>
+        </sourceDesc>
+    </fileDesc>
+</teiHeader>
+        
+</teiCorpus>

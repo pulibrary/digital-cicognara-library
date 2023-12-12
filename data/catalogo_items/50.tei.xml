@@ -1,0 +1,28 @@
+  <teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+    <fileDesc>
+                <titleStmt>
+            <title>Catalogo Cicognara Number {$ciconum}</title>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org</ref>
+            </publisher>
+            <idno type="cico">50</idno>
+        </publicationStmt>
+        <sourceDesc>
+            <bibl>
+                     <title>REFLEXIONS d’un patriote sur l’Opera françois et sur l’Opera italien, qui presente le parallele du
+	    goût de deux nations dans les beaux arts,</title>
+                     <pubPlace> à Lausanne</pubPlace> 
+                     <date>1754,</date>
+                     <extent> in 8.</extent>
+                  </bibl><bibl>Aggiuntovi:<title> Essai sur la peinture, la sculpture et l’architecture,</title>
+                     <date> 1751.</date>
+                  </bibl>
+        </sourceDesc>
+    </fileDesc>
+</teiHeader>
+        
+</teiCorpus>

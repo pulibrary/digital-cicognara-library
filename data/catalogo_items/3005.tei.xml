@@ -1,0 +1,28 @@
+  <teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+    <fileDesc>
+                <titleStmt>
+            <title>Catalogo Cicognara Number {$ciconum}</title>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org</ref>
+            </publisher>
+            <idno type="cico">3005</idno>
+        </publicationStmt>
+        <sourceDesc>
+            <bibl><author>SMIDS Ludolphi</author>, <title>Romanorum Imp. Pinacotheca sive XII Imp. simulacra exornata elogiis et historia</title>, <pubPlace>Amstelodami</pubPlace>
+<date>1699</date>, in 4, fig.
+— Accedit <title>Jo. Georgii Eccardi Epistola de nummis quibusdam sub regimine Theodorici etc.</title>, <pubPlace>Hanoverae</pubPlace> <date>1720</date>, in
+4, fig.
+<note>Il frontespizio figurato fu intagliato da Adriano Schoonebeek. Le tavole dei dodici Cesari a cavallo sono quelle
+inventate da Giovanni Stradano e intagliate da Crispino dal Passo, ma logore, alle quali è stato raschiato il nome
+dell’incisore: an <pb type="cico" n="84"/> nesse a queste sono altre 12 tavole delle medaglie imperiali e al fine una singolare tavola
+della Roma resurgens dello stesso.</note>
+</bibl>
+        </sourceDesc>
+    </fileDesc>
+</teiHeader>
+        
+</teiCorpus>

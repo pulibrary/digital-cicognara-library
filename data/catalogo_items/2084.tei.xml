@@ -1,0 +1,25 @@
+  <teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+    <fileDesc>
+                <titleStmt>
+            <title>Catalogo Cicognara Number {$ciconum}</title>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org</ref>
+            </publisher>
+            <idno type="cico">2084</idno>
+        </publicationStmt>
+        <sourceDesc>
+            <bibl><author>PORCACCHI Tommaso</author>, <title>L’isole più famose del Mondo, intagliate da Girolamo Porro</title>, <pubPlace>Venezia</pubPlace>
+  <date>1572</date>, in. fol. pic.
+  <note>Con trenta tavole di nitido intaglio e il frontespizio figurato. Prima edizione per la freschezza delle tavole
+  preferibili a tutte le posteriori.</note>
+  
+  </bibl>
+        </sourceDesc>
+    </fileDesc>
+</teiHeader>
+        
+</teiCorpus>

@@ -1,0 +1,26 @@
+  <teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+    <fileDesc>
+                <titleStmt>
+            <title>Catalogo Cicognara Number {$ciconum}</title>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org</ref>
+            </publisher>
+            <idno type="cico">2418</idno>
+        </publicationStmt>
+        <sourceDesc>
+            <bibl><author>ZANOTTI Gio. Pietro. </author> <title>Storia dell’Accademia Clementina di Bologna, aggregata all’Istituto
+    delle Scienze e Belle Arti</title>, vol. 2, in gran 4, fig., <pubPlace>Bologna</pubPlace>.<note>
+    Con quantità eli annotazioni e postille tolte dal manoscritto autografo esistente in casa del Principe Ercolani ed
+    estratte di pugno dal segretario Carlo Bianconi nel 1795. Quest’opera è in ogni vita preceduta dal ritratto
+    dell’autore.</note>
+    
+    </bibl>
+        </sourceDesc>
+    </fileDesc>
+</teiHeader>
+        
+</teiCorpus>

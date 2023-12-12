@@ -1,0 +1,25 @@
+  <teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+    <fileDesc>
+                <titleStmt>
+            <title>Catalogo Cicognara Number {$ciconum}</title>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org</ref>
+            </publisher>
+            <idno type="cico">808</idno>
+        </publicationStmt>
+        <sourceDesc>
+            <bibl><author>BACONS Rogerii</author>, <title>Prospettiva nunc primum edita opera et studio Joann. Conibachii</title>: addita
+	Specula Mathematica, <pubPlace>Francofurtt</pubPlace> <date>1614</date>, in 4.
+	Opera che è unicamente relativa alle scienze e non applica ed alleaArti. A questo è aggiunto: Opus
+	Astronomicum Elia Molerii 1607 fig. et alia opuscula Molerii de Sidere, et de Luna et Sole.
+	
+	</bibl>
+        </sourceDesc>
+    </fileDesc>
+</teiHeader>
+        
+</teiCorpus>

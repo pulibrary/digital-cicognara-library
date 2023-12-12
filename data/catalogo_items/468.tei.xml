@@ -1,0 +1,26 @@
+  <teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+    <fileDesc>
+                <titleStmt>
+            <title>Catalogo Cicognara Number {$ciconum}</title>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org</ref>
+            </publisher>
+            <idno type="cico">468</idno>
+        </publicationStmt>
+        <sourceDesc>
+            <bibl>
+                     <author>CATANEO</author>,
+                     <title> I quattro primi libri d’architettura, Venezia, in casa dei figliuoli di Aldo,</title> 
+                     <date>1554,</date>
+                     <extent> in
+	fol. fig.</extent>
+                  </bibl>
+        </sourceDesc>
+    </fileDesc>
+</teiHeader>
+        
+</teiCorpus>

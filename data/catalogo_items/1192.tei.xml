@@ -1,0 +1,22 @@
+  <teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+    <fileDesc>
+                <titleStmt>
+            <title>Catalogo Cicognara Number {$ciconum}</title>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org</ref>
+            </publisher>
+            <idno type="cico">1192</idno>
+        </publicationStmt>
+        <sourceDesc>
+            <bibl><author>ODERICI Gasparis Aloysii</author>, <title>De marmorea didascalia in urbe reperta. Epistola ad Caietanum
+    Marinum</title>, <pubPlace>Romae</pubPlace> <date>1777</date>, in 8, M. 60.
+    </bibl>
+        </sourceDesc>
+    </fileDesc>
+</teiHeader>
+        
+</teiCorpus>

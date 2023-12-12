@@ -1,0 +1,28 @@
+  <teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+    <fileDesc>
+                <titleStmt>
+            <title>Catalogo Cicognara Number {$ciconum}</title>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org</ref>
+            </publisher>
+            <idno type="cico">3934</idno>
+        </publicationStmt>
+        <sourceDesc>
+            <bibl><title>Delle ANTICHITÀ dell’Istria.</title> Libro primo in cui si tratta degli istrj primitivi, e della condizione loro sotto a’
+romani, e della situazione degli antichi liburnj, illirj, japidi, norici, carnj, e veneti, senza luogo ed anno, in 4, M.
+2.
+<note>Nel 1760 il conte Carli fece stampare dallo Storti in Venezia questo primo volume che non fu poi mai pubblicato,
+essendo rimasto come inedito assieme ad altre dissertazioni parimenti stampate, e non pubblicate. Quando poi
+pubblicò la sua Storia delle antichità italiche fuse questo primo volume, se non tutto in parte almeno, in
+quell’opera dottissima; e queste ed altre nozioni su tal proposito abbiamo del coltissimo di lui figlio il C.
+Agostino vivente.</note>
+</bibl>
+        </sourceDesc>
+    </fileDesc>
+</teiHeader>
+        
+</teiCorpus>

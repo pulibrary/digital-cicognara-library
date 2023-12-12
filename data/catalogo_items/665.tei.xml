@@ -1,0 +1,27 @@
+  <teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+    <fileDesc>
+                <titleStmt>
+            <title>Catalogo Cicognara Number {$ciconum}</title>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org</ref>
+            </publisher>
+            <idno type="cico">665</idno>
+        </publicationStmt>
+        <sourceDesc>
+            <bibl> 
+                     <author>SERLIO Sebastiano</author>, 
+                     <title>Regole generali d’architettura sopra le cinque maniere degli edifici,</title>
+	                    <pubPlace>Venezia,</pubPlace> 
+                     <publisher>per Francesco Marcolini,</publisher> 
+                     <date>1544,</date> 
+                     <extent>fol. fig.</extent>
+                  </bibl>
+        </sourceDesc>
+    </fileDesc>
+</teiHeader>
+        
+</teiCorpus>

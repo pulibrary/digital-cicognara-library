@@ -1,0 +1,23 @@
+  <teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+    <fileDesc>
+                <titleStmt>
+            <title>Catalogo Cicognara Number {$ciconum}</title>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org</ref>
+            </publisher>
+            <idno type="cico">2423</idno>
+        </publicationStmt>
+        <sourceDesc>
+            <bibl><author>ALBERTO Magno</author>, <title>De’ secreti: nel quale tratta della virtù delle erbe, pietre e ani mali</title>, <date>1545</date>, in
+    8, p,
+    — <bibl>Aggiuntovi: <title>La Fisonomia naturale</title> di <author>Michel Scotto</author>, <date>1555</date>, in 8, pic.</bibl>
+    </bibl>
+        </sourceDesc>
+    </fileDesc>
+</teiHeader>
+        
+</teiCorpus>

@@ -1,0 +1,23 @@
+  <teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+    <fileDesc>
+                <titleStmt>
+            <title>Catalogo Cicognara Number {$ciconum}</title>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org</ref>
+            </publisher>
+            <idno type="cico">2938</idno>
+        </publicationStmt>
+        <sourceDesc>
+            <bibl><title>MUSEUM nummarium Milano-Viscontianum</title>, trajecti ad <pubPlace>Rhenum</pubPlace> <date>1782</date>, in 8.
+<note>Non contiene questo né tavole, né illustrazioni e non è che un elenco con la pura descrizione delle monete di
+questa ampia raccolta.</note>
+</bibl>
+        </sourceDesc>
+    </fileDesc>
+</teiHeader>
+        
+</teiCorpus>

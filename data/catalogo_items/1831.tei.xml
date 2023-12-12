@@ -1,0 +1,24 @@
+  <teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+    <fileDesc>
+                <titleStmt>
+            <title>Catalogo Cicognara Number {$ciconum}</title>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org</ref>
+            </publisher>
+            <idno type="cico">1831</idno>
+        </publicationStmt>
+        <sourceDesc>
+            <bibl><author>ACCADEMICI Gelati</author>, <title>Ricreazioni amorose</title>, <pubPlace>Bol.</pubPlace> <date>1500</date>, <note>con otto emblemi.
+    — Aggiuntovi Psaffone trattato d’Amore, Bol. 1590.
+    Questi tre libretti sono ornati di un bellissimo intaglio nel frontespizio di Agostino Caracci.</note>
+    
+    </bibl>
+        </sourceDesc>
+    </fileDesc>
+</teiHeader>
+        
+</teiCorpus>

@@ -1,0 +1,34 @@
+  <teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+    <fileDesc>
+                <titleStmt>
+            <title>Catalogo Cicognara Number {$ciconum}</title>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org</ref>
+            </publisher>
+            <idno type="cico">1890</idno>
+        </publicationStmt>
+        <sourceDesc>
+            <bibl><title>LIBRO d’emblemi figurati d’amore con epigrammi in lingua olandese</title>. <bibl>Aggiuntovi altre
+<fw type="foot"/>
+                  <pb type="memofonte"/>
+                  <fw type="head"/>
+    
+    canzoni stampate in <pubPlace>Amsterdam</pubPlace> senza data e senza luogo in 4 per traverso.</bibl>
+    <note>Sono 24 emblemi intagliati con gran finezza di bulino in altrettanti medaglioni rotondi con motti latini stampali
+    in giro sull’orlo delle incisioni, etc. illustrazioni poi in lingua olandese. Il frontespizio è figurato, alla cima del
+    quale è un cartello con questi versi:
+    Queris quid sit amor, quid amare, Cupidins et quid
+    Castra sequi? Chartam hanc inspice, doctus eris.
+    Haec tibi delicias hortumque ostendit amorum;
+    Inspice; sculptori est ingeniosa manus.</note>
+    
+    </bibl>
+        </sourceDesc>
+    </fileDesc>
+</teiHeader>
+        
+</teiCorpus>

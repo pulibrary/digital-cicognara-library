@@ -1,0 +1,28 @@
+  <teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+    <fileDesc>
+                <titleStmt>
+            <title>Catalogo Cicognara Number {$ciconum}</title>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org</ref>
+            </publisher>
+            <idno type="cico">1422</idno>
+        </publicationStmt>
+        <sourceDesc>
+            <bibl><title>RELAZIONE del battesimo del Principe Federico di Vurtemberg</title>, <pubPlace>Stuttgard</pubPlace> <date>1615</date>, in foglio obl.
+    in tedesco.
+    <note>Matteo Merlati intagliò le numerose tavole di quest’opera richissima, così disposte. Cominciano due seguiti di
+    testo, il primo di 40; il secondo di 65 pagine: viene un seguito poi di 20tav. intagliate, un secondo di 17, un terzo
+    di 8 e in fine un altro di 36 in tutto tavole 81 rappresentanti cavalcate, tornei, marcie e in fine fuochi d’artificio; e
+    la veduta dell’antico Stuttgard.</note>
+    MDCXVIII
+    
+    </bibl>
+        </sourceDesc>
+    </fileDesc>
+</teiHeader>
+        
+</teiCorpus>

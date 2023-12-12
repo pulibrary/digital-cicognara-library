@@ -1,0 +1,30 @@
+  <teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+    <fileDesc>
+                <titleStmt>
+            <title>Catalogo Cicognara Number {$ciconum}</title>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org</ref>
+            </publisher>
+            <idno type="cico">567</idno>
+        </publicationStmt>
+        <sourceDesc>
+            <bibl> 
+                     <author>MILIZIA Francesco</author>, 
+                     <title>Indice di figure relative ai principi d’architettura civile, disegnate ed incise
+	in 27 tavole da Giovan Battista Cipriani sanese,</title> 
+                     <pubPlace>Roma</pubPlace> 
+                     <date>1800,</date>
+                     <extent> in 8 fig.</extent>
+                  </bibl><bibl>– Aggiuntevi: <title>Notizie di Francesco Milizia scritte di lui medesimo con un catalogo delle sue
+	opere, dai torchi remondinani,</title> 
+                     <date>1804.</date>
+                  </bibl>
+        </sourceDesc>
+    </fileDesc>
+</teiHeader>
+        
+</teiCorpus>

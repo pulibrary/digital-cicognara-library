@@ -1,0 +1,22 @@
+  <teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+    <fileDesc>
+                <titleStmt>
+            <title>Catalogo Cicognara Number {$ciconum}</title>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org</ref>
+            </publisher>
+            <idno type="cico">3957</idno>
+        </publicationStmt>
+        <sourceDesc>
+            <bibl><author>BETUSSI M. Giuseppe</author>, <title>Ragionamento sopra il Catajo, luogo dello illust. signor Pio Enea degli Obizzi</title>, <pubPlace>Padova</pubPlace>, per
+<publisher>Lor. Pasquati</publisher>, <date>1573</date>, in 4, l’edizione è bella in gran caratteri corsivi.
+</bibl>
+        </sourceDesc>
+    </fileDesc>
+</teiHeader>
+        
+</teiCorpus>

@@ -1,0 +1,30 @@
+  <teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+    <fileDesc>
+                <titleStmt>
+            <title>Catalogo Cicognara Number {$ciconum}</title>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org</ref>
+            </publisher>
+            <idno type="cico">1402</idno>
+        </publicationStmt>
+        <sourceDesc>
+            <bibl><title>DESCRIZIONE degli apparati fatti in Bologna parla venuta di N. S. Papa Clemente VIII con i
+    disegni degli archi, statue e pitture</title>, dedicata agli illustrissimi Signori del Reggimento di
+    <pubPlace>Bologna</pubPlace>, da <publisher>Vittorio Benacci Stampatore Camerale</publisher>, <date>1598.</date>
+    <note>Sonovi 9 stampe pittoresche all’acqua forte, oltre lo stemma nel frontespizio, molto pregiate, che rendono
+    l’opuscolo prezioso, per essere della mano maestra di Guido Reni. Due esemplari; all’uno de’ quali è aggiunto
+    l’altro opuscolo felicissima entrata di N. S. Papa Clemente VIII nell’inclita città di Ferrara con gli apparati
+    pubblici. In Ferrara, e ristampata in Torino presso Giov. Mich. Cavalieri 1598. Si trova più difficilmente questo
+    secondo, che il primo.</note>
+    MDXCVIII
+    
+    </bibl>
+        </sourceDesc>
+    </fileDesc>
+</teiHeader>
+        
+</teiCorpus>

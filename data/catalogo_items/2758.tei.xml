@@ -1,0 +1,32 @@
+  <teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+    <fileDesc>
+                <titleStmt>
+            <title>Catalogo Cicognara Number {$ciconum}</title>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org</ref>
+            </publisher>
+            <idno type="cico">2758</idno>
+        </publicationStmt>
+        <sourceDesc>
+            <bibl><author>BEGERII Laurentii</author>, <title>Contemplatio gemmarum quarumdam Dactyliothecae Gorlaei ante biennium et auctae et
+illustratae</title>, <pubPlace>Coloniae Brandeburgicae</pubPlace> <date>1697</date>, in 4, fig.
+— <title>Unito e legato: Meleagrides, et Etolia, ex numismate Kypieon apud Goltium, inter spersis marmoribus
+quibusdam de Meleagri interitu, et apri Calydonii venatione, in lucem vindicatae</title>, <pubPlace>Coloniae Brandeburgicae</pubPlace>
+<date>1696</date>, in 4, fig.
+— <title>In fine. Cranae Insula Laconia eadem Helena dicta et Minyarum posteris habitata ex Numismat. Goltzianis a
+<fw type="foot"/>
+                     <pb type="memofonte"/>
+                     <fw type="head"/>
+Laur. Begero demonstrata, eodem loco et anno</title>.
+<note>Questi preziosi e non comuni opuscoli sono ornati di copiose tavole intagliate in rame e inserite fra il testo a’
+suoi luoghi.</note>
+</bibl>
+        </sourceDesc>
+    </fileDesc>
+</teiHeader>
+        
+</teiCorpus>

@@ -1,0 +1,23 @@
+  <teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+    <fileDesc>
+                <titleStmt>
+            <title>Catalogo Cicognara Number {$ciconum}</title>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org</ref>
+            </publisher>
+            <idno type="cico">3222</idno>
+        </publicationStmt>
+        <sourceDesc>
+            <bibl><author>FOGGINIO Petri Francisci</author>, <title>Commentarius in ta <pb type="cico" n="114"/> bulam veterem Capitolinam IIiii excidium
+repraesentantem</title>, in fol., fig., M. 82.
+<note>Con una gran tavola intagliata in rame. Grec. e lat.</note>
+</bibl>
+        </sourceDesc>
+    </fileDesc>
+</teiHeader>
+        
+</teiCorpus>

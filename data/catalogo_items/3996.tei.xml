@@ -1,0 +1,82 @@
+  <teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+    <fileDesc>
+                <titleStmt>
+            <title>Catalogo Cicognara Number {$ciconum}</title>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org</ref>
+            </publisher>
+            <idno type="cico">3996</idno>
+        </publicationStmt>
+        <sourceDesc>
+            <bibl><author>DANIELE D. Francesco</author>, <title>I regali sepolcri del Duomo di Palermo riconosciuti</title>, ed illustrati, <pubPlace>Napoli</pubPlace> <date>1784</date>, in fol.,
+fig., M. 81.
+<note>Opera dottamente illustrata, e sommamente interessante per la luce che porta nelle epoche più oscure: eseguita
+magnificamente con 19 tavole di buon intaglio oltre molte vignette.</note>
+</bibl>
+        </sourceDesc>
+    </fileDesc>
+</teiHeader>
+        <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:local="http://library.princeton.edu" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>I regali sepolcri del Duomo di Palermo [microform] : riconosciuti e illustrati.</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Daniele, Francesco, 1740-1812.</authority>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <authority>Leopoldo Cicognara Program (University of Illinois at Urbana-Champaign)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985461403506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/h30q5x</idno>
+            <idno type="cico">3996</idno>
+            <idno type="dcl">vzd</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>I regali sepolcri del Duomo di Palermo [microform] : riconosciuti e illustrati.</title>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>In Napoli : Nella Stamperia del re</publisher>
+                     <pubPlace>Italy</pubPlace>
+                     <pubPlace>Palermo (Italy)</pubPlace>
+                     <pubPlace>Sicily (Italy)</pubPlace>
+                     <date>1784</date>
+                  </imprint>
+                  <extent>134 p., [18] leaves of plates</extent>
+                  <extent>8 microfiche : positive ; 11 x 15 cm.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/81c1fd71-792d-4d74-83f0-1ffd752b2a54/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Cattedrale di Palermo.</term>
+               <term>Tombs -- Italy -- Palermo.</term>
+               <term>Palermo (Italy) -- Antiquities.</term>
+               <term>Sicily (Italy) -- Kings and rulers -- Tombs.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/81c1fd71-792d-4d74-83f0-1ffd752b2a54/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

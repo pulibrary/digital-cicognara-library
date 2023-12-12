@@ -1,0 +1,23 @@
+  <teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+    <fileDesc>
+                <titleStmt>
+            <title>Catalogo Cicognara Number {$ciconum}</title>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org</ref>
+            </publisher>
+            <idno type="cico">3345</idno>
+        </publicationStmt>
+        <sourceDesc>
+            <bibl><author>SPALLETTI Giuseppe</author>, <title>Dichiarazione di una tavola ospitale trovata in Roma sull’Aventino</title>, <pubPlace>Roma</pubPlace> <date>1777</date>, in 4, f., M.
+23.
+<note>Il monumento è intagliato in una gran tavola in rame.</note>
+</bibl>
+        </sourceDesc>
+    </fileDesc>
+</teiHeader>
+        
+</teiCorpus>

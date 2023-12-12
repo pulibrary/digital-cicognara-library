@@ -1,0 +1,28 @@
+  <teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+    <fileDesc>
+                <titleStmt>
+            <title>Catalogo Cicognara Number {$ciconum}</title>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org</ref>
+            </publisher>
+            <idno type="cico">178</idno>
+        </publicationStmt>
+        <sourceDesc>
+            <bibl>
+                     <author>PELLEGRINO Fulvio mantovano</author>, 
+                     <title>Significato dei colori e dei mazzoli, Venezia 1618, appresso
+	  Comia Gallina, in 8; aggiuntovi il Trattato dei colori nelle arme e nelle livree e nelle divise, di
+	  Sicillo araldo del re Alfonso di Aragona,</title> 
+                     <pubPlace>Venezia</pubPlace> 
+                     <date>1606</date>, presso <publisher>lucio Spineda,</publisher>
+                     <extent> in 8.</extent>
+                  </bibl>
+        </sourceDesc>
+    </fileDesc>
+</teiHeader>
+        
+</teiCorpus>

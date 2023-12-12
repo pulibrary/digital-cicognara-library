@@ -1,0 +1,24 @@
+  <teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+    <fileDesc>
+                <titleStmt>
+            <title>Catalogo Cicognara Number {$ciconum}</title>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org</ref>
+            </publisher>
+            <idno type="cico">3568</idno>
+        </publicationStmt>
+        <sourceDesc>
+            <bibl><author>AGRIPPA Camillo</author>, <title>Trattato di trasportar la guglia sulla piazza di S. Pietro</title>, 
+                        <pubPlace>Roma</pubPlace>, per <publisher>Francesco Zanetti</publisher>, <date>1583</date>, in 4.
+<bibl>— <title>Aggiuntovi dello stesso. Dialogo sopra la generazione de’ venti, baleni, tuoni, folgori, laghi, fiumi, valli,
+montagne</title>, <pubPlace>Roma</pubPlace> <date>1584</date>, in 4.</bibl>
+</bibl>
+        </sourceDesc>
+    </fileDesc>
+</teiHeader>
+        
+</teiCorpus>

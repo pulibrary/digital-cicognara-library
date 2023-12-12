@@ -1,0 +1,24 @@
+  <teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+    <fileDesc>
+                <titleStmt>
+            <title>Catalogo Cicognara Number {$ciconum}</title>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org</ref>
+            </publisher>
+            <idno type="cico">1231</idno>
+        </publicationStmt>
+        <sourceDesc>
+            <bibl><author>BELTRAMELLI Giuseppe</author>, <title>Notizie intorno ad un quadro esistente nella Cappella del Palazzo
+    della Prefettura in Bergamo</title>, <date>1806</date>, in 8.
+    Aggiuntavi: <title>Lettera dello stesso al professore Lorenzo Mascheroni</title>, <date>1797</date>.
+    
+    </bibl>
+        </sourceDesc>
+    </fileDesc>
+</teiHeader>
+        
+</teiCorpus>

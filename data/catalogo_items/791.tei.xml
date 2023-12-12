@@ -1,0 +1,30 @@
+  <teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+    <fileDesc>
+                <titleStmt>
+            <title>Catalogo Cicognara Number {$ciconum}</title>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org</ref>
+            </publisher>
+            <idno type="cico">791</idno>
+        </publicationStmt>
+        <sourceDesc>
+            <bibl><author>LIPSII Justi</author>, <title>De amphitheatro liber in quo forma ipsa loci expressa et ratio spectandi</title>. Cum
+	aeneis figuris, Ant. Plant. <date>1699</date>, in 4, fig.
+	— Aggiuntovi de <title>amphitheatris quae extra Romam</title>. Libellus in quo formae eorum aliquot et typi
+	ec.
+	<note>L’anfiteatro di Tito, tal come trovasi e come supponevasi esser dovesse, è dato in due tavole; indi quelli di Pola,
+	<fw type="foot"/>
+	                 <pb type="memofonte"/>
+	                 <fw type="head"/>
+	di Nimes, di Verona e li due che stanno nel Poitou formano in tutti le 7 tavole di questo libretto.</note>
+	
+	</bibl>
+        </sourceDesc>
+    </fileDesc>
+</teiHeader>
+        
+</teiCorpus>

@@ -1,0 +1,26 @@
+  <teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+    <fileDesc>
+                <titleStmt>
+            <title>Catalogo Cicognara Number {$ciconum}</title>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org</ref>
+            </publisher>
+            <idno type="cico">3579</idno>
+        </publicationStmt>
+        <sourceDesc>
+            <bibl><author>De ANGELIS Pauli</author>, <title>Basilicae Sanctae Mariae Majoris descriptio, et delineatio, libri XII</title>, 
+                       <pubPlace>Romae</pubPlace>, ex tipographia
+<publisher>Bartholomaei Zanetti</publisher>, <date>1621</date>, in fol., fig.
+<note>Il frontespizio è figurato, e 39 tavole grandi servono ad il <pb type="cico" n="168"/> lustrazioni della basilica accompagnate da
+interpretazioni, iscrizioni, osservazioni storiche, e critiche. Opera di pregio. Edizione diligentemente, e nobilmente
+eseguita.</note>
+</bibl>
+        </sourceDesc>
+    </fileDesc>
+</teiHeader>
+        
+</teiCorpus>

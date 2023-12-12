@@ -1,0 +1,23 @@
+  <teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+    <fileDesc>
+                <titleStmt>
+            <title>Catalogo Cicognara Number {$ciconum}</title>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org</ref>
+            </publisher>
+            <idno type="cico">3459</idno>
+        </publicationStmt>
+        <sourceDesc>
+            <bibl> <title>Il gran TEATRO delle più celebri pitture di Venezia</title> pubblicato da <publisher>Domenico Lovisa</publisher> a <pubPlace>Rialto</pubPlace>, in f. m.
+<note>Sono 62 tavole con i principali quadri di Venezia intagli <pb type="cico" n="149"/>ti e disegnati malamente, che rendono però
+sempre un’idea delle grandi composizioni dei maestri di questa scuola.</note>
+</bibl>
+        </sourceDesc>
+    </fileDesc>
+</teiHeader>
+        
+</teiCorpus>

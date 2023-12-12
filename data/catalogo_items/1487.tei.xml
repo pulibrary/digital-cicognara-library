@@ -1,0 +1,28 @@
+  <teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+    <fileDesc>
+                <titleStmt>
+            <title>Catalogo Cicognara Number {$ciconum}</title>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org</ref>
+            </publisher>
+            <idno type="cico">1487</idno>
+        </publicationStmt>
+        <sourceDesc>
+            <bibl><title>Il TEMPIO di Giano, serrato da Augusto per l’annua festa popolare della porchetta nella Fiera
+    di Bologna</title>, <date>1703</date>, figurata. Aggiuntovi: <title>Dialogismo simbolico per l’invenzione della contrada
+    di Fontebranda, detta dell’Oca, rappresentata nel corso delle Bufale nella Piazza di Siena,
+    presenti D. Co <pb type="cico" n="255"/> simo de’ Medici e Maria Maddalena d’Austria</title>, <pubPlace>Siena</pubPlace> <date>1612</date>, in 4.
+    — <title>Descrizione della festa popolare della porchetta fatta in Bologna nel <date>1721</date></title>.
+    — <title>Disegno, e relazione della fiera fatta in Bologna in occasione della solita festa popolare
+    della porchetta</title>, <pubPlace>Bologna</pubPlace> <date>1706</date>, in 4, fig.
+    MDCCVII.
+    </bibl>
+        </sourceDesc>
+    </fileDesc>
+</teiHeader>
+        
+</teiCorpus>

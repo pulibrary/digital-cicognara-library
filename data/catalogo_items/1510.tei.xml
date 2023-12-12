@@ -1,0 +1,27 @@
+  <teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+    <fileDesc>
+                <titleStmt>
+            <title>Catalogo Cicognara Number {$ciconum}</title>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org</ref>
+            </publisher>
+            <idno type="cico">1510</idno>
+        </publicationStmt>
+        <sourceDesc>
+            <bibl><title>DIARIO delle solennità in occasione dell’elezione ed incoronamento dell’Imperatore Carlo
+    VII</title>, <pubPlace>Franf.</pubPlace> <date>1742</date>, in fol. fig., in lingua tedesca.
+    <note>In questo assai grosso volume di circa mille pagine sono compresi tutti gli atti pubblici precedenti e susseguenti
+    l’incoronazione e l’elezione. Cominciano le tavole col frontespizio, seguono 15 ritratti, e 18 grandi tavole
+    intagliate da mediocri artisti con molta e dispendiosa cura.</note>
+    MDCCLXIV
+    
+    </bibl>
+        </sourceDesc>
+    </fileDesc>
+</teiHeader>
+        
+</teiCorpus>

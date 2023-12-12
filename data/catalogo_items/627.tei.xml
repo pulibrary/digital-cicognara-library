@@ -1,0 +1,23 @@
+  <teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+    <fileDesc>
+                <titleStmt>
+            <title>Catalogo Cicognara Number {$ciconum}</title>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org</ref>
+            </publisher>
+            <idno type="cico">627</idno>
+        </publicationStmt>
+        <sourceDesc>
+            <bibl> 
+                     <author>RADI Bernardino</author>, 
+                     <title>Vari disegni d’architettura, ornati di porte inventati</title> in <pubPlace>Roma</pubPlace> l’anno <date>1619</date>:</bibl><bibl>aggiuntivi i <title>disegni vari di depositi o sepolcri;</title> stesso anno, <extent>in fol.</extent>
+                  </bibl>
+        </sourceDesc>
+    </fileDesc>
+</teiHeader>
+        
+</teiCorpus>

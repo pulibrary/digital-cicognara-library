@@ -1,0 +1,28 @@
+  <teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+    <fileDesc>
+                <titleStmt>
+            <title>Catalogo Cicognara Number {$ciconum}</title>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org</ref>
+            </publisher>
+            <idno type="cico">835</idno>
+        </publicationStmt>
+        <sourceDesc>
+            <bibl><author>EUCLIDE</author>, <title>La prospettiva, tradotta dal P. Egnazio Danti</title>. Aggiuntavi <title>la prospettiva di Eliodoro
+	Larisseo Greco e Latino</title>, <pubPlace>Firenze</pubPlace>, pei <publisher>Giunti</publisher>, <date>1573</date>, in 4, picc. fig.; in fine: Aggiunte <title>le
+	annotazioni al trattato dell’astrolabio e del planisfero universale del P. Danti fatte da Gherardo
+	Spini</title>, <pubPlace>Firenze</pubPlace>, pel <publisher>Sermartelli</publisher>, <date>1570</date>, in 4.
+	<note>Aureo libro per ciò che riguarda gli uomini sommi che vi concorsero; ma la prospettiva vi è trattata come
+	obiettiva e secondo le leggi fisiche dell’ottica non troppo sviluppate per la loro applicazione alle pratiche
+	dell’arte.</note>
+	
+	</bibl>
+        </sourceDesc>
+    </fileDesc>
+</teiHeader>
+        
+</teiCorpus>

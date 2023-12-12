@@ -1,0 +1,27 @@
+  <teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+    <fileDesc>
+                <titleStmt>
+            <title>Catalogo Cicognara Number {$ciconum}</title>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org</ref>
+            </publisher>
+            <idno type="cico">1101</idno>
+        </publicationStmt>
+        <sourceDesc>
+            <bibl><author>HOMERI</author> <title>Illiadis fragmenta et picturae: accedunt scholia vetera ad Odysseam</title>, item Didymi
+      Alexandrini marmorum et lignorum mensurae edente Angelo Maio Ambrosiani Collegii doct.
+      ec. <publisher>Mediolani Regiis</publisher> typis <date>1819</date>, in fol.
+      <note>Sono 58 gli antichi fragmenti intagliati e pubblicati in quest’opera, non molto dissimili per lo stile da quelli del
+      Codice Virgiliano e del Terenziano nella libreria Vaticana già noti e pubblicati.</note> Vedi <author>TISCHBEIN</author>. Vedi <author>DE PASSE
+      CRISPIN</author>.
+      
+      </bibl>
+        </sourceDesc>
+    </fileDesc>
+</teiHeader>
+        
+</teiCorpus>

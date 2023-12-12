@@ -1,0 +1,24 @@
+  <teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+    <fileDesc>
+                <titleStmt>
+            <title>Catalogo Cicognara Number {$ciconum}</title>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org</ref>
+            </publisher>
+            <idno type="cico">3724</idno>
+        </publicationStmt>
+        <sourceDesc>
+            <bibl><author>FICORONI Francesco</author>, <title>La medesima, aggiuntevi le memorie singolari di Roma, e sue vicinanze notate in una lettera
+al cavalier Bernard Inglese, colla spiegazione d’una medaglia d’Omero</title>, <pubPlace>Roma</pubPlace> <date>1730</date>.
+— Aggiuntavi: <title>Lettera sopra un cammeo di Marcello a lord Johnston</title>, <pubPlace>Napoli</pubPlace> <date>1718</date>, in 8.
+<pb type="cico" n="192"/>
+                  </bibl>
+        </sourceDesc>
+    </fileDesc>
+</teiHeader>
+        
+</teiCorpus>

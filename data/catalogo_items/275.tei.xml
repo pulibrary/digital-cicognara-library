@@ -1,0 +1,31 @@
+  <teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+    <fileDesc>
+                <titleStmt>
+            <title>Catalogo Cicognara Number {$ciconum}</title>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org</ref>
+            </publisher>
+            <idno type="cico">275</idno>
+        </publicationStmt>
+        <sourceDesc>
+            <bibl> 
+                     <author>CIAMPI Sebastiano</author>,
+                     <title> Dell’antica toreutica. Dissertazione,</title> 
+                     <pubPlace>Firenze</pubPlace> 
+                     <date>1815</date>, <extent>in 8, M. 34.</extent>
+	– <author>BREVE</author> 
+                     <title>prospetto dell’origine della statuaria e delle varie maniere in diversi tempi adoperate
+	per le statue degli dei e degli uomini,</title> 
+                     <extent>in 8, M. 34.</extent>
+	                    <author>CICOGNARA Leopoldo</author>,
+                     <title> Storia della scultura.</title>
+	Vedi fra i trattati delle arti in generale.</bibl>
+        </sourceDesc>
+    </fileDesc>
+</teiHeader>
+        
+</teiCorpus>

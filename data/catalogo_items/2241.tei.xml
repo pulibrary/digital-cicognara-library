@@ -1,0 +1,29 @@
+  <teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+    <fileDesc>
+                <titleStmt>
+            <title>Catalogo Cicognara Number {$ciconum}</title>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org</ref>
+            </publisher>
+            <idno type="cico">2241</idno>
+        </publicationStmt>
+        <sourceDesc>
+            <bibl><author>COMOLLI Angelo</author>, <title>Vita inedita di Raffaello da Urbino illustrata con note</title>; prima edizione,
+    <pubPlace>Roma</pubPlace> <date>1790</date>, in 4.
+    <note>Col ritratto di Raffaello in principio.</note>
+    
+    <pb type="cico" n="384"/>
+                  <fw type="foot"/>
+                  <pb type="memofonte"/>
+                  <fw type="head"/>
+    
+               </bibl>
+        </sourceDesc>
+    </fileDesc>
+</teiHeader>
+        
+</teiCorpus>

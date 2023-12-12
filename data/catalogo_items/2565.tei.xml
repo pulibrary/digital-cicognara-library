@@ -1,0 +1,24 @@
+  <teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+    <fileDesc>
+                <titleStmt>
+            <title>Catalogo Cicognara Number {$ciconum}</title>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org</ref>
+            </publisher>
+            <idno type="cico">2565</idno>
+        </publicationStmt>
+        <sourceDesc>
+            <bibl><author>COLTELLINI Lodovico</author>, <title>Lettera all’ab. Sestini intorno a un avorio etrusco</title>, <pubPlace>Cortona</pubPlace> <date>1787</date>.
+— <title>Altra allo stesso su d’una medaglia etrusca</title>, <pubPlace>Cortona</pubPlace> <date>1788</date>.
+— <title>Promemoria sopra una medaglia etrusca d’argento trovata nel paese de’ Grigioni</title>, <pubPlace>Cortona</pubPlace> <date>1789</date> col disegno di
+questa medaglia da unirsi alla Promemoria 1790, in 4, fig., M. 23.
+</bibl>
+        </sourceDesc>
+    </fileDesc>
+</teiHeader>
+        
+</teiCorpus>

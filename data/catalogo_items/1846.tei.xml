@@ -1,0 +1,26 @@
+  <teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+    <fileDesc>
+                <titleStmt>
+            <title>Catalogo Cicognara Number {$ciconum}</title>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org</ref>
+            </publisher>
+            <idno type="cico">1846</idno>
+        </publicationStmt>
+        <sourceDesc>
+            <bibl><author>BEZAE Theodori Vezelii</author>, <title>Poemata varia, Epitaphia, Epigramata, Emblemata</title>, 44 tav in 4m
+                     <date>1597</date>, sine loco et impr. nomine.
+    <note>Questo volume è preceduto dall’opuscolo seguente:
+    Jacbii Lectii V. CL. Jonah seu Poetica parafrasis ad eum Vatem, stesso anno. In fine da un avviso degli editori
+    vedesi che l’edizione fu cominciata da Stefano e finita da Giacomo Stoero.</note>
+    
+    </bibl>
+        </sourceDesc>
+    </fileDesc>
+</teiHeader>
+        
+</teiCorpus>

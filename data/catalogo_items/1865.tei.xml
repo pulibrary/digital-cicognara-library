@@ -1,0 +1,23 @@
+  <teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+    <fileDesc>
+                <titleStmt>
+            <title>Catalogo Cicognara Number {$ciconum}</title>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org</ref>
+            </publisher>
+            <idno type="cico">1865</idno>
+        </publicationStmt>
+        <sourceDesc>
+            <bibl><author>CABURACI M. Francesco da Imola</author>, <title>Trattato dove si dimostra il vero e nuovo modo di fare le
+    imprese</title>: Con un breve discorso in difesa dell’Orlando furioso di M. Lodovico Ariosto,
+    <pubPlace>Bologna</pubPlace> <date>1580</date>, in 4.
+    </bibl>
+        </sourceDesc>
+    </fileDesc>
+</teiHeader>
+        
+</teiCorpus>

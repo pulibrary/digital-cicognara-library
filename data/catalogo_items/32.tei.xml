@@ -1,0 +1,43 @@
+  <teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+    <fileDesc>
+                <titleStmt>
+            <title>Catalogo Cicognara Number {$ciconum}</title>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org</ref>
+            </publisher>
+            <idno type="cico">32</idno>
+        </publicationStmt>
+        <sourceDesc>
+            <bibl>
+                     <author>FLUDD Roberti</author>,
+                     <title> Alias the Fluctibus, Opera, sive Utriusve Cosmi maioris scilicet et minoris
+	  metaphisica ec., </title>
+                     <pubPlace> Oppenheimii,ære </pubPlace>
+                     <publisher>Io. Theod. de Bry,</publisher> 
+                     <date>1617,</date>
+                     <extent> fol. fig.</extent>
+	                    <title> – Tractatus secundus de naturæ simia,</title>
+                     <pubPlace> Francf.,</pubPlace> 
+                     <publisher>de Bry</publisher> 
+                     <date>1624</date>
+                     <extent> fig.</extent>
+	                    <title> – Tomus secundus de supernaturali, naturali ec. microcosmi historia,</title>
+                     <pubPlace> Op.</pubPlace>
+                     <date> 1619.</date>
+	                    <title> – T. II sectio secunda de thecnica microcosmi historia,</title> 
+                     <pubPlace>Francf.</pubPlace>
+                     <date> 1621.</date> In fine è aggiunto:
+	 <title> Keppleri Io., Harmonices Mundi Lib. V.,</title>
+                     <pubPlace> Lincii Austriæ </pubPlace>
+                     <date>1619,</date>
+                     <extent> F. F.</extent>
+                  </bibl>
+        </sourceDesc>
+    </fileDesc>
+</teiHeader>
+        
+</teiCorpus>

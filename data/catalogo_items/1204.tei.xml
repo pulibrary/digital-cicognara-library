@@ -1,0 +1,31 @@
+  <teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+    <fileDesc>
+                <titleStmt>
+            <title>Catalogo Cicognara Number {$ciconum}</title>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org</ref>
+            </publisher>
+            <idno type="cico">1204</idno>
+        </publicationStmt>
+        <sourceDesc>
+            <bibl><author>ROSSI Giovan Galeazzo Cav. bolognese</author>, <title>Lettera al Sig. Giovanni Carga sopra la Villa di
+    Tusculano, di Mons. Giovan Battista Campeggio Vescovo di Maiorica</title>, <pubPlace>Bologna</pubPlace> <date>1571</date>, in 4
+    pic.
+    — Aggiuntovi: <title>Campegii Joan. Baptistae Maioricensis Episcopi: De Tusculana Villa sua</title>,
+    <pubPlace>Bononiae</pubPlace> <date>1571</date>.
+<fw type="foot"/>
+                  <pb type="memofonte"/>
+                  <fw type="head"/>
+    <note>Questo Tosculano è lontano tre miglia da Bologna, villa così nominata dal prelato per fare allusione all’antica
+    villa di Cicerone.</note>
+    
+    </bibl>
+        </sourceDesc>
+    </fileDesc>
+</teiHeader>
+        
+</teiCorpus>

@@ -1,0 +1,25 @@
+  <teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+    <fileDesc>
+                <titleStmt>
+            <title>Catalogo Cicognara Number {$ciconum}</title>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org</ref>
+            </publisher>
+            <idno type="cico">4061</idno>
+        </publicationStmt>
+        <sourceDesc>
+            <bibl><author>PATRICELLI Francesco</author>, <title>Cronica della chiesa, e badia di S. Stefano di Bologna</title>, 
+                        <pubPlace>Bologna</pubPlace> <date>1575</date>, in 8, fig.
+<bibl>— Aggiuntavi<title> la relazione istorica, ovvero Cronica di Donato Pullieni</title>, <pubPlace>Bologna</pubPlace> <date>1600</date>.</bibl>
+<note>Ambedue questi libri non sono comuni, e riportano interessanti notizie de’ più antichi edifici di Bologna.</note>
+<pb type="cico" n="249"/>
+                  </bibl>
+        </sourceDesc>
+    </fileDesc>
+</teiHeader>
+        
+</teiCorpus>

@@ -1,0 +1,25 @@
+  <teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+    <fileDesc>
+                <titleStmt>
+            <title>Catalogo Cicognara Number {$ciconum}</title>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org</ref>
+            </publisher>
+            <idno type="cico">3302</idno>
+        </publicationStmt>
+        <sourceDesc>
+            <bibl><author>PASSERII Joannis Baptistae</author>, <title>In monumenta sacra eburnea a clariss. Franc. Gorio ad quartam hujus operis partem
+reservata expositiones. Accedit ejusdem epistola de Artophorio eburneo Piaurensi</title>, <pubPlace>Florentiae</pubPlace> <date>1759</date>, in fol.,
+figurato.
+<note>Oltre le 26 tavole in fine, trovansi altre 7 tavole sparse fra il testo rappresentanti alcuni antichi pregiatissimi
+avori.</note>
+</bibl>
+        </sourceDesc>
+    </fileDesc>
+</teiHeader>
+        
+</teiCorpus>

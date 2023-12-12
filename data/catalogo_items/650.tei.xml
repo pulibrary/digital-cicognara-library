@@ -1,0 +1,27 @@
+  <teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+    <fileDesc>
+                <titleStmt>
+            <title>Catalogo Cicognara Number {$ciconum}</title>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org</ref>
+            </publisher>
+            <idno type="cico">650</idno>
+        </publicationStmt>
+        <sourceDesc>
+            <bibl> 
+                     <author>SAVOT Louis</author>,
+                     <title> L’architecture française des bâtiments particuliers. Augmentée dans cette
+	seconde édition des notes de Blondel,</title> 
+                     <pubPlace>Paris</pubPlace> 
+                     <date>1685,</date> 
+                     <extent>en 8, fig.</extent>
+                  </bibl>
+        </sourceDesc>
+    </fileDesc>
+</teiHeader>
+        
+</teiCorpus>

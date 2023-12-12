@@ -1,0 +1,86 @@
+  <teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+    <fileDesc>
+                <titleStmt>
+            <title>Catalogo Cicognara Number {$ciconum}</title>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org</ref>
+            </publisher>
+            <idno type="cico">443</idno>
+        </publicationStmt>
+        <sourceDesc>
+            <bibl>
+                     <author>BOSROOM Simon</author>,
+                     <title> Libro d’architettura, estratto dall’opera di Vincenzo Scamozzi in lingua
+	olandese,</title> 
+                     <pubPlace>Amsterdam</pubPlace> 
+                     <date>1656,</date>
+                     <extent> in fol. fig.</extent>
+	                    <note>Sono 50 tav. di buon disegno e diligente intaglio, e il frontespizio è figurato col ritratto dell’autore.</note>
+                  </bibl>
+        </sourceDesc>
+    </fileDesc>
+</teiHeader>
+        <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:local="http://library.princeton.edu" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Cort onderwys van de vyf colomen [microform] / door Symon Bosboom ... uyt den scherpsinnigen Vincent Schamozzy getrochen en in minuten gestelt seer gemacklick voor de jonge leerlingen en dienstich voor alle jonge liefhebbers der bouw-const.</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Scamozzi, Vincenzo, 1548-1616.</authority>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985295433506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/1m890g</idno>
+            <idno type="cico">443</idno>
+            <idno type="dcl">frq</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Cort onderwys van de vyf colomen [microform] / door Symon Bosboom ... uyt den scherpsinnigen Vincent Schamozzy getrochen en in minuten gestelt seer gemacklick voor de jonge leerlingen en dienstich voor alle jonge liefhebbers der bouw-const.</title>
+                  <respStmt>
+                     <persName>Bosboom, Simon, 1614-1670.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Dutch; Flemish</textLang>
+                  <imprint>
+                     <publisher>T'Amsterdam : By Iustus Danckerts</publisher>
+                     <date>1686</date>
+                     <date>1670</date>
+                  </imprint>
+                  <extent>6, [1] p., [50] leaves of plates</extent>
+                  <extent>2 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/fdbe823f-dd87-46a6-ae09-00e02732aea0/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Architecture -- Early works to 1800.</term>
+               <term>Architecture -- Orders.</term>
+               <term>Columns -- Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/fdbe823f-dd87-46a6-ae09-00e02732aea0/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

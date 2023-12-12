@@ -1,0 +1,25 @@
+  <teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+    <fileDesc>
+                <titleStmt>
+            <title>Catalogo Cicognara Number {$ciconum}</title>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org</ref>
+            </publisher>
+            <idno type="cico">852</idno>
+        </publicationStmt>
+        <sourceDesc>
+            <bibl><author>OZANAM</author>, <title>La perspective théorique et pratique</title>, <pubPlace>Paris</pubPlace>, chez <publisher>Jombert</publisher>, <date>1720</date>. Aggiuntavi: <title>La
+	Méchanique</title>, stesso anno e luogo, figurati in 8.
+	<note>Nel trattato della prospettiva sono 36 tavole e 28 in quello delle meccaniche: tutte le opere mattematiche di
+	quest’uomo dottissimo sono da tenersi in pregio.</note>
+	
+	</bibl>
+        </sourceDesc>
+    </fileDesc>
+</teiHeader>
+        
+</teiCorpus>

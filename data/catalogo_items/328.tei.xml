@@ -1,0 +1,33 @@
+  <teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+    <fileDesc>
+                <titleStmt>
+            <title>Catalogo Cicognara Number {$ciconum}</title>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org</ref>
+            </publisher>
+            <idno type="cico">328</idno>
+        </publicationStmt>
+        <sourceDesc>
+            <bibl>
+                     <author>HOUET J. B.</author> peintre du roi, <title>Fragments et principes de dessein, differens cahiers, en tout 77
+	planches 1777, </title>
+                     <extent>en 4.</extent>
+                  </bibl><bibl>Aggiunti: six bras de cheminées inventés par Forty.</bibl><bibl>
+                     <title>La raccolta die disegni originali di Parmigianino incisi da Benigno Bossi,</title>
+                     <extent> tav 30, </extent>
+                     <pubPlace>Parma</pubPlace> 
+                     <date>1772.</date>
+                  </bibl><bibl>E in fine: Mascarade à la grecque d’après les desseins tirés du cabinet du Marquis de Felino,
+	<publisher>par Benigno Bossi,</publisher> 
+                     <date>1771,</date>
+                     <extent> tav. 10.</extent>
+                  </bibl>
+        </sourceDesc>
+    </fileDesc>
+</teiHeader>
+        
+</teiCorpus>

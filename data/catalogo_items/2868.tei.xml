@@ -1,0 +1,26 @@
+  <teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+    <fileDesc>
+                <titleStmt>
+            <title>Catalogo Cicognara Number {$ciconum}</title>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org</ref>
+            </publisher>
+            <idno type="cico">2868</idno>
+        </publicationStmt>
+        <sourceDesc>
+            <bibl><author>GOLTZII</author>, <title>Icones Imperatorum Romanorum ex priscis numismatibus ad vivum delineatae etc</title>.
+— Accessit Imperatorum Romanorum Austriacorum series ab Alberto II usque ad Ferdinandum III Gaspari Gevarthii,
+                        <pubPlace>Antuerpiae</pubPlace>, ex officina Plantiniana, <date>1645</date>, in fol., fig.
+<note>Con bel frontespizio intagliato da Corn. Gallé sul disegno di Rubens: sono 160 tavole di ritratti in legno
+lumeggiati in due tinte assai ben eseguiti e fra le opere di Uberto Golzio da tenersi in maggior pregio d’ogni
+altra</note>.
+</bibl>
+        </sourceDesc>
+    </fileDesc>
+</teiHeader>
+        
+</teiCorpus>

@@ -1,0 +1,30 @@
+  <teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+    <fileDesc>
+                <titleStmt>
+            <title>Catalogo Cicognara Number {$ciconum}</title>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org</ref>
+            </publisher>
+            <idno type="cico">790</idno>
+        </publicationStmt>
+        <sourceDesc>
+            <bibl><author>FEA Carlo</author>, <title>Osservazioni sull’arena e sul podio dell’anfiteatro Flavio, discusse contro quelle del
+	Sig. Pietro Bianchi e del Sig. Lorenzo de Romano</title>, <pubPlace>Roma</pubPlace> <date>1713</date>, parti due.
+	— Aggiuntevi: <title>Le iscrizioni di monumenti pubblici trovate nelle attuali escavazioni dei
+	medesimi</title>, stesso anno.
+	— <title>Le notizie degli scavi nell’anfiteatro Flavio e nel Foro Traiano</title>: Le ammonizioni
+	criticoantiquarie a vari scrittori del giorno, <date>1813</date>.
+	— Infine: <title>Nuove osservazioni intorno l’arena nell’anfiteatro Flavio</title>, <pubPlace>Roma</pubPlace> <date>1814</date>, in 8.
+	<note>Alla testa di questi opuscoli trovasi il ritratto dell’autore disegnato da Wicar, intagliato da Fontana e molto
+	somigliante.</note>
+	
+	</bibl>
+        </sourceDesc>
+    </fileDesc>
+</teiHeader>
+        
+</teiCorpus>

@@ -1,0 +1,25 @@
+  <teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+    <fileDesc>
+                <titleStmt>
+            <title>Catalogo Cicognara Number {$ciconum}</title>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org</ref>
+            </publisher>
+            <idno type="cico">3387</idno>
+        </publicationStmt>
+        <sourceDesc>
+            <bibl><author> L’ETRURIA pittrice</author>, <title>ovvero: Storia della pittura toscana dedotta da’ suoi monumenti, vol. 2</title>, <pubPlace>Firenze</pubPlace> <date>1791</date>, in fol.,
+fig.
+<note>Il dottissimo proposto Lastri illustrò le 120 tavole che compongono questa pregievole opera: ove di ogni artista
+di quella scuola si dà una delle più cospicue pitture intagliate. In cima alle illustrazioni rispettive sta il ritratto
+dell’artista e incominciandosi dal X secolo si giunge sino al presente.</note>
+</bibl>
+        </sourceDesc>
+    </fileDesc>
+</teiHeader>
+        
+</teiCorpus>

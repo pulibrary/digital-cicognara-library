@@ -1,0 +1,25 @@
+  <teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+    <fileDesc>
+                <titleStmt>
+            <title>Catalogo Cicognara Number {$ciconum}</title>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org</ref>
+            </publisher>
+            <idno type="cico">3757</idno>
+        </publicationStmt>
+        <sourceDesc>
+            <bibl><author>KIPPINGI Henrici</author>, <title>Antiquitatum romanarum libri quatuor</title>, <pubPlace>Franequerae</pubPlace> <date>1684</date>, in 12.
+<fw type="foot"/>
+                     <pb type="memofonte"/>
+                     <fw type="head"/>
+<note>Libro eruditissimo esteso con aridità, ma pieno di nozioni critiche, e di esami sugli autori precedenti.</note>
+</bibl>
+        </sourceDesc>
+    </fileDesc>
+</teiHeader>
+        
+</teiCorpus>

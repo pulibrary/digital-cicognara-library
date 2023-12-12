@@ -1,0 +1,22 @@
+  <teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+    <fileDesc>
+                <titleStmt>
+            <title>Catalogo Cicognara Number {$ciconum}</title>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org</ref>
+            </publisher>
+            <idno type="cico">3899</idno>
+        </publicationStmt>
+        <sourceDesc>
+            <bibl><author>VENUTI Ridolfino</author>, <title>Spiegazione dei bassi rilievi nell’urna d’Alessandro Severo</title>, <pubPlace>Roma</pubPlace> <date>1756</date>, in 4, fig., con 4 belle
+tavole in rame.
+</bibl>
+        </sourceDesc>
+    </fileDesc>
+</teiHeader>
+        
+</teiCorpus>

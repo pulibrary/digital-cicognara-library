@@ -1,0 +1,30 @@
+  <teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+    <fileDesc>
+                <titleStmt>
+            <title>Catalogo Cicognara Number {$ciconum}</title>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org</ref>
+            </publisher>
+            <idno type="cico">3494</idno>
+        </publicationStmt>
+        <sourceDesc>
+            <bibl><author>CICOGNARA, Schleghel, Mustoxidi, Dandolo, Ciampi </author>, <title>Collezione d’opuscoli intorno ai cavalli di S. Marco: sono
+otto dissertazioni</title>, In <pubPlace>Venezia e in Firenze, in Padova e in Varsavia</pubPlace>, M. 79.
+<note>Nel 1815, mentre furono rimessi all’antica loro sede i quattro cavalli reduci da Parigi, noi pubblicammo una
+breve memoria che dai due dotti Schlegel e Mustoxidi fu attaccata con forza, volendosi da loro impugnare che
+potessero essere opera romana e volendo divinizzarli come esimio lavoro della Grecia.
+Un giovinetto, discendente da quell’Enrico Dandolo che conquistò Costantinopoli e mandò i cavalli a Venezia,
+credette di esporre le sue opinioni in opposizione dei due letterati suddetti e dal secondo fu non solo confutato,
+ma crudel <pb type="cico" n="156"/> mente deriso; non tacque il giovine patrizio e si stamparono varj scritti. Noi crediamo di avere
+a tutto risposto in una nota del 3 tomo della Storia della Scultura, la quale in ottavo riprodotta di trova qui unita.
+E il sig. Ciampi da Varsavia aggiunse anche la sua alle nostre opinioni.</note>
+</bibl>
+        </sourceDesc>
+    </fileDesc>
+</teiHeader>
+        
+</teiCorpus>

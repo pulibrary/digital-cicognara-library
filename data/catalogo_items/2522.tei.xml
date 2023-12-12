@@ -1,0 +1,23 @@
+  <teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+    <fileDesc>
+                <titleStmt>
+            <title>Catalogo Cicognara Number {$ciconum}</title>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org</ref>
+            </publisher>
+            <idno type="cico">2522</idno>
+        </publicationStmt>
+        <sourceDesc>
+            <bibl><author>GAFFAREL Jacques</author>, <title>Curiosités inouies sur la sculpture talismanique des persans, horoscope des patriarches, et
+lecture des étoiles</title>, <pubPlace>Paris</pubPlace> <date>1629</date>, in 8. Prima edizione. <note>Fu molte volte ristampato e anche da Giorgio Michele con
+note nel 1676 al 78 in due volumetti in 8.</note>
+</bibl>
+        </sourceDesc>
+    </fileDesc>
+</teiHeader>
+        
+</teiCorpus>

@@ -1,0 +1,22 @@
+  <teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+    <fileDesc>
+                <titleStmt>
+            <title>Catalogo Cicognara Number {$ciconum}</title>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org</ref>
+            </publisher>
+            <idno type="cico">3159</idno>
+        </publicationStmt>
+        <sourceDesc>
+            <bibl><author>ZACCARIAS Franciscus</author>, <title>Dissertationes V in Titi Flavii Clementis tumulum. In SS. Marii et Alexandri epitaphiis.
+In S. Barbarae Nicomediensis cultu. In inventione S. Crucis</title>, in 4, M. 30.
+</bibl>
+        </sourceDesc>
+    </fileDesc>
+</teiHeader>
+        
+</teiCorpus>

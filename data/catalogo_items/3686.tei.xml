@@ -1,0 +1,25 @@
+  <teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+    <fileDesc>
+                <titleStmt>
+            <title>Catalogo Cicognara Number {$ciconum}</title>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org</ref>
+            </publisher>
+            <idno type="cico">3686</idno>
+        </publicationStmt>
+        <sourceDesc>
+            <bibl> <title>Le COSE meravigliose dell’alma città di Roma</title>, Le stesse. <pubPlace>Roma</pubPlace>, presso <publisher>Giovanni Martinelli</publisher>, <date>1589</date>, in 8.
+— Aggiunte: <title>Le antichità di Roma di M. Andrea Palladio raccolte brevemente dagli autori antichi, e moderni ec.</title>,
+<pubPlace>Roma</pubPlace>, per <publisher>Vincenzo Accolti</publisher>, <date>1589</date>.
+— In fine è aggiunto un libretto che ha per titolo <title>I nomi antichi e moderni dell’antica città di Roma, e de’ tutti i
+popoli, provincie, città, fiumi, monti, selve etc.</title>, <pubPlace>Venetia</pubPlace>, al segno della Speranza, <date>1552</date>.
+</bibl>
+        </sourceDesc>
+    </fileDesc>
+</teiHeader>
+        
+</teiCorpus>

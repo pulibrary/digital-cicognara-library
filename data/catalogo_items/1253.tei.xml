@@ -1,0 +1,22 @@
+  <teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+    <fileDesc>
+                <titleStmt>
+            <title>Catalogo Cicognara Number {$ciconum}</title>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org</ref>
+            </publisher>
+            <idno type="cico">1253</idno>
+        </publicationStmt>
+        <sourceDesc>
+            <bibl><title>DESCRIZIONE dell’opera a fresco eseguita nel 1798 nel tempio di S. Maria presso S. Celso in
+		 Milano dal pittore Andrea Appiani</title>, <pubPlace>Milano</pubPlace> <date>1803</date>, in 8.</bibl><bibl>Aggiuntovi: <title>Le tableau des Sabines exposé publiquement au palais national des sciences,
+		 et arts par David</title>, <pubPlace>Paris</pubPlace> a VIII.</bibl><bibl><title>Lettera sopra un quadro di Mad. Le Brun</title>, scritta da <author>Giuseppe Carpani</author>, <pubPlace>Milano</pubPlace> <date>1792</date>.</bibl><bibl><title>Lettera di Gherardo de’ Rossi sopra due quadri dipinti dal Sig. Gaspare Landi</title>, <pubPlace>Piacenza</pubPlace> <date>1804</date>.</bibl>
+        </sourceDesc>
+    </fileDesc>
+</teiHeader>
+        
+</teiCorpus>

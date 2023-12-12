@@ -1,0 +1,81 @@
+  <teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+    <fileDesc>
+                <titleStmt>
+            <title>Catalogo Cicognara Number {$ciconum}</title>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org</ref>
+            </publisher>
+            <idno type="cico">1454</idno>
+        </publicationStmt>
+        <sourceDesc>
+            <bibl><title>DESCRIZIONE dei reali ed elettorali ingressi ed atti d’incoronazione fatti a Francfort nel <date>1658</date>
+    per l’Arciduca e Imperator Leopoldo</title>. Colla gran veduta della città e i ritratti della famiglia
+    imperiale intagliati da Gasparo Merian, in fol.
+    <note>Sono 24 grandissime tavole in rame singolar <pb type="cico" n="249"/> mente piegate a fine di ridurle al foglio piccolo a’ piè di
+    ognuna delle quali sta riportato il testo relativo.</note>
+    MDCLX
+    
+    </bibl>
+        </sourceDesc>
+    </fileDesc>
+</teiHeader>
+        <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:local="http://library.princeton.edu" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Beschreibung vnd Abbildung aller königl. vnd churfürstl. Ein-Züge [microform] : Wahl vnd Crönungs acta so geschehen zu Franckfurt am Mayn im Jahr 1658 : sampt andern darzu gehörigen vnd beygefügten Sachen.</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Merian, Caspar, 1627-1686.</authority>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985303973506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/3b0x5n</idno>
+            <idno type="cico">1454</idno>
+            <idno type="dcl">q83</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Beschreibung vnd Abbildung aller königl. vnd churfürstl. Ein-Züge [microform] : Wahl vnd Crönungs acta so geschehen zu Franckfurt am Mayn im Jahr 1658 : sampt andern darzu gehörigen vnd beygefügten Sachen.</title>
+                  <textLang>German</textLang>
+                  <imprint>
+                     <publisher>Frankfurt am Mayn : Bey Caspar Merian, Buchhandlern vnd Kupferstechern daselbsten</publisher>
+                     <pubPlace>Germany</pubPlace>
+                     <date>Im Jahr 1658</date>
+                     <date>1658</date>
+                  </imprint>
+                  <extent>32 p., [33] leaves of plates</extent>
+                  <extent>1 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/d28b9af8-38ae-4495-9a99-88d1f62932bd/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Leopold I, Holy Roman Emperor, 1640-1705.</term>
+               <term>Processions -- Germany -- Frankfurt am Main -- History -- 17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/d28b9af8-38ae-4495-9a99-88d1f62932bd/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

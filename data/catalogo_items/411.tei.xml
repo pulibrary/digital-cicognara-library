@@ -1,0 +1,37 @@
+  <teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+    <fileDesc>
+                <titleStmt>
+            <title>Catalogo Cicognara Number {$ciconum}</title>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org</ref>
+            </publisher>
+            <idno type="cico">411</idno>
+        </publicationStmt>
+        <sourceDesc>
+            <bibl>
+                     <author>BIRBET J.</author>, 
+                     <title>Livre d’architecture d’autels et de chéminées,</title> 
+                     <pubPlace>Paris</pubPlace> 
+                     <date>1642,</date>
+                     <extent> 32 tavole all’acqua forte.</extent>
+	— Pieces d’architecture ou sont comprises plusieurs sortes de cheminées par Pierre Collet, 18
+	tav.
+	— Aggiunto: <title>Differents compartimens et capiteaux,</title> 
+                     <pubPlace>Paris</pubPlace> 
+                     <date>1619</date>. Queste sono 28 tavole o cartelle
+	intagliate da Tavernier.
+	— <title>Varie architetture di Francesco Fanelli fiorentino scultore del re della Gran Brettagna. Sono
+	queste 20 fontane figurate di bel disegno e accurata incisione.</title>
+	— <title>Livre de differents desseins de Parterres,</title> 
+                     <pubPlace>Paris,</pubPlace> 
+                     <extent>in fol.</extent> p. Sono queste 22 tavole intagliate in
+	rame. In tutto 120 tavole.</bibl>
+        </sourceDesc>
+    </fileDesc>
+</teiHeader>
+        
+</teiCorpus>

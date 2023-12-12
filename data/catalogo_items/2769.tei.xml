@@ -1,0 +1,23 @@
+  <teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+    <fileDesc>
+                <titleStmt>
+            <title>Catalogo Cicognara Number {$ciconum}</title>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org</ref>
+            </publisher>
+            <idno type="cico">2769</idno>
+        </publicationStmt>
+        <sourceDesc>
+            <bibl><author>BENEDICTI Antonii</author>,<title> Numismata graeca non ante vulgata cum animadversionibus Gasparis Oderici</title>, <pubPlace>Romae</pubPlace> <date>1777</date>,
+in 8, fig., M. 47.
+<note>Con molte monete intagliate e riportate fra il testo.</note>
+</bibl>
+        </sourceDesc>
+    </fileDesc>
+</teiHeader>
+        
+</teiCorpus>

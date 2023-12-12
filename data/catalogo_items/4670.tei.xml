@@ -1,0 +1,24 @@
+  <teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+    <fileDesc>
+                <titleStmt>
+            <title>Catalogo Cicognara Number {$ciconum}</title>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org</ref>
+            </publisher>
+            <idno type="cico">4670</idno>
+        </publicationStmt>
+        <sourceDesc>
+            <bibl><author>ANSALDI P. C.</author>, <title>De diis multarum gentium Romam evocatis, liber singularis</title>, <pubPlace>Brixiae</pubPlace> <date>1743</date>, in 8.
+<bibl><author>ANSALDI Casti Innocentis</author>, <title>De sacro, et publico apud ethnicos pietarum tabularum cultu</title>, <publisher>Augustae Taurinorum</publisher>
+<date>1768</date>, in 4 pic.</bibl>
+<note>L’opera è divisa in 15 capitoli, e trattata con profonda erudizione.</note>
+</bibl>
+        </sourceDesc>
+    </fileDesc>
+</teiHeader>
+        
+</teiCorpus>

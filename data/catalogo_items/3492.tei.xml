@@ -1,0 +1,25 @@
+  <teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+    <fileDesc>
+                <titleStmt>
+            <title>Catalogo Cicognara Number {$ciconum}</title>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org</ref>
+            </publisher>
+            <idno type="cico">3492</idno>
+        </publicationStmt>
+        <sourceDesc>
+            <bibl><author>CAVALLERIIS Johan. Baptista</author>, <title>Antiquarum statuarum urbis Romae: primus, et secundus liber</title>, <pubPlace>Romae</pubPlace> <date>1585</date>,
+constat tab. 100.
+— <title>Accedit tertius, et quartus liber</title>, <pubPlace>Romae</pubPlace> <date>1594</date>, tabulae 100.
+— Nel fine: accedit Urbis Romae de Cavalleriis aeneis tabulis repraesentatae 1569, constat cartarum 50, in 4.
+Non è facile trovare esemplari completi, freschi e ben conservati delle 200 statue del Cavalieri.
+</bibl>
+        </sourceDesc>
+    </fileDesc>
+</teiHeader>
+        
+</teiCorpus>

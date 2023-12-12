@@ -1,0 +1,23 @@
+  <teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+    <fileDesc>
+                <titleStmt>
+            <title>Catalogo Cicognara Number {$ciconum}</title>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org</ref>
+            </publisher>
+            <idno type="cico">2907</idno>
+        </publicationStmt>
+        <sourceDesc>
+            <bibl><author>DE LEVIS Eugenio</author>,<title> Raccolta di diverse antiche inscrizioni e medaglie epitalamiche trovate negli stati del Re di
+Sardegna e due dissertazioni sopra un antico turibolo e campanello</title>, <pubPlace>Torino</pubPlace> <date>1781</date>, in 4, fig., M. 27.
+<note>Con 14 tavole intagliate in rame diligentemente.</note>
+</bibl>
+        </sourceDesc>
+    </fileDesc>
+</teiHeader>
+        
+</teiCorpus>

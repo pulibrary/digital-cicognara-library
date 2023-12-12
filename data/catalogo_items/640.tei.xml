@@ -1,0 +1,27 @@
+  <teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+    <fileDesc>
+                <titleStmt>
+            <title>Catalogo Cicognara Number {$ciconum}</title>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org</ref>
+            </publisher>
+            <idno type="cico">640</idno>
+        </publicationStmt>
+        <sourceDesc>
+            <bibl> 
+                     <author>RUSCONI Giovanni Antonio</author>, 
+                     <title>Dell’architettura secondo i precetti di Vitruvio, libri X, con 160
+	figure disegnate dal medesimo e con chiarezza e brevità dichiarate,</title> 
+                     <pubPlace>Venezia</pubPlace> 
+                     <publisher>presso i Gioliti</publisher>
+	                    <date>1590.</date>
+                  </bibl>
+        </sourceDesc>
+    </fileDesc>
+</teiHeader>
+        
+</teiCorpus>

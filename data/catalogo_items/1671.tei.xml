@@ -1,0 +1,25 @@
+  <teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+    <fileDesc>
+                <titleStmt>
+            <title>Catalogo Cicognara Number {$ciconum}</title>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org</ref>
+            </publisher>
+            <idno type="cico">1671</idno>
+        </publicationStmt>
+        <sourceDesc>
+            <bibl><author>GUER M.</author>, <title>Moeurs et usages des Turcs, leur religion, leur gouvernement civil, militaire et
+    politique avec un abregé de l’histoire ottomane,</title> <pubPlace>Paris</pubPlace> <date>1746</date>, 2 vol., in 4, fig.
+<note>    Le tavole disegnate da Boucher e incise in rame da Duflos sono, d’incontro ai tanghi indicati nel testo. Opera ove
+    con utile accorgimento le costumanze di quei popoli sono accompagnate colla toro storia.</note>
+    
+    </bibl>
+        </sourceDesc>
+    </fileDesc>
+</teiHeader>
+        
+</teiCorpus>

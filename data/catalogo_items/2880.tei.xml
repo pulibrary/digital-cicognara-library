@@ -1,0 +1,24 @@
+  <teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+    <fileDesc>
+                <titleStmt>
+            <title>Catalogo Cicognara Number {$ciconum}</title>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org</ref>
+            </publisher>
+            <idno type="cico">2880</idno>
+        </publicationStmt>
+        <sourceDesc>
+            <bibl><author>HAYM Nicola Francesco</author>, <title>Del tesoro britannico, ovvero del museo nummario ove si contengono le medaglie
+                        greche e latine non prima pubblicate</title>, <pubPlace>Londra</pubPlace><date> 1719</date> e 20, 2 vol. in un tomo, in 4.
+<note>L’autore delineò e descrisse le medaglie, che in copiose <pb type="cico" n="64"/> tavole trovansi sparse fra il testo dell’opera ai
+   rispettivi luoghi</note>.
+</bibl>
+        </sourceDesc>
+    </fileDesc>
+</teiHeader>
+        
+</teiCorpus>

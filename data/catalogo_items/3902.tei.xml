@@ -1,0 +1,22 @@
+  <teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+    <fileDesc>
+                <titleStmt>
+            <title>Catalogo Cicognara Number {$ciconum}</title>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org</ref>
+            </publisher>
+            <idno type="cico">3902</idno>
+        </publicationStmt>
+        <sourceDesc>
+            <bibl><author>VENUTI Ridolfino</author>, <title>Osservazioni sopra il fiume Clitunno, e antico suo tempio</title>, ivi <date>1753</date>, fig., con sei tavole in
+rame.
+</bibl>
+        </sourceDesc>
+    </fileDesc>
+</teiHeader>
+        
+</teiCorpus>

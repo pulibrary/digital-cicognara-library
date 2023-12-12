@@ -1,0 +1,40 @@
+  <teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+    <fileDesc>
+                <titleStmt>
+            <title>Catalogo Cicognara Number {$ciconum}</title>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org</ref>
+            </publisher>
+            <idno type="cico">2120</idno>
+        </publicationStmt>
+        <sourceDesc>
+            <bibl><author>URSINI Fulvii</author>, <title>Effigies viginti quatuor Romanorum Imperatorum, qui a C. Jul. Caes.
+  Extiterunt.</title>
+  <note>Non possiamo con certezza attribuire queste 25 tavole, compresovi il frontespizio, né a Fulvio Ursino, né ad
+  Agostino Veneziano per quello che sia dell’intaglio, sebbene la cartella del frontespizio sia di quel tempo e di
+  quel carattere non meno che le incisioni. A questo va unito.
+  Illustrium virornm ut extant in Urbe expressi vultus, Roma 1569 cum privil. sum. Pont. formis Ant. Laffreri.
+  Questa è la vera e bellissima prima edizione delle 52 teste intagliate da Agostino Veneziano, precedute da un
+  <fw type="foot"/>
+                  <pb type="memofonte"/>
+                  <fw type="head"/>
+  frontespizio figurato, e dalla lettera di Achille Stazio al Card. Perenotto, e da un avviso dello stesso al lettore.
+  Comincia la collezione da un busto incognito e termina con quello di Giano, numerata progressivamente.
+  Nitidissimo e magnifico esemplare di prima freschezza. Trovasi a questo unito.
+  Imagines et elogia virorum illustrium et eruditorum ex antiq. lapidib. et numismatib. espressa cum annotatione
+  ex Bibliotheca Fulvii Ursini 1750, Romae Ant. Laffreri formis. Se <pb type="cico" n="366"/> gue un carme di Lorenzo Gambara al
+  Vescoro di Pola, poi la prefazione, indi l’elenco delle divisioni. Le tavole sono 74 parte di erme in legno, parte di
+  busti, erme, medaglie e iscrizioni in rame: sono precedute dalla pag. I che comprende il frontespizio, sino alla III,
+  in cui incominciano le imagini essendo le due ultime bianche, intorno alla seconda delle quali si legge: Venetiis
+  1570 in aedibus Pietri Dehuchino Galli.</note>
+  
+  </bibl>
+        </sourceDesc>
+    </fileDesc>
+</teiHeader>
+        
+</teiCorpus>

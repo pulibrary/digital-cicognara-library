@@ -1,0 +1,24 @@
+  <teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+    <fileDesc>
+                <titleStmt>
+            <title>Catalogo Cicognara Number {$ciconum}</title>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org</ref>
+            </publisher>
+            <idno type="cico">3842</idno>
+        </publicationStmt>
+        <sourceDesc>
+            <bibl><author>POLENI Giovanni</author>, <title>Memorie storiche della gran cupola del tempio Vaticano, e de’ danni, e ristoramenti di essa</title>, libri
+cinque, <pubPlace>Padova</pubPlace>, nella <publisher>stamperia del seminario</publisher>, <date>1748</date>, in fol., fig.
+<note>Quest’opera fu nobilmente stampata ed ornata di 27 figure dimostrative. La dottrina dell’autore in queste materie
+ci risparmia dal far cenno sulla preziosità del lavoro.</note>
+</bibl>
+        </sourceDesc>
+    </fileDesc>
+</teiHeader>
+        
+</teiCorpus>

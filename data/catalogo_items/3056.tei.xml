@@ -1,0 +1,30 @@
+  <teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+    <fileDesc>
+                <titleStmt>
+            <title>Catalogo Cicognara Number {$ciconum}</title>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org</ref>
+            </publisher>
+            <idno type="cico">3056</idno>
+        </publicationStmt>
+        <sourceDesc>
+            <bibl><author>VICO</author>, <title>Le immagini con tutti i riversi trovati e le vite degl’imperatori tratte dalle medaglie e dalle historie degli
+antichi</title>, libro primo, <publisher>Eneas Vicus Parm.</publisher> fec., an. <date>1548</date>.
+<note>Altro esemplare di prima freschezza e di mirabi1e intaglio, su cui di mano autografa è riportata la versione in
+latino e molte correzioni della stessa opera che non fu poi riprodotta; e dal millesimo egualmente emendato,
+vedesi che doveva pubblicarsi nel 1552 sostituendosi nel frontespizio all’arme del Zantani quella di S. Marco.
+Essendo levate le carte di dedica, rimangono per conseguenza nel volume 55 foglietti. Il frontespizio e la prima
+medaglia di ciascuno dei 12 Cesari sono egregiamente figurate; le altre medaglie puramente intagliate senza
+ornamenti ed è illustrata la vita di ciascuno dei Cesari con brevi dichiarazioni. Doveva aver per titolo questa
+versione, come leggesi in cartellino: Divorum Caesarum verissimae imagines ex antiquis numismatibus
+desumptae etc.</note>
+</bibl>
+        </sourceDesc>
+    </fileDesc>
+</teiHeader>
+        
+</teiCorpus>

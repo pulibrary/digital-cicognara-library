@@ -1,0 +1,24 @@
+  <teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+    <fileDesc>
+                <titleStmt>
+            <title>Catalogo Cicognara Number {$ciconum}</title>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org</ref>
+            </publisher>
+            <idno type="cico">1797</idno>
+        </publicationStmt>
+        <sourceDesc>
+            <bibl><author>SOLERII Anselmi</author>, <title>De Pileo, caeterisque capitis tegminibus</title>, <pubPlace>Amstelodami</pubPlace><date> 1671</date>.
+  <note>— Accedit Bossii Hieronimi, De toga romana commentarius, Amstelod. 1671, in 12, fig.
+     Con belle e numerose tavole a’ luoghi citati nel testo e con elegante frontespizio intagliato da R. de Hooge.</note>
+  
+  </bibl>
+        </sourceDesc>
+    </fileDesc>
+</teiHeader>
+        
+</teiCorpus>

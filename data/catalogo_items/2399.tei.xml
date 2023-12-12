@@ -1,0 +1,26 @@
+  <teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+    <fileDesc>
+                <titleStmt>
+            <title>Catalogo Cicognara Number {$ciconum}</title>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org</ref>
+            </publisher>
+            <idno type="cico">2399</idno>
+        </publicationStmt>
+        <sourceDesc>
+            <bibl><author>VEDRIANI Lodovico</author>, <title>Raccolta de’ pittori, scultori, architetti modenesi più celebri</title>, <pubPlace>Modena</pubPlace>
+    <date>1622</date>, in ottavo.
+    <bibl>— Aggiuntivi: <title>I Dottori Modanesi dello stesso</title>, <date>1665</date>, figurato.<note>
+    Trovasi nel nostro esemplare il prospetto laterale e la facciata della chiesa Cattedrale e una terza tavola colla
+    elevazione della torre, che mancano sovente agli esemplari.</note>
+    </bibl>
+    </bibl>
+        </sourceDesc>
+    </fileDesc>
+</teiHeader>
+        
+</teiCorpus>

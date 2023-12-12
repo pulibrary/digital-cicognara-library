@@ -1,0 +1,22 @@
+  <teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+    <fileDesc>
+                <titleStmt>
+            <title>Catalogo Cicognara Number {$ciconum}</title>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org</ref>
+            </publisher>
+            <idno type="cico">2506</idno>
+        </publicationStmt>
+        <sourceDesc>
+            <bibl><author>WINCKELMANN</author>, <title>Monumenti antichi inediti spiegati ed illustrati</title>, <pubPlace>Roma</pubPlace> <date>1767</date>, in fol., fig., vol. 3.
+<note>Il terzo volume composto di sette opuscoli da varj eruditi va sempre unito all’opera precedente e sono i seguenti.</note></bibl><bibl>—<author> Raffei Stefano</author>, <title>Saggio di osservazioni sopra un basso rilievo di Villa Albani; e osservazioni sopra un altro
+monumento della medesima Villa</title>, <pubPlace>Roma</pubPlace> <date>1773</date>.</bibl><bibl>— <title>Dissertazione sopra un singolar combattimento in basso rilievo nella Villa Albani</title>.</bibl><bibl>— <title>Filottete addolorato; altro basso rilievo come sopra</title>.</bibl><bibl>— <title>Il Nido. Canzone Didascalica con note sopra un antico nido di marmo in Villa Albani</title>, <date>1778</date>.</bibl><bibl>— Osservazioni sopra alcuni antichi monumenti di Villa Albani, Roma 1779 </bibl><bibl>— Statua camminante per l’aria, simulacri astriferi, sacerdote egizio, Osiride, statua egizia Averrunca.</bibl><bibl>Osservazioni sovra un Apolline ec.</bibl>
+        </sourceDesc>
+    </fileDesc>
+</teiHeader>
+        
+</teiCorpus>

@@ -1,0 +1,21 @@
+  <teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+    <fileDesc>
+                <titleStmt>
+            <title>Catalogo Cicognara Number {$ciconum}</title>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org</ref>
+            </publisher>
+            <idno type="cico">2733</idno>
+        </publicationStmt>
+        <sourceDesc>
+            <bibl><author>ANSALDI Casti Innocentii</author>, <title>Epistola de Tarsensi Hercule in viridi jaspide insculpto</title>, <pubPlace>Brixjae</pubPlace> <date>1749</date>, in 4, fig., M. 65.
+</bibl>
+        </sourceDesc>
+    </fileDesc>
+</teiHeader>
+        
+</teiCorpus>

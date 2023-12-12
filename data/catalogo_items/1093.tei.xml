@@ -1,0 +1,30 @@
+  <teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+    <fileDesc>
+                <titleStmt>
+            <title>Catalogo Cicognara Number {$ciconum}</title>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org</ref>
+            </publisher>
+            <idno type="cico">1093</idno>
+        </publicationStmt>
+        <sourceDesc>
+            <bibl><author>FLAXMAN</author>, <title>Compositions from the tragedies of Eschylus designed by John Flaxman, engraved
+      by Thomas Piroli</title>, tav. 30.
+      — Aggiuntovi: <title>Iliade d’Homere gravée par Thomas Piroli d’après les dessins composés par
+      Jean Flaxman sculpteur à Rome</title>, 34 tav.
+      — Aggiuntovi: <title>Odyssée d’Homére gravée par Piroli d’après les dessins de Flaxman</title>, 28 tav.
+      <fw type="foot"/>
+                  <pb type="memofonte"/>
+                  <fw type="head"/>
+      
+                  <pb type="cico" n="194"/>
+               </bibl>
+        </sourceDesc>
+    </fileDesc>
+</teiHeader>
+        
+</teiCorpus>

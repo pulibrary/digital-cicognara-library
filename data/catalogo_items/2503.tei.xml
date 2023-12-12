@@ -1,0 +1,22 @@
+  <teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+    <fileDesc>
+                <titleStmt>
+            <title>Catalogo Cicognara Number {$ciconum}</title>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org</ref>
+            </publisher>
+            <idno type="cico">2503</idno>
+        </publicationStmt>
+        <sourceDesc>
+            <bibl><author>TACITI Cornelii</author>, <title>Opera</title>, quae extant. Lucius Lipsius postremum recensuit. <pubPlace>Antuerpiae</pubPlace>, ex officina Plautiniana,
+<date>1607</date>, in fol.
+</bibl>
+        </sourceDesc>
+    </fileDesc>
+</teiHeader>
+        
+</teiCorpus>

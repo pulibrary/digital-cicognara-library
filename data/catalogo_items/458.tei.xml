@@ -1,0 +1,34 @@
+  <teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+    <fileDesc>
+                <titleStmt>
+            <title>Catalogo Cicognara Number {$ciconum}</title>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org</ref>
+            </publisher>
+            <idno type="cico">458</idno>
+        </publicationStmt>
+        <sourceDesc>
+            <bibl>
+                     <author>CALDERARI Otone</author>, Aggiuntovi: <title>Becega Tommaso Carlo, Saggio sull’architettura grecoromana, applicata alla costruzione del Teatro Moderno Italiano e sulle macchine teatrali,</title>
+	                    <pubPlace>Venezia,</pubPlace> nella tipografia di Alvisopoli, <date>1817,</date>
+                     <extent> in fol. mass. figurato.</extent>
+	                    <note>Le tavole del Calderari potevano essere eseguite con più diligenza e più gusto anche per corrispondere alla
+	semplice ed elegante dettatura del testo e alla nobiltà dei tipi. Le opere di questo amore sono pregevolissime e
+	fanno conoscere come fosse egli allevato nella patria di Palladio; 46 tavole comprende il primo volume e 45 ne
+	comprende il secondo. Finisce quest’opera con un avviso degli editori intorno al trattato degli ordini
+	d’architettura, che sarà pubblicato in 4, corredato di 60 tavole, opera elaboratissima e profonda di questo
+	dottissimo architetto.</note>
+	                    <note>In cinque gran tavole, e in 40 pagine di testo il sig Becega presenta alcune nuove e sue particolari teorie, che ove
+	reggessero alla pratica esecuzione senza incontrare inconvenienti, servirebbero alla costruzione di teatri d’una tal
+	grandiosa magnificenza da venire a gara coi spettacoli dell’antica Roma. Ma le odierne abitudini, e la forza di
+	mezzi privati non sembrano conciliarsi con quelle ipotesi.</note>
+                  </bibl>
+        </sourceDesc>
+    </fileDesc>
+</teiHeader>
+        
+</teiCorpus>

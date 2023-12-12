@@ -1,0 +1,27 @@
+  <teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+    <fileDesc>
+                <titleStmt>
+            <title>Catalogo Cicognara Number {$ciconum}</title>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org</ref>
+            </publisher>
+            <idno type="cico">1399</idno>
+        </publicationStmt>
+        <sourceDesc>
+            <bibl><author>FONTANA Publio</author>, <title>Il sontuoso apparato fatto dalla magnifica città di Brescia nel felice ritorno
+    del Cardinale Morosini</title>, con la sposizione dei sensi simbolici ivi contenuti, <pubPlace>Brescia</pubPlace>, presso
+    <publisher>Vincenzo Sabio</publisher>, <date>1591</date>, in fog. fig.
+    <note>Monsig. Publio Fontana estese il testo: Giulio Todeschini architetto e Tommaso Buona pittore furono gli
+    inventori degli apparati ed archi in 12 tavole rappresentati, non compresa quella del frontespizio.</note>
+    MDXCIV
+    
+    </bibl>
+        </sourceDesc>
+    </fileDesc>
+</teiHeader>
+        
+</teiCorpus>

@@ -1,0 +1,27 @@
+  <teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+    <fileDesc>
+                <titleStmt>
+            <title>Catalogo Cicognara Number {$ciconum}</title>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org</ref>
+            </publisher>
+            <idno type="cico">151</idno>
+        </publicationStmt>
+        <sourceDesc>
+            <bibl>
+                     <author>LAIRESSE Gerard</author>,
+                     <title> il gran libro dei pittori stampato in olandese,</title> 
+                     <pubPlace>Amsterdam</pubPlace> 
+                     <date>1716,</date> 
+                     <extent>vol. 2 in 1
+	  tomo figurato.</extent>
+                  </bibl>
+        </sourceDesc>
+    </fileDesc>
+</teiHeader>
+        
+</teiCorpus>

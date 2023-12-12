@@ -1,0 +1,29 @@
+  <teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+    <fileDesc>
+                <titleStmt>
+            <title>Catalogo Cicognara Number {$ciconum}</title>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org</ref>
+            </publisher>
+            <idno type="cico">2660</idno>
+        </publicationStmt>
+        <sourceDesc>
+            <bibl><author>CICOGNARA Leopoldo</author>, <title>Dei Propilei e dell’inutilità e dei danni dei perni metallici nella costruzione degli edifizi</title>,
+<fw type="foot"/>
+                     <pb type="memofonte"/>
+                     <fw type="head"/>
+<pubPlace>Venezia</pubPlace> <date>1814</date>, in 4, fig., M. 77.
+<note>Edizione di cui non furono stampati che 50 esemplari e fu intitolata alla regina di Napoli. Prese motivo l’autore
+di estendere questa memoria da alcuni fragmenti di perni di legno recati dal sig. Dodwel di ritorno da’ suoi
+viaggi in Grecia, appunto in seguito d’esser caduta una delle colonne de’ Propilei mentre egli soggiornava in
+Atene.</note>
+</bibl>
+        </sourceDesc>
+    </fileDesc>
+</teiHeader>
+        
+</teiCorpus>

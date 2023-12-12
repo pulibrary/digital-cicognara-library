@@ -1,0 +1,23 @@
+  <teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+    <fileDesc>
+                <titleStmt>
+            <title>Catalogo Cicognara Number {$ciconum}</title>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org</ref>
+            </publisher>
+            <idno type="cico">1996</idno>
+        </publicationStmt>
+        <sourceDesc>
+            <bibl><author>BOISSARDI Jani Jacobi</author>, <title>Vite et icones sultanorum turcicorum, principum persarum,
+  aliorumque illustrium etc ab ab Osmane usque ad Mahometum secundum</title>, incisa: a Theod. de
+  Bry, tab. 47, <pubPlace>Francfurti</pubPlace> <date>1586</date>, in 4, fig.
+  </bibl>
+        </sourceDesc>
+    </fileDesc>
+</teiHeader>
+        
+</teiCorpus>

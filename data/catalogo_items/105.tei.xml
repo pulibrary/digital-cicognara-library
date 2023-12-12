@@ -1,0 +1,29 @@
+  <teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+    <fileDesc>
+                <titleStmt>
+            <title>Catalogo Cicognara Number {$ciconum}</title>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org</ref>
+            </publisher>
+            <idno type="cico">105</idno>
+        </publicationStmt>
+        <sourceDesc>
+            <bibl>
+                     <author>COYPEL Charles</author>,
+                     <title> Discours sur la peinture prononcé dans les conferences de l’Accadémie
+	  Royale, sur la necessité de recevoir des avis,</title>
+                     <pubPlace> Paris</pubPlace>
+                     <date> 1732,</date>
+                     <extent> in 4. </extent>Aggiuntovi: <title>costituzioni della
+	  R.Accademia di Pittura, scultura, architettura, istituita in Parma</title>
+                     <date> 1760.</date>
+                  </bibl>
+        </sourceDesc>
+    </fileDesc>
+</teiHeader>
+        
+</teiCorpus>

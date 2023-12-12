@@ -1,0 +1,28 @@
+  <teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+    <fileDesc>
+                <titleStmt>
+            <title>Catalogo Cicognara Number {$ciconum}</title>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org</ref>
+            </publisher>
+            <idno type="cico">1200</idno>
+        </publicationStmt>
+        <sourceDesc>
+            <bibl><author>QUIRINI Angeli Mariae Cardinalis</author>, <title>Decas epistolarum quas desumptis plerumque earum
+    argumentis ex Vaticanae Bibliothecae MSS. ad eam illustrandam de more quotannis Brixia
+    accedens solivagas antea emiserat</title>, <pubPlace>Romae</pubPlace> <date>1743</date>, in 4, fig., M. 21.
+    <note>Sono queste dirette al Monfancon, al Mazzocchi, ad Apostolo Zeno, al Muratori, al Gori e ad altri letterati
+    insigni.</note>
+    
+    — <title>Tres Epistolae Nereo Card. Corsino Clementis XII ex fratre nepoti</title>, <pubPlace>Brixiae</pubPlace> <date>1741</date>, in 4, M.
+    21.
+    </bibl>
+        </sourceDesc>
+    </fileDesc>
+</teiHeader>
+        
+</teiCorpus>

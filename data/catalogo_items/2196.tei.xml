@@ -1,0 +1,33 @@
+  <teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+    <fileDesc>
+                <titleStmt>
+            <title>Catalogo Cicognara Number {$ciconum}</title>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org</ref>
+            </publisher>
+            <idno type="cico">2196</idno>
+        </publicationStmt>
+        <sourceDesc>
+            <bibl><author>BALDINUCCI</author>, <title>Lettera al Mar. Capponi nella quale risponde ad alcuni quesiti in materia di
+    pittura</title>, <pubPlace>Firenze</pubPlace> <date>1787</date>, per <publisher>Pietro Marini</publisher>, in 4.
+    — <bibl>Aggiuntavi <title>la Veglia, dialogo di Sincero Veri</title>, <pubPlace>Firenze</pubPlace> <date>1690</date>.</bibl>
+    — <bibl>Aggiuntavi <title>la lezione letta nell’Accademia della Crusca nel gennaio 1691</title>, <pubPlace>Firenze</pubPlace> <date>1692</date>.</bibl>
+    — <bibl>Aggiunta <title>la lettera di Mess. Bartolommeo Ammannati scritta agli Accademici del
+    Disegno</title>, <pubPlace>Firenze</pubPlace> <date>1687</date>.</bibl>
+    <note>Tutti questi opuscoli sono rarissimi a trovarsi nell’edizione originale.</note>
+    
+    — <bibl>Con altre <title>due lettere del Baldinucci a Lorenzo Gualtieri sopra i pittori più celebri del
+    secolo XVI e la lettera a Monsig. Salviati intorno al modo di dar proporzione alle figure</title>,
+    pubblicata dal <publisher>Poggiali</publisher>, <pubPlace>Livorno</pubPlace> <date>1802</date>.
+    Tutto legato in un solo volume.</bibl>
+    
+    </bibl>
+        </sourceDesc>
+    </fileDesc>
+</teiHeader>
+        
+</teiCorpus>

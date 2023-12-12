@@ -1,0 +1,103 @@
+  <teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+    <fileDesc>
+                <titleStmt>
+            <title>Catalogo Cicognara Number {$ciconum}</title>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org</ref>
+            </publisher>
+            <idno type="cico">3682</idno>
+        </publicationStmt>
+        <sourceDesc>
+            <bibl><author>CORRADINO Petrus Marcellinus, et Josepho Roccus Vulpius</author>, <title>Vetus Latium sacrum, et profanum</title>, <pubPlace>Romae et Patavii</pubPlace>
+<date>dal 1704 al 1745</date>, in 4, fig., tomi 10 legati in 11 vol.
+<note>Il Corradini stampò i primi due volumi a Roma coi tipi di Francesco Gonzaga negli anni 1704 e 1705. Venne in
+seguito proseguita quest’opera dal padre Volpi, e i cinque volumi susseguenti furono impressi a Padova dal
+Comino. Il volume ottavo, il nono, e il decimo diviso in due tomi, furono pubblicati da Barnabò, e Lazzari. Opera
+preziosa pel modo con cui venne scritta, e per le preziose notizie, e per la critica, e monumenti in essa raccolti. Le
+molte tavole stanno fra il testo intagliate in rame. Questo corso, che tale può dirsi, di antichità romane mai non
+venne ristampato, e si è reso sempre più prezioso; e i tipi che lo produssero sono della maggior nitidezza.
+Il primo volume, di cui mancarono presto gli esemplari, venne ristampato con la data del 1748: ma non fu allora
+impressa la dedica a Clemente XI. Il nostro esemplare non manca di alcuna prerogativa per renderlo prezioso.
+COSATTI Lelio. Vedi Raccolta di scrittori sulla cupola di S. Pietro.</note>
+</bibl>
+        </sourceDesc>
+    </fileDesc>
+</teiHeader>
+        <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:local="http://library.princeton.edu" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Vetus Latium profanum &amp; sacrum [microform] / auctore Petro Marcellino Corradino ...</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Volpi, Giuseppe Rocco, 1692-1746.</authority>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <authority>Leopoldo Cicognara Program (University of Illinois at Urbana-Champaign)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985420433506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/tr1r59</idno>
+            <idno type="URI">http://portal.getty.edu/api/dd4z02</idno>
+            <idno type="URI">http://portal.getty.edu/api/8v7m4x</idno>
+            <idno type="URI">http://portal.getty.edu/api/jk2z3q</idno>
+            <idno type="URI">http://portal.getty.edu/api/6x303x</idno>
+            <idno type="URI">http://portal.getty.edu/api/sj9t6x</idno>
+            <idno type="URI">http://portal.getty.edu/api/tx851d</idno>
+            <idno type="URI">http://portal.getty.edu/api/h70v6v</idno>
+            <idno type="URI">http://portal.getty.edu/api/sr3078</idno>
+            <idno type="URI">http://portal.getty.edu/api/005t7f</idno>
+            <idno type="URI">http://portal.getty.edu/api/4c2s7w</idno>
+            <idno type="URI">http://portal.getty.edu/api/5m9655</idno>
+            <idno type="URI">http://portal.getty.edu/api/608p0x</idno>
+            <idno type="cico">3682</idno>
+            <idno type="dcl">vjz</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Vetus Latium profanum &amp; sacrum [microform] / auctore Petro Marcellino Corradino ...</title>
+                  <respStmt>
+                     <persName>Corradini, Pietro Marcellino, 1658-1743.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Latin</textLang>
+                  <imprint>
+                     <publisher>Romae : Per Franciscum Gonzagam</publisher>
+                     <pubPlace>Campagna di Roma (Italy)</pubPlace>
+                     <pubPlace>Lazio (Italy)</pubPlace>
+                     <date>1704-45</date>
+                     <date>1704</date>
+                  </imprint>
+                  <extent>10 v.</extent>
+                  <extent>61 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/1795e37b-4f78-48b3-91e5-4de44c90b4d2/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Campagna di Roma (Italy) -- Antiquities -- Early works to 1800.</term>
+               <term>Lazio (Italy)</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/1795e37b-4f78-48b3-91e5-4de44c90b4d2/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

@@ -1,0 +1,22 @@
+  <teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+    <fileDesc>
+                <titleStmt>
+            <title>Catalogo Cicognara Number {$ciconum}</title>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org</ref>
+            </publisher>
+            <idno type="cico">1367</idno>
+        </publicationStmt>
+        <sourceDesc>
+            <bibl><author>ZANOTTI Francesco Maria</author>, <title>Orazione in lode della pittura, della scultura e dell’architettura</title>,
+    recitata in Campidoglio i 25 Maggio 1760, con due altre orazioni d’incerti autori, in <pubPlace>Bologna</pubPlace>,
+               per <publisher>Lelio della Volpe</publisher>, <date>1760</date>, in 8.</bibl>
+        </sourceDesc>
+    </fileDesc>
+</teiHeader>
+        
+</teiCorpus>

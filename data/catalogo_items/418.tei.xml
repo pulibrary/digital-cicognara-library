@@ -1,0 +1,27 @@
+  <teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+    <fileDesc>
+                <titleStmt>
+            <title>Catalogo Cicognara Number {$ciconum}</title>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org</ref>
+            </publisher>
+            <idno type="cico">418</idno>
+        </publicationStmt>
+        <sourceDesc>
+            <bibl>BAROZZIO Giacomo da Vignola, <title>Regola delli cinque ordini d’architettura colla <pb type="cico" n="75"/>nuova
+	aggiunta di Michel Angelo Buonarrotti,</title> 
+                     <pubPlace>Arnhem</pubPlace> 
+                     <date>1620,</date> 
+                     <extent>in fol. fig.</extent>
+	                    <note>Il testo di quest’opera è in italiano, olandese, francese e tedesco, distribuita in 42 tavole, la quale a dir vero è una
+	assai bella imitazione delle anteriori buone edizioni italiane. Vedi d’Avilar e Labacco.</note>
+                  </bibl>
+        </sourceDesc>
+    </fileDesc>
+</teiHeader>
+        
+</teiCorpus>

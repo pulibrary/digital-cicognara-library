@@ -1,0 +1,29 @@
+  <teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+    <fileDesc>
+                <titleStmt>
+            <title>Catalogo Cicognara Number {$ciconum}</title>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org</ref>
+            </publisher>
+            <idno type="cico">2954</idno>
+        </publicationStmt>
+        <sourceDesc>
+            <bibl><author>ORTELII Abrahami</author>, <title>Deorum, Dearumque capita ex vetustis numismatibus</title>, 
+                       <pubPlace> Antuerpiae</pubPlace> <date>1572</date>, sic in parv., fig., M.
+1.
+<note>Questi intagli in rame a guisa di medaglioni sono eseguiti con eccessiva libertà e sono posti in centro di
+altrettante cartelle e compartimenti ornamentali e figurati. Dopo il frontespizio intagliato, segue la dedica del
+volume a Giovanni Sambuco, a tergo sono alcuni versi latini, nel terzo foglietto è un avviso ai lettori, nel quarto
+sono citati li scrittori che descrissero istorie e imagini delle divinità. Poi seguono cinquantanove foglietti colle
+tavole, in fine nell’ultimo è il catalogo delle medaglie e a tergo il nome e l’anno dello stampatore. Antuerpiae
+ excudebat ann. 1582.</note>
+</bibl>
+        </sourceDesc>
+    </fileDesc>
+</teiHeader>
+        
+</teiCorpus>

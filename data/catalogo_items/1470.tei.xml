@@ -1,0 +1,28 @@
+  <teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+    <fileDesc>
+                <titleStmt>
+            <title>Catalogo Cicognara Number {$ciconum}</title>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org</ref>
+            </publisher>
+            <idno type="cico">1470</idno>
+        </publicationStmt>
+        <sourceDesc>
+            <bibl><author>MACIGNI Manfr.</author>, <title>Esequie del Sereniss. Ferdinando II, Gran Duca di Toscana celebrate in
+    Firenze dal Gran Duca Cosimo III</title>, descritte da Manfredi Macigni, <pubPlace>Firenze</pubPlace> <date>1671</date>, in 4, fig.
+    <note>Le composizioni, allusioni ec. furono di Andrea Cavalcanti, Carlo Dati, Francesco Redi, Francesco Doni,
+    Lorenzo Magalotti e Vincenzo da Filicaja; Ferdinando Tacca architetto ornò a tal uopo il tempio di S. Lorenzo.
+    Giovan Battista Falda fece le due belle tavole in foglio dei prospetti che veggonsi: <pb type="cico" n="252"/> e l’orazione funebre
+    che leggei in fine fu scritta da Luigi Rucellai.</note>
+    MDCLXXV
+    
+    </bibl>
+        </sourceDesc>
+    </fileDesc>
+</teiHeader>
+        
+</teiCorpus>

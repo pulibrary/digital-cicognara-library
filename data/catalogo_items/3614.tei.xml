@@ -1,0 +1,26 @@
+  <teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+    <fileDesc>
+                <titleStmt>
+            <title>Catalogo Cicognara Number {$ciconum}</title>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org</ref>
+            </publisher>
+            <idno type="cico">3614</idno>
+        </publicationStmt>
+        <sourceDesc>
+            <bibl><author>BENEDICTI Papae XIV</author>,<title> Litterae apostolicae pro aperitione Musei Vaticani</title>, 
+                        <pubPlace>Romae</pubPlace> <date>1757</date>, in 4, M. 5.
+<bibl>— <title>Litterae apostolicae quibus antiquum urbis Pantheon Pontificum romanorum tutela suscipitur ejusque fabricae
+conservatio apostolicarum aedium praefecto committitur, palatii apostolici sumptibus procuranda</title>, <pubPlace>Romae</pubPlace> <date>1757</date>, in
+4, M. 5.</bibl>
+<pb type="cico" n="175"/>
+</bibl>
+        </sourceDesc>
+    </fileDesc>
+</teiHeader>
+        
+</teiCorpus>

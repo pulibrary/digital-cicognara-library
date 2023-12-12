@@ -1,0 +1,22 @@
+  <teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+    <fileDesc>
+                <titleStmt>
+            <title>Catalogo Cicognara Number {$ciconum}</title>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org</ref>
+            </publisher>
+            <idno type="cico">3290</idno>
+        </publicationStmt>
+        <sourceDesc>
+            <bibl><author>ORLANDI Oratio</author>, <title>Le nozze di Paride e d’Elena rappresentate in un vaso antico</title>, <pubPlace>Roma</pubPlace> <date>1775</date>, in f., fig.
+<note>Con due tavole intagliale in rame. Il vaso era nel museo del sig. Tommaso Jenkins, M. 87.</note>
+</bibl>
+        </sourceDesc>
+    </fileDesc>
+</teiHeader>
+        
+</teiCorpus>

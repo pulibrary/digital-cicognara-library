@@ -1,0 +1,23 @@
+  <teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+    <fileDesc>
+                <titleStmt>
+            <title>Catalogo Cicognara Number {$ciconum}</title>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org</ref>
+            </publisher>
+            <idno type="cico">3553</idno>
+        </publicationStmt>
+        <sourceDesc>
+            <bibl><author>De ROSSI Giovan Gherardo</author>, <title>Lettera sopra un monumento recentemente scolpito dall’illustre scultore sig. Antonio
+Canova. Questo monumento è per l’ammiraglio vene <pb type="cico" n="164"/> to Emo</title>, <pubPlace>Bassano</pubPlace> <date>1795</date>, in 8. Aggiuntovi il decreto
+del Senato veneto per detto monumento, M. 87.
+</bibl>
+        </sourceDesc>
+    </fileDesc>
+</teiHeader>
+        
+</teiCorpus>

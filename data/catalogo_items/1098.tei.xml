@@ -1,0 +1,25 @@
+  <teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+    <fileDesc>
+                <titleStmt>
+            <title>Catalogo Cicognara Number {$ciconum}</title>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org</ref>
+            </publisher>
+            <idno type="cico">1098</idno>
+        </publicationStmt>
+        <sourceDesc>
+            <bibl><author>GIULIO Cesare</author>, <title>I Commentari con le figure in rame fatte da Andrea Palladio per facilitare a
+      chi legge la cognizion dell’historia</title>, <pubPlace>Venezia</pubPlace>, per <publisher>il Franceschi</publisher>, <date>1573</date>, in 4, fig.
+      <note>La versione e all’incirca quella del Baldelli; avvi una dedicatoria e un proemio di Palladio stesso e 42 tavole in
+      rame: prima e pregiata edizione.</note>
+      
+      </bibl>
+        </sourceDesc>
+    </fileDesc>
+</teiHeader>
+        
+</teiCorpus>

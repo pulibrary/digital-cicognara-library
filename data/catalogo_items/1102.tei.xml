@@ -1,0 +1,24 @@
+  <teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+    <fileDesc>
+                <titleStmt>
+            <title>Catalogo Cicognara Number {$ciconum}</title>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org</ref>
+            </publisher>
+            <idno type="cico">1102</idno>
+        </publicationStmt>
+        <sourceDesc>
+            <bibl><author>HORATII Flacci</author>, <title>Opera vol. 2</title> in 8, g., <pubPlace>Londini</pubPlace> aeneis tabulis incidit <publisher>Johannes Pine</publisher>, <date>1733</date>,
+      esemplare in mar. dor.
+      <note>Tuttociò che tende ad illustrare questa splendida edizione trovasi già nei bibliografi.</note>
+      
+      </bibl>
+        </sourceDesc>
+    </fileDesc>
+</teiHeader>
+        
+</teiCorpus>

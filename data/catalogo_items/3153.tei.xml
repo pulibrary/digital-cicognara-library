@@ -1,0 +1,23 @@
+  <teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+    <fileDesc>
+                <titleStmt>
+            <title>Catalogo Cicognara Number {$ciconum}</title>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org</ref>
+            </publisher>
+            <idno type="cico">3153</idno>
+        </publicationStmt>
+        <sourceDesc>
+            <bibl><author>VITALE Antonii</author>, <title>In binas veteres inscriptiones L. Aurelii Commodi imp. aetate positas, Romae recens detectas.
+Dissertatio, qua gladiatorum materia fere tota enucleatur</title>, <pubPlace>Romae</pubPlace> <date>1763</date>, in 4, fig., M. 18.
+<note>Con una tavola intagliata in rame.</note>
+</bibl>
+        </sourceDesc>
+    </fileDesc>
+</teiHeader>
+        
+</teiCorpus>

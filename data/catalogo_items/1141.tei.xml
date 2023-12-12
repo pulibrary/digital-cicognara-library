@@ -1,0 +1,25 @@
+  <teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+    <fileDesc>
+                <titleStmt>
+            <title>Catalogo Cicognara Number {$ciconum}</title>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org</ref>
+            </publisher>
+            <idno type="cico">1141</idno>
+        </publicationStmt>
+        <sourceDesc>
+            <bibl><author>BONI Onofrio</author>, Cavaliere Onofrio. <title>Lettera al chiarissimo sig. Abate Gaetano Marini</title>, prefetto
+    degli archivi segreti della S. Sede e primo custode della Biblioteca Vaticana sui tempi
+    monopteri degli antichi e su qualche altro oggetto di Belle Arti, <pubPlace>Firenze</pubPlace> <date>1804</date>, in 8. M. 31.
+    <note>Con una tavola in principio.</note>
+    
+    </bibl>
+        </sourceDesc>
+    </fileDesc>
+</teiHeader>
+        
+</teiCorpus>

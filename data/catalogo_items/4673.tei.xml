@@ -1,0 +1,26 @@
+  <teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+    <fileDesc>
+                <titleStmt>
+            <title>Catalogo Cicognara Number {$ciconum}</title>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org</ref>
+            </publisher>
+            <idno type="cico">4673</idno>
+        </publicationStmt>
+        <sourceDesc>
+            <bibl><author>BALTHUS le P.</author>, <title>Suite de la reponse à l’histoire des oracles, dans la quelle on refute les objections inserées dans le
+XIII tome de la Bibliotheque Choisie, et dans l’article II de la République des let <pb type="cico" n="319"/>tres du mois de Juin
+1707 etc.</title>, a <pubPlace>Strasbourg</pubPlace> <date>1708</date>, in 8.
+<note>Quest’opera assai dotta, e ben ordinata, che sparge gran luce su molti misteri dell’antichità, è annunciata nel
+frontespizio come anonima, e ne abbiamo indicato l’autore per la nota appostavi da M. Villoison cui questo
+esemplare appartenne.</note>
+</bibl>
+        </sourceDesc>
+    </fileDesc>
+</teiHeader>
+        
+</teiCorpus>

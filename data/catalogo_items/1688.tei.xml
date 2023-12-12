@@ -1,0 +1,25 @@
+  <teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+    <fileDesc>
+                <titleStmt>
+            <title>Catalogo Cicognara Number {$ciconum}</title>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org</ref>
+            </publisher>
+            <idno type="cico">1688</idno>
+        </publicationStmt>
+        <sourceDesc>
+            <bibl><author>LICETI Fortunii</author>, <title>De annulis antiquis liber singularis</title>, <pubPlace>Utini</pubPlace> <note>1645</note>, in 8, fig.
+    <note>Con due belle tavole di anelli intagliate da Giovanni Giorgi in numero di 40, compresavi una medaglia con
+    ritratto bellissi <pb type="cico" n="291"/> mo, forse dell’autore. L’opera è però prolissa e tratta troppi argomenti estranei per
+    intemperanza di erudizione.</note>
+    
+    </bibl>
+        </sourceDesc>
+    </fileDesc>
+</teiHeader>
+        
+</teiCorpus>

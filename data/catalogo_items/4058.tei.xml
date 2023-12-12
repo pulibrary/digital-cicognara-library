@@ -1,0 +1,27 @@
+  <teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+    <fileDesc>
+                <titleStmt>
+            <title>Catalogo Cicognara Number {$ciconum}</title>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org</ref>
+            </publisher>
+            <idno type="cico">4058</idno>
+        </publicationStmt>
+        <sourceDesc>
+            <bibl><author>PANCIROLI Guidi</author>, <title>(Sebbene annunciato col frontespizio seguente), Notizia utraque tum Orientis tum Occidentis
+ultra Arcadii, Honoriique Caesarum tempora, illustre vetustatis monumentum, imo thesaurus prorsum
+imcomparabilis. Praecedit D. Andreae Alciati libellus: De magistratibus, civilibusque ac militaribus officiis.
+Succedit descriptio urbis Romae, et altera urbis Constantinopolitanae incerto auctore. Subjungitur vetustus liber
+de rebus bellicis ad Theodosium Aug. et filios ejus Arcadium, atque Honorium incerto auctore</title>, <pubPlace>Basileae</pubPlace> <date>1552</date>, in
+fol., fig.
+<note>Con numerose tavole in legno distribuite fra il testo.</note>
+</bibl>
+        </sourceDesc>
+    </fileDesc>
+</teiHeader>
+        
+</teiCorpus>

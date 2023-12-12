@@ -1,0 +1,28 @@
+  <teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+    <fileDesc>
+                <titleStmt>
+            <title>Catalogo Cicognara Number {$ciconum}</title>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org</ref>
+            </publisher>
+            <idno type="cico">501</idno>
+        </publicationStmt>
+        <sourceDesc>
+            <bibl>
+                     <author>FEA (Carlo)</author>, 
+                     <title>Progetto per una nuova edizione dell’architettura di Vitruvio,</title> 
+                     <pubPlace>Roma</pubPlace> 
+                     <date>1788,</date>
+                     <extent> in 8.</extent>
+                     <!--Example of tagging printing details?-->
+	Aggiuntovi il manifesto d’associazione per la Storia delle Arti del Disegno di Winkelmann
+	fatta in Roma 1782, in 8, M. 62 e 31.</bibl>
+        </sourceDesc>
+    </fileDesc>
+</teiHeader>
+        
+</teiCorpus>

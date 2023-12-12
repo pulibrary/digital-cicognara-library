@@ -1,0 +1,25 @@
+  <teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+    <fileDesc>
+                <titleStmt>
+            <title>Catalogo Cicognara Number {$ciconum}</title>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org</ref>
+            </publisher>
+            <idno type="cico">1834</idno>
+        </publicationStmt>
+        <sourceDesc>
+            <bibl><author>ASCIATI Andreae</author>, <title>Emblematum libellus</title>, <pubPlace>Parisiis</pubPlace>, ex officina <publisher>Christiani Wechelii</publisher>, <date>1640</date>, fig.,
+    in 12.
+    <note>Libretto elegante per gli intagli in legno: forse la prima edizione latina: sono le stampe 115, ma non giungono al
+       merito di quelle che servirono posteriormente per le edizioni di Lione, è sono del carattere dell’antica scuola.</note>
+    
+    </bibl>
+        </sourceDesc>
+    </fileDesc>
+</teiHeader>
+        
+</teiCorpus>

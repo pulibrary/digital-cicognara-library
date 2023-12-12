@@ -1,0 +1,23 @@
+  <teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+    <fileDesc>
+                <titleStmt>
+            <title>Catalogo Cicognara Number {$ciconum}</title>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org</ref>
+            </publisher>
+            <idno type="cico">2269</idno>
+        </publicationStmt>
+        <sourceDesc>
+            <bibl><author>GAMBA Bart.</author>, <title>Catalogo degli artisti bassanesi viventi in cui si <pb type="cico" n="387"/> descrivono alcune
+    delle migliori loro opere esposte in patria il dì 16 agosto 1807 per festeggiare il nome
+    dell’augusto nostro sovrano Napoleone il Grande</title>, <pubPlace>Bassano</pubPlace> <date>1807</date>, in 8. M. 88.
+    </bibl>
+        </sourceDesc>
+    </fileDesc>
+</teiHeader>
+        
+</teiCorpus>

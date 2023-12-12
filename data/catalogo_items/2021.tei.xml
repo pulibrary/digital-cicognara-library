@@ -1,0 +1,29 @@
+  <teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+    <fileDesc>
+                <titleStmt>
+            <title>Catalogo Cicognara Number {$ciconum}</title>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org</ref>
+            </publisher>
+            <idno type="cico">2021</idno>
+        </publicationStmt>
+        <sourceDesc>
+            <bibl><author>DOINO Canarino</author>, <title>Ritratti de’ serenissimi Principi di Este Signori di Ferrara con l’aggiunta dei
+  loro fatti più memorabili ridotti in sommario dal Sig. Ant; Cartola</title>, dedicati al Seren. Alfonso
+  IV Principe di Modena, <pubPlace>Ferrara</pubPlace>, per <publisher>Francesco Suzzi</publisher> <date>1641</date>, in 4, fig.
+  <note>Questo libretto i dice eximiae raritatis nell’analecta letteraria <pb type="cico" n="346"/> de libris rarioribus stampata a Lipsia nel
+  1750 a pag. 214. L’opera si presenta umilmente con tipi infelici, e mediocri tavole intagliate all’acqua forte. La
+  progenie estense ai trova intagliata a due figure per tavola in 13 tav. cominciando da Almerico I, Marchese di
+  Ferrara sino a Cesare I che cesse al Papa li stati senza difenderli, ritirandosi a Modena e facendosi cappuccino.
+  La rarità consisterà forse nel testo unito alle tavole, giacché noi possediamo altri due esemplari completi di
+  questa serie, ma senza il testo.</note>  
+  </bibl>
+        </sourceDesc>
+    </fileDesc>
+</teiHeader>
+        
+</teiCorpus>

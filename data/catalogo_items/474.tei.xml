@@ -1,0 +1,28 @@
+  <teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+    <fileDesc>
+                <titleStmt>
+            <title>Catalogo Cicognara Number {$ciconum}</title>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org</ref>
+            </publisher>
+            <idno type="cico">474</idno>
+        </publicationStmt>
+        <sourceDesc>
+            <bibl>
+                     <author>Du CERCEAU Jaques Androuet</author>,
+                     <title> Les plus excellents bâtimens de France, au quel sont designés
+	les plans de 15 bastimens et de leur contenu, ensemble les élévations et singularitée d’un
+	chascun, 2 vol.,</title>
+                     <pubPlace> Paris </pubPlace>
+                     <date>1607,</date>
+                     <extent> legati in uno in fol. fig.</extent>
+                  </bibl>
+        </sourceDesc>
+    </fileDesc>
+</teiHeader>
+        
+</teiCorpus>

@@ -1,0 +1,27 @@
+  <teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+    <fileDesc>
+                <titleStmt>
+            <title>Catalogo Cicognara Number {$ciconum}</title>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org</ref>
+            </publisher>
+            <idno type="cico">358</idno>
+        </publicationStmt>
+        <sourceDesc>
+            <bibl>
+                     <author>STELLA J.</author>,
+                     <title> Mesure et proportion du corps humaine par J. Stella,</title> 
+                     <pubPlace>Paris,</pubPlace> 
+                     <publisher>chez Daudet,</publisher>
+                     <extent> 17 Tavole
+	in contorno,</extent> le quali esprimono con maggior particolarità le proporzioni del corpo, che quelle
+	della figura umana.</bibl>
+        </sourceDesc>
+    </fileDesc>
+</teiHeader>
+        
+</teiCorpus>

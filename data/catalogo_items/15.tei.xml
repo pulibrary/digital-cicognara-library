@@ -1,0 +1,27 @@
+  <teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+    <fileDesc>
+                <titleStmt>
+            <title>Catalogo Cicognara Number {$ciconum}</title>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org</ref>
+            </publisher>
+            <idno type="cico">15</idno>
+        </publicationStmt>
+        <sourceDesc>
+            <bibl>
+                     <author>BROTIO Duacensi Nicol.</author>,
+                     <title> Libellus de utilitate et harmonia artium, Antuerpiæ, apud Simonem
+	  Cocum,</title>
+                     <date> A. 1541,</date> 
+                     <extent>8 fig.</extent>
+	                    <title>– Addito Libellus Compendiarum virtutis adipiscendæ ec. et carmina.</title>
+                  </bibl>
+        </sourceDesc>
+    </fileDesc>
+</teiHeader>
+        
+</teiCorpus>

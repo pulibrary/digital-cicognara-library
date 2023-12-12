@@ -1,0 +1,24 @@
+  <teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+    <fileDesc>
+                <titleStmt>
+            <title>Catalogo Cicognara Number {$ciconum}</title>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org</ref>
+            </publisher>
+            <idno type="cico">2652</idno>
+        </publicationStmt>
+        <sourceDesc>
+            <bibl><author>BIAGI Clemente</author>, <title>Monumenta graeca et latina ex Museo Jacobi Nanii illustrata</title>, <pubPlace>Romae</pubPlace> <date>1787</date>, in 4, fig.
+<note>In questo secondo volume sta indicato Exemplaria tantum CCL per lo che quest’opera eruditissima acquisterà
+pregio di rarità. Oltre le tavole sparse fra il testo in ambedue le opere, trovansi in quest’ultima al fine sette
+foglietti con molti monumenti intagliati.</note>
+</bibl>
+        </sourceDesc>
+    </fileDesc>
+</teiHeader>
+        
+</teiCorpus>

@@ -1,0 +1,28 @@
+  <teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+    <fileDesc>
+                <titleStmt>
+            <title>Catalogo Cicognara Number {$ciconum}</title>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org</ref>
+            </publisher>
+            <idno type="cico">578</idno>
+        </publicationStmt>
+        <sourceDesc>
+            <bibl> 
+                     <author>NAVONE Giovan Domenico</author> e <author>Cipriani Giovan Battista</author>, 
+                     <title>Nuovo metodo per apprendere le teorie
+	e le pratiche dell’architettura civile sopivi una nuova raccolto dei più cospicui esemplari di
+	Roma, misurati, ed incisi collo annotazioni dell’Abb. Niccola Mari,</title> 
+                     <pubPlace>Roma,</pubPlace> dai torchi di <publisher>Luigi
+	Perego Salvioni,</publisher> Parte I, <date>1794,</date> 
+                     <extent>in fol. fig.</extent>
+                  </bibl>
+        </sourceDesc>
+    </fileDesc>
+</teiHeader>
+        
+</teiCorpus>

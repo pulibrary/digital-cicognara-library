@@ -1,0 +1,25 @@
+  <teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+    <fileDesc>
+                <titleStmt>
+            <title>Catalogo Cicognara Number {$ciconum}</title>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org</ref>
+            </publisher>
+            <idno type="cico">965</idno>
+        </publicationStmt>
+        <sourceDesc>
+            <bibl><author>TORO J. B.</author>, <title>Trophée nouvellement inventé, suivi d’un livre des chartouches, et supports
+      d’ornements pour les armories grave par Guerard</title>: à la fin on y trouve l’elevation d’une
+      buffets d’orgues dains les principales eglises de France, in fol. fig.
+      <note>Sono in tutto 16 tavole di non cattiva esecuzione, non comuni, ma danneggiate nelle prime del volume.</note>
+      
+      </bibl>
+        </sourceDesc>
+    </fileDesc>
+</teiHeader>
+        
+</teiCorpus>

@@ -1,0 +1,28 @@
+  <teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+    <fileDesc>
+                <titleStmt>
+            <title>Catalogo Cicognara Number {$ciconum}</title>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org</ref>
+            </publisher>
+            <idno type="cico">2772</idno>
+        </publicationStmt>
+        <sourceDesc>
+            <bibl><author>De BIE Jacques</author>, <title>La France métallique, contenant les actions célebres des Rois, et des Reines, jusqu’à Lovis XIII</title>,
+2 vol. leg. in uno, <pubPlace>Paris</pubPlace> <date>1636</date>, avec un troisieme volume. Les familles de la France illustrées, Paris 1636, in fol.,
+fig.
+<note>Può questo libro piuttosto ritenersi fra gli emblemi, che fra le opere di numismatica. In quell’epoca tutto veniva
+contrassegnato colle dévises e il genio e lo studio sopratutto di de Bie, vi contribuì, o seppe meglio d’ogni altro
+adattarsi al gusto dell’età sua. 132 tavole sono nel primo volume; ma nel volume delle Famiglie Francesi
+illustrate le figure sono inserite fra il testo.</note> <pb type="cico" n="47"/>
+p. 47
+</bibl>
+        </sourceDesc>
+    </fileDesc>
+</teiHeader>
+        
+</teiCorpus>

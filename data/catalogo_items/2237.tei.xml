@@ -1,0 +1,25 @@
+  <teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+    <fileDesc>
+                <titleStmt>
+            <title>Catalogo Cicognara Number {$ciconum}</title>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org</ref>
+            </publisher>
+            <idno type="cico">2237</idno>
+        </publicationStmt>
+        <sourceDesc>
+            <bibl><author>CICOGNARA Leopoldo e BARUFFALDI Girolamo</author>, <title>Continuazione delle memorie istoriche dei
+    letterati ed artisti ferraresi preceduta da un ragionamento per confutazione al quadro storico
+    dell’alta Italia pubblicato dal Denina</title>, <pubPlace>Ferrara</pubPlace> <date>1811</date>.
+    <note>Le memorie sono del Baruffaldi, il ragionamento è del Cicognara.</note>
+    
+    </bibl>
+        </sourceDesc>
+    </fileDesc>
+</teiHeader>
+        
+</teiCorpus>

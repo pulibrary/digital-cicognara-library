@@ -1,0 +1,25 @@
+  <teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+    <fileDesc>
+                <titleStmt>
+            <title>Catalogo Cicognara Number {$ciconum}</title>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org</ref>
+            </publisher>
+            <idno type="cico">3964</idno>
+        </publicationStmt>
+        <sourceDesc>
+            <bibl><author>BOSSI Louis</author>, <title>Liste des principaux objets de sciences, et d’arts, recueillis en Italie par les commissaires du
+gouvernement français</title>, <pubPlace>Vénise</pubPlace> <date>1797</date>, M. 81.
+<note>Questo esemplare in foglio è in tutta la sua autenticità; poiché contrassegnato dalla mano dell’autore come
+aggiunto ai commissari francesi in quello spoglio: sono unite in fine alcune patere del Museo Borgiano di
+Velletri.</note>
+</bibl>
+        </sourceDesc>
+    </fileDesc>
+</teiHeader>
+        
+</teiCorpus>

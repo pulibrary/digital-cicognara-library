@@ -1,0 +1,27 @@
+  <teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+    <fileDesc>
+                <titleStmt>
+            <title>Catalogo Cicognara Number {$ciconum}</title>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org</ref>
+            </publisher>
+            <idno type="cico">1198</idno>
+        </publicationStmt>
+        <sourceDesc>
+            <bibl><author>QUIRINI (Angelo M. Card.)</author>, <title>Sermone detto nel nuovo Duomo di Brescia l’anno 1741</title>, <pubPlace>Brescia</pubPlace>
+    <date>1741</date>, in 4, fig., M. 21.
+    — <title>Litterae Apostolicae Clementis XII dilecto filio Angelo M. Quirino de Vaticanae
+    Bibliothecae incremento</title>. In 4, fig., M. 21.
+    — <title>Epistola ad Nicolaum Freretum de Diptyco Quiriniano</title>, <pubPlace>Brixiae</pubPlace><date>1743</date>, in 4, fig. M. 21. Vedi
+    <author>Passeri</author>.
+    — <title>Epistola Cortonensis Academiae sodalibus clarissimis</title>, <pubPlace>Romae</pubPlace> <date>1745</date>, in 4, M. 21.
+    </bibl>
+        </sourceDesc>
+    </fileDesc>
+</teiHeader>
+        
+</teiCorpus>

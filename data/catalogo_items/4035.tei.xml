@@ -1,0 +1,22 @@
+  <teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+    <fileDesc>
+                <titleStmt>
+            <title>Catalogo Cicognara Number {$ciconum}</title>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org</ref>
+            </publisher>
+            <idno type="cico">4035</idno>
+        </publicationStmt>
+        <sourceDesc>
+            <bibl><author>MAFFEI Scipionis</author>,<title> Galliae antiquitates quaedam selectae, atque in plures epistolas distributae ad parisinum
+exemplar iterum editae</title>. Accedunt epistolae duae, altera Sorbonicorum Doctorum ad auctorem hujus operis, altera
+March. Jo. Polenii de Olympico Theatro, <pubPlace>Veronae</pubPlace> <date>1734</date>, in 4.</bibl>
+        </sourceDesc>
+    </fileDesc>
+</teiHeader>
+        
+</teiCorpus>

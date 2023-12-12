@@ -1,0 +1,26 @@
+  <teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+    <fileDesc>
+                <titleStmt>
+            <title>Catalogo Cicognara Number {$ciconum}</title>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org</ref>
+            </publisher>
+            <idno type="cico">1923</idno>
+        </publicationStmt>
+        <sourceDesc>
+            <bibl><title>MICROCOSMOS, Parvus Mundus</title>, <pubPlace>Arnhemii</pubPlace>, apud <publisher>Jansonium</publisher>, sine anno, in 4, fig. Comincia il
+    libro con <bibl>una lettera così intitolata <title>Politioris litteraturae studiosis et picturae elegantioribus
+    amatoribus salutem plurimam Iberus Cunradi; osoris centra Nemesin.</title></bibl>
+    <note>Sono 74 tavole assai ben intagliale d’emblemi morali con motti e sentenze in versi stampate a tergo di ciascuna.
+    Il frontespizio non è compreso in questo numero.</note>
+    
+    </bibl>
+        </sourceDesc>
+    </fileDesc>
+</teiHeader>
+        
+</teiCorpus>

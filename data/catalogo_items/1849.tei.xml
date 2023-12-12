@@ -1,0 +1,26 @@
+  <teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+    <fileDesc>
+                <titleStmt>
+            <title>Catalogo Cicognara Number {$ciconum}</title>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org</ref>
+            </publisher>
+            <idno type="cico">1849</idno>
+        </publicationStmt>
+        <sourceDesc>
+            <bibl><author>BIVERII Petri</author>, <title>Sacrura Oratorium piarum imaginum Immaculatae Mariae et animae creatae,
+                     ars nova bene vivendi et moriendi</title>, <pubPlace>Antuerpiae</pubPlace>, ex officina <publisher>Plantiniana</publisher>, <date>1634</date>, in 4, fig.
+    <note>Opera divisa in 3 parti di presso che 500 pagine con 42 tavole allegoriche istoriate e quindici di emblemi in
+    un’appendice, oltre il frontespizio figurato. Le incisioni sono della maniera di Teod. Galle e molto nitide di
+    esecuzione. Mar. dor., esemplare della Bibl. Malborough.</note>
+    
+    </bibl>
+        </sourceDesc>
+    </fileDesc>
+</teiHeader>
+        
+</teiCorpus>

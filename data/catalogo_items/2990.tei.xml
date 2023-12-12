@@ -1,0 +1,24 @@
+  <teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+    <fileDesc>
+                <titleStmt>
+            <title>Catalogo Cicognara Number {$ciconum}</title>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org</ref>
+            </publisher>
+            <idno type="cico">2990</idno>
+        </publicationStmt>
+        <sourceDesc>
+            <bibl><author>RUHEL Christianus Frid.</author>, <title>Specimen primum de nummis romanorum veterum in splendidissimo thesauro
+Arnstadio-Schwartzburgico obviis</title>, <pubPlace>Francofurti</pubPlace> <date>1708</date>, in 8, fig.
+— <title>Addito specimen secundum philologiae numismatico-latinae</title>, <date>1708</date>, fig., M. 57.
+<note>Con due tavole in rame.</note>
+</bibl>
+        </sourceDesc>
+    </fileDesc>
+</teiHeader>
+        
+</teiCorpus>

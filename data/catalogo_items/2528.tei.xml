@@ -1,0 +1,29 @@
+  <teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+    <fileDesc>
+                <titleStmt>
+            <title>Catalogo Cicognara Number {$ciconum}</title>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org</ref>
+            </publisher>
+            <idno type="cico">2528</idno>
+        </publicationStmt>
+        <sourceDesc>
+            <bibl><author>KIRCHERII Athanasii</author>, <title>China monumentis sacris et profanis, nec non naturae et artis spectaculis illustrata</title>, Ant.
+<date>1667</date>, in fol., fig. Col ritratto dell’autore in fronte.
+<note>Le molte tavole, che sono sparse nelle opere di questo autore, i viaggi, gli studi, le nozioni di questo dottissimo
+frate infaticabile, rendono le sue opere pregevoli, quand’anche manchino spesso di critica; e quantunque la
+filosofia fosse lontana dagli immensi progressi che ha fatto in seguito, la posterità deve essergli riconoscente.</note>
+<fw type="foot"/>
+                     <pb type="memofonte"/>
+                     <fw type="head"/>
+
+                  </bibl>
+        </sourceDesc>
+    </fileDesc>
+</teiHeader>
+        
+</teiCorpus>

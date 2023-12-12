@@ -1,0 +1,22 @@
+  <teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+    <fileDesc>
+                <titleStmt>
+            <title>Catalogo Cicognara Number {$ciconum}</title>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org</ref>
+            </publisher>
+            <idno type="cico">3199</idno>
+        </publicationStmt>
+        <sourceDesc>
+            <bibl><author>CIAMPI Sebastiano</author>, <title>Due urne sepolcrali descritte e illustrate</title>, <pubPlace>Pisa</pubPlace> <date>1813</date>, fig., M. 34.
+<note>Con una tavola di bell’intaglio.</note>
+</bibl>
+        </sourceDesc>
+    </fileDesc>
+</teiHeader>
+        
+</teiCorpus>

@@ -1,0 +1,31 @@
+  <teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+    <fileDesc>
+                <titleStmt>
+            <title>Catalogo Cicognara Number {$ciconum}</title>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org</ref>
+            </publisher>
+            <idno type="cico">2493</idno>
+        </publicationStmt>
+        <sourceDesc>
+            <bibl><author>MONTFAUCON (de) D. Bernard</author>, <title>L’antiquité (en françois, et en latin), et représentée en figures.</title> <pubPlace>Paris</pubPlace> <date>1719</date>, 5 tom.
+en 10 vol., in fol., avec le supplément, Paris 1724, 5 vol., in fol., fig.
+<note>In questa grand’opera trovasi riunita e riprodotta una Biblioteca d’autori d’antichità, ma in alcuni rami è prolissa
+con inutilità e troppo di sovente espone l’oggetto puramente descrivendolo e non interpretandolo con
+accorgimento e con critica, senza portar luce nella oscurità e spianare gli ostacoli e le difficoltà. Opera eseguita
+con troppa fretta e che abbisognava di una scelta di dotti collaboratori, volendo abbracciare una sì vasta
+estensione. Manca intieramente di gusto anche nelle tavole spesso infedeli.</note>
+<fw type="foot"/>
+                     <pb type="memofonte"/>
+                     <fw type="head"/>
+
+                  </bibl>
+        </sourceDesc>
+    </fileDesc>
+</teiHeader>
+        
+</teiCorpus>

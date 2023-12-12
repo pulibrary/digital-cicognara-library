@@ -1,0 +1,28 @@
+  <teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+    <fileDesc>
+                <titleStmt>
+            <title>Catalogo Cicognara Number {$ciconum}</title>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org</ref>
+            </publisher>
+            <idno type="cico">664</idno>
+        </publicationStmt>
+        <sourceDesc>
+            <bibl> 
+                     <author>SERLIO Sebastiano</author>, 
+                     <title>Il primo e il secondo libro, Venezia per Cornelio de’ Nicolini da Sabbio a
+	istanza di Marchio Sessa senz’anno. Il terzo libro delle antichità per lo stesso stampatore
+	1551. Il quarto libro degli ordini, e il quinto dei templi per lo stesso stampatore,</title> 
+                     <date>1551,</date> 
+                     <extent>in fol.
+	fig.</extent>
+                  </bibl>
+        </sourceDesc>
+    </fileDesc>
+</teiHeader>
+        
+</teiCorpus>

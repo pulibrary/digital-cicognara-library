@@ -1,0 +1,23 @@
+  <teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+    <fileDesc>
+                <titleStmt>
+            <title>Catalogo Cicognara Number {$ciconum}</title>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org</ref>
+            </publisher>
+            <idno type="cico">3780</idno>
+        </publicationStmt>
+        <sourceDesc>
+            <bibl><author>MARLIANI B.</author>, <title>Le antichità di Roma tradotte come sopra</title>, 
+                        <pubPlace>Roma</pubPlace>, per <publisher>Andrea Fei</publisher>, <date>1622</date>, in 12.
+<pb type="cico" n="200"/>
+                  </bibl>
+        </sourceDesc>
+    </fileDesc>
+</teiHeader>
+        
+</teiCorpus>

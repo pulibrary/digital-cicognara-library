@@ -1,0 +1,43 @@
+  <teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+    <fileDesc>
+                <titleStmt>
+            <title>Catalogo Cicognara Number {$ciconum}</title>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org</ref>
+            </publisher>
+            <idno type="cico">2141</idno>
+        </publicationStmt>
+        <sourceDesc>
+            <bibl><title>VITA, Passio et Resurrectio Jesu, Christi, variis iconibus a celebre pict. Martino de Vos
+  expressa ab Adr. Collart nunc primum in ses incisis </title>, <pubPlace>Antuerpiae</pubPlace>, <note>Io. Galle excud.
+  Cinquantuna tavola compreso il frontespizio formano questo libro: lavorarono anche altri intagliatori come
+  vedesi sotto ciascuna stampa.</note> </bibl><bibl><title>Acta Apostolorum</title>. Elegantiss. Monochromatis a duobus pictoribus belgis
+  summo artificio delineata, Martino Hems Kerchio et Jo. Stradano, <pubPlace>Antuerp.</pubPlace>, Jo. Gallaeus
+  edidit.<note>
+  Trentacinque tavole compreso il frontespizio istoriato compongono quest’opera.</note>
+  </bibl><bibl>Imago bonitatis illius a Martirio de Vos fig. et a Jo. Sadeler sculpta et
+  excusa.
+  In queste 8 tavolo compreso il frontespizio sono le sette giornate della Creazione.
+  </bibl><bibl><title>Bonorum et malorum consensio, a Martino de Vos fig. et a Jo. Sadeler
+  Sculp. etc. caeptum et absolutum</title>, <pubPlace>Maguntiae</pubPlace> <date>1586</date>.
+  <note>Quindici tavole tratte dal Genesi.</note>
+  </bibl><bibl><title>Boni et mali Scientia et quid ex horum cognitione a condito mando
+  succreverunt declaratio</title>, <pubPlace>Ant.</pubPlace> <date>1583</date>, a Martino de Vos fig. a Jo. Sadeler excusa.
+  <note>La storia de’primi Padri è espressa in in tavole.
+  </note></bibl><bibl><title>Il Simbolo Apostolico figurato da Martino de Vos in 12 tavole</title> <author>Matthaei Florimi
+  <fw type="foot"/>
+                  <pb type="memofonte"/>
+                  <fw type="head"/>
+  
+  formis.</author>
+  <note>Questo volume nelle sei opere contiene tavole 133.
+  </note></bibl>
+        </sourceDesc>
+    </fileDesc>
+</teiHeader>
+        
+</teiCorpus>

@@ -1,0 +1,32 @@
+  <teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+    <fileDesc>
+                <titleStmt>
+            <title>Catalogo Cicognara Number {$ciconum}</title>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org</ref>
+            </publisher>
+            <idno type="cico">3732</idno>
+        </publicationStmt>
+        <sourceDesc>
+            <bibl><author>FONTANA</author>, <title>Discorso sopra l’antico monte Citatorio situato nel Campo Marzio, ed altre cose erudite ad esso
+attinenti, estratto da più gravi autori, e di quanto è accaduto nel ritrovamento e alzamento della colonna Antonina</title>,
+<pubPlace>Roma</pubPlace> <date>1708</date>, f. p., seconda edizione con molta varietà, colle medesime 5 tavole però della prima. Unitovi:
+— <title>Anzio, e sue antichità dalla porta di S. Giovanni ai Volsci in vicinanza del nuovo porto</title>, <pubPlace>Roma</pubPlace> <date>1710</date>.
+<fw type="foot"/>
+                     <pb type="memofonte"/>
+                     <fw type="head"/>
+— <title>Discorso sopra le cause dell’inondazione del Tevere antiche e moderne</title>, <pubPlace>Roma</pubPlace> <date>1694</date>, con 3 tav. in rame.
+— <title>Discorso di monsignor Vespignani sopra la facile riescita di restaurare il ponte Senatorio, oggi detto Ponte
+rotto, aggiuntivi i disegni in rame dati alla luce dal cavalier Carlo Fontana</title>, <pubPlace>Roma</pubPlace> <date>1692</date>, tav. 3.
+— <title>Breve descrizione di tre particolari statue scoperte in Roma nel 1739. Opuscolo del Ficoroni, colle tre tavole
+delle statue</title>.
+</bibl>
+        </sourceDesc>
+    </fileDesc>
+</teiHeader>
+        
+</teiCorpus>

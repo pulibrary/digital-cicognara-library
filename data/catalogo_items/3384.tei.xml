@@ -1,0 +1,24 @@
+  <teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+    <fileDesc>
+                <titleStmt>
+            <title>Catalogo Cicognara Number {$ciconum}</title>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org</ref>
+            </publisher>
+            <idno type="cico">3384</idno>
+        </publicationStmt>
+        <sourceDesc>
+            <bibl><author>EARLOM Richard</author>, <title>Liber veritatis or a collection of prints after the original designs of Claude le Lorrain in the
+collection of His Grace the Duke of Devonskire</title>, <pubPlace>London</pubPlace> <date>1777</date>, vol. 3, in fol., fig.
+<note>Questa è la collezione completa e preziosa dei 300 disegni originali di Claudio Lorenese intagliati alla maniera
+precisa che sono stati eseguiti dal pittore.</note>
+</bibl>
+        </sourceDesc>
+    </fileDesc>
+</teiHeader>
+        
+</teiCorpus>

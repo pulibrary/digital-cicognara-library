@@ -1,0 +1,25 @@
+  <teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+    <fileDesc>
+                <titleStmt>
+            <title>Catalogo Cicognara Number {$ciconum}</title>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org</ref>
+            </publisher>
+            <idno type="cico">3869</idno>
+        </publicationStmt>
+        <sourceDesc>
+            <bibl><author>ROSSINI Pietro</author>, <title>Il Mercurio errante delle grandezze di Roma tanto antiche che moderne</title>, diviso in due parti, o
+volumi, <pubPlace>Roma</pubPlace> <date>1789</date>, vol. 2, in 12.
+<note>Questo per molto tempo è stato giustamente riguardato come uno de’ libri meglio fatti per il forestiere, e
+succinto, e chiaro, e utile. Vi sono alcune passabili tavole all’acqua <pb type="cico" n="218"/> forte intagliate da quel bravo Nicole,
+e da Piranesi medesimo.</note>
+</bibl>
+        </sourceDesc>
+    </fileDesc>
+</teiHeader>
+        
+</teiCorpus>

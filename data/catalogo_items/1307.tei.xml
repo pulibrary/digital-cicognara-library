@@ -1,0 +1,29 @@
+  <teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+    <fileDesc>
+                <titleStmt>
+            <title>Catalogo Cicognara Number {$ciconum}</title>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org</ref>
+            </publisher>
+            <idno type="cico">1307</idno>
+        </publicationStmt>
+        <sourceDesc>
+            <bibl><title>COLLEZIONE non interrotta e completa delle accademie tenutesi in Campidoglio per le Belle
+    Arti</title>, cominciando dal 1690 in poi: rilegata in 6 volumi, <pubPlace>Roma</pubPlace>, in 4.
+    <note>L’ultima orazione di questa raccolta nostra è del 1801. Deve però notarsi che non si faceva, in ogni anno la
+<fw type="foot"/>
+                  <pb type="memofonte"/>
+                  <fw type="head"/>
+    solenne distribuzione dei premi, non essendo queste in maggior numero di 36. Nella più parte degli esemplari di
+    questa Rac <pb type="cico" n="226"/> colta trovasi mancare l’orazione del 1713, che non manca nel nostro esemplare.</note>
+    
+    </bibl>
+        </sourceDesc>
+    </fileDesc>
+</teiHeader>
+        
+</teiCorpus>

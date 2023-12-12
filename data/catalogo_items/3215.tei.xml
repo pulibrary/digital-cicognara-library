@@ -1,0 +1,27 @@
+  <teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+    <fileDesc>
+                <titleStmt>
+            <title>Catalogo Cicognara Number {$ciconum}</title>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org</ref>
+            </publisher>
+            <idno type="cico">3215</idno>
+        </publicationStmt>
+        <sourceDesc>
+            <bibl><author>DONATI Sebastiano</author>, <title>Dei dittici degli antichi, sacri e profani con un’appendice di alcuni necrologii e calendarii
+finora non pubblicati</title>. Libri tre, <pubPlace>Lucca</pubPlace> <date>1753</date>, in 4, fìg.
+Le tavole sono distribuite ai luoghi citati del testo.
+— Aggiuntovi: <title>Bandini Ang. Mariae in tabulam eburneam observationes</title>, <pubPlace>Florentiae</pubPlace> <date>1746</date>.
+— <title>Jacutii Mathaei Christianarum antiquitatum specimina</title>, <pubPlace>Romae</pubPlace> <date>1758</date>.
+<note>I tre libri legati in un solo volume.</note>
+<pb type="cico" n="113"/>
+                  </bibl>
+        </sourceDesc>
+    </fileDesc>
+</teiHeader>
+        
+</teiCorpus>

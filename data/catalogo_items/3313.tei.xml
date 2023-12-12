@@ -1,0 +1,29 @@
+  <teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+    <fileDesc>
+                <titleStmt>
+            <title>Catalogo Cicognara Number {$ciconum}</title>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org</ref>
+            </publisher>
+            <idno type="cico">3313</idno>
+        </publicationStmt>
+        <sourceDesc>
+            <bibl><author>PORTII Simonis</author>,<title> De rerum naturalium principiis</title>, <pubPlace>Neapoli</pubPlace> <date>1561</date>. <pb type="cico" n="124"/>
+— <title>An homo bonus vel malus voleus fiat, disputatio</title>, <pubPlace>Florentiae</pubPlace> <date>1551</date>.
+— <title>De humana mente disputatio</title>, <pubPlace>Florentiae</pubPlace> <date>1551</date>.
+— <title>De coloribus oculorum</title>, <pubPlace>Florentiae</pubPlace> <date>1550</date>.
+— <title>De dolore</title>, <pubPlace>Florentiae</pubPlace> <date>1551</date>.
+— <title>De puella germanica quae fere biennium vixerat sine cibo potuque</title>, <pubPlace>Florentiae</pubPlace> <date>1551</date>.
+— <title>De conflagratione agri puteolani</title>, <pubPlace>Florentiae</pubPlace> <date>1561</date>.
+<note>Tutto è riunito in un volume e gli opuscoli stampati a Firenze sono del Torrentino. Esemplare bellissimo e dei
+più copiosi di questi opuscoli singolari.</note>
+</bibl>
+        </sourceDesc>
+    </fileDesc>
+</teiHeader>
+        
+</teiCorpus>

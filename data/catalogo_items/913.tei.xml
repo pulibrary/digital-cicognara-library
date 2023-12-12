@@ -1,0 +1,24 @@
+  <teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+    <fileDesc>
+                <titleStmt>
+            <title>Catalogo Cicognara Number {$ciconum}</title>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org</ref>
+            </publisher>
+            <idno type="cico">913</idno>
+        </publicationStmt>
+        <sourceDesc>
+            <bibl><author>FAUJAS de Saint-fond</author>, <title>Il catalogo de’ cammei, busti, medaglie e anti <pb type="cico" n="169"/> chità modellate
+      nella fabbrica di Wedgwood e Bentley</title>, stampato nel <date>1779</date> in <pubPlace>Londra</pubPlace> e l’altro <title>della collezione
+      dei zolfi antichi e moderni cavati dalle gemme da J. Tassie</title>, stampato in <pubPlace>Londra</pubPlace> <date>1775</date>,
+      amendue in inglese.
+      </bibl>
+        </sourceDesc>
+    </fileDesc>
+</teiHeader>
+        
+</teiCorpus>

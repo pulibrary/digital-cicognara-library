@@ -1,0 +1,24 @@
+  <teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+    <fileDesc>
+                <titleStmt>
+            <title>Catalogo Cicognara Number {$ciconum}</title>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org</ref>
+            </publisher>
+            <idno type="cico">1745</idno>
+        </publicationStmt>
+        <sourceDesc>
+            <bibl><author>PANCIROLI Guidonis</author>, <title>Rerum memorabilium, sive deperditarum</title>, <pubPlace>Francofurti</pubPlace> <date>1629</date>, in 4.
+  <note>L’edizione latina è illustrata dai commentari di Enrico Salmuth ed ha il frontespizio figurato.
+  L’opera di questo autore non levò un grido perché abbiasi a ritenere fra le produzioni più distinte in tal genere.</note>
+  
+  </bibl>
+        </sourceDesc>
+    </fileDesc>
+</teiHeader>
+        
+</teiCorpus>

@@ -1,0 +1,25 @@
+  <teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+    <fileDesc>
+                <titleStmt>
+            <title>Catalogo Cicognara Number {$ciconum}</title>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org</ref>
+            </publisher>
+            <idno type="cico">3789</idno>
+        </publicationStmt>
+        <sourceDesc>
+            <bibl><author>MAZZOCCHI Jacobi</author>, <title>Epigrammata antiquae urbis Romae</title>, <pubPlace>Romae</pubPlace>, in aedibus auctoris, <date>1521</date>, f. p., fig.
+<note>Con note marginali manoscritte di ottimo autore, il quale le trasse dal tomo V degli atti della Società latina di Iena
+comentando questo esemplare, che oltre l’essere per se stesso pregiatissimo, in tal modo divenne prezioso. Le
+lapidi, e i monumenti sono intagliati in legno e inseriti fra il testo.</note>
+<pb type="cico" n="201"/>
+                  </bibl>
+        </sourceDesc>
+    </fileDesc>
+</teiHeader>
+        
+</teiCorpus>

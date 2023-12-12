@@ -1,0 +1,39 @@
+  <teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+    <fileDesc>
+                <titleStmt>
+            <title>Catalogo Cicognara Number {$ciconum}</title>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org</ref>
+            </publisher>
+            <idno type="cico">442</idno>
+        </publicationStmt>
+        <sourceDesc>
+            <bibl>
+                     <author>BORROMINO Francesco</author>, 
+                     <title>Opera cavata da’ suoi originali, cioè la chiesa e fabbrica della
+	Sapienza di Roma colle vedute prospettiche, piante, alzato ec.,</title> 
+                     <pubPlace>Roma</pubPlace> 
+                     <date>1760,</date> 
+                     <extent>tav. 47.</extent>
+	Aggiuntovi: <title>Una raccolta di vasi diversi formati da illustri artefici antichi e di varie targhe
+	di celebri architetti moderni, data in luce da Domenico de Rossi erede di Giovan Giacomo,
+	disegnata e intagliata da Francesco Aquila,</title> 
+                     <pubPlace>Roma</pubPlace> 
+                     <date>1713</date>. <extent>Sono tav. 51 in fol. grande ec.</extent>
+	                    <fw type="foot"/>
+	                    <pb type="memofonte"/>
+	                    <fw type="head"/>
+	                    <note>Le opere del Borromino sono concepite con profondità di sapere ed ornate con bizzarria stravagante che
+	annuncia la maggior corruzione del gusto e i deliri dell’immaginazione. Pareva ella rivaleggiasse col suo
+	antagonista il Bernini nell’inimicizia colla semplicità, gareggiando nella ricerca del falso. Le targhe che sono qui
+	unite, in gran parte di quell’architetto, sembrano attestarlo evidentemente.</note>
+                  </bibl>
+        </sourceDesc>
+    </fileDesc>
+</teiHeader>
+        
+</teiCorpus>

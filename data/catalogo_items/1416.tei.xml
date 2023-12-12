@@ -1,0 +1,28 @@
+  <teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+    <fileDesc>
+                <titleStmt>
+            <title>Catalogo Cicognara Number {$ciconum}</title>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org</ref>
+            </publisher>
+            <idno type="cico">1416</idno>
+        </publicationStmt>
+        <sourceDesc>
+            <bibl><author>ADIMARI Ales.</author>, <title>Esequie dell’Illustriss. et Eccell. Principe D. Francesco Medici celebrate dal
+    Serenissimo Cosimo II G. D. di Toscana IV</title>, descritte da Alessandro Adimari, <pubPlace>Firenze</pubPlace> <date>1614</date>,
+    in 4, fig. Comincia il frontespizio figurato, indi un buon ritratto di Francesco Medici: seguono
+    21 tavole d’emblemi e una ultima tavola col catafalco.
+    <note>Vi è aggiunto altro opuscolo: <title>Laudatio in funere Francisci Medicei habita a Balduino de Monte</title>, Flor. 1614,
+    Giunti.</note>
+    MDCXIV
+    
+    </bibl>
+        </sourceDesc>
+    </fileDesc>
+</teiHeader>
+        
+</teiCorpus>

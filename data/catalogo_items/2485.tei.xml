@@ -1,0 +1,126 @@
+  <teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+    <fileDesc>
+                <titleStmt>
+            <title>Catalogo Cicognara Number {$ciconum}</title>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org</ref>
+            </publisher>
+            <idno type="cico">2485</idno>
+        </publicationStmt>
+        <sourceDesc>
+            <bibl><author>CAYLUS</author>, <title>Recueil d’antiquités egyptiennes, etrusques, grecques, et romaines</title>, <pubPlace>Paris</pubPlace><date>1752</date> au 1767, in 4., fig., vol.
+7.
+<note>Opera classica e preziosa per l’immensa quantità dei monumenti in essa prodotti da questo celebre antiquario. Il
+settimo volume comparve in qualità di supplemento, essendo già morto l’autore e fu estratto da’ suoi manoscritti
+da M. de Bombarde, in fronte al quale fu messo il ritratto dell’autore e l’elogio storico del medesimo. Questa
+grand’opera contiene 800 tavole incise, senza contare l’immenso numero delle vignette. Leggesi sul magnifico
+nostro esemplare questa notizia singolare, la quale convince di una verità assai trita, cioè che l’invidia morde col
+suo veleno sempre gli uomini i più grandi. M. B. C. de Caylus avoit fait placer a st. Germain le Auxerrois pour
+<fw type="foot"/>
+                     <pb type="memofonte"/>
+                     <fw type="head"/>
+lui servir de mausolie une belle urne antique de porphire, sur la quelle est une lampe. Une plaque de bronze, qui
+est au dessus, porte un epitaphe fort modeste. M. Diderot qui n’ aimait pas cet autheur a fait contre lui cette
+satire:
+Cy git sous cette cruche etrusque
+Un antiquaire rude et brusque</note>.
+</bibl>
+        </sourceDesc>
+    </fileDesc>
+</teiHeader>
+        <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:local="http://library.princeton.edu" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Recueil d'antiquités égyptiennes, étrusques, grecques et romaines [microform].</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Le Fevre.</authority>
+            <authority>Littret de Montigny, Claude Antoine, 1735-1775.</authority>
+            <authority>Lebeau, Charles, 1701-1778. Eloge historique de M. le comte de Caylus.</authority>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985404743506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/691w5s</idno>
+            <idno type="URI">http://portal.getty.edu/api/5w6g48</idno>
+            <idno type="URI">http://portal.getty.edu/api/gx5215</idno>
+            <idno type="URI">http://portal.getty.edu/api/f52s5h</idno>
+            <idno type="URI">http://portal.getty.edu/api/235g51</idno>
+            <idno type="URI">http://portal.getty.edu/api/4w6x6f</idno>
+            <idno type="URI">http://portal.getty.edu/api/7n5j2x</idno>
+            <idno type="URI">http://portal.getty.edu/api/2w7465</idno>
+            <idno type="URI">http://portal.getty.edu/api/ps292x</idno>
+            <idno type="cico">2484</idno>
+            <idno type="dcl">b5r</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Recueil d'antiquités égyptiennes, étrusques, grecques et romaines [microform].</title>
+                  <respStmt>
+                     <persName>Caylus, Anne Claude Philippe, comte de, 1692-1765.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>French</textLang>
+                  <imprint>
+                     <publisher>A Paris : Chez Desaint &amp; Saillant</publisher>
+                     <pubPlace>Egypt</pubPlace>
+                     <pubPlace>France</pubPlace>
+                     <pubPlace>Greece</pubPlace>
+                     <pubPlace>Italy</pubPlace>
+                     <pubPlace>Middle East</pubPlace>
+                     <date>1752-1767</date>
+                     <date>1752</date>
+                  </imprint>
+                  <extent>7 v.</extent>
+                  <extent>69 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/792b9f7d-d172-4852-a91b-79eaa0b77ea0/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Caylus, Anne Claude Philippe, comte de, 1692-1765.</term>
+               <term>Antiquities -- Early works to 1800.</term>
+               <term>Archaeology -- Early works to 1800.</term>
+               <term>Art, Ancient.</term>
+               <term>Art, Byzantine.</term>
+               <term>Art, Classical.</term>
+               <term>Art, Early Christian.</term>
+               <term>Art, Egyptian -- Early works to 1800.</term>
+               <term>Art, Etruscan -- Early works to 1800.</term>
+               <term>Art, Gallo-Roman -- Early works to 1800.</term>
+               <term>Art, Greek -- Early works to 1800.</term>
+               <term>Art, Roman -- Early works to 1800.</term>
+               <term>Byzantine antiquities.</term>
+               <term>Christian antiquities.</term>
+               <term>Classical antiquities.</term>
+               <term>Egypt -- Antiquities -- Early works to 1800.</term>
+               <term>France -- Antiquities -- Early works to 1800.</term>
+               <term>Greece -- Antiquities -- Early works to 1800.</term>
+               <term>Italy -- Antiquities -- Early works to 1800.</term>
+               <term>Middle East -- Antiquities -- Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/792b9f7d-d172-4852-a91b-79eaa0b77ea0/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

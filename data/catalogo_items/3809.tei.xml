@@ -1,0 +1,27 @@
+  <teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+    <fileDesc>
+                <titleStmt>
+            <title>Catalogo Cicognara Number {$ciconum}</title>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org</ref>
+            </publisher>
+            <idno type="cico">3809</idno>
+        </publicationStmt>
+        <sourceDesc>
+            <bibl><author>PALLADIO Andrea</author>, <title>Le antichità di Roma raccolte brevemente dagli autori antichi, e moderni</title>, 
+                        <pubPlace>Venezia</pubPlace> <date>1554</date>, in 8.
+<bibl>— <title>Aggiuntovi il sommario di tutte le leggi, e parti ottenute nel Senato Veneto in materia di beni inculti</title>, <pubPlace>Venezia</pubPlace>,
+per <publisher>Giovanni Grifio</publisher>, <date>1558</date>, in 8.</bibl>
+<bibl>— <title>La livella diottrica del dottor Geminiano Montanari</title>, <pubPlace>Venezia</pubPlace> <date>1680</date>, in 8.</bibl>
+<bibl>— <title>In fine il Trattato della sfera di Pietro Catena</title>, in 8, Patavii, <date>1561</date>, apud <publisher>Gratiosum Perchacinum</publisher>.</bibl>
+<pb type="cico" n="208"/>
+                  </bibl>
+        </sourceDesc>
+    </fileDesc>
+</teiHeader>
+        
+</teiCorpus>

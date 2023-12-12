@@ -1,0 +1,27 @@
+  <teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+    <fileDesc>
+                <titleStmt>
+            <title>Catalogo Cicognara Number {$ciconum}</title>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org</ref>
+            </publisher>
+            <idno type="cico">3105</idno>
+        </publicationStmt>
+        <sourceDesc>
+            <bibl><author>BOSSI Louis</author>, <title>Lettres sur deux inscriptions prétendues runiques trouvées à Vénise</title>, <pubPlace>Turin</pubPlace> <date>1805</date>, en 8, fig. con tre
+tavole in rame.
+— Aggiuntovi: <title>Dei basilischi, dragoni ed altri animali creduti favolosi, dissertazione epistolare</title>, <pubPlace>Milano</pubPlace> <date>1792</date>, in
+8, fig. con tre tavole in rame.
+<note>Il sig. Akerblad, osservando in Venezia i leoni posti all’ingresso dell’Arsenale, che prima stavano al porto Pireo
+d’Atene, sostenne che le iscrizioni poste sul loro fianco fossero runiche e questa opinione è combattuta con buoni
+argomenti.</note>
+</bibl>
+        </sourceDesc>
+    </fileDesc>
+</teiHeader>
+        
+</teiCorpus>

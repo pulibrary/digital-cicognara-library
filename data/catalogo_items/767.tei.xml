@@ -1,0 +1,27 @@
+  <teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+    <fileDesc>
+                <titleStmt>
+            <title>Catalogo Cicognara Number {$ciconum}</title>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org</ref>
+            </publisher>
+            <idno type="cico">767</idno>
+        </publicationStmt>
+        <sourceDesc>
+            <bibl><author>MONTENARI Giovanni</author>, <title>Discorso del Teatro Olimpico del Palladio in Vicenza</title>: seconda
+	edizione con due lettere critiche, l’una del Poleni, l’altra dell’autore, <pubPlace>Padova</pubPlace> <date>1749</date>, in 8, fig.
+	<note>La prima edizione fu nel 1733 con 5 tavole in rame, e il ritratto del Palladio avanti il
+	frontespizio.
+	Opera grandemente commendevole. Vedi anche queste lettere separate all’articolo Poleni, le quali non vennero
+	stampate nella prima edizione.</note>
+	
+	</bibl>
+        </sourceDesc>
+    </fileDesc>
+</teiHeader>
+        
+</teiCorpus>

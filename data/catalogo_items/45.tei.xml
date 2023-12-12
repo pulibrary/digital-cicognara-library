@@ -1,0 +1,28 @@
+  <teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+    <fileDesc>
+                <titleStmt>
+            <title>Catalogo Cicognara Number {$ciconum}</title>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org</ref>
+            </publisher>
+            <idno type="cico">45</idno>
+        </publicationStmt>
+        <sourceDesc>
+            <bibl>
+                     <author>MORENI Domenico</author>,
+                     <title> Aggiuntavi la vita di Filippo ser Brunellesco architetto fiorentino scritta dal
+	  Baldinucci con altra in fine di anonimo contemporaneo, pubblicate per la prima volta, ed
+	  illustrate dal canonico Moreni,</title> 
+                     <pubPlace>Firenze</pubPlace> 
+                     <date>1812,</date> 
+                     <extent>in 8, legato in un solo volume.</extent>
+                  </bibl>
+        </sourceDesc>
+    </fileDesc>
+</teiHeader>
+        
+</teiCorpus>

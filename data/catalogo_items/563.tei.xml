@@ -1,0 +1,27 @@
+  <teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+    <fileDesc>
+                <titleStmt>
+            <title>Catalogo Cicognara Number {$ciconum}</title>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org</ref>
+            </publisher>
+            <idno type="cico">563</idno>
+        </publicationStmt>
+        <sourceDesc>
+            <bibl> 
+                     <author>MAUCLERC Julien</author>, 
+                     <title>Traité d’architecture suivant Vitruve où il est traité des cinq ordres des
+	colonnes, designez et mis en lumière par Pierre Daret graveur duroy,</title> 
+                     <pubPlace>Paris</pubPlace> 
+                     <date>1648,</date> 
+                     <extent>in fol. fig.</extent>
+                  </bibl>
+        </sourceDesc>
+    </fileDesc>
+</teiHeader>
+        
+</teiCorpus>

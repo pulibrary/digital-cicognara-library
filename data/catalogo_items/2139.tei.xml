@@ -1,0 +1,29 @@
+  <teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+    <fileDesc>
+                <titleStmt>
+            <title>Catalogo Cicognara Number {$ciconum}</title>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org</ref>
+            </publisher>
+            <idno type="cico">2139</idno>
+        </publicationStmt>
+        <sourceDesc>
+            <bibl><author>VITA Beati Ignatii Loyolae</author>, Soc. Jesu fundat., <pubPlace>Romae</pubPlace> <date>1609</date>, in 4, parv.
+  <note>L’intaglio è di Cor. Galle e fu corretto il lavoro da Rubens prima di pubblicarlo. Le tav. sono 79 colle
+  dichiarazioni al fine e il frontespizio figurato e il ritratto di S. Ignazio; prove bellissime.
+  </note>
+  — Aggiuntevi: <bibl><title>De Montalvo Antonio: Breve teatro de las adones mas notables de la vida del
+  Bienaventurado Toribio Arcobispo de Lima</title>, <pubPlace>Roma</pubPlace> <date>1683</date>.
+ <note> Espresso in 42 tavole d’un merito inferiore alle prime. <pb type="cico" n="370"/> Quelle della Vita di S. Ignazio sono da tenersi in
+  pregio per la finezza dell’esecuzione e somigliano alle opere di Teodoro Galle.
+ </note> </bibl>
+  </bibl>
+        </sourceDesc>
+    </fileDesc>
+</teiHeader>
+        
+</teiCorpus>

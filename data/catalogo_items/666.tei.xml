@@ -1,0 +1,25 @@
+  <teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+    <fileDesc>
+                <titleStmt>
+            <title>Catalogo Cicognara Number {$ciconum}</title>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org</ref>
+            </publisher>
+            <idno type="cico">666</idno>
+        </publicationStmt>
+        <sourceDesc>
+            <bibl> 
+                     <author>SERLIO</author>, 
+                     <title>Le premier livre d’architecture mise en langue françoise par Jean Martin,</title> 
+                     <pubPlace>Paris</pubPlace> 
+                     <date>1545,</date>
+	chez Jean Barbe.</bibl>
+        </sourceDesc>
+    </fileDesc>
+</teiHeader>
+        
+</teiCorpus>

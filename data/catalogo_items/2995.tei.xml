@@ -1,0 +1,23 @@
+  <teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+    <fileDesc>
+                <titleStmt>
+            <title>Catalogo Cicognara Number {$ciconum}</title>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org</ref>
+            </publisher>
+            <idno type="cico">2995</idno>
+        </publicationStmt>
+        <sourceDesc>
+            <bibl><author>SCHIASSI Filippo</author>, <title>Sopra un’armilla d’oro del museo dell’università di Bologna ragionamento</title>, <pubPlace>Bologna</pubPlace> <date>1819</date>, in 4,
+fig., M. 28.
+— <title>Sul diletto degli studi antiquarj e singolarmente della numismatica</title>, ragionamento, <pubPlace>Bologna</pubPlace> <date>1810</date>, in 4, M. 28.
+</bibl>
+        </sourceDesc>
+    </fileDesc>
+</teiHeader>
+        
+</teiCorpus>

@@ -1,0 +1,24 @@
+  <teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+    <fileDesc>
+                <titleStmt>
+            <title>Catalogo Cicognara Number {$ciconum}</title>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org</ref>
+            </publisher>
+            <idno type="cico">3743</idno>
+        </publicationStmt>
+        <sourceDesc>
+            <bibl><author>GAMUCCI Bernardo</author>, <title>Quattro libri dell’antichità della città di Roma, raccolte sotto brevità da diversi antichi, e
+moderni scrittori</title>, <pubPlace>Venezia</pubPlace>, per <publisher>Giovanni Varisco</publisher>, <date>1565</date>, in 4, fig.
+<note>Il testo è stampato assai bene, le tavole sono in legno e passabili. L’opera non è senza pregio quanto alle
+intrinseche sue qualità.</note>
+</bibl>
+        </sourceDesc>
+    </fileDesc>
+</teiHeader>
+        
+</teiCorpus>

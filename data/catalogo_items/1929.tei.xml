@@ -1,0 +1,24 @@
+  <teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+    <fileDesc>
+                <titleStmt>
+            <title>Catalogo Cicognara Number {$ciconum}</title>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org</ref>
+            </publisher>
+            <idno type="cico">1929</idno>
+        </publicationStmt>
+        <sourceDesc>
+            <bibl><author>PARADIN M. Claude Chanoine de Beaujen</author>, <title>Dévises héroiques</title>, à <pubPlace>Lyon</pubPlace>, par <publisher>Jean de Tournes et
+    Guil. Gazeau</publisher>, <date>1557</date>, in 12.
+    <note>Edizione elegantissima per le belle 174 incisioni in legno. <bibl>Vedi anche <author>d’Amboise</author></bibl>.</note>
+    
+    </bibl>
+        </sourceDesc>
+    </fileDesc>
+</teiHeader>
+        
+</teiCorpus>

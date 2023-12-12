@@ -1,0 +1,31 @@
+  <teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+    <fileDesc>
+                <titleStmt>
+            <title>Catalogo Cicognara Number {$ciconum}</title>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org</ref>
+            </publisher>
+            <idno type="cico">1584</idno>
+        </publicationStmt>
+        <sourceDesc>
+            <bibl><author>BELLONII Cenomani</author>, <title>De ammirabili opere antiquorum et rerum suscipiendarum praestantia</title>:
+    de me <pb type="cico" n="274"/> dicato funere, seu cadavere condito et de medicamentis nonnullis, servandi
+    cadaveris vim obtinentibus, libri tres: accedit de arboribus coniferis, resiniferis etc., <pubPlace>Parisiis</pubPlace>
+<fw type="foot"/>
+                  <pb type="memofonte"/>
+                  <fw type="head"/>
+    
+    <date>1553</date>, in 4, fig.
+    <note>Raro e prezioso libro per la raccolta di cognizioni recondite che vi si ritrovano nella seconda opera: sonovi fra il
+    tetto le tavole degli alberi incise in legno.</note>
+    
+    </bibl>
+        </sourceDesc>
+    </fileDesc>
+</teiHeader>
+        
+</teiCorpus>

@@ -1,0 +1,30 @@
+  <teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+    <fileDesc>
+                <titleStmt>
+            <title>Catalogo Cicognara Number {$ciconum}</title>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org</ref>
+            </publisher>
+            <idno type="cico">2924</idno>
+        </publicationStmt>
+        <sourceDesc>
+            <bibl><title>MEDAILLES sur les principaux événémens du regne de Lovis le grand, avec des explications historiques par
+l’Académie Royale des médailles et des inscriptions</title>, <pubPlace>Paris</pubPlace><date> 1702</date>, en 4. Esemplare in mar. dor.
+<note>Quest’edizione in quarto comparve contemporanea nello <pb type="cico" n="71"/> stesso anno che quella in foglio ed è eseguita
+con grandissima accuratezza dagl’incisori. Le Clerc vi contribuì per gran parte e gli autori delle spiegazioni
+<fw type="foot"/>
+                     <pb type="memofonte"/>
+                     <fw type="head"/>
+furono Charpentier, Tallemant, Racine, Boileau, Despreaux ec.
+Fu soppressa la prefazione che si trovava già stampata e in qualche esemplare difficilmente può riscontrarsi
+ancora, il che rende il libro più ricercato dai curiosi di rarità.</note>
+</bibl>
+        </sourceDesc>
+    </fileDesc>
+</teiHeader>
+        
+</teiCorpus>

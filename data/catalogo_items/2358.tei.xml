@@ -1,0 +1,29 @@
+  <teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+    <fileDesc>
+                <titleStmt>
+            <title>Catalogo Cicognara Number {$ciconum}</title>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org</ref>
+            </publisher>
+            <idno type="cico">2358</idno>
+        </publicationStmt>
+        <sourceDesc>
+            <bibl><author>RIDOLFI Carlo</author>, <title>Vita di Giacopo Robusti detto il Tintoretto</title>, <pubPlace>Venezia</pubPlace> <date>1642</date>, presso <publisher>Guglielmo
+    Oddoni</publisher>, in 4, pic.
+    — <bibl>Aggiuntavi <title>la vita di Paolo Cagliari</title>, dello stesso, <pubPlace>Venezia</pubPlace> <date>1746</date>, presso <publisher>Matteo Leni</publisher>, con
+    un bellissimo ritratto di Paolo.</bibl>
+    <note>Queste due vite precedono la seguente ediz. complessiva.</note>
+<fw type="foot"/>
+                  <pb type="memofonte"/>
+                  <fw type="head"/>
+    
+               </bibl>
+        </sourceDesc>
+    </fileDesc>
+</teiHeader>
+        
+</teiCorpus>

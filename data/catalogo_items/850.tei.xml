@@ -1,0 +1,26 @@
+  <teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+    <fileDesc>
+                <titleStmt>
+            <title>Catalogo Cicognara Number {$ciconum}</title>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org</ref>
+            </publisher>
+            <idno type="cico">850</idno>
+        </publicationStmt>
+        <sourceDesc>
+            <bibl><author>NICERONIS Joan. Francisci</author>, <title>Taumaturgia opticus, seu admiranda optices, etc.</title>, <pubPlace>Lutetiae
+	Parisiorum</pubPlace> <date>1646</date>, in fol. fig.
+	<note>La versione latina dedicata al Cord. Mazarino è dell’autore medesimo. Ma può piuttosto chiamarsi opera rifusa
+	che tradotta, essendo cangiata la distribuzione delle materie ed il piano con molte appendici ec. Le figure sono 87
+	intagliate in rame in 42 tavole, non compreso un nuovo frontespizio figurato.</note>
+	
+	</bibl>
+        </sourceDesc>
+    </fileDesc>
+</teiHeader>
+        
+</teiCorpus>

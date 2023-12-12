@@ -1,0 +1,31 @@
+  <teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+    <fileDesc>
+                <titleStmt>
+            <title>Catalogo Cicognara Number {$ciconum}</title>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org</ref>
+            </publisher>
+            <idno type="cico">2073</idno>
+        </publicationStmt>
+        <sourceDesc>
+            <bibl><title>ORACULUM Anachoreticum S. S. Patri nostro Clementi VIII</title>, dicatum anno <date>1600</date>. Martinus de
+  Vos delineavit, <publisher>Jo. Sadeler</publisher> excudit, <pubPlace>Venetiis</pubPlace>, tav. 26, col frontespizio.
+  — <bibl><title>Silvae Sacrae</title>. Monumenta Sanctioris Philosophiae quam severa Anachoretarum
+  disciplina, vita et religio docuit. Mart. de Vos fig. <publisher>Jo. et Raphael Sadeler</publisher> excud. Monachii an.
+  Sal. <date>1594</date>, tavole 29, col frontespizio.</bibl>
+  — <bibl><title>Solitudo sive vitae Patrum Eremicolarum</title>, a Mart. de Vos fig. et a <publisher>Raph. et Jo. Sadeler</publisher> exc.
+  tav. 30 col frontespizio e in fine ivi mezzo a un riquadro dì frutti alcuni versi latini in sacras
+  silvas Jo. et Raphaelis Sadelerorum Paragamma M. R.
+  <note>Bello intaglio, singolarmente per i paesi nei quali incontrasi molta varietà pittoresca. Vedi anche Valesio e
+  Cavacio.</note></bibl>
+  
+  </bibl>
+        </sourceDesc>
+    </fileDesc>
+</teiHeader>
+        
+</teiCorpus>

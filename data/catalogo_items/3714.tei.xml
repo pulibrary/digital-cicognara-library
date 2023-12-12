@@ -1,0 +1,25 @@
+  <teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+    <fileDesc>
+                <titleStmt>
+            <title>Catalogo Cicognara Number {$ciconum}</title>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org</ref>
+            </publisher>
+            <idno type="cico">3714</idno>
+        </publicationStmt>
+        <sourceDesc>
+            <bibl><author>FEA Carlo</author>, <title>Dei diritti del principato sugli antichi edifici sacri, e profani in occasione del Pantheon di M. Agrippa</title>,
+<pubPlace>Roma</pubPlace> <date>1806</date>, in 8, fig.
+— Aggiuntavi dello stesso: <title>L’integrità del Pantheon di M. Agrippa</title>, <pubPlace>Roma</pubPlace> <date>1807</date>.
+<note>Lo zelo per la conservazione di questo patrio monumento, e per sbarazzarlo dalle case parasite che lo opprimono,
+non fu coronato di alcun successo sfortunatamente.</note>
+</bibl>
+        </sourceDesc>
+    </fileDesc>
+</teiHeader>
+        
+</teiCorpus>

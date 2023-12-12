@@ -1,0 +1,25 @@
+  <teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+    <fileDesc>
+                <titleStmt>
+            <title>Catalogo Cicognara Number {$ciconum}</title>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org</ref>
+            </publisher>
+            <idno type="cico">1994</idno>
+        </publicationStmt>
+        <sourceDesc>
+            <bibl><author>BINET Etienne</author>, <title>Abrégé de la vie des principaux fondateurs des religione de l’Eglise</title>, <pubPlace>Anverse</pubPlace>
+  <date>1634</date>, in 4, fig.
+  <note>Le stampe sono di prima freschezza intagliate da Cornelio Gallè; sono 38 ritratti, oltre il frontespizio e l’ultima
+  carta istoriata con tutti i fondatori riuniti, che è di una bellezza singolare.
+  </note>
+  </bibl>
+        </sourceDesc>
+    </fileDesc>
+</teiHeader>
+        
+</teiCorpus>

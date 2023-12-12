@@ -1,0 +1,22 @@
+  <teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+    <fileDesc>
+                <titleStmt>
+            <title>Catalogo Cicognara Number {$ciconum}</title>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org</ref>
+            </publisher>
+            <idno type="cico">2894</idno>
+        </publicationStmt>
+        <sourceDesc>
+            <bibl><author>KEDERI</author>, <title>Nummus aureus perrarus Othinum signa, et indicia exhibens</title>, <pubPlace>Lips.</pubPlace><date> 1722</date>, in 4, M. 12.
+                        <note>La medaglia è intagliata nel frontespizio</note>.
+</bibl>
+        </sourceDesc>
+    </fileDesc>
+</teiHeader>
+        
+</teiCorpus>

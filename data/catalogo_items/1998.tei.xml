@@ -1,0 +1,28 @@
+  <teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+    <fileDesc>
+                <titleStmt>
+            <title>Catalogo Cicognara Number {$ciconum}</title>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org</ref>
+            </publisher>
+            <idno type="cico">1998</idno>
+        </publicationStmt>
+        <sourceDesc>
+            <bibl><author>BOISSARDI Jani Jacobi</author>, <title>Bibliotheca calcographica. Hoc est: virtute clarorum virorum
+  imagines sculpt. a Theod. de Bry et ab ipsorum obitu hactenus continuatae</title>. <pubPlace>Heidel <pb type="cico" n="341"/>
+  bergae</pubPlace>, impensis Clem. Ammoni, an. <date>1669</date>, 2 vol. in 4.<note>
+  Il primo volume contiene i 236 ritratti senza le vite che servirono alla Bibliotheca sive thesaurus etc. Il secondo è
+  composto di quattro parti di continuazione, tav. 119, sculptore Sebastiano Furkio. In tutto sono ritratti 435, il che
+  indica esuberantemente il numero delle tavole citato da’ bibliografi, i quali giudicano completo l’esemplare con
+  tav. 430.</note>
+  
+  </bibl>
+        </sourceDesc>
+    </fileDesc>
+</teiHeader>
+        
+</teiCorpus>

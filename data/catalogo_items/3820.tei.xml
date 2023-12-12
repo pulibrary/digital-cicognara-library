@@ -1,0 +1,23 @@
+  <teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+    <fileDesc>
+                <titleStmt>
+            <title>Catalogo Cicognara Number {$ciconum}</title>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org</ref>
+            </publisher>
+            <idno type="cico">3820</idno>
+        </publicationStmt>
+        <sourceDesc>
+            <bibl> <title>PARERE di tre matematici sopra i danni trovati nella cupola di S. Pietro sul fine dell’anno 1742. <pb type="cico" n="209"/> Questi
+furono li tre frati Tommaso le Sueur, Francesco Jaquier, Ruggiero Boscovich</title> (sic), in 4, fig., M. 15.
+<note>Con una tavola in rame. Vedi più amplamente all’articolo Raccolta de’ scrittori sulla Cupola.</note>
+</bibl>
+        </sourceDesc>
+    </fileDesc>
+</teiHeader>
+        
+</teiCorpus>

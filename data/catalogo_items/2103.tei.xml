@@ -1,0 +1,30 @@
+  <teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+    <fileDesc>
+                <titleStmt>
+            <title>Catalogo Cicognara Number {$ciconum}</title>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org</ref>
+            </publisher>
+            <idno type="cico">2103</idno>
+        </publicationStmt>
+        <sourceDesc>
+            <bibl><author>SALY Iacobus</author>, <title>Vasa a se inventa atque studii causa delineata et incisa</title>, <date>1746</date>.
+  <note>Questa collezione di acque forti piena di bizzarria, di grazia e di spirito, compreso il frontespizio contiene 31
+  tavole.</note>
+  <fw type="foot"/>
+                  <pb type="memofonte"/>
+                  <fw type="head"/>
+  
+  — <bibl>Aggiugnesi nello stesso libro: <title>La Caravanne du Sultan à la Mecque, Mascarade turque
+  donnée à Rome par les pensionnaires de l’Academie de France au Carnoval de l’année <date>1748</date></title>,
+  gravée en 32 planches par Joseph Vien peintre de l’Academie.</bibl>
+  </bibl>
+        </sourceDesc>
+    </fileDesc>
+</teiHeader>
+        
+</teiCorpus>

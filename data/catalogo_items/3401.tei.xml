@@ -1,0 +1,23 @@
+  <teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+    <fileDesc>
+                <titleStmt>
+            <title>Catalogo Cicognara Number {$ciconum}</title>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org</ref>
+            </publisher>
+            <idno type="cico">3401</idno>
+        </publicationStmt>
+        <sourceDesc>
+            <bibl><author>LANDON</author>, <title>Annales du Musée et de l’école moderne des beaux arts</title>, <pubPlace>Paris</pubPlace> <date>1801, 1810</date>, 17 vol., in 8, gravés au trait:
+ou a ajouté a cette suite paysages et tableaux de genre. Paris 1805, in 4, vol. in 8, et le Salon du 1808. In tutto
+vol. 22.
+</bibl>
+        </sourceDesc>
+    </fileDesc>
+</teiHeader>
+        
+</teiCorpus>

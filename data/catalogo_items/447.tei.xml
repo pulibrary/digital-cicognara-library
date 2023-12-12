@@ -1,0 +1,28 @@
+  <teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+    <fileDesc>
+                <titleStmt>
+            <title>Catalogo Cicognara Number {$ciconum}</title>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org</ref>
+            </publisher>
+            <idno type="cico">447</idno>
+        </publicationStmt>
+        <sourceDesc>
+            <bibl>
+                     <author>De BOUELLES Charles</author>,
+                     <title>Gometrie pratique et nouvellement par luy revenue, augumentée et
+	grandement enrichie,</title> 
+                     <pubPlace>Paris</pubPlace> 
+                     <date>1551,</date> 
+                     <extent>en 8, fig.</extent>
+	                    <note>Con molte figure in legno dì edifici distribuite fra il testo.</note>
+                  </bibl>
+        </sourceDesc>
+    </fileDesc>
+</teiHeader>
+        
+</teiCorpus>

@@ -1,0 +1,24 @@
+  <teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+    <fileDesc>
+                <titleStmt>
+            <title>Catalogo Cicognara Number {$ciconum}</title>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org</ref>
+            </publisher>
+            <idno type="cico">3369</idno>
+        </publicationStmt>
+        <sourceDesc>
+            <bibl><author>BELLORI Giampietro</author>, <title>Descrizione delle imagini <pb type="cico" n="132"/> dipinte da Rafaello nelle camere del Vaticano</title>, <pubPlace>Roma</pubPlace>
+<date>1695</date>, in fol. pic., fig.
+<note>In fronte è il ritratto di Rafaello e l’edizione è arricchita di vignette eleganti: esemplare di dedica colle armi del
+prelato cui appartenne. In vitello.</note>
+</bibl>
+        </sourceDesc>
+    </fileDesc>
+</teiHeader>
+        
+</teiCorpus>

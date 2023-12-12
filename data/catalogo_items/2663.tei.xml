@@ -1,0 +1,27 @@
+  <teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+    <fileDesc>
+                <titleStmt>
+            <title>Catalogo Cicognara Number {$ciconum}</title>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org</ref>
+            </publisher>
+            <idno type="cico">2663</idno>
+        </publicationStmt>
+        <sourceDesc>
+            <bibl><author>COCHIN le fils, et Bellicard</author>, <title>Observations sur les antiquités de la ville d’Herculanum</title>, <pubPlace>Paris</pubPlace> <date>1754</date>, in 12, fig.
+<note>L’operetta è divisa in tre sezioni. La prima dell’architetto Bellicard ove sono descritte le principali antichità
+ercolanensi, la seconda di M. Cochin il figlio che si estende sulle <pb type="cico" n="29"/> opere di pittura e di scultura, la terza del
+primo autore si estende su altre antichità di Napoli, Pozzuolo, Baja, Cuma e Capua. Queste tre lezioni sono
+precedute da una memoria storica sulla città di Ercolano redatta da un uomo di lettere. Il volumetto è ornato di 40
+tavole intagliate con molta grazia dallo stesso Bellicard.
+È preceduto questo libro da un Essai sur la peinture, la sculpture, et l’architecture 1751, senza luogo.</note>
+</bibl>
+        </sourceDesc>
+    </fileDesc>
+</teiHeader>
+        
+</teiCorpus>

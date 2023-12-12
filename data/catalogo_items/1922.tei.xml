@@ -1,0 +1,29 @@
+  <teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+    <fileDesc>
+                <titleStmt>
+            <title>Catalogo Cicognara Number {$ciconum}</title>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org</ref>
+            </publisher>
+            <idno type="cico">1922</idno>
+        </publicationStmt>
+        <sourceDesc>
+            <bibl><author>MENESTRIER Claude François</author>,<title> Histoire du Roy Louis le Grand par médailles, emblémes,
+    dévises etc.</title> etc. seconde édition augmentée de plusieures figures et corrigée, <pubPlace>Paris</pubPlace> <date>1693</date>, in
+    fol. fig.
+<fw type="foot"/>
+                  <pb type="memofonte"/>
+                  <fw type="head"/>
+    <note>Questa è corredata di tutte le illustrazioni che non apparvero nella prima edizione con molte tavole di più d’ogni
+    genere e sparse fra il testo e riunite alla fine.</note>
+    
+    </bibl>
+        </sourceDesc>
+    </fileDesc>
+</teiHeader>
+        
+</teiCorpus>

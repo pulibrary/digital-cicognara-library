@@ -1,0 +1,26 @@
+  <teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+    <fileDesc>
+                <titleStmt>
+            <title>Catalogo Cicognara Number {$ciconum}</title>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org</ref>
+            </publisher>
+            <idno type="cico">1868</idno>
+        </publicationStmt>
+        <sourceDesc>
+            <bibl><author>CAMERARII Joach.</author>, <title>Symbolorum emblematum ex re herbaria desumptorum</title>, centuria una,
+    <pubPlace>Norimb.</pubPlace> <date>1590</date>, in 4, fig.
+    — <bibl><title>Symbolorum et emblematum ex animalibus quadrupedibus desumptorum</title>, centuria altera
+    <date>1595</date>, in 4, fig. in un vol.</bibl>
+    <note>Le duecento tavole ini questo volume non sono spregievoli.</note>
+    
+    </bibl>
+        </sourceDesc>
+    </fileDesc>
+</teiHeader>
+        
+</teiCorpus>

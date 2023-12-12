@@ -1,0 +1,26 @@
+  <teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+    <fileDesc>
+                <titleStmt>
+            <title>Catalogo Cicognara Number {$ciconum}</title>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org</ref>
+            </publisher>
+            <idno type="cico">1060</idno>
+        </publicationStmt>
+        <sourceDesc>
+            <bibl><author>JAGEMANN Fra Gaudenzio</author>, <title>Saggio sul buon gusto nelle belle arti, dove si spiegano gli
+      elementi dell’estetica</title>, <pubPlace>Firenze</pubPlace> <date>1771</date>.
+      — Aggiuntovi: <title>le idee sulla maniera di formarsi eccellente in letteratura e nelle belle arti</title>,
+      <date>1795</date>.
+      <note>Sono queste operette elementari e superficiali.</note>
+      
+      </bibl>
+        </sourceDesc>
+    </fileDesc>
+</teiHeader>
+        
+</teiCorpus>

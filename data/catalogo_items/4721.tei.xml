@@ -1,0 +1,25 @@
+  <teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+    <fileDesc>
+                <titleStmt>
+            <title>Catalogo Cicognara Number {$ciconum}</title>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org</ref>
+            </publisher>
+            <idno type="cico">4721</idno>
+        </publicationStmt>
+        <sourceDesc>
+            <bibl><author>MAROLLES M. l’abbé de Villeloin</author>, <title>Tableaux du temple des Muses réprésentant les vertus et le vices sur les plus
+illustres fables de l’antiquité</title>, <pubPlace>Paris</pubPlace> <date>1655</date>, I edizione.
+<note>Questo esemplare è preceduto dal ritratto di Marolles intagliato assai bene da N. Poilty. Poi viene il frontespizio
+figurato come è qui indicato: segue il bellissimo ritratto di Favereau da cui trasse Marolles l’opera sua, e vengono
+poi le 58 tavole intagliate con molta accuratezza da Bloemart e da’ suoi scolari, da Brebiette, e da altri.</note>
+</bibl>
+        </sourceDesc>
+    </fileDesc>
+</teiHeader>
+        
+</teiCorpus>

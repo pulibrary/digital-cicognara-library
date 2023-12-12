@@ -1,0 +1,27 @@
+  <teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+    <fileDesc>
+                <titleStmt>
+            <title>Catalogo Cicognara Number {$ciconum}</title>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org</ref>
+            </publisher>
+            <idno type="cico">1617</idno>
+        </publicationStmt>
+        <sourceDesc>
+            <bibl><author>CARYOPHILI</author>, <title>De veterum Clypeis opusculum</title>, <pubPlace>Lugduni Batavorum</pubPlace> <date>1761</date>, in 4, fig.
+    <note>Opera benissimo stampata ed ornata di numerose medaglie e monumenti sparsi fra il testo, oltre tre grandi tavole,
+<fw type="foot"/>
+                  <pb type="memofonte"/>
+                  <fw type="head"/>
+    l’una in principio e due al fine del volume. La materia vi è dottamente esaurita.</note>
+    
+    </bibl>
+        </sourceDesc>
+    </fileDesc>
+</teiHeader>
+        
+</teiCorpus>

@@ -1,0 +1,36 @@
+  <teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+    <fileDesc>
+                <titleStmt>
+            <title>Catalogo Cicognara Number {$ciconum}</title>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org</ref>
+            </publisher>
+            <idno type="cico">1261</idno>
+        </publicationStmt>
+        <sourceDesc>
+            <bibl><title>EXPLICATION des peintures sculp. et grav. de MSS. de l’Academie Royale dan le Salon du
+    Louvre</title>, l’an. <date>1739</date>, <pubPlace>Paris</pubPlace> in 12.
+    — Aggiuntovi: <title>Lettre critique à un ami sur les ouvrages de MSS. de l’Academie exposées au
+    Salon du Louvre</title>, l’an <date>1759</date>.
+<fw type="foot"/>
+                  <pb type="memofonte"/>
+                  <fw type="head"/>
+    
+    — La même, l’an <date>1763</date>.
+    — La même, l’an <date>1767</date>.
+    — <title>Lettre d’un particulier à un de ses parents peintre en province sur le Salon du <date>1755</date></title>.
+    — <title>Seconde lettre à un partisan du bon goût sur la même exposition</title>.
+    — <title>Reponse alla lettre precedente: nella quale il grido degli artisti feriti dalla critica, forse
+    giusta e imparziale, si fa sentire altamente</title>.
+    <note>Tutto legato in un sol volume. Vedasi Art, Observations.</note>
+    
+    </bibl>
+        </sourceDesc>
+    </fileDesc>
+</teiHeader>
+        
+</teiCorpus>

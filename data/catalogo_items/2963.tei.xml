@@ -1,0 +1,24 @@
+  <teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+    <fileDesc>
+                <titleStmt>
+            <title>Catalogo Cicognara Number {$ciconum}</title>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org</ref>
+            </publisher>
+            <idno type="cico">2963</idno>
+        </publicationStmt>
+        <sourceDesc>
+            <bibl><author>PATTINO Carlo</author>, <title>Introduzione alla storia della pratica delle medaglie tradotta dal francese da Costantino Belli</title>,
+<pubPlace>Venezia</pubPlace> <date>1673</date>, fig. in legno, in 12.
+<note>Avanti che lo studio della numismatica avesse fatto grandi progressi, questo era uno dei migliori ristretti
+elementari.</note>
+</bibl>
+        </sourceDesc>
+    </fileDesc>
+</teiHeader>
+        
+</teiCorpus>

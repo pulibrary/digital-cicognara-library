@@ -1,0 +1,22 @@
+  <teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+    <fileDesc>
+                <titleStmt>
+            <title>Catalogo Cicognara Number {$ciconum}</title>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org</ref>
+            </publisher>
+            <idno type="cico">3508</idno>
+        </publicationStmt>
+        <sourceDesc>
+            <bibl><author>FEA Carlo</author>, <title>Osservazioni intorno la celebre statua di Pompeo</title>, 
+                        <pubPlace>Roma</pubPlace> <date>1812</date>, in 8, M. 36.
+</bibl>
+        </sourceDesc>
+    </fileDesc>
+</teiHeader>
+        
+</teiCorpus>

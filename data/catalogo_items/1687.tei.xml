@@ -1,0 +1,28 @@
+  <teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+    <fileDesc>
+                <titleStmt>
+            <title>Catalogo Cicognara Number {$ciconum}</title>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org</ref>
+            </publisher>
+            <idno type="cico">1687</idno>
+        </publicationStmt>
+        <sourceDesc>
+            <bibl><author>LICETI Fortunii</author>, <title>De lucernis antiquorum reconditis libri sex</title>, <pubPlace>Utini</pubPlace> <date>1653</date>, in fol. fig.
+    <note>È sempre da osservarsi come la superstiziosa ignoranza mutilò gran numero di libri e vedasi per conseguenza in
+    quest’opera se sieno intatte le pagine 910 e 1142. Le numerose tavole di questo libro ripieno di curiosità, sono
+    riportate nei fogli del testo e intagliate in rame.
+</note><fw type="foot"/>
+                  <pb type="memofonte"/>
+                  <fw type="head"/>
+    
+               </bibl>
+        </sourceDesc>
+    </fileDesc>
+</teiHeader>
+        
+</teiCorpus>

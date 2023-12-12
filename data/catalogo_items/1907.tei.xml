@@ -1,0 +1,22 @@
+  <teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+    <fileDesc>
+                <titleStmt>
+            <title>Catalogo Cicognara Number {$ciconum}</title>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org</ref>
+            </publisher>
+            <idno type="cico">1907</idno>
+        </publicationStmt>
+        <sourceDesc>
+            <bibl><author>HORAPPOLLINIS</author> <title>Hierogliphica</title>. Grece et latine, cum notis Jo. Mercerii et aliorum curante Io.
+    Cornelio de Paw., <pubPlace>Trajecti ad Rhenum</pubPlace> <date>1727</date>, in 4.
+    </bibl>
+        </sourceDesc>
+    </fileDesc>
+</teiHeader>
+        
+</teiCorpus>

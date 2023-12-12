@@ -1,0 +1,29 @@
+  <teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+    <fileDesc>
+                <titleStmt>
+            <title>Catalogo Cicognara Number {$ciconum}</title>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org</ref>
+            </publisher>
+            <idno type="cico">2804</idno>
+        </publicationStmt>
+        <sourceDesc>
+            <bibl><author>De la CHAUSSE Michaelis Angeli Causei</author>, <title>Romanum Museum, sive thesaurus eruditae antiquitatis</title>. Editio tertia
+romana, cum additamentis, et figuris, <pubPlace>Romae</pubPlace> <date>1746</date>, in fol., fig.
+<note>Questa è la terza ed ultima edizione di quest’opera, che comparve a Roma nel 1690 e nel 1706 fu tradotta in
+francese ad Amsterdam, la quale tutta intera fu poi ristampata nel Tesoro del Grevio. La pomposa maniera, con
+cui venne annunciata in quest’ultima edizione da noi posseduta, serve a mostrare l’impostura de’ librai, che ne
+fecero due volumi ingrossando la carta e aggiungendo poche cose di lieve merito, come un capitolo descrittivo di
+alcuni istrumenti musicali e la spiegazione in ristretto d’una ventina di tavole vecchie riprodotte altra volta nel
+libro intitolato Aedes Barberinae. Contro le quali imposture e speculazioni vedasi il trattato di Mariette delle
+pietre incise a p. 281.</note>
+</bibl>
+        </sourceDesc>
+    </fileDesc>
+</teiHeader>
+        
+</teiCorpus>

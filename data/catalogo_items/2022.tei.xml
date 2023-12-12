@@ -1,0 +1,27 @@
+  <teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+    <fileDesc>
+                <titleStmt>
+            <title>Catalogo Cicognara Number {$ciconum}</title>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org</ref>
+            </publisher>
+            <idno type="cico">2022</idno>
+        </publicationStmt>
+        <sourceDesc>
+            <bibl><author>DURERI Alberti</author>, <title>Epitome in Divae Parthenices Mariae historiam per figuras digestam cum
+  versibus annexis Ghelidonii</title>, Impressum <pubPlace>Norimbergae</pubPlace>, per <publisher>Albertum Durerum pictorem</publisher>,
+  <date>1511</date>, in fol. Constat chartarum 21.
+  — <bibl>Accedit: <title>Passio Domini nostri Jesu Christi ex Hyeronimo Paduano, Domenico Mancino,
+  Sedulio et Baptista Mantuano, per Fratrem Chelidonium collecta, cum figuris Alberti Dureri
+  pictoris</title>, <pubPlace>Norimbergae</pubPlace> <date>1511</date>, chart. 12.</bibl>
+  — <bibl>Accedit: <title>Apocalypsis cum figuris</title>, <pubPlace>Norimbergae</pubPlace> <date>1511</date>, chart. 16.</bibl>
+  </bibl>
+        </sourceDesc>
+    </fileDesc>
+</teiHeader>
+        
+</teiCorpus>

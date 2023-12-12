@@ -1,0 +1,25 @@
+  <teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+    <fileDesc>
+                <titleStmt>
+            <title>Catalogo Cicognara Number {$ciconum}</title>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org</ref>
+            </publisher>
+            <idno type="cico">1022</idno>
+        </publicationStmt>
+        <sourceDesc>
+            <bibl><title>Per la GUARIGIONE della sig. Angelica Kauffman pittrice seguita sul lago di Como</title>, versi e
+      disegno inciso, <pubPlace>Roma</pubPlace> <date>1802</date>, in 4, M. 25.
+      <note>Camuccini inventò una graziosa composizione che incise il Piroli: non sono che due foglietti di stampa.</note>
+      
+      <pb type="cico" n="183"/>
+               </bibl>
+        </sourceDesc>
+    </fileDesc>
+</teiHeader>
+        
+</teiCorpus>

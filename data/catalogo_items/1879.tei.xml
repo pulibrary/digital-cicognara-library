@@ -1,0 +1,29 @@
+  <teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+    <fileDesc>
+                <titleStmt>
+            <title>Catalogo Cicognara Number {$ciconum}</title>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org</ref>
+            </publisher>
+            <idno type="cico">1879</idno>
+        </publicationStmt>
+        <sourceDesc>
+            <bibl><author>DAVID Joannis</author>, <title>Christianus veridicus</title>, <pubPlace>Antuerpiae</pubPlace>, ex officina <publisher>Plantiniana</publisher>, <date>1608</date>, in 4, fig.
+    <note>L’edizione di questo grosso volume è nitida come tutte le Plantiniane, arricchita di 100 tavole allegoriche o
+    emblematiche, non compreso il frontespizio, intagliate nella maniera di Theod. Galle.
+<fw type="foot"/>
+                  <pb type="memofonte"/>
+                  <fw type="head"/>
+    Con in fine l’orbita Probitatis ove è un frontespizio con dieci pittori tutti intenti a dipingere ad aspicientes in
+    auctorem fidei.</note>
+    
+    </bibl>
+        </sourceDesc>
+    </fileDesc>
+</teiHeader>
+        
+</teiCorpus>

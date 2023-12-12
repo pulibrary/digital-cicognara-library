@@ -1,0 +1,26 @@
+  <teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+    <fileDesc>
+                <titleStmt>
+            <title>Catalogo Cicognara Number {$ciconum}</title>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org</ref>
+            </publisher>
+            <idno type="cico">1339</idno>
+        </publicationStmt>
+        <sourceDesc>
+            <bibl><author>P. Z.</author> <title>Orazione recitata nella pubblica Veneta Accademia di Belle Arti nel 1787, in occasione
+    della distribuzione dei premi</title>, <pubPlace>Venezia</pubPlace> in 8. - <author>A. M.</author> <title>Riflessioni sopra alcuni equivoci segni
+    espressi nell’orazione suddetta in difesa del fu F. Carlo Lodoli</title>, <pubPlace>Padova</pubPlace> <date>1788</date>, in 8, M. 51.
+    <note>Le iniziali P. Z. Vogliono significare il senatore Pietro Zaguri a’ quali sensi equivoci il Lodoli stesso rispose
+    sotto le iniziali del suo mecenate Andrea Memo.</note>
+    
+    </bibl>
+        </sourceDesc>
+    </fileDesc>
+</teiHeader>
+        
+</teiCorpus>

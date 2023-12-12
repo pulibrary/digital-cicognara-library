@@ -1,0 +1,24 @@
+  <teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+    <fileDesc>
+                <titleStmt>
+            <title>Catalogo Cicognara Number {$ciconum}</title>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org</ref>
+            </publisher>
+            <idno type="cico">2835</idno>
+        </publicationStmt>
+        <sourceDesc>
+            <bibl><author>FALLETTI Tommaso Vincenzo</author>, <title>Introduzione allo studio de’ preziosi Musei.</title> Dissertazioni quattro, <pubPlace>Roma</pubPlace> <date>1783</date>, in
+8.
+<note>Versano queste sulle pietre fine o gemme figurate, sugli avanzi spettanti all’idolatria degli antichi, sull’uso e la
+distinzione delle medaglie e sopra le cose di vario genere che formano, insieme raccolte, la preziosità de’ Musei.</note>
+</bibl>
+        </sourceDesc>
+    </fileDesc>
+</teiHeader>
+        
+</teiCorpus>

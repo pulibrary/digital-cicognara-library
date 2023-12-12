@@ -1,0 +1,25 @@
+  <teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+    <fileDesc>
+                <titleStmt>
+            <title>Catalogo Cicognara Number {$ciconum}</title>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org</ref>
+            </publisher>
+            <idno type="cico">2483</idno>
+        </publicationStmt>
+        <sourceDesc>
+            <bibl><author>BLANCANII Jacobi</author>, <title>De antiquitatis studio. Oratio habita in aedibus instituti</title>, VI idus Januarias, <pubPlace>Bononiae</pubPlace> <date>1781</date>, in
+4.
+<note>Sono in questo opuscolo alcune vignette intagliate con grazia da Francesco Rosaspina, aggiunta in fine
+l’illustrazione di due medaglie di Giacomo Zucconi dedicata al P. Trombelli: non sono che quattro foglietti di
+stampa.</note>
+</bibl>
+        </sourceDesc>
+    </fileDesc>
+</teiHeader>
+        
+</teiCorpus>

@@ -1,0 +1,25 @@
+  <teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+    <fileDesc>
+                <titleStmt>
+            <title>Catalogo Cicognara Number {$ciconum}</title>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org</ref>
+            </publisher>
+            <idno type="cico">1837</idno>
+        </publicationStmt>
+        <sourceDesc>
+            <bibl><author>ALCIATI Andreae V. Cl.</author>, <title>Emblemata cum commentariis amplissimis Claudii Minois Francisci
+                     Sanctii Brocensis et notis Laurentii Pignorii etc. etc.</title>, <pubPlace>Patavii</pubPlace><date> 1621</date>, ap. <publisher>Petr. P. Tozzium</publisher>, in 4.
+    <note>Ad ognuno dei 212 emblemi una lunga spiegazione e tutti i commenti: opera che oltrepassa le 1000 pagine di
+       testo e la più ampia che abbiamo intorno questa materia trattata dall’Alciato</note>.
+    
+    </bibl>
+        </sourceDesc>
+    </fileDesc>
+</teiHeader>
+        
+</teiCorpus>

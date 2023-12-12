@@ -1,0 +1,34 @@
+  <teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+    <fileDesc>
+                <titleStmt>
+            <title>Catalogo Cicognara Number {$ciconum}</title>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org</ref>
+            </publisher>
+            <idno type="cico">746</idno>
+        </publicationStmt>
+        <sourceDesc>
+            <bibl><author>VEDREMAN Joannes</author>, <title>Architecture traduite du bas allemand en français par Kemp</title>, <pubPlace>Anversae</pubPlace>
+	<date>1677</date>.
+	<note>Questo esemplare apparteneva all’architetto Scamozzi ed è composto come segue: il frontespizio è figurato e
+	porta nel centro un cartello applicato, ove in barbara ortografia è espressa la dichiarazione dell’opera. Segue la
+	dedica del traduttore e subito nello stesso foglietto il testo del trattato in colonne stampato a caratteri corsivi, che
+	continua fino al sesto foglietto inclusive. Questa prima porte è accompagnata da 23 tavole: segue un’altra parte
+	col primo foglietto in basso alemanno e la data d’Anversa del 1578 intorno l’ordine toscano con 12 tavole. Un
+	altro libretto colla stessa data e nella stessa lingua riguarda il corintio, io <pb type="cico" n="140"/> nico e il composito con 18
+	tavole. L’ultima parte relativa al corintio e al composito con le trabeazioni porta la data del 1565 che è la data
+	dell’edizione originale delle opere di Vredeman intagliate da Girolamo Ceck: e contiene 22 tavole.</note>
+	<fw type="foot"/>
+	                 <pb type="memofonte"/>
+	                 <fw type="head"/>
+	
+	              </bibl>
+        </sourceDesc>
+    </fileDesc>
+</teiHeader>
+        
+</teiCorpus>

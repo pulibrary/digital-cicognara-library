@@ -1,0 +1,32 @@
+  <teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+    <fileDesc>
+                <titleStmt>
+            <title>Catalogo Cicognara Number {$ciconum}</title>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org</ref>
+            </publisher>
+            <idno type="cico">1603</idno>
+        </publicationStmt>
+        <sourceDesc>
+            <bibl><author>BRADFORD Guillaume</author>, <title>Chronological, and historical retrospect of the memorable events of
+    the war in the Peninsula from thè embarkation of the Prince Regent of Portugal to the Brazils,
+    and the imprisonment of the King of Spain in France</title>. Collected and anexed as a supplemental
+    addition to the Rev. William Bradford views etc., <pubPlace>London</pubPlace> <date>1813</date>.
+    <pb type="cico" n="278"/>
+    <bibl><author>BRADFORD</author>, <title>Sketches of the country, character, and costume in Portugal, and Spain Made
+    during the campaign and on the route of the british armyn: 1808 and 1809</title>. Engraved and
+    coloured from the drawing: by the Rev. William Bradford, Wall incidental illustration et
+    appropriate descriptions of each subject, <pubPlace>London</pubPlace> <date>1812</date>, Plat 54, fol. gr.
+    <note>Il testo è inglese e francese e l’edizione è fatta con molto lusso di tavole e di tipi. Tutti i rami sono miniati in
+    colori con gusto, non vi si riconosce troppo nell’opera la superficialità della speculazione libraria.</note></bibl>
+    
+    </bibl>
+        </sourceDesc>
+    </fileDesc>
+</teiHeader>
+        
+</teiCorpus>

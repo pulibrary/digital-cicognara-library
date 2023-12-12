@@ -1,0 +1,30 @@
+  <teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+    <fileDesc>
+                <titleStmt>
+            <title>Catalogo Cicognara Number {$ciconum}</title>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org</ref>
+            </publisher>
+            <idno type="cico">1337</idno>
+        </publicationStmt>
+        <sourceDesc>
+            <bibl><title>ORAZIONI e discorsi letti nell’aula dell’Accademia di Belle Arti di Milano in occasione
+    dell’annua distribuzione dei premi dopo la sua nuova riforma ed istituzione dal 1802 al 1819</title>,
+    in 8.
+    <note>Questi discorsi vennero scritti da molti chiarissimi personaggi nelle arti e nelle lettere, sempre però sul tema
+    delle arti, divagando con liberti in quest’ampia materia. I principali sono il pittore e segretario dell’accademia
+    Giuseppe Bossi; il segretario ed architetto Giuseppe Zanoja, il medico e consigliere Pietro Moscati, il
+    numismatico e pittore G. Cutaneo, il canonico antiquario Luigi Bossi. Stanchi però i dotti di flagellar di continuo
+    la materia stessa per tanti anni, la quale astata trattata in tutte le accademie del mondo; in luogo di due discorsi
+    annuali (già da qualche tempo declinando dagli statuti) non se ne pubblica che un solo per ciascun anno.</note>
+    
+    </bibl>
+        </sourceDesc>
+    </fileDesc>
+</teiHeader>
+        
+</teiCorpus>

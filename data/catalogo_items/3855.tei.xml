@@ -1,0 +1,26 @@
+  <teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+    <fileDesc>
+                <titleStmt>
+            <title>Catalogo Cicognara Number {$ciconum}</title>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org</ref>
+            </publisher>
+            <idno type="cico">3855</idno>
+        </publicationStmt>
+        <sourceDesc>
+            <bibl> <title>ROMA antica, e moderna; ossia nuova descrizione di tutti gli antichi edifici moderni, sacri, e profani con 200 e più
+figure in rame; il tutto cavato dal Baronio, Bosso, Nardini, Grevio, ed altri classici autori</title>, presso <publisher>Roisecco</publisher>,
+<pubPlace>Roma</pubPlace>, <date>1765</date>, vol. 3, fig.
+<note>Quest’opera serve notabilmente a chi non sia fornito degli autori da cui furono tratte le notizie, ed è bastevole per
+dare un’idea generale delle cose romane. Questa è la terza e più ampia edizione, le precedenti essendo apparse
+nel 1745 e 1750.</note>
+</bibl>
+        </sourceDesc>
+    </fileDesc>
+</teiHeader>
+        
+</teiCorpus>

@@ -1,0 +1,25 @@
+  <teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+    <fileDesc>
+                <titleStmt>
+            <title>Catalogo Cicognara Number {$ciconum}</title>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org</ref>
+            </publisher>
+            <idno type="cico">3815</idno>
+        </publicationStmt>
+        <sourceDesc>
+            <bibl><author>PANCIROLI Ottavio</author>, <title>Tesori nascosti dell’alma città di Roma con nuovo ordine ristampati, ed arricchiti</title>, <pubPlace>Roma</pubPlace>
+
+<date>1625</date>, in 8, fig.
+<note>La prima edizione di quest’opera apparve nel 1600, ma con diverso ordine, e non è così pregievole come la
+seconda: vastissima è l’erudizione, specialmente sacra, di cui è pienissima quest’opera.</note>
+</bibl>
+        </sourceDesc>
+    </fileDesc>
+</teiHeader>
+        
+</teiCorpus>

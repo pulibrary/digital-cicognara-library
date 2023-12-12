@@ -1,0 +1,27 @@
+  <teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+    <fileDesc>
+                <titleStmt>
+            <title>Catalogo Cicognara Number {$ciconum}</title>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org</ref>
+            </publisher>
+            <idno type="cico">3663</idno>
+        </publicationStmt>
+        <sourceDesc>
+            <bibl><author>CENNI Gaetano</author>, <title>Breve dichiarazione delle sei tavole incise in rame da Anton Francesco Barbazza, che
+rappresentano la storia ecclesiastica del primo, e secondo secolo, ideate da monsignor Francesco Bianchini, e
+perfezionate da Giuseppe Bianchini</title>, <pubPlace>Roma</pubPlace> <date>1753</date>, in 8.
+<bibl>— <title>Aggiuntovi: Elenchus monumentorum quae continentur in sex prioribus tabulis ex aere incisis nostri Musei
+sacri, et profani, complectentibus demonstrationem historiae ecclesiasticae</title>, <pubPlace>Romae</pubPlace> <date>1754</date>, in 8.
+<note>Questo elenco non è che la guida estesa coi numeri relativi agli oggetti rappresentati nelle tavole per riscontrarli, e
+spiegarli, accuratamente fatta dal calcografo Antonio Giuseppe Barbazza.</note></bibl>
+</bibl>
+        </sourceDesc>
+    </fileDesc>
+</teiHeader>
+        
+</teiCorpus>

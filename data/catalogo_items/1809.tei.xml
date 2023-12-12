@@ -1,0 +1,24 @@
+  <teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+    <fileDesc>
+                <titleStmt>
+            <title>Catalogo Cicognara Number {$ciconum}</title>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org</ref>
+            </publisher>
+            <idno type="cico">1809</idno>
+        </publicationStmt>
+        <sourceDesc>
+            <bibl><author>TOMASINI Jac. Philippi</author>, <title>De donariis et tabellis votivis liber singularis,</title><pubPlace> Patavii</pubPlace><date> 1654</date>, fig., in 4,
+  M. 64.
+                     <note>Le tavole stanno ai diversi luoghi voluti dal testo: opera piena di dottrina e di monumenti.</note>
+  
+  </bibl>
+        </sourceDesc>
+    </fileDesc>
+</teiHeader>
+        
+</teiCorpus>

@@ -1,0 +1,27 @@
+  <teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+    <fileDesc>
+                <titleStmt>
+            <title>Catalogo Cicognara Number {$ciconum}</title>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org</ref>
+            </publisher>
+            <idno type="cico">4063</idno>
+        </publicationStmt>
+        <sourceDesc>
+            <bibl><author>PERINGSKIOLDI Joannis</author>,<title> Monumentorum svevo-gothicorum liber primus, Uplandiae partem primariam
+Thiundiam continens etc.</title>, <pubPlace>Stockolmiae</pubPlace> <date>1710</date>, in fol., fig.
+<bibl>— <title>Addita monumenta Ullera Kerensia cum Upsalia nova illustrata, svevice, et latine</title>, <pubPlace>Stockholmiae</pubPlace> <date>1719</date>, in fol.,
+fig.</bibl>
+<note>Queste due opere sono legate in un solo volume, e presentano un prezioso complesso di erudizione pel testo e per
+le tavole che lo illustrano numerosissime collocate fra il testo, non tanto in legno che in rame: libro che
+difficilmente si trova in Italia anche nelle primarie pubbliche biblioteche.</note>
+</bibl>
+        </sourceDesc>
+    </fileDesc>
+</teiHeader>
+        
+</teiCorpus>

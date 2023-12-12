@@ -1,0 +1,32 @@
+  <teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+    <fileDesc>
+                <titleStmt>
+            <title>Catalogo Cicognara Number {$ciconum}</title>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org</ref>
+            </publisher>
+            <idno type="cico">1880</idno>
+        </publicationStmt>
+        <sourceDesc>
+            <bibl><author>DAVID Johan.</author> <title>Duodecim specula Deum aliquando videre desideranti concinnata</title>, <pubPlace>Antuerpiae</pubPlace>
+    <date>1610</date>, in 4, fig., excudebat Thodorus Galleus.
+    <note>Tavole 13 compreso il frontespizio.</note>
+    — <bibl><title>Typus occasionis in quo receptae commoda, neglectae vero incomoda personato schemate
+    proponuntur,</title> <pubPlace>Antuerpiae</pubPlace>, delineabat et incidebat Theodorus Galleus, <date>1603</date>, tab. 12 e una
+    dedica alla studiosa gioventù.</bibl>
+    — <bibl><title>Sei Miracoli del S. Rosario.</title></bibl>
+    — <bibl>Aggiuntivi: <title>li 7 doni dello Spirito Santo.</title></bibl>
+    — <bibl>In fine: <title>Vita SantiNorberti concinnata a Jo <pb type="cico" n="321"/>hen. Bhritost. Vander Sterre</title>,
+    <pubPlace>Antuerpiae</pubPlace> <date>1622</date>, con 15 tavole e con un frontispizio fig.</bibl>
+    <note>Tutte queste operette sono intagliate da Teodoro Galle: con una squisitezza singolare. In tutto sono tavole 54.</note>
+    
+    </bibl>
+        </sourceDesc>
+    </fileDesc>
+</teiHeader>
+        
+</teiCorpus>

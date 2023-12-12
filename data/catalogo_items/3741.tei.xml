@@ -1,0 +1,25 @@
+  <teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+    <fileDesc>
+                <titleStmt>
+            <title>Catalogo Cicognara Number {$ciconum}</title>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org</ref>
+            </publisher>
+            <idno type="cico">3741</idno>
+        </publicationStmt>
+        <sourceDesc>
+            <bibl><author>FULVIO Andrea</author>, <title>L’antichità di Roma colle aggiunzioni di Girolamo Ferucci, e in fine un’orazione dello stesso
+Fulvio delle lodi di Roma</title>, <pubPlace>Venezia</pubPlace>, <date>1588</date>, per <publisher>Girolamo Francini</publisher>, in 8.
+— Aggiuntevi: <title>Le antichità della città di Roma raccolte per Bernardo Gamucci da S. Geminiano.</title> Edizione
+seconda, riveduta e corretta da Tommaso Pocacchi, <pubPlace>Venezia</pubPlace> <date>1588</date>, fig., ambedue con tavole in legno.
+<pb type="cico" n="195"/>
+                  </bibl>
+        </sourceDesc>
+    </fileDesc>
+</teiHeader>
+        
+</teiCorpus>

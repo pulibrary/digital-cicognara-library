@@ -1,0 +1,25 @@
+  <teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+    <fileDesc>
+                <titleStmt>
+            <title>Catalogo Cicognara Number {$ciconum}</title>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org</ref>
+            </publisher>
+            <idno type="cico">1275</idno>
+        </publicationStmt>
+        <sourceDesc>
+            <bibl><title>OBSERVATIONS sur les arts et sur quelques morceaux de peinture et sculpture exposés au
+    Louvre l’an 1748</title>, où il est parlé de l’utilité des embellissemens dans les villes, <pubPlace>Leyde</pubPlace> <date>1748</date>.
+    — Aggiuntovi: <title>Lettre a Mad. *** sur les peintures et sculptures exposées au salon l’an <date>1763</date></title>.
+    — In fine: <title>Apologie des jeunes exgésuites, qui ont signé le serment prescrit par arrêt du 6
+    fevrier l’an <date>1764</date></title>, in 12. Vedasi alla voce <title>Explication</title>.
+    </bibl>
+        </sourceDesc>
+    </fileDesc>
+</teiHeader>
+        
+</teiCorpus>

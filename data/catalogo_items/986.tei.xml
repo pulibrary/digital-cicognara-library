@@ -1,0 +1,26 @@
+  <teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+    <fileDesc>
+                <titleStmt>
+            <title>Catalogo Cicognara Number {$ciconum}</title>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org</ref>
+            </publisher>
+            <idno type="cico">986</idno>
+        </publicationStmt>
+        <sourceDesc>
+            <bibl><author>Du FRESNOY Carlo Alfonso</author>, <title>L’arte della pittura tradotta dal latino in francese con aggiunta di
+      alcune necessaria ed amplissime osservazioni e nuovamente tradotta in Italiano da G. R. A.</title>,
+      <pubPlace>Roma</pubPlace> <date>1713</date>.
+      <note>Col ritratto in fronte del cavaliere Poerson intagliato da N. Edelinck. Vedi anche de Piles per la versione
+      francese.</note>
+      
+      </bibl>
+        </sourceDesc>
+    </fileDesc>
+</teiHeader>
+        
+</teiCorpus>

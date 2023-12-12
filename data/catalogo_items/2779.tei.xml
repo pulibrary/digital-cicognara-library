@@ -1,0 +1,22 @@
+  <teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+    <fileDesc>
+                <titleStmt>
+            <title>Catalogo Cicognara Number {$ciconum}</title>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org</ref>
+            </publisher>
+            <idno type="cico">2779</idno>
+        </publicationStmt>
+        <sourceDesc>
+            <bibl><author>BONANNI Philippi</author>, <title>Numismata Pontificum romano rum, quae a tempore Martini Quinti usque ad annum 1699 vel
+auctoritate publica, vel privato genio in lucem prodiere</title>, <pubPlace>Romae</pubPlace> <date>1699</date>, 2 vol., in fol., fig.
+</bibl>
+        </sourceDesc>
+    </fileDesc>
+</teiHeader>
+        
+</teiCorpus>

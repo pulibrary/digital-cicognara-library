@@ -1,0 +1,23 @@
+  <teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+    <fileDesc>
+                <titleStmt>
+            <title>Catalogo Cicognara Number {$ciconum}</title>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org</ref>
+            </publisher>
+            <idno type="cico">3001</idno>
+        </publicationStmt>
+        <sourceDesc>
+            <bibl><author>SESTINI Domenico</author>, <title>Degli stateri antichi illustrati colle medaglie</title>, <pubPlace>Firenze</pubPlace> <date>1817</date>, in 4, fig., M. 106.
+<note>Copiosissima è la serie di questi stateri antichi nel Gabinetto di Monaco ove se ne trovano 113 in oro e appunto
+questa è la serie che l’autore ha illustrato ed esposta in 9 tavole in rame.</note>
+</bibl>
+        </sourceDesc>
+    </fileDesc>
+</teiHeader>
+        
+</teiCorpus>

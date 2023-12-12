@@ -1,0 +1,27 @@
+  <teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+    <fileDesc>
+                <titleStmt>
+            <title>Catalogo Cicognara Number {$ciconum}</title>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org</ref>
+            </publisher>
+            <idno type="cico">773</idno>
+        </publicationStmt>
+        <sourceDesc>
+            <bibl><author>PISTOCCHI</author>, <title>Prospetto d’un teatro</title>, <pubPlace>Faenza</pubPlace> <date>1790</date>.
+	— Aggiuntavi: <title>Lettera anonima dove si espone il sentimento dell’autore pel foro progettato
+	dall’architetto Antolini in Milano</title>. <pubPlace>Milano</pubPlace>, anno nono, in 8.
+	— E in fine, <title>le riflessioni architettoniche sopra il premiato disegno della trionfale colonna da
+	erigersi in Milano</title>, in 8.
+	<note>Opuscoli tutti del sud. Sig. Pistocchi ove viene lacerato senza pietà l’architetto Antolini a lui preferito.</note>
+	
+	</bibl>
+        </sourceDesc>
+    </fileDesc>
+</teiHeader>
+        
+</teiCorpus>

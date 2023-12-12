@@ -1,0 +1,23 @@
+  <teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+    <fileDesc>
+                <titleStmt>
+            <title>Catalogo Cicognara Number {$ciconum}</title>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org</ref>
+            </publisher>
+            <idno type="cico">1</idno>
+        </publicationStmt>
+        <sourceDesc>
+            <bibl>Cominciò l’edizione
+                         col Catalogo degli antichi monumenti composto
+                         da monsig. Bajardi, che escì alle stampe nel
+                         1755 ed occupa un vol. di 447 p.</bibl>
+        </sourceDesc>
+    </fileDesc>
+</teiHeader>
+        
+</teiCorpus>

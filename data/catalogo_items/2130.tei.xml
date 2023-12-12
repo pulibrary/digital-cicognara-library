@@ -1,0 +1,22 @@
+  <teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+    <fileDesc>
+                <titleStmt>
+            <title>Catalogo Cicognara Number {$ciconum}</title>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org</ref>
+            </publisher>
+            <idno type="cico">2130</idno>
+        </publicationStmt>
+        <sourceDesc>
+            <bibl><title>VETERIS Testamenti figurae, L’ancien testament mis en figures: de l’imprimerie de Pierre
+  Mariette</title>, Rue de S. Jacques à l’Esperance.</bibl><bibl><title>Novi Testamenti figurae. Le nouveau testament <pb type="cico" n="368"/> mis en figures</title>, de l’imprimerie de
+  <publisher>P. M.</publisher>, in 8, oblungo.</bibl>
+        </sourceDesc>
+    </fileDesc>
+</teiHeader>
+        
+</teiCorpus>

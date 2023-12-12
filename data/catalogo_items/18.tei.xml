@@ -1,0 +1,28 @@
+  <teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+    <fileDesc>
+                <titleStmt>
+            <title>Catalogo Cicognara Number {$ciconum}</title>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org</ref>
+            </publisher>
+            <idno type="cico">18</idno>
+        </publicationStmt>
+        <sourceDesc>
+            <bibl>
+                     <author>CICOGNARA Leopoldo</author>,
+                     <title> Storia della scultura dal risorgimento delle belle arti in Italia fino al
+	  secolo di Napoleone.</title>
+                     <extent> Vol. 3 in fo.,</extent> 
+                     <pubPlace>Venezia</pubPlace>
+                     <date> 1813 al 1818,</date>
+                     <publisher> pel Picotti.</publisher> Con tre medaglioni nei
+	  tre frontespizi allusivi ai primi coltivatori delle arti d’imitazione e 181 tavole in rame.</bibl>
+        </sourceDesc>
+    </fileDesc>
+</teiHeader>
+        
+</teiCorpus>

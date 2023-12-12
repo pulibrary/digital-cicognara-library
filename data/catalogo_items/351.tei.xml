@@ -1,0 +1,31 @@
+  <teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+    <fileDesc>
+                <titleStmt>
+            <title>Catalogo Cicognara Number {$ciconum}</title>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org</ref>
+            </publisher>
+            <idno type="cico">351</idno>
+        </publicationStmt>
+        <sourceDesc>
+            <bibl> 
+                     <author>RAFAELLE DE SANCTIS</author> urbinate, <title>Prima elementa picturae, idest moud facilis delineandi omnes
+	humani corporis partes ex tipographio remondiniano veneto, tav. 25, in 8 obl.,</title> 
+                     <date>1747.</date>
+                  </bibl><bibl>
+                     <title>Il vero modo ed ordine di disegnare tutte le parti del corpo umano, di Odoardo
+	Fialetti pittore,</title> 
+                     <pubPlace>Venezia</pubPlace> 
+                     <date>1608,</date>
+                     <publisher> presso I. Sadeler,</publisher> 
+                     <extent>tav. 42. </extent>In fine: Principes de dessein par
+	Sebastien le Clerc chévalier romain, tav. 25.</bibl>
+        </sourceDesc>
+    </fileDesc>
+</teiHeader>
+        
+</teiCorpus>

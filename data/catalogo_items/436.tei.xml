@@ -1,0 +1,27 @@
+  <teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+    <fileDesc>
+                <titleStmt>
+            <title>Catalogo Cicognara Number {$ciconum}</title>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org</ref>
+            </publisher>
+            <idno type="cico">436</idno>
+        </publicationStmt>
+        <sourceDesc>
+            <bibl>
+                     <author>BLONDEL François</author>,
+                     <title> Discours sur la necessité de l’etude de l’Architetture,</title> 
+                     <pubPlace>Paris,</pubPlace> 
+                     <publisher>chez Jombert</publisher>
+	                    <date>1764,</date>
+                     <extent> in 12.</extent>
+                  </bibl>
+        </sourceDesc>
+    </fileDesc>
+</teiHeader>
+        
+</teiCorpus>

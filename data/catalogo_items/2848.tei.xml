@@ -1,0 +1,22 @@
+  <teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+    <fileDesc>
+                <titleStmt>
+            <title>Catalogo Cicognara Number {$ciconum}</title>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org</ref>
+            </publisher>
+            <idno type="cico">2848</idno>
+        </publicationStmt>
+        <sourceDesc>
+            <bibl><author>FROELICH Erasmi</author>, <title>Ad numismata Regum veterum accessio nova</title>,<pubPlace> Viennae</pubPlace>, in 4, fig., sine anno, M. 42.
+                        <note>Con tre tavole in rame</note>.
+</bibl>
+        </sourceDesc>
+    </fileDesc>
+</teiHeader>
+        
+</teiCorpus>

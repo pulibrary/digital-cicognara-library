@@ -1,0 +1,27 @@
+  <teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+    <fileDesc>
+                <titleStmt>
+            <title>Catalogo Cicognara Number {$ciconum}</title>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org</ref>
+            </publisher>
+            <idno type="cico">1586</idno>
+        </publicationStmt>
+        <sourceDesc>
+            <bibl><author>De BEKGER Christoph. Henr.</author>, <title>Commentatio de personis, vulgo iarvis seu mascheris von der
+    Carnavals Lust</title>. Critico historico, morali atque iuridico modo diligenter conscripta,
+    <pubPlace>Francofurti et Lipsiae</pubPlace> <date>1723</date>, in 4, fig.
+    <note>Trovansi 83 carte in questo volume destinate alle tavole nelle quali sono rappresentati 153 sogg. tratti dalle sei
+    commedie di Terenzio, oltre il ritratto di Terenzio stesso d’incontro al frontespizio. Opera dottissima e non
+    comune in Italia.</note>
+    
+    </bibl>
+        </sourceDesc>
+    </fileDesc>
+</teiHeader>
+        
+</teiCorpus>

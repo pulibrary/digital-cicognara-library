@@ -1,0 +1,24 @@
+  <teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+    <fileDesc>
+                <titleStmt>
+            <title>Catalogo Cicognara Number {$ciconum}</title>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org</ref>
+            </publisher>
+            <idno type="cico">3171</idno>
+        </publicationStmt>
+        <sourceDesc>
+            <bibl><author>BARTOLI Giuseppe</author>, <title>Tre ragionamenti intorno al dittico Quiriniano</title>, <pubPlace>Parma</pubPlace> <date>1747</date>, in 4, fig., M. 93 e 98.
+<note>Si difende in questo libro l’antichità del dittico contro il Maffei e se ne confuta una spiegazione falsa, con un
+poemetto sul Vero dell’abate Frugoni. Sono le tavole del dittico al fine: ma dovunque questo monumento venne
+disegnato e intagliato, lo fu sgraziatamente il più delle volte con poca fortuna.</note>
+</bibl>
+        </sourceDesc>
+    </fileDesc>
+</teiHeader>
+        
+</teiCorpus>

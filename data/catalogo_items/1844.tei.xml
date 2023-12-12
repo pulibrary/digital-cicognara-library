@@ -1,0 +1,24 @@
+  <teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+    <fileDesc>
+                <titleStmt>
+            <title>Catalogo Cicognara Number {$ciconum}</title>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org</ref>
+            </publisher>
+            <idno type="cico">1844</idno>
+        </publicationStmt>
+        <sourceDesc>
+            <bibl><author>BAUDOIN J.</author>, <title>Recueil d’emblemes divers avec des discours moraux philosophiques et
+                     politiques</title>, à <pubPlace>Paris</pubPlace><date> 1638</date>, in 8, fig.
+                     <note>Con 76 tavole intagliate accuratamente in rame, ma disegnate con poca eleganza di stile</note>.
+    
+    </bibl>
+        </sourceDesc>
+    </fileDesc>
+</teiHeader>
+        
+</teiCorpus>

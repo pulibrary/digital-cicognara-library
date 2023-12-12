@@ -1,0 +1,25 @@
+  <teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+    <fileDesc>
+                <titleStmt>
+            <title>Catalogo Cicognara Number {$ciconum}</title>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org</ref>
+            </publisher>
+            <idno type="cico">843</idno>
+        </publicationStmt>
+        <sourceDesc>
+            <bibl><author>LAMI Bernardi</author>. <title>Traité des perspectives, ou sont contenus les fondemens de la peinture</title>, <pubPlace>Paris</pubPlace>
+	<date>1701</date>, in 8, fig.
+	<note>Con sette tavole in rame, oltre molte figure in legno impresse fra il testo. Le precedenti opere di Abr. Bosse
+	diedero modo all’autore di estendere il suo trattato, ma non gli fu liberale di riconoscenza.</note>
+	
+	</bibl>
+        </sourceDesc>
+    </fileDesc>
+</teiHeader>
+        
+</teiCorpus>

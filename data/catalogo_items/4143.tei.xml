@@ -1,0 +1,23 @@
+  <teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+    <fileDesc>
+                <titleStmt>
+            <title>Catalogo Cicognara Number {$ciconum}</title>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org</ref>
+            </publisher>
+            <idno type="cico">4143</idno>
+        </publicationStmt>
+        <sourceDesc>
+            <bibl><author>MANDRISIO Niccolò</author>, <title>Viaggi per l’Italia, Francia, e Germania, descritti in versi con annotazioni copiose</title>, volumi 2,
+in 8, <pubPlace>Venezia</pubPlace> <date>1718</date>.
+<note>L’opera è piena di notizie, e non è spregievole. La critica veramente non è la migliore.</note>
+</bibl>
+        </sourceDesc>
+    </fileDesc>
+</teiHeader>
+        
+</teiCorpus>

@@ -1,0 +1,24 @@
+  <teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+    <fileDesc>
+                <titleStmt>
+            <title>Catalogo Cicognara Number {$ciconum}</title>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org</ref>
+            </publisher>
+            <idno type="cico">795</idno>
+        </publicationStmt>
+        <sourceDesc>
+            <bibl><author>MAZOCHII Alexii Symmachi</author>, <title>In mutilum Campani amphiteatri titulum aliasque nonnultas
+	campanas inscriptiones commentarius</title>, <pubPlace>Neapoli</pubPlace> <date>1727</date>, in 4.
+	<note>Con due gran tavole in rame, opera piena di eruditissime osservazioni.</note>
+	
+	</bibl>
+        </sourceDesc>
+    </fileDesc>
+</teiHeader>
+        
+</teiCorpus>

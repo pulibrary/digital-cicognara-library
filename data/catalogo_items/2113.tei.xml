@@ -1,0 +1,28 @@
+  <teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+    <fileDesc>
+                <titleStmt>
+            <title>Catalogo Cicognara Number {$ciconum}</title>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org</ref>
+            </publisher>
+            <idno type="cico">2113</idno>
+        </publicationStmt>
+        <sourceDesc>
+            <bibl><author>TEMPESTA Ant.</author>, <title>Il primo e il secondo libro delle Cac <pb type="cico" n="364"/> cie intagliate per mano di Ant. Temp.</title>,
+  <pubPlace>Roma</pubPlace>, presso <publisher>Andrea Vaccario</publisher>, <date>1598</date>.
+  <fw type="foot"/>
+                  <pb type="memofonte"/>
+                  <fw type="head"/>
+  <note>Tav. 50 in 8 per traverso ove sono le caccie del selvaggiame, delle fiere e degli uccelli.</note>
+  
+  — Aggiuntovi: <title>Herculis aerumnas maximas etc.</title>, <pubPlace>Romae</pubPlace> <date>1608</date>, in 13 tav. senza alcun testo.
+  </bibl>
+        </sourceDesc>
+    </fileDesc>
+</teiHeader>
+        
+</teiCorpus>

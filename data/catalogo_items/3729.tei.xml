@@ -1,0 +1,24 @@
+  <teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+    <fileDesc>
+                <titleStmt>
+            <title>Catalogo Cicognara Number {$ciconum}</title>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org</ref>
+            </publisher>
+            <idno type="cico">3729</idno>
+        </publicationStmt>
+        <sourceDesc>
+            <bibl><author>FONTANA Carlo cav. architetto</author>, <title>Discorso sopra le cause dell’inondazione del Tevere</title>, <pubPlace>Roma</pubPlace> <date>1696</date>.
+— Aggiunto: <title>Discorso di monsignor Giovanni Carlo Vespignano sulla ristaurazione del ponte Senatorio coi
+disegni del Fontana</title>, <pubPlace>Roma</pubPlace> <date>1692</date>.
+— <title>Opuscolo del Ficoroni sopra tre particolari statue scoperte in Roma</title>, <date>1739</date>.
+</bibl>
+        </sourceDesc>
+    </fileDesc>
+</teiHeader>
+        
+</teiCorpus>

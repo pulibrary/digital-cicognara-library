@@ -1,0 +1,27 @@
+  <teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+    <fileDesc>
+                <titleStmt>
+            <title>Catalogo Cicognara Number {$ciconum}</title>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org</ref>
+            </publisher>
+            <idno type="cico">4690</idno>
+        </publicationStmt>
+        <sourceDesc>
+            <bibl><title>CÉRÉMONIES, et contûmes réligiéuses de tous les peuples du monde, répreséntées par des figures dessinées par B.
+Pickart, avec des explications historiques etc. par Bruzen de la Martiniere, et autres</title>, redigées par <publisher>I. Freder.
+Beruard</publisher>, <pubPlace>Amsterdam</pubPlace> <date>1723 à 1743</date>, 8 tom. in 9 vol., in fol.
+— <bibl><title>Superstitions anciennes, et modernes, et prejugés vulgaires, qui ont induit les peuples à des usages contraires à
+la religion</title>, <date>1735 et 1736</date>, 2 vol., in fol., fig., prémiere édition.
+<note>Su quest’opera possono consultarsi i bibliografi, che ne scrissero estesamente: il nostro esemplare completo e
+bellissimo è in vitello dorato.</note></bibl>
+</bibl>
+        </sourceDesc>
+    </fileDesc>
+</teiHeader>
+        
+</teiCorpus>

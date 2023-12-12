@@ -1,0 +1,22 @@
+  <teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+    <fileDesc>
+                <titleStmt>
+            <title>Catalogo Cicognara Number {$ciconum}</title>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org</ref>
+            </publisher>
+            <idno type="cico">2357</idno>
+        </publicationStmt>
+        <sourceDesc>
+            <bibl><author>RESTA P. Sebastiano</author>, <title>Indice del libro intitolato Parnaso de’ pittori in cui si contengono vari
+    disegni originali raccolti in Roma da S. R.</title> Edizione seconda, <pubPlace>Perugia</pubPlace> <date>1787</date>, in 8, M. 88.
+    </bibl>
+        </sourceDesc>
+    </fileDesc>
+</teiHeader>
+        
+</teiCorpus>

@@ -1,0 +1,23 @@
+  <teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+    <fileDesc>
+                <titleStmt>
+            <title>Catalogo Cicognara Number {$ciconum}</title>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org</ref>
+            </publisher>
+            <idno type="cico">2525</idno>
+        </publicationStmt>
+        <sourceDesc>
+            <bibl><author>JABLONSKI Pauli Ernesti</author>, <title>De Memnone graecorum et aegyptiorum hujusque celeberrima in Thebaide statua,
+syntagmata cum figuris aeneis</title>, in 4, <pubPlace>Francofurti</pubPlace> <date>1753</date>, M. 39 e 41.
+<note>Con due tavole intagliate in rame.</note>
+</bibl>
+        </sourceDesc>
+    </fileDesc>
+</teiHeader>
+        
+</teiCorpus>

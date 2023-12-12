@@ -1,0 +1,24 @@
+  <teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+    <fileDesc>
+                <titleStmt>
+            <title>Catalogo Cicognara Number {$ciconum}</title>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org</ref>
+            </publisher>
+            <idno type="cico">3704</idno>
+        </publicationStmt>
+        <sourceDesc>
+            <bibl><author>DOSIO Joan. Antonii</author>, <title>Urbis Romae aedificiorum illustrium quae supersunt reliquiae stylo ferreo ut hodie cernuntur
+descriptae a Jo. Baptista de Cavalleriis. Aeneis tabulis incisis repraesentatae <date>1569</date> Kalendis Maj</title>, in 4.
+<note>Sono tavole 50 di monumenti, al qual esemplare vanno aggiunte tavole 51 delle statue pubblicate dal Cavalieri dal
+n. 49 al 100 della prima parte dell’opera sua; prove di prima freschezza.</note>
+</bibl>
+        </sourceDesc>
+    </fileDesc>
+</teiHeader>
+        
+</teiCorpus>

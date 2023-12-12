@@ -1,0 +1,30 @@
+  <teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+    <fileDesc>
+                <titleStmt>
+            <title>Catalogo Cicognara Number {$ciconum}</title>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org</ref>
+            </publisher>
+            <idno type="cico">1185</idno>
+        </publicationStmt>
+        <sourceDesc>
+            <bibl><author>MARINI Gaetano</author>, <title>Spiegazione d’un antico epitaffio</title>. Lettera d’un antiquario romano ad un
+    accademico ercolanese, <pubPlace>Roma</pubPlace> <date>13 Giugno 1790</date>, in 4, M. 3.
+    — Unitavi: <author>Paoli Paolo Antonio</author>, <title>Lettera in difesa dell’epitaffio di S. Felice II, per risposta
+    alla suddetta spiegazione</title>, <pubPlace>Roma</pubPlace> <date>1790</date>, in 4, M. 3.
+    <note>Queste due dissertazioni o lettere sono in opposizione, ma il P. Paoli attacca con una singolar ferocia il carattere
+<fw type="foot"/>
+                  <pb type="memofonte"/>
+                  <fw type="head"/>
+    blando e modesto del Marini.</note>
+    
+    </bibl>
+        </sourceDesc>
+    </fileDesc>
+</teiHeader>
+        
+</teiCorpus>

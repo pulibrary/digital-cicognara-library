@@ -1,0 +1,29 @@
+  <teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+    <fileDesc>
+                <titleStmt>
+            <title>Catalogo Cicognara Number {$ciconum}</title>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org</ref>
+            </publisher>
+            <idno type="cico">1404</idno>
+        </publicationStmt>
+        <sourceDesc>
+            <bibl><author>PANSA Mutio</author>, <title>Esequie del Cattolico Filippo II re di Spagna celebrate in Chieti</title>: ordinate e
+    descritte dal D. Mutio Pansa, nel <date>1598</date>. Aggiuntovi: <title>l’Orazione dello stesso in morte di questo
+<fw type="foot"/>
+                  <pb type="memofonte"/>
+                  <fw type="head"/>
+    
+    re, e varie altre prose e poesie</title>, <pubPlace>Chieti</pubPlace> <date>1599</date>, in 4 pic. figurato.
+    MDC
+    
+    </bibl>
+        </sourceDesc>
+    </fileDesc>
+</teiHeader>
+        
+</teiCorpus>

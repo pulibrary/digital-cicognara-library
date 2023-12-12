@@ -1,0 +1,25 @@
+  <teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+    <fileDesc>
+                <titleStmt>
+            <title>Catalogo Cicognara Number {$ciconum}</title>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org</ref>
+            </publisher>
+            <idno type="cico">4055</idno>
+        </publicationStmt>
+        <sourceDesc>
+            <bibl><author>NOLLI Carlo</author>, <title>L’arco eretto dall’imperatore Nerva Trajano nel porto d’Ancona</title>, 
+                        in tavole 8, con 2 fogli di testo in
+fol. grand.
+<note>Otto sono le tavole che illustrano il monumento. Due fogli sono occupati dal testo intagliato in rame, e il
+frontespi <pb type="cico" n="248"/> zio rappresenta la veduta del porto e della città. Opera assai bene eseguita.</note>
+</bibl>
+        </sourceDesc>
+    </fileDesc>
+</teiHeader>
+        
+</teiCorpus>

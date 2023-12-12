@@ -1,0 +1,30 @@
+  <teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+    <fileDesc>
+                <titleStmt>
+            <title>Catalogo Cicognara Number {$ciconum}</title>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org</ref>
+            </publisher>
+            <idno type="cico">989</idno>
+        </publicationStmt>
+        <sourceDesc>
+            <bibl><author>HAYLEY William</author>, <title>An essay on painting in two Epistles to MR Romney</title>, <pubPlace>Londra</pubPlace> <date>1781</date>, in 4.
+      — <title>Epistle to a friend on the death of John Thorn ton by the autor of an epistle to an eminent
+      painter</title>, <pubPlace>Lond.</pubPlace> <date>1783</date>.
+      — <title>Ode inscribed to John Howard author of The state of english and forcing prisons</title>, <pubPlace>Lond.</pubPlace>
+      <date>1781</date>. 
+      — <title>An essai on history in three epistles to Edevard Gibbon with notes</title>, <pubPlace>Lond.</pubPlace> <date>1781</date>.
+      — <title>The triumphs of temper a poem in six cantos</title>, <date>1781</date>.
+      — <title>Essais on epic poetry</title>, <date>1781</date>.
+      <note>Tutte queste opere poetiche e pittoriche sono legate in un volume, ma non sono fra le più celebrate.</note>
+      
+      </bibl>
+        </sourceDesc>
+    </fileDesc>
+</teiHeader>
+        
+</teiCorpus>

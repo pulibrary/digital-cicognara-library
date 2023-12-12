@@ -1,0 +1,24 @@
+  <teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+    <fileDesc>
+                <titleStmt>
+            <title>Catalogo Cicognara Number {$ciconum}</title>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org</ref>
+            </publisher>
+            <idno type="cico">2666</idno>
+        </publicationStmt>
+        <sourceDesc>
+            <bibl><author>CORSINUS Eduardus</author>, <title>Herculis quies, et expiatio in eximio Farnesiano marmore expressa</title>, in fol., fig., M. 82.
+<note>In principio è la tavola in rame del monumento. La grand’opera di quest’autore è la prima qui sopra citata notae
+Graecorum che deve essergli costata una fatica straordinaria ed ha grandemente per questa ben meritato della
+Repubblica Letteraria.</note>
+</bibl>
+        </sourceDesc>
+    </fileDesc>
+</teiHeader>
+        
+</teiCorpus>

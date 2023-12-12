@@ -1,0 +1,27 @@
+  <teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+    <fileDesc>
+                <titleStmt>
+            <title>Catalogo Cicognara Number {$ciconum}</title>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org</ref>
+            </publisher>
+            <idno type="cico">496</idno>
+        </publicationStmt>
+        <sourceDesc>
+            <bibl>
+                     <author>ERASMO Giovanni Giorgio</author>,
+                     <title> Notizia breve ma ragionata e fondamentale delle cinque colonne
+	conosciute nella nobile arte dell’architettura, con una estesa istruzione come se ne debbano
+	fare i disegni e i capitelli, Norimberga senza data.</title> In tedesco, <extent>in fol. fig.</extent>
+	                    <note>Nel volume è aggiunta una numerosa serie di ornamenti del gusto più barbaro, che escisse mai dalla maggior
+	corruzione delle arti.</note>
+                  </bibl>
+        </sourceDesc>
+    </fileDesc>
+</teiHeader>
+        
+</teiCorpus>

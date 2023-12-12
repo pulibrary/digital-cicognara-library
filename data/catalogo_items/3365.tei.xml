@@ -1,0 +1,24 @@
+  <teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+    <fileDesc>
+                <titleStmt>
+            <title>Catalogo Cicognara Number {$ciconum}</title>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org</ref>
+            </publisher>
+            <idno type="cico">3365</idno>
+        </publicationStmt>
+        <sourceDesc>
+            <bibl><author>AGNELLI dott. Jacopo ferrarese</author>, <title>Gallerie di pitture del card.</title> Tomaso Ruffo vescovo di Ferrara, <date>1734</date>.
+<note>Aggiuntovi il Vesuvio, Baccanale d’Enante vignajolo in occasione dei fuochi d’artificio per l’arrivo del cardinal
+Ruffo, 1727 e la Roma, poesie a monsignor Bonaventura Barberini arcivescovo di Ferrara consagrate: 1741,
+Ferrara, in 8.</note>
+</bibl>
+        </sourceDesc>
+    </fileDesc>
+</teiHeader>
+        
+</teiCorpus>

@@ -1,0 +1,32 @@
+  <teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+    <fileDesc>
+                <titleStmt>
+            <title>Catalogo Cicognara Number {$ciconum}</title>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org</ref>
+            </publisher>
+            <idno type="cico">452</idno>
+        </publicationStmt>
+        <sourceDesc>
+            <bibl> 
+                     <author>BRUNO Spinelli Giovan Battista</author>,
+                     <title> Economia delle fabbriche e regola di tutti i materiali per
+	costruire ogni fabbrica tanto urbana che rurale,</title> 
+                     <pubPlace>Bologna</pubPlace> 
+                     <date>1698,</date>
+                     <extent> in 4.</extent>
+                  </bibl><bibl>Aggiuntovi la Risposta al Capitolo IV del libretto intitolato: <title>Economia delle fabbriche fatta da un accademico
+	clementino,</title> 
+                     <pubPlace>Bologna</pubPlace> 
+                     <date>1721,</date>
+                     <extent> in 12.</extent>
+                  </bibl>
+        </sourceDesc>
+    </fileDesc>
+</teiHeader>
+        
+</teiCorpus>

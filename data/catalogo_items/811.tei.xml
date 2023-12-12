@@ -1,0 +1,28 @@
+  <teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+    <fileDesc>
+                <titleStmt>
+            <title>Catalogo Cicognara Number {$ciconum}</title>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org</ref>
+            </publisher>
+            <idno type="cico">811</idno>
+        </publicationStmt>
+        <sourceDesc>
+            <bibl><author>BAROZZI Jacomo da Vignola</author>, La stessa, <pubPlace>Roma</pubPlace> <date>1644</date>, fol. fig. ottima ristampa e bellissimo
+	esemplare in mar. dor.
+	<note>Questo è il miglior libro, che da noi si conosca per simili instituzioni e rende un conto giustissimo delle migliori
+	opere precedenti. Grandissimi nelle teoriche e nelle pratiche furono l’autore e il commentatore. La prima di
+	queste edizio <pb type="cico" n="151"/> ni bellissima per la tua nitidezza. Le tavole sono presso che tutte in legno fra il testo, meno
+	alcune poche io rame. Il frontespizio è figurato col ritratto dell’autore in mezzo ad un bel colonnato in
+	prospettiva.</note>
+	
+	</bibl>
+        </sourceDesc>
+    </fileDesc>
+</teiHeader>
+        
+</teiCorpus>

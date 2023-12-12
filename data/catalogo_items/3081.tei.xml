@@ -1,0 +1,23 @@
+  <teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+    <fileDesc>
+                <titleStmt>
+            <title>Catalogo Cicognara Number {$ciconum}</title>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org</ref>
+            </publisher>
+            <idno type="cico">3081</idno>
+        </publicationStmt>
+        <sourceDesc>
+            <bibl><author>ZANETTI Hieronimi Francisci</author>, <title>De nummis regum Myaiae seu Rasciae ad venetos typis percussis,
+commentariolum</title>, <pubPlace>Venetiis</pubPlace> <date>1750</date>, in 8, fig., M. 54 con una tavola in rame.
+<note>Tutte le opere di questo dottissimo autore sono da tenersi in pregio.</note>
+</bibl>
+        </sourceDesc>
+    </fileDesc>
+</teiHeader>
+        
+</teiCorpus>

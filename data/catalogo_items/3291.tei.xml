@@ -1,0 +1,22 @@
+  <teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+    <fileDesc>
+                <titleStmt>
+            <title>Catalogo Cicognara Number {$ciconum}</title>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org</ref>
+            </publisher>
+            <idno type="cico">3291</idno>
+        </publicationStmt>
+        <sourceDesc>
+            <bibl><author>ORLANDI Oratio</author>, <title>Ragionamento sopra un’ara antica posseduta da monsignor Casali</title>, <pubPlace>Roma</pubPlace> <date>1772</date>, in 4, fig., M. 1.
+<note>Con varie tavole illustrative intagliate da Carlo Antonini.</note>
+</bibl>
+        </sourceDesc>
+    </fileDesc>
+</teiHeader>
+        
+</teiCorpus>

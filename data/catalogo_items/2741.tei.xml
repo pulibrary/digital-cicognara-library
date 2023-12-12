@@ -1,0 +1,24 @@
+  <teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+    <fileDesc>
+                <titleStmt>
+            <title>Catalogo Cicognara Number {$ciconum}</title>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org</ref>
+            </publisher>
+            <idno type="cico">2741</idno>
+        </publicationStmt>
+        <sourceDesc>
+            <bibl><author>BAJERI Jo. Jacobi</author>, <title>Gemmarum affabre sculptarum thesaurus, quem suis sumptibus collegit Jo. Mar. ab Ebermayer
+norimbergensis, digessit et recensuit I. I. Bajerus</title>, <pubPlace>Norimb</pubPlace>. <date>1720</date>, in fol. g.
+<note>Il disegno del Gazofilacio intagliato in rame precede il frontespizio e seguono 30 tavole diligentemente disegnate
+ed incise, con gran numero di gemme. Opera delle migliori escite dai tipi di Norimberga in quell’epoca.</note>
+</bibl>
+        </sourceDesc>
+    </fileDesc>
+</teiHeader>
+        
+</teiCorpus>

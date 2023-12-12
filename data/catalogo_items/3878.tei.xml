@@ -1,0 +1,24 @@
+  <teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+    <fileDesc>
+                <titleStmt>
+            <title>Catalogo Cicognara Number {$ciconum}</title>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org</ref>
+            </publisher>
+            <idno type="cico">3878</idno>
+        </publicationStmt>
+        <sourceDesc>
+            <bibl><author>SAVII Zamosci Joannis</author>, <title>De Senatu romano, libri duo, Venetiis, apud Jordanum Zilettum</title>, <date>1563</date>, in <pb type="cico" n="219"/> 4.
+Questo libro sta anche nelle antichità del Grevio, t. I.
+— Aggiuntovi: <author>Guerini Pisonis Soacii T. C. Patavini</author>, <title>De romanorum et venetorum magistratum inter se
+comparatione, libellus</title>, <pubPlace>Patavii</pubPlace>, <date>1653</date>, ap.<publisher> M. Ant. de Galassis</publisher>, in 4.
+</bibl>
+        </sourceDesc>
+    </fileDesc>
+</teiHeader>
+        
+</teiCorpus>

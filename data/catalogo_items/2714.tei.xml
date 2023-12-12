@@ -1,0 +1,23 @@
+  <teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+    <fileDesc>
+                <titleStmt>
+            <title>Catalogo Cicognara Number {$ciconum}</title>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org</ref>
+            </publisher>
+            <idno type="cico">2714</idno>
+        </publicationStmt>
+        <sourceDesc>
+            <bibl><author>VENUTI Ridolfino</author>, <title>La favola di Circe rappresentata in antico greco basso-rilievo di marmo</title>, <pubPlace>Roma</pubPlace> <date>1758</date>, in 4, fig.,
+M. 92.
+                        <note>Con una tavola in rame</note>.
+</bibl>
+        </sourceDesc>
+    </fileDesc>
+</teiHeader>
+        
+</teiCorpus>

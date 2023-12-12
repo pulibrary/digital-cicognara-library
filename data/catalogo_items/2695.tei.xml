@@ -1,0 +1,23 @@
+  <teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+    <fileDesc>
+                <titleStmt>
+            <title>Catalogo Cicognara Number {$ciconum}</title>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org</ref>
+            </publisher>
+            <idno type="cico">2695</idno>
+        </publicationStmt>
+        <sourceDesc>
+            <bibl><author>PATERNÒ Ignazio</author>, <title>Viaggio per tutte le antichità della Sicilia descritto</title>, <pubPlace>Napoli</pubPlace> <date>1781</date>, in 4.
+<note>Questo colto signore aveva ben viaggiato e conosciuto il suo paese e resone conto al viaggiatore in modo utile ed
+istruttivo.</note>
+</bibl>
+        </sourceDesc>
+    </fileDesc>
+</teiHeader>
+        
+</teiCorpus>

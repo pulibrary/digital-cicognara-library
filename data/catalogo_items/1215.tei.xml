@@ -1,0 +1,29 @@
+  <teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+    <fileDesc>
+                <titleStmt>
+            <title>Catalogo Cicognara Number {$ciconum}</title>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org</ref>
+            </publisher>
+            <idno type="cico">1215</idno>
+        </publicationStmt>
+        <sourceDesc>
+            <bibl><author>TOMITANO Bernardino</author>, <title>Lettera a M. Francesco Longo nel 1550</title>. Stampata dal <publisher>Coletti</publisher> in
+    <pubPlace>Venezia</pubPlace> <date>1798</date>, in 8, M. 48.
+    <note>Questa lettera fu intitolata nell’edizione al chiaro Sig. Conte Giulio Bernardino Tomitano coltissimo cavaliere
+    vivente: sono annesse in questo volume altre preziose frazioni di novellieri, vite e orazioni non attinenti alle arti e
+<fw type="foot"/>
+                  <pb type="memofonte"/>
+                  <fw type="head"/>
+    all’antichità date in luce in varie occasioni da questo colto signore.</note>
+    
+    </bibl>
+        </sourceDesc>
+    </fileDesc>
+</teiHeader>
+        
+</teiCorpus>

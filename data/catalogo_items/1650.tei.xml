@@ -1,0 +1,25 @@
+  <teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+    <fileDesc>
+                <titleStmt>
+            <title>Catalogo Cicognara Number {$ciconum}</title>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org</ref>
+            </publisher>
+            <idno type="cico">1650</idno>
+        </publicationStmt>
+        <sourceDesc>
+            <bibl><author>FIALETTI Odoardo</author>, <title>Briefve (sic) histoire de l’institution de toutes les religions avec leurs
+    habits</title>, à <pubPlace>Paris</pubPlace> <date>1658</date>, in 4.
+    <note>Questa è una versione o illustrazione del testo fatta da Du Fresne ove sono riprodotte le tavole originali nelle
+    quali uno è stato tolto il testo italiano
+    </note>
+    </bibl>
+        </sourceDesc>
+    </fileDesc>
+</teiHeader>
+        
+</teiCorpus>

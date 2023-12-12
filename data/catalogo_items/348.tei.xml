@@ -1,0 +1,26 @@
+  <teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+    <fileDesc>
+                <titleStmt>
+            <title>Catalogo Cicognara Number {$ciconum}</title>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org</ref>
+            </publisher>
+            <idno type="cico">348</idno>
+        </publicationStmt>
+        <sourceDesc>
+            <bibl>
+                     <author>PONZILACQUA Bartolomeo</author>, 
+                     <title>Trattato teorico e pratico di calligrafia,</title> 
+                     <pubPlace>Venezia</pubPlace> 
+                     <date>1814,</date>
+                     <extent> in 4 oblong.</extent>
+                  </bibl>
+        </sourceDesc>
+    </fileDesc>
+</teiHeader>
+        
+</teiCorpus>

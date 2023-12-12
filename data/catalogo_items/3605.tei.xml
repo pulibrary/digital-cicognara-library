@@ -1,0 +1,27 @@
+  <teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+    <fileDesc>
+                <titleStmt>
+            <title>Catalogo Cicognara Number {$ciconum}</title>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org</ref>
+            </publisher>
+            <idno type="cico">3605</idno>
+        </publicationStmt>
+        <sourceDesc>
+            <bibl><author>BELLORI Jo. Petri</author>,<title> Columna Choclis M. Aurelio Antonino Augusto dicata brevibus notis illustrata et a Petro Sancte
+Bartolo aere incisa; iterum in lucem prodit, <pb type="cico" n="173"/> sub faustissimi auspiciis Clementis XI</title>, <pubPlace>Romae</pubPlace>, ex
+calcographia<publisher>Dom. de Rubeis</publisher>, an. <date>1704</date>, in fol.
+<note>In questa seconda edizione sono aggiunti in molte tavole dei secondi tagli, e in altre fu rientrato il taglio, di modo
+che l’occhio intelligente non vi trova la prima originalità e freschezza: vi sono alcune iscrizioni di più, e tre tavole
+in fine che mancano alla prima edizione, oltre il numero delle 77 coll’iscrizione, l’apoteosi, e la pompa funebre.
+Vedi per la colonna teodosiana Menetrei Claudii.</note>
+</bibl>
+        </sourceDesc>
+    </fileDesc>
+</teiHeader>
+        
+</teiCorpus>

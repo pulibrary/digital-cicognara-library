@@ -1,0 +1,24 @@
+  <teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+    <fileDesc>
+                <titleStmt>
+            <title>Catalogo Cicognara Number {$ciconum}</title>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org</ref>
+            </publisher>
+            <idno type="cico">2845</idno>
+        </publicationStmt>
+        <sourceDesc>
+            <bibl><author>FROELICH Erasmi</author>, <title>De familia Vaballathi nummis illustrata, opusculum postumum. Accedunt appendiculae duae
+                        ad numismata antiqua a Cl. Vaillantio olim edita etc.</title>,<pubPlace> Vindobonae</pubPlace><date> 1762</date>, in 4, fig., M. 17.
+<note>Con quattro tavole in rame. Il Khellio fu l’editore di quest’opera postuma e la fa precedere dall’elogio al suo
+   collega Froelich</note>.
+</bibl>
+        </sourceDesc>
+    </fileDesc>
+</teiHeader>
+        
+</teiCorpus>

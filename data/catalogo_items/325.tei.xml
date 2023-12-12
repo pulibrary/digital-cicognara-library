@@ -1,0 +1,26 @@
+  <teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+    <fileDesc>
+                <titleStmt>
+            <title>Catalogo Cicognara Number {$ciconum}</title>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org</ref>
+            </publisher>
+            <idno type="cico">325</idno>
+        </publicationStmt>
+        <sourceDesc>
+            <bibl>
+                     <author>GENGA Bernardino</author>, 
+                     <title>Anatomia per uso e intelligenza del disegno colle spiegazioni ed indice del
+	Lancisi.</title> Pubblicata per uso dell’Accademia di Francia in <pubPlace>Roma,</pubPlace> 
+                     <publisher>per Dom. De’ Rossi,</publisher> 
+                     <date>1691,</date>
+	opera splendidamente eseguita: aggiuntovi 8 tavole di antiche statue intagliate da S.</bibl>
+        </sourceDesc>
+    </fileDesc>
+</teiHeader>
+        
+</teiCorpus>

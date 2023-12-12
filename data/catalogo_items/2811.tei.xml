@@ -1,0 +1,22 @@
+  <teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+    <fileDesc>
+                <titleStmt>
+            <title>Catalogo Cicognara Number {$ciconum}</title>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org</ref>
+            </publisher>
+            <idno type="cico">2811</idno>
+        </publicationStmt>
+        <sourceDesc>
+            <bibl><author>CORSINI Eduardi</author>, <title>Dissertatio in qua dubia adversus Minnisari regis Nummum diluuntur</title>, <pubPlace>Romae</pubPlace> <date>1757</date>, in 4, M.
+13.
+</bibl>
+        </sourceDesc>
+    </fileDesc>
+</teiHeader>
+        
+</teiCorpus>

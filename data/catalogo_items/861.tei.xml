@@ -1,0 +1,25 @@
+  <teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+    <fileDesc>
+                <titleStmt>
+            <title>Catalogo Cicognara Number {$ciconum}</title>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org</ref>
+            </publisher>
+            <idno type="cico">861</idno>
+        </publicationStmt>
+        <sourceDesc>
+            <bibl><author>SIRIGATTI Lorenzo Cavaliere</author>, <title>La pratica prospettiva al Serenissimo Ferdinan <pb type="cico" n="159"/> do
+	Medici Gran Duca di Toscana</title>, <pubPlace>Venezia</pubPlace> <date>1625</date>, in fol. fig., presso <publisher>Bernardo Giunti</publisher>.
+	<note>Ristampa della precedente. È singolare che questa medesima ristampa si trova colla data dello stesso anno anche
+	intitolata a Ladislao Sigismondo Principe di Polonia e di Svezia.</note>
+	
+	</bibl>
+        </sourceDesc>
+    </fileDesc>
+</teiHeader>
+        
+</teiCorpus>

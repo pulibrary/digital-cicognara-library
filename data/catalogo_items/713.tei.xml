@@ -1,0 +1,28 @@
+  <teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+    <fileDesc>
+                <titleStmt>
+            <title>Catalogo Cicognara Number {$ciconum}</title>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org</ref>
+            </publisher>
+            <idno type="cico">713</idno>
+        </publicationStmt>
+        <sourceDesc>
+            <bibl><author>VITRUVII M.</author>, <title>I dieci libri dell’architettura tradotti et commentati da Monsig. Barbaro eletto
+	Patriarca di Aquileia, Vinegia</title>, per Francesco Marcolini con privilegi, <date>1556</date>, in fol. fig.
+	<note>Con due tavole, l’una di lutto quello si contiene per i capi dell’opera, l’altra per dichiarazione di tutte le cose
+	d’importanza. Magnifica edizione intitolata al Cardinale Ippolito d’Este; con frontespizio doppio e figurato
+	intagliato in legno come lo sono tutte le bellissime tavole dell’opera collocate fra il testo. Questa versione non
+	solo, al parere anche del Poleni, è da anteporsi ad ogni altra italiana che conservasi, ma viene giustamente
+	riputata per la prima veramente italiana, esemplare di prima bellezza.</note>
+	
+	</bibl>
+        </sourceDesc>
+    </fileDesc>
+</teiHeader>
+        
+</teiCorpus>

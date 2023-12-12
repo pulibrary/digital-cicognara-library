@@ -1,0 +1,25 @@
+  <teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+    <fileDesc>
+                <titleStmt>
+            <title>Catalogo Cicognara Number {$ciconum}</title>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org</ref>
+            </publisher>
+            <idno type="cico">2155</idno>
+        </publicationStmt>
+        <sourceDesc>
+            <bibl><author>CHRIST M.</author>, <title>Dictionnaire de monogrames, chiffres, lettres initiales, logogryphes, etc. sur les
+    quelles les plus célebres artistes ont dessiné leur nom. Traduit de l’allemand par M. Séllins</title>,
+    <pubPlace>Paris</pubPlace> <date>1750</date>, in ottavo.
+   <note> Quest’opera dopo le ultime di autori più accreditati è di poca utilità.
+   </note> 
+    </bibl>
+        </sourceDesc>
+    </fileDesc>
+</teiHeader>
+        
+</teiCorpus>

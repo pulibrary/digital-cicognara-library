@@ -1,0 +1,24 @@
+  <teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+    <fileDesc>
+                <titleStmt>
+            <title>Catalogo Cicognara Number {$ciconum}</title>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org</ref>
+            </publisher>
+            <idno type="cico">683</idno>
+        </publicationStmt>
+        <sourceDesc>
+            <bibl>
+	                    <author>VEGETII Flavii Renati</author>, <title>De re militari lib. IV. correcti a Godescalco Stewechio: accesserunt sex
+	Jul. Frontini stratagematon lib. IV., Aelianus de instruendis aciebus; Modestus de vocabulis
+	rei militaris. Castrametatio Rom. ex Polibio, et alia ec., Lugd. Bat., Plantin.</title>, <date>1592</date>, <extent>in 8</extent>.</bibl><bibl>— <title>Aggiugnesi a questo: Godescalchi Stewechii commentarius ad Flavii Vegetii Renati de Re
+	militari libros. Eodem loco et anno fig</title>.</bibl>
+        </sourceDesc>
+    </fileDesc>
+</teiHeader>
+        
+</teiCorpus>

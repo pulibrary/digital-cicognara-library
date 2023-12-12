@@ -1,0 +1,22 @@
+  <teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+    <fileDesc>
+                <titleStmt>
+            <title>Catalogo Cicognara Number {$ciconum}</title>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org</ref>
+            </publisher>
+            <idno type="cico">3825</idno>
+        </publicationStmt>
+        <sourceDesc>
+            <bibl><author>PICCIONI Matteo</author>, <title>Bassi rilievi tolti dall’arco di Costantino, e dalle scale del Campidoglio</title>.
+Tavole 20 originali all’acqua forte in fol. pubblicate in <pubPlace>Roma</pubPlace> da <publisher>Giovan Giacomo de Rossi</publisher> senz’anno.
+</bibl>
+        </sourceDesc>
+    </fileDesc>
+</teiHeader>
+        
+</teiCorpus>

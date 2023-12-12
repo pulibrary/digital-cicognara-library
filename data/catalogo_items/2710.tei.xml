@@ -1,0 +1,23 @@
+  <teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+    <fileDesc>
+                <titleStmt>
+            <title>Catalogo Cicognara Number {$ciconum}</title>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org</ref>
+            </publisher>
+            <idno type="cico">2710</idno>
+        </publicationStmt>
+        <sourceDesc>
+            <bibl><author>SECONDO Giuseppe Maria</author>, <title>Relazione storica dell’antichità, rovine e residui di Capri umiliata al Re</title>. Con tutti gli
+altri opuscoli d’antiquaria inserti nel terzo volume della Deca Romana delle Simbole Letterarie pubblicate dal
+proposto <publisher>Ant. Fran. Gori</publisher>, <pubPlace>Roma</pubPlace> <date>1752</date>, in 8, M. 95.
+</bibl>
+        </sourceDesc>
+    </fileDesc>
+</teiHeader>
+        
+</teiCorpus>

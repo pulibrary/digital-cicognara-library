@@ -1,0 +1,24 @@
+  <teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+    <fileDesc>
+                <titleStmt>
+            <title>Catalogo Cicognara Number {$ciconum}</title>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org</ref>
+            </publisher>
+            <idno type="cico">4041</idno>
+        </publicationStmt>
+        <sourceDesc>
+            <bibl><author>MARTINI Josephi</author>, <title>Theatrum basilicae pisanae</title>, <pubPlace>Romae</pubPlace> <date>1703</date>, in fol., fig.
+<bibl>— Accedit <title>appendix ad theatrum basilicae pisanae</title> <date>1723</date>.</bibl>
+<note>Le copiose e grandi tavole di quest’opera ottima sono inserite fra il testo, e accuratamente intagliate in rame:
+sono queste in numero di 36, compresa una Vergine avanti il frontespizio, cui è dedicato il libro.</note>
+</bibl>
+        </sourceDesc>
+    </fileDesc>
+</teiHeader>
+        
+</teiCorpus>

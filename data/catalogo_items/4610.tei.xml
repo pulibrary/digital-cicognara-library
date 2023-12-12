@@ -1,0 +1,25 @@
+  <teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+    <fileDesc>
+                <titleStmt>
+            <title>Catalogo Cicognara Number {$ciconum}</title>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org</ref>
+            </publisher>
+            <idno type="cico">4610</idno>
+        </publicationStmt>
+        <sourceDesc>
+            <bibl><author>LIBERATI Francesco</author>, <title>La perfezione del cavallo</title>, <pubPlace>Roma</pubPlace> <date>1669</date>, in 4, fig.
+<note>— Aggiuntavi l’altra edizione di Roma 1639, nella quale leggesi in fine la traduzione dal greco dell’arte di
+cavalcare tratta da Xenofonte, in 4, fig.
+L’opera è divisa in tre libri, l’ultimo de’ quali riporta i <pb type="cico" n="311"/> marchj de’ cavalli intagliati in legno. In principio
+   è la gran tavola in rame delle malattie del cavallo</note>.
+</bibl>
+        </sourceDesc>
+    </fileDesc>
+</teiHeader>
+        
+</teiCorpus>

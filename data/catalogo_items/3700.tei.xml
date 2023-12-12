@@ -1,0 +1,27 @@
+  <teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+    <fileDesc>
+                <titleStmt>
+            <title>Catalogo Cicognara Number {$ciconum}</title>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org</ref>
+            </publisher>
+            <idno type="cico">3700</idno>
+        </publicationStmt>
+        <sourceDesc>
+            <bibl><author>DESGODETZ Antoine</author> architecte, <title>Les edifices antiques de Rome, dessinés et mesurés trés exactement</title>, <pubPlace>Paris</pubPlace>, chez
+<publisher>Coignard</publisher>, <date>1682</date>, in fol., fig.
+<note>Questa è la prima grand’opera eseguita con accuratezza, e con magnificenza di tavole veramente distinta, la quale
+ha preceduto tutte le altre di simil genere dando l’esempio al ben fare: nondimeno scrupoleggiando, come oggi sul
+fare la critica, vi si sono notate non poche inesattezze notate da più moderni archeologi, e architetti.
+Le tavole di questa grand’opera sono 137 senza il frontespizio, e non furono vinte in merito una magnifica
+ristampa fattane in Inghilterra, e da una seconda edizione in Francia. Esempl. in mar. dor.</note>
+</bibl>
+        </sourceDesc>
+    </fileDesc>
+</teiHeader>
+        
+</teiCorpus>

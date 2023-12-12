@@ -1,0 +1,24 @@
+  <teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+    <fileDesc>
+                <titleStmt>
+            <title>Catalogo Cicognara Number {$ciconum}</title>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org</ref>
+            </publisher>
+            <idno type="cico">2505</idno>
+        </publicationStmt>
+        <sourceDesc>
+            <bibl><author>TROMBELLI Giovan Cristoforo</author>,<title> Arte di conoscere l’età dei codici</title>, <pubPlace>Bologna</pubPlace> <date>1756</date>, in 4.
+<note>Sono intagliati molti fac simile di antichi caratteri in legno ai luoghi debiti fra il testo. Ma la critica e le posteriori
+disamine e studi hanno reso quest’opera di poca utilità a fronte di tante altre.</note>
+<pb type="cico" n="6"/>
+                  </bibl>
+        </sourceDesc>
+    </fileDesc>
+</teiHeader>
+        
+</teiCorpus>

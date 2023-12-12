@@ -1,0 +1,31 @@
+  <teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+    <fileDesc>
+                <titleStmt>
+            <title>Catalogo Cicognara Number {$ciconum}</title>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org</ref>
+            </publisher>
+            <idno type="cico">4623</idno>
+        </publicationStmt>
+        <sourceDesc>
+            <bibl><author>STRADANO Jo. pictore</author>, <title>Equile in quo omnis generis generosissimorum equorum ex variis orbis partibus insignis
+delectus ad vivum omnes delineati, expensis ac studio M. Sadeleri in lucem editi</title>.
+<note>In questa ristampa l’opera è intitolata dopo il frontespizio figurato con una dedica in una bella cartella istoriata al
+C. Francesco Crescenzio. Filippo Gallé originariamente fu l’intagliatore delle 43 tavole, oltre le quali in
+quest’esemplare sono due tavole dimostrative delle infermità del cavallo, segnata Domenego venetiano f.
+intagliata con molto bel garbo.</note>
+<bibl>— Aggiuntevi: <title>Trentadue tavole di vedute prospettiche, e teatrali intagliate da Domenico Custode, da Uriese, ed
+altri</title>.</bibl>
+<bibl>— Più: Le sette scene d’una festa teatrale data in Firenze, disegnate da Alfonso Parigino, intagliate da Stefano
+della Bella, ed altre 7 per le feste date in Toscana nel 1608 per le nozze del Principe, disegnate da Giul. Parigino
+intagliate da Remigio Cantagallina.</bibl>
+</bibl>
+        </sourceDesc>
+    </fileDesc>
+</teiHeader>
+        
+</teiCorpus>

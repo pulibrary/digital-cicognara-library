@@ -1,0 +1,25 @@
+  <teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+    <fileDesc>
+                <titleStmt>
+            <title>Catalogo Cicognara Number {$ciconum}</title>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org</ref>
+            </publisher>
+            <idno type="cico">1859</idno>
+        </publicationStmt>
+        <sourceDesc>
+            <bibl><author>BRUCK</author>, <title>Emblemata moralia et bellica</title>. <pubPlace>Arg.</pubPlace> <date>1615</date>.
+   <bibl> Addita: <title>Les Emblemes moraux et militaires de Bruck</title>, <pubPlace>Strasb.</pubPlace> <date>1616</date>, in 4, fig.</bibl>
+    <note>L’intaglio è di Marian. 37 sono le carte degli emblemi <pb type="cico" n="318"/> morali, 23 quelle degli emblemi militari. Questa
+    seconda edizione del 1616 non è che una versione francese del testo latino senza figure.</note>
+    
+    </bibl>
+        </sourceDesc>
+    </fileDesc>
+</teiHeader>
+        
+</teiCorpus>

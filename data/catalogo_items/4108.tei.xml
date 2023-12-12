@@ -1,0 +1,23 @@
+  <teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+    <fileDesc>
+                <titleStmt>
+            <title>Catalogo Cicognara Number {$ciconum}</title>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org</ref>
+            </publisher>
+            <idno type="cico">4108</idno>
+        </publicationStmt>
+        <sourceDesc>
+            <bibl><author>VENUTI l’abbé</author>, <title>Dissertations sur les anciens monuments de la ville de Bordeaux, sur les Gahetes, les antiquités, et
+les Ducs d’Aquitaine</title>, <pubPlace>Bordeaux</pubPlace> <date>1754</date>, en 4, fig.
+<note>Difficile a trovarsi in Italia. Con 8 tavole in rame ove sono le monete battute dagli inglesi in quelle contrade.</note>
+</bibl>
+        </sourceDesc>
+    </fileDesc>
+</teiHeader>
+        
+</teiCorpus>

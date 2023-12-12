@@ -1,0 +1,23 @@
+  <teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+    <fileDesc>
+                <titleStmt>
+            <title>Catalogo Cicognara Number {$ciconum}</title>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org</ref>
+            </publisher>
+            <idno type="cico">3624</idno>
+        </publicationStmt>
+        <sourceDesc>
+            <bibl><author>BLONDI Flavii</author>,<title> De Roma triumphante libri decem Brixiae 1503 per Angelum Brittannicum. Accedit: ejusdem de
+Roma instaurata lib. III. De gestis venetorum ad Franciscum Foscari ducem etc. et de Italia illustrata lib. VIII</title>,
+<pubPlace>Venetiis</pubPlace>, <date>1510</date>, per G. regnante <publisher>Leonardo Lauretano</publisher> duce.
+</bibl>
+        </sourceDesc>
+    </fileDesc>
+</teiHeader>
+        
+</teiCorpus>

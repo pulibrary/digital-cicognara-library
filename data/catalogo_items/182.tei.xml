@@ -1,0 +1,26 @@
+  <teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+    <fileDesc>
+                <titleStmt>
+            <title>Catalogo Cicognara Number {$ciconum}</title>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org</ref>
+            </publisher>
+            <idno type="cico">182</idno>
+        </publicationStmt>
+        <sourceDesc>
+            <bibl>
+                     <author>PILES (de)</author>,
+                     <title> Diverses coversatios sur la peinture,</title> 
+                     <pubPlace>Paris</pubPlace> 
+                     <date>1677.</date> In fine a questo libro sono unite
+	  Figures d’accademie pour apprendre a dessiner, gravées par Sebastien le Clerc, 1673. Sono 31
+	  tavole.</bibl>
+        </sourceDesc>
+    </fileDesc>
+</teiHeader>
+        
+</teiCorpus>
