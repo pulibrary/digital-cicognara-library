@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:dcterms="http://purl.org/dc/terms/"
+     xmlns:gettyterms="http://portal.getty.edu/terms/gri/"
+     xmlns:local="http://library.princeton.edu"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Dictionnaire dárchitecture [microform] : civile, militaire et navale, antique, ancienne et moderne et de tous les arts et métiers qui en dépendent dont tous les termes son exprimés en Francois, Latin, Italien, Espagno, Anglois et Allemand : enrichie de cent une planches de figures en taille-douce pour en faciliter l'intelligence ... / par m. C.F. Roland le Virloys ....</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985343163506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/0h0z37</idno>
+            <idno type="URI">http://portal.getty.edu/api/908j9q</idno>
+            <idno type="URI">http://portal.getty.edu/api/n36t0j</idno>
+            <idno type="URI">http://portal.getty.edu/api/183752</idno>
+            <idno type="URI">http://portal.getty.edu/api/xn3614</idno>
+            <idno type="URI">http://portal.getty.edu/api/rc7x07</idno>
+            <idno type="URI">http://portal.getty.edu/api/t66x2k</idno>
+            <idno type="cico">2175</idno>
+            <idno type="dcl">sg0</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Dictionnaire dárchitecture [microform] : civile, militaire et navale, antique, ancienne et moderne et de tous les arts et métiers qui en dépendent dont tous les termes son exprimés en Francois, Latin, Italien, Espagno, Anglois et Allemand : enrichie de cent une planches de figures en taille-douce pour en faciliter l'intelligence ... / par m. C.F. Roland le Virloys ....</title>
+                  <respStmt>
+                     <persName>Roland le Virloys, C. F. (Charles François), 1716-1772.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>French</textLang>
+                  <imprint>
+                     <publisher>A Paris : Chez les Libraires associés</publisher>
+                     <date>1770</date>
+                  </imprint>
+                  <extent>3 v.</extent>
+                  <extent>30 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest"
+                            target="https://figgy.princeton.edu/concern/scanned_resources/308c383c-e939-4e32-84ba-b67f907e41f2/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Architecture -- Dictionaries -- French -- Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json"
+             url="https://figgy.princeton.edu/concern/scanned_resources/308c383c-e939-4e32-84ba-b67f907e41f2/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>

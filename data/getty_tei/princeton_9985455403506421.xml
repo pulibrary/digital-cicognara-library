@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:dcterms="http://purl.org/dc/terms/"
+     xmlns:gettyterms="http://portal.getty.edu/terms/gri/"
+     xmlns:local="http://library.princeton.edu"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Anatomia per uso dei pittori e scultori di Giuseppe del Medico .. [microform].</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <authority>Leopoldo Cicognara Program (University of Illinois at Urbana-Champaign)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985455403506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/rp0p5h</idno>
+            <idno type="cico">336</idno>
+            <idno type="cico">337</idno>
+            <idno type="dcl">0wb</idno>
+            <idno type="dcl">8gp</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Anatomia per uso dei pittori e scultori di Giuseppe del Medico .. [microform].</title>
+                  <respStmt>
+                     <persName>Del Medico, Giuseppe.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>Roma : Presso Vincenzo Poggioli</publisher>
+                     <date>1811</date>
+                  </imprint>
+                  <extent>3-84 p., 38 leaves of plates</extent>
+                  <extent>7 microfiche : positive ; 11 x 15 cm.</extent>
+               </monogr>
+               <relatedItem type="manifest"
+                            target="https://figgy.princeton.edu/concern/scanned_resources/c2170068-31d1-4dd5-a89c-0a1fe4854cde/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Anatomy, Artistic.</term>
+               <term>Human anatomy.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json"
+             url="https://figgy.princeton.edu/concern/scanned_resources/c2170068-31d1-4dd5-a89c-0a1fe4854cde/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>

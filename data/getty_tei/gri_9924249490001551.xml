@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:dcterms="http://purl.org/dc/terms/"
+     xmlns:gettyterms="http://portal.getty.edu/terms/gri/"
+     xmlns:local="http://library.princeton.edu"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Relazione della statua equestre di Carlo Magno eretta nel portico del Tempio Vaticano colla raccolta d'alcuni Componimenti Poetici / dedicata all' A.R. della serenissima Violante Beatrice ...</title>
+            <respStmt>
+               <orgName>Getty Research Institute</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Cornacchini, Agostino, 1686-1754, illustrator.</authority>
+            <authority>Gutierrez, Gennaro, illustrator.</authority>
+            <authority>Brughi, Giovanni Battista, 1660-1730, illustrator.</authority>
+            <authority>Massi, Gasparo, 1698-1731, illustrator.</authority>
+            <authority>Campiglia, Giovanni Domenico, 1692-1775, illustrator.</authority>
+            <authority>Franceschini, Vincenzo, 1680-approximately 1744, illustrator.</authority>
+            <authority>Grandi, C., illustrator.</authority>
+            <authority>Cornacchini, Augustinus, illustrator.</authority>
+            <authority>Gutierrezine, Iarutarius, sc, illustrator.</authority>
+            <authority>Brughi, Io. Bapt, illustrator.</authority>
+            <authority>Massi, Gaspar, sc, illustrator.</authority>
+            <authority>Compiglia, Dom, illustrator.</authority>
+            <authority>Franzeschini, sc, illustrator.</authority>
+            <authority>G. C., illustrator.</authority>
+            <idno type="URI">http://portal.getty.edu/books/gri_9924249490001551</idno>
+            <idno type="URI">http://portal.getty.edu/api/4q7d9b</idno>
+            <idno>(OCoLC)177757230</idno>
+            <idno type="cico">3547</idno>
+            <idno type="dcl">rzn</idno>
+            <idno type="dcl">d5z</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Relazione della statua equestre di Carlo Magno eretta nel portico del Tempio Vaticano colla raccolta d'alcuni Componimenti Poetici / dedicata all' A.R. della serenissima Violante Beatrice ...</title>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>In Siena : Appresso Francesco Quinza Stampator'di S.A.R</publisher>
+                     <pubPlace>Vatican City.</pubPlace>
+                     <pubPlace>Italy Siena.</pubPlace>
+                     <date>M.DCCXXV [1725]</date>
+                     <date>1725</date>
+                  </imprint>
+                  <extent>[10] 46, [6] pages, [1] leaf of plates</extent>
+               </monogr>
+               <relatedItem type="manifest"
+                            target="https://media.getty.edu/iiif/manifest/0bbf0614-ac70-4f83-979d-a35833a886f4"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Charlemagne, Emperor, 742-814 -- Statues -- Vatican City.</term>
+               <term>Basilica di San Pietro in Vaticano.</term>
+               <term>Equestrian statues -- Vatican City.</term>
+               <term>Charlemagne, Emperor, 742-814</term>
+               <term>Basilica di San Pietro in Vaticano.</term>
+               <term>Equestrian statues.</term>
+               <term>Statues.</term>
+               <term>Vatican City.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json"
+             url="https://media.getty.edu/iiif/manifest/0bbf0614-ac70-4f83-979d-a35833a886f4">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>

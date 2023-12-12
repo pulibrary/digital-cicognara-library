@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:dcterms="http://purl.org/dc/terms/"
+     xmlns:gettyterms="http://portal.getty.edu/terms/gri/"
+     xmlns:local="http://library.princeton.edu"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Tableaux, statues, bas-reliefs et camées, de la Galerie de Florence et du Palais Pitti [microform] / dessinés par M. Wicar, peintre, et gravés sous la direction de M. Lacombe, peintre ; avec les explications, par M. Mongez l'aîne ... imprimées sur papier-vélin superfin de Johannot d'Annonay.</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Mongez, 1747-1835.</authority>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <authority>Leopoldo Cicognara Program (University of Illinois at Urbana-Champaign)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985436273506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/b7332f</idno>
+            <idno type="cico">3393</idno>
+            <idno type="dcl">n5f</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Tableaux, statues, bas-reliefs et camées, de la Galerie de Florence et du Palais Pitti [microform] / dessinés par M. Wicar, peintre, et gravés sous la direction de M. Lacombe, peintre ; avec les explications, par M. Mongez l'aîne ... imprimées sur papier-vélin superfin de Johannot d'Annonay.</title>
+                  <respStmt>
+                     <persName>Wicar, Jean-Baptiste Joseph, 1762-1834.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>French</textLang>
+                  <imprint>
+                     <publisher>A Paris : Chez Lacombe</publisher>
+                     <pubPlace>Italy</pubPlace>
+                     <date>1789-[1807]</date>
+                     <date>1789</date>
+                  </imprint>
+                  <extent>4 v.</extent>
+                  <extent>34 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest"
+                            target="https://figgy.princeton.edu/concern/scanned_resources/48551891-1d96-40c7-b044-4de8ce2b350d/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Galleria Palatina.</term>
+               <term>Palazzo Pitti.</term>
+               <term>Art -- Italy -- Florence.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json"
+             url="https://figgy.princeton.edu/concern/scanned_resources/48551891-1d96-40c7-b044-4de8ce2b350d/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>

@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:dcterms="http://purl.org/dc/terms/"
+     xmlns:gettyterms="http://portal.getty.edu/terms/gri/"
+     xmlns:local="http://library.princeton.edu"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Eminentissimo et reverendissimo domino Nereo S.R.E. cardin. Corsino Clementis XII ex fratre nepoti Episotla tertia [microform].</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <authority>Leopoldo Cicognara Program (University of Illinois at Urbana-Champaign)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985464063506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/rz4t6q</idno>
+            <idno type="cico">1200</idno>
+            <idno type="dcl">8k4</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Eminentissimo et reverendissimo domino Nereo S.R.E. cardin. Corsino Clementis XII ex fratre nepoti Episotla tertia [microform].</title>
+                  <respStmt>
+                     <persName>Quirini, Angelo Maria, 1680-1755.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Latin</textLang>
+                  <imprint>
+                     <publisher>[Bresica : s.n]</publisher>
+                     <date>[1741]</date>
+                     <date>1741</date>
+                  </imprint>
+                  <extent>11, [7] p., [1] leaf of plates</extent>
+                  <extent>1 microfiche : positive ; 11 x 15 cm.</extent>
+               </monogr>
+               <relatedItem type="manifest"
+                            target="https://figgy.princeton.edu/concern/scanned_resources/469e4553-41c8-4e6c-9d30-89eede8ead50/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Biblioteca apostolica vaticana.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json"
+             url="https://figgy.princeton.edu/concern/scanned_resources/469e4553-41c8-4e6c-9d30-89eede8ead50/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>

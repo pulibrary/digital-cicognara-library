@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:dcterms="http://purl.org/dc/terms/"
+     xmlns:gettyterms="http://portal.getty.edu/terms/gri/"
+     xmlns:local="http://library.princeton.edu"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Emblemata politica. Quibus ea, quae ad principatum spectant breviter demonstrantur singulorũ vero explicatio fusius proponitur. Opus novum.</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9923228183506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/2p580q</idno>
+            <idno>(OCoLC)05299483</idno>
+            <idno type="cico">1860</idno>
+            <idno type="cico">1861A</idno>
+            <idno type="dcl">j82</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Emblemata politica. Quibus ea, quae ad principatum spectant breviter demonstrantur singulorũ vero explicatio fusius proponitur. Opus novum.</title>
+                  <respStmt>
+                     <persName>Bruck, Jacobus à.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Latin</textLang>
+                  <imprint>
+                     <publisher>Prostant Argentine̜ [Strasbourg], Apud Jacobum ab Heijden, et</publisher>
+                     <date>1618</date>
+                  </imprint>
+                  <extent>[1] leaf, [6], 216 p.</extent>
+               </monogr>
+               <relatedItem type="manifest"
+                            target="https://figgy.princeton.edu/concern/scanned_resources/c6b5cf93-3eb0-4b9b-8c3d-bbb4087e63b2/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Emblems.</term>
+               <term>N7740</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json"
+             url="https://figgy.princeton.edu/concern/scanned_resources/c6b5cf93-3eb0-4b9b-8c3d-bbb4087e63b2/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>

@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:dcterms="http://purl.org/dc/terms/"
+     xmlns:gettyterms="http://portal.getty.edu/terms/gri/"
+     xmlns:local="http://library.princeton.edu"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>I marmi riccardiani difesi dalle censure del marchese Scipione Maffei.</title>
+            <respStmt>
+               <orgName>Getty Research Institute</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Moücke, Francesco.</authority>
+            <authority>Stamperia Moückiana, printer.</authority>
+            <idno type="URI">http://portal.getty.edu/books/gri_9927793290001551</idno>
+            <idno type="URI">http://portal.getty.edu/api/zz7d8w</idno>
+            <idno>(OCoLC)77218071</idno>
+            <idno type="cico">3147</idno>
+            <idno type="dcl">vzc</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>I marmi riccardiani difesi dalle censure del marchese Scipione Maffei.</title>
+                  <respStmt>
+                     <persName>Del Signore, Pier Lorenzo.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>In Firenze : Nella stamperia di Francesco Moücke</publisher>
+                     <pubPlace>Italy</pubPlace>
+                     <pubPlace>Italy Florence.</pubPlace>
+                     <date>MDCCLXXXI [1781]</date>
+                     <date>1781</date>
+                  </imprint>
+                  <extent>VIII, 340 pages</extent>
+               </monogr>
+               <relatedItem type="manifest"
+                            target="https://media.getty.edu/iiif/manifest/35458f72-38b1-4f4b-9f64-d9e139195e09"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Maffei, Scipione, marchese, 1675-1755</term>
+               <term>Maffei, Scipione, marchese, 1675-1755</term>
+               <term>Inscriptions, Latin -- Italy -- Verona -- Early works to 1800.</term>
+               <term>Inscriptions, Latin.</term>
+               <term>Italy -- Verona.</term>
+               <term>N3060 .S57 1781</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json"
+             url="https://media.getty.edu/iiif/manifest/35458f72-38b1-4f4b-9f64-d9e139195e09">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>

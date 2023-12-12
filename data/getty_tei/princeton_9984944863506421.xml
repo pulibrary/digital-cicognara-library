@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:dcterms="http://purl.org/dc/terms/"
+     xmlns:gettyterms="http://portal.getty.edu/terms/gri/"
+     xmlns:local="http://library.princeton.edu"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Albertus Durerus Nurembergensis pictor huius aetatis celeberrimus, versus è Germanica lingua in Latinum ... Quatuor his suaru[m] Institutionum geometricarum libris .. [microform] / denuo ad scripti exemplaris fidem omnia diligenter recognita, emendatius iam in lucem exeunt.</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9984944863506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/2c023f</idno>
+            <idno type="cico">495A (1)</idno>
+            <idno type="dcl">7cg</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Albertus Durerus Nurembergensis pictor huius aetatis celeberrimus, versus è Germanica lingua in Latinum ... Quatuor his suaru[m] Institutionum geometricarum libris .. [microform] / denuo ad scripti exemplaris fidem omnia diligenter recognita, emendatius iam in lucem exeunt.</title>
+                  <respStmt>
+                     <persName>Dürer, Albrecht, 1471-1528.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>French</textLang>
+                  <textLang>Latin</textLang>
+                  <imprint>
+                     <publisher>Parisiis : Ex officina Christiani Wecheli</publisher>
+                     <date>1535</date>
+                  </imprint>
+                  <extent>[6], 581 [i.e. 185] p.</extent>
+                  <extent>3 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest"
+                            target="https://figgy.princeton.edu/concern/scanned_resources/2d6055f6-ab89-41b1-8adf-3a0a25e7248b/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Dürer, Albrecht, 1471-1528 -- Drawing.</term>
+               <term>Geometrical drawing -- Early works to 1800.</term>
+               <term>Lettering -- Early works to 1800.</term>
+               <term>Measurement -- Early works to 1800.</term>
+               <term>Perspective -- Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json"
+             url="https://figgy.princeton.edu/concern/scanned_resources/2d6055f6-ab89-41b1-8adf-3a0a25e7248b/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>

@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:dcterms="http://purl.org/dc/terms/"
+     xmlns:gettyterms="http://portal.getty.edu/terms/gri/"
+     xmlns:local="http://library.princeton.edu"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>De' teatri antichi, e moderni [microform] : trattato in cui diversi punti morali appartenenti a teatro si mettono del tutto in chiaro, con la qual occasione risponde al Daniele Concina, chi vien ora in tal materia così fieramente attaccato da lui.</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985202593506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/400j67</idno>
+            <idno type="cico">763</idno>
+            <idno type="dcl">92z</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>De' teatri antichi, e moderni [microform] : trattato in cui diversi punti morali appartenenti a teatro si mettono del tutto in chiaro, con la qual occasione risponde al Daniele Concina, chi vien ora in tal materia così fieramente attaccato da lui.</title>
+                  <respStmt>
+                     <persName>Maffei, Scipione, marchese, 1675-1755.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>In Verona : Presso Agostino Carattoni</publisher>
+                     <date>1754</date>
+                  </imprint>
+                  <extent>[6], 136, [4] p.</extent>
+                  <extent>3 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest"
+                            target="https://figgy.princeton.edu/concern/scanned_resources/d865cbe4-5f8d-4f83-b63f-87d993631a5c/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Concina, Daniele, 1687-1756.</term>
+               <term>Theater -- Early works to 1800.</term>
+               <term>Theater -- Moral and ethical aspects -- Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json"
+             url="https://figgy.princeton.edu/concern/scanned_resources/d865cbe4-5f8d-4f83-b63f-87d993631a5c/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>

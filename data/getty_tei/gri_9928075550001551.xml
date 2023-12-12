@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:dcterms="http://purl.org/dc/terms/"
+     xmlns:gettyterms="http://portal.getty.edu/terms/gri/"
+     xmlns:local="http://library.princeton.edu"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>De sacris aedificiis a Constantino Magno constructis : synopsis historica / Joannis Ciampini, Romani, magistro brevium gratiae, ac in utraque signatura referendarii.</title>
+            <respStmt>
+               <orgName>Getty Research Institute</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Westerhout, Arnold van, 1651-1725.</authority>
+            <authority>Lenardi, Giovanni Battista, 1656-1704</authority>
+            <idno type="URI">http://portal.getty.edu/books/gri_9928075550001551</idno>
+            <idno type="URI">http://portal.getty.edu/api/c32x8j</idno>
+            <idno>(OCoLC)47073627</idno>
+            <idno type="cico">3672</idno>
+            <idno type="dcl">tg5</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>De sacris aedificiis a Constantino Magno constructis : synopsis historica / Joannis Ciampini, Romani, magistro brevium gratiae, ac in utraque signatura referendarii.</title>
+                  <respStmt>
+                     <persName>Ciampini, Giovanni Giusto, 1633-1698</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Latin</textLang>
+                  <imprint>
+                     <publisher>Romae : apud Joannem Jacobum Komarek, Bohemum typographum</publisher>
+                     <pubPlace>Italy Rome.</pubPlace>
+                     <date>1693</date>
+                  </imprint>
+                  <extent>[16], 217, [3] p., [36] leaves of plates (XXXV folded)</extent>
+               </monogr>
+               <relatedItem type="manifest"
+                            target="https://media.getty.edu/iiif/manifest/68fa5c12-407b-4714-96de-60c70e7b2125"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Constantine I, Emperor of Rome, -337 -- Early works to 1800.</term>
+               <term>Church architecture -- History -- Early works to 1800.</term>
+               <term>Christian art and symbolism -- Early works to 1800.</term>
+               <term>Constantine I, Emperor of Rome, -337</term>
+               <term>Christian art and symbolism.</term>
+               <term>Church architecture.</term>
+               <term>EDIFICIOS -- DISEÑOS Y PLANOS.</term>
+               <term>IGLESIAS CATOLICAS.</term>
+               <term>NA4817 .C536 1693</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json"
+             url="https://media.getty.edu/iiif/manifest/68fa5c12-407b-4714-96de-60c70e7b2125">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>

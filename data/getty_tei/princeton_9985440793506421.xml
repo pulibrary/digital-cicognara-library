@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:dcterms="http://purl.org/dc/terms/"
+     xmlns:gettyterms="http://portal.getty.edu/terms/gri/"
+     xmlns:local="http://library.princeton.edu"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Al Sig. cavaliere Onofrio Boni, direttore delle fabbriche di S.M. il Re d'Etruria, il Cavaliere Gio. Gherardo De' Rossi, direttore della R. Accademia di Portogallo in Roma [microform].</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Boni, Onofrio, 1743-1818.</authority>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <authority>Leopoldo Cicognara Program (University of Illinois at Urbana-Champaign)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985440793506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/t99s76</idno>
+            <idno type="cico">3550</idno>
+            <idno type="dcl">sc8</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Al Sig. cavaliere Onofrio Boni, direttore delle fabbriche di S.M. il Re d'Etruria, il Cavaliere Gio. Gherardo De' Rossi, direttore della R. Accademia di Portogallo in Roma [microform].</title>
+                  <respStmt>
+                     <persName>De Rossi, Giovanni Gherardo, 1754-1827.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>[S.l. : s.n]</publisher>
+                     <date>[1804?]</date>
+                     <date>1804</date>
+                  </imprint>
+                  <extent>XI p.</extent>
+                  <extent>1 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest"
+                            target="https://figgy.princeton.edu/concern/scanned_resources/676b017a-f686-4586-bc2e-0f8eedfb56bc/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Landi, Gaspare, 1756-1830.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json"
+             url="https://figgy.princeton.edu/concern/scanned_resources/676b017a-f686-4586-bc2e-0f8eedfb56bc/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>

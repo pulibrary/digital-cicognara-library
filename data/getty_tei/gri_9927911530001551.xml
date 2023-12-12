@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:dcterms="http://purl.org/dc/terms/"
+     xmlns:gettyterms="http://portal.getty.edu/terms/gri/"
+     xmlns:local="http://library.princeton.edu"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Arcus L. Septimii Seueri Aug. anaglypha : cum explicatione Iosephi Mariæ Suaresii, episcopi olim Vasionensis.</title>
+            <respStmt>
+               <orgName>Getty Research Institute</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Ercole, Michele, 1622-1684, printer.</authority>
+            <authority>Bartoli, Pietro Santi, 1635-1700</authority>
+            <idno type="URI">http://portal.getty.edu/books/gri_9927911530001551</idno>
+            <idno type="URI">http://portal.getty.edu/api/1h2k1z</idno>
+            <idno>(OCoLC)43261072</idno>
+            <idno type="cico">3888</idno>
+            <idno type="dcl">pnz</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Arcus L. Septimii Seueri Aug. anaglypha : cum explicatione Iosephi Mariæ Suaresii, episcopi olim Vasionensis.</title>
+                  <respStmt>
+                     <persName>Suarès, Joseph Marie, 1599-1677</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Latin</textLang>
+                  <imprint>
+                     <publisher>Romæ : Typis Barberinis. :</publisher>
+                     <pubPlace>Italy</pubPlace>
+                     <pubPlace>Roman Forum (Rome, Italy)</pubPlace>
+                     <pubPlace>Rome (Italy)</pubPlace>
+                     <pubPlace>Italy.</pubPlace>
+                     <pubPlace>Italy Rome.</pubPlace>
+                     <date>M. DC. LXXVI. [1676]</date>
+                     <date>1676</date>
+                  </imprint>
+                  <extent>12 pages, 12 unnumbered leaves of plates</extent>
+               </monogr>
+               <relatedItem type="manifest"
+                            target="https://media.getty.edu/iiif/manifest/bb56a384-a859-4901-9fcb-5f5999f7f6d3"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Triumphal arches -- Italy -- Rome.</term>
+               <term>Arch of Septimius Severus (Rome, Italy)</term>
+               <term>Inscriptions, Latin -- Italy -- Rome -- Early works to 1800.</term>
+               <term>Roman Forum (Rome, Italy)</term>
+               <term>Italy -- Antiquities, Roman -- Early works to 1800.</term>
+               <term>Relief (Sculpture), Roman -- Italy -- Rome -- Early works to 1800.</term>
+               <term>Rome (Italy) -- Antiquities, Roman -- Early works to 1800.</term>
+               <term>Relief (Sculpture), Roman.</term>
+               <term>Inscriptions, Latin.</term>
+               <term>Classical antiquities.</term>
+               <term>Triumphal arches.</term>
+               <term>Italy.</term>
+               <term>Italy -- Rome.</term>
+               <term>Italy -- Rome -- Roman Forum.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json"
+             url="https://media.getty.edu/iiif/manifest/bb56a384-a859-4901-9fcb-5f5999f7f6d3">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>

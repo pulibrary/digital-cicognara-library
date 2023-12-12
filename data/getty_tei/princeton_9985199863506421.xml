@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:dcterms="http://purl.org/dc/terms/"
+     xmlns:gettyterms="http://portal.getty.edu/terms/gri/"
+     xmlns:local="http://library.princeton.edu"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>L'idea del theatro dell' eccellen [microform] / Giulio Camillo.</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Domenichi, Lodovico, 1515-1564.</authority>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985199863506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/zs7759</idno>
+            <idno type="cico">753</idno>
+            <idno type="dcl">q5c</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>L'idea del theatro dell' eccellen [microform] / Giulio Camillo.</title>
+                  <respStmt>
+                     <persName>Camillo, Giulio, approximately 1480-1544.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>In Fiorenza : [Appresso Lorenzo Torrentino ...]</publisher>
+                     <date>1550</date>
+                  </imprint>
+                  <extent>86, [1] p.</extent>
+                  <extent>2 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest"
+                            target="https://figgy.princeton.edu/concern/scanned_resources/8a9df0bf-a13a-4120-a9ad-99ec48b5dde3/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Theaters -- Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json"
+             url="https://figgy.princeton.edu/concern/scanned_resources/8a9df0bf-a13a-4120-a9ad-99ec48b5dde3/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>

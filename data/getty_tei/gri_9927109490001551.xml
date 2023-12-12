@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:dcterms="http://purl.org/dc/terms/"
+     xmlns:gettyterms="http://portal.getty.edu/terms/gri/"
+     xmlns:local="http://library.princeton.edu"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Raccolta di statue antiche e moderne : data in luce sotto i gloriosi auspici della Santita di N.S. Papa Clemente XI / da Domenico de Rossi illustrata ; colle sposizioni a ciascheduna immagine di Pavolo Alessandro Maffei ...</title>
+            <respStmt>
+               <orgName>Getty Research Institute</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Maffei, Paolo Alessandro, 1653-1716</authority>
+            <idno type="URI">http://portal.getty.edu/books/gri_9927109490001551</idno>
+            <idno type="URI">http://portal.getty.edu/api/xv6130</idno>
+            <idno>(OCoLC)13611965</idno>
+            <idno type="cico">3523</idno>
+            <idno type="dcl">x2z</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Raccolta di statue antiche e moderne : data in luce sotto i gloriosi auspici della Santita di N.S. Papa Clemente XI / da Domenico de Rossi illustrata ; colle sposizioni a ciascheduna immagine di Pavolo Alessandro Maffei ...</title>
+                  <respStmt>
+                     <persName>Rossi, Domenico de', active 17th century-18th century</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>In Roma : Nella Stamperia alla Pace</publisher>
+                     <pubPlace>Rome (Italy)</pubPlace>
+                     <pubPlace>Italy</pubPlace>
+                     <pubPlace>Italy Rome.</pubPlace>
+                     <date>1704</date>
+                  </imprint>
+                  <extent>[2], xii, [2] pages, [1], 163 leaves of plates, 170 columns, [15] pages (last page blank)</extent>
+               </monogr>
+               <relatedItem type="manifest"
+                            target="https://media.getty.edu/iiif/manifest/a4ab7817-5da4-4895-ba86-d1876c8705d7"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Sculpture, Roman -- Pictorial works -- Early works to 1800.</term>
+               <term>Rome (Italy) -- Antiquities -- Pictorial works -- Early works to 1800.</term>
+               <term>Antiquities.</term>
+               <term>Sculpture, Roman.</term>
+               <term>Italy -- Rome.</term>
+               <term>NB620 .R333 1704</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json"
+             url="https://media.getty.edu/iiif/manifest/a4ab7817-5da4-4895-ba86-d1876c8705d7">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>

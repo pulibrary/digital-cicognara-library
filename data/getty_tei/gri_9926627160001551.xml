@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:dcterms="http://purl.org/dc/terms/"
+     xmlns:gettyterms="http://portal.getty.edu/terms/gri/"
+     xmlns:local="http://library.princeton.edu"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Le vernisseur parfait, ou, Manuel du vernisseur / par l'auteur du Nouveau teinturier parfait.</title>
+            <respStmt>
+               <orgName>Getty Research Institute</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Jombert, Charles-Antoine, 1712-1784.</authority>
+            <idno type="URI">http://portal.getty.edu/books/gri_9926627160001551</idno>
+            <idno type="URI">http://portal.getty.edu/api/pc5m6g</idno>
+            <idno>(OCoLC)3419480</idno>
+            <idno type="cico">229</idno>
+            <idno type="dcl">cnx</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Le vernisseur parfait, ou, Manuel du vernisseur / par l'auteur du Nouveau teinturier parfait.</title>
+                  <respStmt>
+                     <persName>Delormois, M., active 18th century.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>French</textLang>
+                  <imprint>
+                     <publisher>A Paris : Chez Charles-Antoine Jombert</publisher>
+                     <pubPlace>France Paris.</pubPlace>
+                     <date>1771</date>
+                  </imprint>
+                  <extent>[4], 232, [4] p., [1] folded leaf of plates</extent>
+               </monogr>
+               <relatedItem type="manifest"
+                            target="https://media.getty.edu/iiif/manifest/ceec42c4-8d76-42f8-ac6e-74561c601ce5"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Varnish and varnishing -- Early works to 1800.</term>
+               <term>Varnish and varnishing</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json"
+             url="https://media.getty.edu/iiif/manifest/ceec42c4-8d76-42f8-ac6e-74561c601ce5">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>

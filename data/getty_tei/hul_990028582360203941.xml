@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:dcterms="http://purl.org/dc/terms/"
+     xmlns:gettyterms="http://portal.getty.edu/terms/gri/"
+     xmlns:local="http://library.princeton.edu"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>La géométrie pratique de l'ingénieur : ou, L'art de mesurer, ouvrage également necessaire aux ingénieurs, aux toiseurs et aux arpenteurs. Divisé en huit livres, dont les titres sont à la page suivante. Dedié à Monsieur De Vauban.</title>
+            <respStmt>
+               <orgName>Harvard Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <idno type="URI">http://portal.getty.edu/books/hul_990028582360203941</idno>
+            <idno type="URI">http://portal.getty.edu/api/d42913</idno>
+            <idno>(OCoLC)5583663</idno>
+            <idno type="cico">479-2</idno>
+            <idno type="dcl">m8v</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>La géométrie pratique de l'ingénieur : ou, L'art de mesurer, ouvrage également necessaire aux ingénieurs, aux toiseurs et aux arpenteurs. Divisé en huit livres, dont les titres sont à la page suivante. Dedié à Monsieur De Vauban.</title>
+                  <respStmt>
+                     <persName>Clermont</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>French</textLang>
+                  <imprint>
+                     <publisher>À Paris : Chez Pierre Witte</publisher>
+                     <date>1733</date>
+                  </imprint>
+                  <extent>xx, 262, [i.e. 260, 2] p.</extent>
+               </monogr>
+               <relatedItem type="manifest"
+                            target="https://iiif.lib.harvard.edu/manifests/drs:494457376"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords/>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json"
+             url="https://iiif.lib.harvard.edu/manifests/drs:494457376">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>

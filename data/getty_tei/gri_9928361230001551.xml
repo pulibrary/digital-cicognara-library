@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:dcterms="http://purl.org/dc/terms/"
+     xmlns:gettyterms="http://portal.getty.edu/terms/gri/"
+     xmlns:local="http://library.princeton.edu"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Picta // poesis. / Ab authore denuò recognita. // Vt pictura poesis erit. // [vignette: dragon with crown, 3.5 x 5.5 cm., with motto: Virtuti sic cedit invidia].</title>
+            <respStmt>
+               <orgName>Getty Research Institute</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Eskrich, Pierre, approximately 1530-approximately 1590, illustrator.</authority>
+            <authority>Salomon, Bernard, approximately 1506-approximately 1561, illustrator.</authority>
+            <authority>Pesnot, Ludovic, publisher.</authority>
+            <authority>Pesnot, Carol, publisher.</authority>
+            <authority>Bonhomme, Mathias, printer.</authority>
+            <idno type="URI">http://portal.getty.edu/books/gri_9928361230001551</idno>
+            <idno type="URI">http://portal.getty.edu/api/fd5k8d</idno>
+            <idno>(OCoLC)2713870</idno>
+            <idno type="cico">1841</idno>
+            <idno type="dcl">gwg</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Picta // poesis. / Ab authore denuò recognita. // Vt pictura poesis erit. // [vignette: dragon with crown, 3.5 x 5.5 cm., with motto: Virtuti sic cedit invidia].</title>
+                  <respStmt>
+                     <persName>Aneau, Barthélemy, -1561</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Latin</textLang>
+                  <textLang>Greek, Modern (1453-)</textLang>
+                  <imprint>
+                     <publisher>Lugduni, // apud Ludouicum &amp; Carolum Pesnot. // [bar] //</publisher>
+                     <date>M.D. LXIIII [i.e. 1564]</date>
+                     <date>1564</date>
+                  </imprint>
+                  <extent>126, [1] pages (signatures: A-H8)</extent>
+               </monogr>
+               <relatedItem type="manifest"
+                            target="https://media.getty.edu/iiif/manifest/5899641d-140e-4c81-b9a3-e68fd62389ad"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Emblem books, French.</term>
+               <term>Wood-engraving, French.</term>
+               <term>Emblem books, French.</term>
+               <term>N7710 .A57s</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json"
+             url="https://media.getty.edu/iiif/manifest/5899641d-140e-4c81-b9a3-e68fd62389ad">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:dcterms="http://purl.org/dc/terms/"
+     xmlns:gettyterms="http://portal.getty.edu/terms/gri/"
+     xmlns:local="http://library.princeton.edu"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Discorsi letti nella grande aula del Regio Cesareo Palazzo delle scienze e delle arti in Milano in occasione della solenne distribuzione de' premj della Cesareo Regia Accademia delle belle arti [microform] / fattasi da S.E. il Signor Feld Maresciallo Conte di Bellegrade ... Governatore ; il giorno nonmastico ... xxv agosto MDCCCXIV.</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <authority>Leopoldo Cicognara Program (University of Illinois at Urbana-Champaign)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985456033506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/h30k59</idno>
+            <idno type="cico">1337</idno>
+            <idno type="dcl">gns</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Discorsi letti nella grande aula del Regio Cesareo Palazzo delle scienze e delle arti in Milano in occasione della solenne distribuzione de' premj della Cesareo Regia Accademia delle belle arti [microform] / fattasi da S.E. il Signor Feld Maresciallo Conte di Bellegrade ... Governatore ; il giorno nonmastico ... xxv agosto MDCCCXIV.</title>
+                  <respStmt>
+                     <persName>Accademia di belle arti (Milan, Italy)</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>Milano : Dalla cesarea regia stamperia di governo</publisher>
+                     <pubPlace>Italy</pubPlace>
+                     <date>1814</date>
+                  </imprint>
+                  <extent>74 p.</extent>
+                  <extent>2 microfiche ; 11 x 15 cm.</extent>
+               </monogr>
+               <relatedItem type="manifest"
+                            target="https://figgy.princeton.edu/concern/scanned_resources/2e95b18c-1d65-4055-8b22-604e0b0a612e/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Accademia di belle arti (Milan, Italy) -- Awards.</term>
+               <term>Art -- Awards -- Italy -- Milan.</term>
+               <term>Speeches, addresses, etc., Italian.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json"
+             url="https://figgy.princeton.edu/concern/scanned_resources/2e95b18c-1d65-4055-8b22-604e0b0a612e/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>

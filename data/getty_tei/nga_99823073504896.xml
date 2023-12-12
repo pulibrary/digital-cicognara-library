@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:dcterms="http://purl.org/dc/terms/"
+     xmlns:gettyterms="http://portal.getty.edu/terms/gri/"
+     xmlns:local="http://library.princeton.edu"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Cabinet de l'art de schulpture [sic] / par le fameux sculpteur Francis van Bossuit ; executé en yvoire ou ebauché en terre ; gravées d'apres les desseins de Barent Graat ; par Matthys Pool.</title>
+            <respStmt>
+               <orgName>National Gallery of Art Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Graat, Barend, 1628-1709.</authority>
+            <authority>Pool, Matthys, 1670-approximately 1732.</authority>
+            <idno type="URI">http://portal.getty.edu/books/nga_99823073504896</idno>
+            <idno type="URI">http://portal.getty.edu/api/8d7z0d</idno>
+            <idno>(OCoLC)973461711</idno>
+            <idno type="cico">272</idno>
+            <idno type="dcl">Ocq</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Cabinet de l'art de schulpture [sic] / par le fameux sculpteur Francis van Bossuit ; executé en yvoire ou ebauché en terre ; gravées d'apres les desseins de Barent Graat ; par Matthys Pool.</title>
+                  <textLang>Dutch; Flemish</textLang>
+                  <imprint>
+                     <publisher>Amsterdam : Matthys Pool</publisher>
+                     <date>1727</date>
+                  </imprint>
+                  <extent>103 leaves of plates</extent>
+               </monogr>
+               <relatedItem type="manifest"
+                            target="https://libraryimage.nga.gov/manifest/mms/99823073504896.json"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Bossuit, Francis van, 1635?-1692.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json"
+             url="https://libraryimage.nga.gov/manifest/mms/99823073504896.json">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>

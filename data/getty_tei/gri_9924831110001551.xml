@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:dcterms="http://purl.org/dc/terms/"
+     xmlns:gettyterms="http://portal.getty.edu/terms/gri/"
+     xmlns:local="http://library.princeton.edu"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Alcune decorazioni di nobili sale ed altri ornamenti / di Giocondo Albertolli ... incisi da Giacomo Mercoli e da Andrea de Bernardis.</title>
+            <respStmt>
+               <orgName>Getty Research Institute</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Mercoli, Giacomo, 1745-1825</authority>
+            <authority>Bernardis, Andrea de, 1760-1837</authority>
+            <idno type="URI">http://portal.getty.edu/books/gri_9924831110001551</idno>
+            <idno type="URI">http://portal.getty.edu/api/0j1c1c</idno>
+            <idno>(OCoLC)9634595</idno>
+            <idno type="cico">391</idno>
+            <idno type="cico">393-1</idno>
+            <idno type="dcl">jrm</idno>
+            <idno type="dcl">0p8</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Alcune decorazioni di nobili sale ed altri ornamenti / di Giocondo Albertolli ... incisi da Giacomo Mercoli e da Andrea de Bernardis.</title>
+                  <respStmt>
+                     <persName>Albertolli, Giocondo, 1742-1839</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>[Milano] : [publisher not identified]</publisher>
+                     <pubPlace>Italy.</pubPlace>
+                     <pubPlace>Italy</pubPlace>
+                     <date>1787</date>
+                  </imprint>
+                  <extent>[6] pages, xxiii leaves</extent>
+               </monogr>
+               <relatedItem type="manifest"
+                            target="https://media.getty.edu/iiif/manifest/6e06b300-10d1-4581-b493-32f71b9ac38f"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Decoration and ornament -- Italy.</term>
+               <term>Decoration and ornament.</term>
+               <term>Decoration and ornament, Architectural -- Italy -- Early works to 1800.</term>
+               <term>Architecture -- Details -- Early works to 1800.</term>
+               <term>Decoration and ornament.</term>
+               <term>Decoration and ornament, Architectural.</term>
+               <term>Italy.</term>
+               <term>NK1535 .A39 ff</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json"
+             url="https://media.getty.edu/iiif/manifest/6e06b300-10d1-4581-b493-32f71b9ac38f">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>

@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:dcterms="http://purl.org/dc/terms/"
+     xmlns:gettyterms="http://portal.getty.edu/terms/gri/"
+     xmlns:local="http://library.princeton.edu"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Indiae Orientalis pars octava [microform] : navigationes quinque : primam, à Iacobo Neccio, ab anno 1600, vsque ad annum l603 : secundam, à Iohanne Hermanno de Bree, ab anno 1602, vsq[ue] ad annum 1604 : tertiam, à Cornelio Nicolai, annis quatuor : quartam, à Cornelio de Vena, duobus annis : quintam, sub Stephano de Hagen tribus annis, in Indiam Orientalem susceptas &amp; peractas continens : locorum, regum, populorum, rituumq́ue variorum descriptione ... addita / auctore M. Gotardo Arthus Dantiscano ; omnia elegantissimis in aes incisis iconibus illustrata &amp; in lucem emissa per Ioannem Theodorum &amp; Ioannem Israelem de Bry ...</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Arthus, Gotthard, 1568-</authority>
+            <authority>Bree, Jan Harmensz van.</authority>
+            <authority>Claesz, Cornelis, approximately 1546-1609.</authority>
+            <authority>Roelofsz., Roelof.</authority>
+            <authority>Bry, Johann Israel de, -1611. India orientalis. Pars 8. Latin</authority>
+            <authority>Bry, Theodor de, 1528-1598. Collectiones peregrinationum in Indiam orientalem et Indiam occidentalem.</authority>
+            <authority>Bry, Theodor de, 1528-1598. India Orientalis. Pars 8. Latin.</authority>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <authority>Leopoldo Cicognara Program (University of Illinois at Urbana-Champaign)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985445623506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/7t4n9d</idno>
+            <idno type="cico">3970</idno>
+            <idno type="dcl">p55</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Indiae Orientalis pars octava [microform] : navigationes quinque : primam, à Iacobo Neccio, ab anno 1600, vsque ad annum l603 : secundam, à Iohanne Hermanno de Bree, ab anno 1602, vsq[ue] ad annum 1604 : tertiam, à Cornelio Nicolai, annis quatuor : quartam, à Cornelio de Vena, duobus annis : quintam, sub Stephano de Hagen tribus annis, in Indiam Orientalem susceptas &amp; peractas continens : locorum, regum, populorum, rituumq́ue variorum descriptione ... addita / auctore M. Gotardo Arthus Dantiscano ; omnia elegantissimis in aes incisis iconibus illustrata &amp; in lucem emissa per Ioannem Theodorum &amp; Ioannem Israelem de Bry ...</title>
+                  <textLang>Latin</textLang>
+                  <textLang>Dutch; Flemish</textLang>
+                  <imprint>
+                     <publisher>Francoforti : [In officina typographica Wolfgangi Richteri]</publisher>
+                     <pubPlace>China</pubPlace>
+                     <pubPlace>Indonesia</pubPlace>
+                     <pubPlace>Macau</pubPlace>
+                     <date>Anno 1607</date>
+                     <date>1607</date>
+                  </imprint>
+                  <extent>114 p., XVIII leaves of plates</extent>
+                  <extent>3 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest"
+                            target="https://figgy.princeton.edu/concern/scanned_resources/76affc51-fff7-4653-9356-606bded1f7ce/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Hagen, Steven van der, 1563?-1624.</term>
+               <term>Neck, Jacob Cornelisz. van, 1564-1638.</term>
+               <term>Nicholas, Corneille.</term>
+               <term>Venne, Cornelis van de.</term>
+               <term>Warwick, Wijbrant van, ca. 1569-1615.</term>
+               <term>Voyages and travels -- Early works to 1800.</term>
+               <term>China -- Description and travel -- Early works to 1800.</term>
+               <term>Indonesia -- Description and travel -- Early works to 1800.</term>
+               <term>Indonesia -- Discovery and exploration -- Early works to 1800.</term>
+               <term>Macau -- Description and travel -- Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json"
+             url="https://figgy.princeton.edu/concern/scanned_resources/76affc51-fff7-4653-9356-606bded1f7ce/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>

@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:dcterms="http://purl.org/dc/terms/"
+     xmlns:gettyterms="http://portal.getty.edu/terms/gri/"
+     xmlns:local="http://library.princeton.edu"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Tractatus de pileo, coeterisque capitis tegminibus tam sacris quam profanis / D.D. Pedro de Maridat, im magno Regis Christianissimi Consilio Senatori dicatus.</title>
+            <respStmt>
+               <orgName>Harvard Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <idno type="URI">http://portal.getty.edu/books/hul_990053973540203941</idno>
+            <idno type="URI">http://portal.getty.edu/api/s40q5z</idno>
+            <idno>(OCoLC)16399915</idno>
+            <idno type="cico">1797bis</idno>
+            <idno type="dcl">zfn</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Tractatus de pileo, coeterisque capitis tegminibus tam sacris quam profanis / D.D. Pedro de Maridat, im magno Regis Christianissimi Consilio Senatori dicatus.</title>
+                  <respStmt>
+                     <persName>Raynaud, Théophile, 1583-1663, author.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Latin</textLang>
+                  <imprint>
+                     <publisher>Lugduni : Sumptibus Ioannis Champion et Christophori Fourmy</publisher>
+                     <date>MDCLV [1655]</date>
+                     <date>1655</date>
+                  </imprint>
+                  <extent>12 unnumbered pages, 184 pages, 8 unnumbered pages, 1 unnumbered leaf of plates</extent>
+               </monogr>
+               <relatedItem type="manifest"
+                            target="https://iiif.lib.harvard.edu/manifests/drs:481968045"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Headgear -- Early works to 1800.</term>
+               <term>Headgear</term>
+               <term>Head-gear. fal</term>
+               <term>GT2110 .R3 1655</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json"
+             url="https://iiif.lib.harvard.edu/manifests/drs:481968045">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>

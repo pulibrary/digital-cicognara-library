@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:dcterms="http://purl.org/dc/terms/"
+     xmlns:gettyterms="http://portal.getty.edu/terms/gri/"
+     xmlns:local="http://library.princeton.edu"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Quattro discorsi di Anton Chi-Chiama bidello dell'Accademia Veneziana di Pittura, Scultura e Architettura : che possono servire di risposto a quanto scrisse, scrive ... il cav. Giosue' Reynolds.</title>
+            <respStmt>
+               <orgName>National Gallery of Art Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Martinelli, Marco, acive 1783.</authority>
+            <idno type="URI">http://portal.getty.edu/books/nga_99756943504896</idno>
+            <idno type="URI">http://portal.getty.edu/api/g90f78</idno>
+            <idno>(OCoLC)29145462</idno>
+            <idno type="cico">72</idno>
+            <idno type="dcl">m28</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Quattro discorsi di Anton Chi-Chiama bidello dell'Accademia Veneziana di Pittura, Scultura e Architettura : che possono servire di risposto a quanto scrisse, scrive ... il cav. Giosue' Reynolds.</title>
+                  <respStmt>
+                     <persName>Martinelli, Antonio, Abbot.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>Venezia : Giovanni Vitto</publisher>
+                     <date>1783</date>
+                  </imprint>
+                  <extent>xxiii, 182 p.</extent>
+               </monogr>
+               <relatedItem type="manifest"
+                            target="https://libraryimage.nga.gov/manifest/mms/99756943504896.json"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Reynolds, Joshua, Sir, 1723-1792.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json"
+             url="https://libraryimage.nga.gov/manifest/mms/99756943504896.json">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>

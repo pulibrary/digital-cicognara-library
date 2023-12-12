@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:dcterms="http://purl.org/dc/terms/"
+     xmlns:gettyterms="http://portal.getty.edu/terms/gri/"
+     xmlns:local="http://library.princeton.edu"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Pittvre del Doni academico pellegrino : nelle quali si mostra di nuoua inuentione: amore, fortuna, tempo, castità, religione, sdegno, riforma, morte, sonno &amp; sogno, huomo, republica, &amp; magnanimità; diuise in due trattati. Consacrati à gli illustrissimi signori, i sig. Academici eterei.</title>
+            <respStmt>
+               <orgName>National Gallery of Art Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <idno type="URI">http://portal.getty.edu/books/nga_99719783504896</idno>
+            <idno type="URI">http://portal.getty.edu/api/v6749b</idno>
+            <idno>(OCoLC)973445926</idno>
+            <idno type="cico">115</idno>
+            <idno type="dcl">78f</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Pittvre del Doni academico pellegrino : nelle quali si mostra di nuoua inuentione: amore, fortuna, tempo, castità, religione, sdegno, riforma, morte, sonno &amp; sogno, huomo, republica, &amp; magnanimità; diuise in due trattati. Consacrati à gli illustrissimi signori, i sig. Academici eterei.</title>
+                  <respStmt>
+                     <persName>Doni, Anton Francesco, 1513-1574.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>Padova : G. Perchacino</publisher>
+                     <date>1564</date>
+                  </imprint>
+                  <extent>64 numb. (i.e. 128) p.</extent>
+               </monogr>
+               <relatedItem type="manifest"
+                            target="https://libraryimage.nga.gov/manifest/mms/99719783504896.json"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>PQ4621.D5 P5 1564</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json"
+             url="https://libraryimage.nga.gov/manifest/mms/99719783504896.json">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>

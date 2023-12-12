@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:dcterms="http://purl.org/dc/terms/"
+     xmlns:gettyterms="http://portal.getty.edu/terms/gri/"
+     xmlns:local="http://library.princeton.edu"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Traité d'architecture : avec des remarques et des observations tres-utiles pour les jeunes gens, qui veulent s'appliquer à ce bel art / par Seb. Le Clerc ...</title>
+            <respStmt>
+               <orgName>Getty Research Institute</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <idno type="URI">http://portal.getty.edu/books/gri_9930055750001551</idno>
+            <idno type="URI">http://portal.getty.edu/api/18095m</idno>
+            <idno type="URI">http://portal.getty.edu/api/b9043q</idno>
+            <idno>(OCoLC)3401768</idno>
+            <idno type="cico">477</idno>
+            <idno type="dcl">pvd</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Traité d'architecture : avec des remarques et des observations tres-utiles pour les jeunes gens, qui veulent s'appliquer à ce bel art / par Seb. Le Clerc ...</title>
+                  <respStmt>
+                     <persName>Le Clerc, Sébastien, 1637-1714</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>French</textLang>
+                  <imprint>
+                     <publisher>A Paris : Chez Pierre Giffart</publisher>
+                     <date>1714</date>
+                  </imprint>
+                  <extent>2 v.</extent>
+               </monogr>
+               <relatedItem type="manifest"
+                            target="https://media.getty.edu/iiif/manifest/3b0490d9-4712-4b2b-aa60-78ee16057dc7https://media.getty.edu/iiif/manifest/60ff0ef1-f15c-4ebc-9d47-2424b46006ab"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Architecture -- Early works to 1800.</term>
+               <term>Architecture -- Orders -- Early works to 1800.</term>
+               <term>Architecture</term>
+               <term>Architecture -- Orders</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json"
+             url="https://media.getty.edu/iiif/manifest/3b0490d9-4712-4b2b-aa60-78ee16057dc7">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+   <facsimile>
+      <media mimeType="application/json"
+             url="https://media.getty.edu/iiif/manifest/60ff0ef1-f15c-4ebc-9d47-2424b46006ab">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>

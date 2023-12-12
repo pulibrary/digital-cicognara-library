@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:dcterms="http://purl.org/dc/terms/"
+     xmlns:gettyterms="http://portal.getty.edu/terms/gri/"
+     xmlns:local="http://library.princeton.edu"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Etwas zur Übung im Zeichnen [microform] / für junge Leute und den Schriften berühmter Zeichenmeister genommen.</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985294493506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/sx2z69</idno>
+            <idno type="cico">330 (2)</idno>
+            <idno type="dcl">9vr</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Etwas zur Übung im Zeichnen [microform] / für junge Leute und den Schriften berühmter Zeichenmeister genommen.</title>
+                  <textLang>German</textLang>
+                  <imprint>
+                     <publisher>Nürnberg : In der A.G. Schneider u. Weigelsehen Kunsthandlung</publisher>
+                     <date>[17--]</date>
+                     <date>1700</date>
+                  </imprint>
+                  <extent>[1] p., [12] leaves of plates</extent>
+                  <extent>1 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest"
+                            target="https://figgy.princeton.edu/concern/scanned_resources/00d5dbc6-7c75-47d3-a51d-16e93f7367e3/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Anatomy, Artistic -- Early works to 1800.</term>
+               <term>Drawing -- Technique -- Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json"
+             url="https://figgy.princeton.edu/concern/scanned_resources/00d5dbc6-7c75-47d3-a51d-16e93f7367e3/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>

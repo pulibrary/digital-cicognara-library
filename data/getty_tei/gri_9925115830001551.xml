@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:dcterms="http://purl.org/dc/terms/"
+     xmlns:gettyterms="http://portal.getty.edu/terms/gri/"
+     xmlns:local="http://library.princeton.edu"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Della forma delle mvse, cavata da gli antichi avtori greci, et latini, opera vtilissima à pittori, &amp; scoltori, di Gio. Paolo Lomazzi, milanese pittore.</title>
+            <respStmt>
+               <orgName>Getty Research Institute</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <idno type="URI">http://portal.getty.edu/books/gri_9925115830001551</idno>
+            <idno type="URI">http://portal.getty.edu/api/q46v1w</idno>
+            <idno>(OCoLC)20906176</idno>
+            <idno type="cico">163-1</idno>
+            <idno type="dcl">w4x</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Della forma delle mvse, cavata da gli antichi avtori greci, et latini, opera vtilissima à pittori, &amp; scoltori, di Gio. Paolo Lomazzi, milanese pittore.</title>
+                  <respStmt>
+                     <persName>Lomazzo, Giovanni Paolo, 1538-1600</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>Milano, per Paolo Gottardo Pontio</publisher>
+                     <date>[1591]</date>
+                     <date>1591</date>
+                  </imprint>
+                  <extent>[6], 39, [3] pages</extent>
+               </monogr>
+               <relatedItem type="manifest"
+                            target="https://media.getty.edu/iiif/manifest/5cf16e11-d875-469e-9b7b-f2abebc9cfa2"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Muses (Greek deities) in art.</term>
+               <term>Art, Ancient -- History.</term>
+               <term>Art -- Philosophy.</term>
+               <term>Art criticism.</term>
+               <term>Art -- Philosophy.</term>
+               <term>Art criticism.</term>
+               <term>Art, Ancient.</term>
+               <term>Muses (Greek deities) in art.</term>
+               <term>BL820.M8 L83</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json"
+             url="https://media.getty.edu/iiif/manifest/5cf16e11-d875-469e-9b7b-f2abebc9cfa2">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>

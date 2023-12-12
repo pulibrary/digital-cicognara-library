@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:dcterms="http://purl.org/dc/terms/"
+     xmlns:gettyterms="http://portal.getty.edu/terms/gri/"
+     xmlns:local="http://library.princeton.edu"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Petri Angelii Bargaei Commentarius de obelisco .. [microform] : huc accesserunt aliquot poetarum carmina, quorum partim ad idem argumentum, partim ad eiusdem summi pont. laudem pertinent.</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985405273506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/t31w1b</idno>
+            <idno type="URI">http://portal.getty.edu/api/jd939s</idno>
+            <idno type="cico">2542</idno>
+            <idno type="dcl">8s5</idno>
+            <idno type="dcl">c0d</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Petri Angelii Bargaei Commentarius de obelisco .. [microform] : huc accesserunt aliquot poetarum carmina, quorum partim ad idem argumentum, partim ad eiusdem summi pont. laudem pertinent.</title>
+                  <respStmt>
+                     <persName>Angèli, Pietro, 1517-1596.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>Romae : Ex officina Bartholomaei Grassii</publisher>
+                     <pubPlace>Egypt</pubPlace>
+                     <pubPlace>Italy</pubPlace>
+                     <pubPlace>Vatican City</pubPlace>
+                     <date>1586</date>
+                  </imprint>
+                  <extent>[32], 76, [2] p.</extent>
+                  <extent>3 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest"
+                            target="https://figgy.princeton.edu/concern/scanned_resources/42234270-0619-40da-82b7-c0515f24106c/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Sixtus V, Pope, 1520-1590.</term>
+               <term>Latin poetry, Medieval and modern.</term>
+               <term>Obelisks -- Egypt -- History.</term>
+               <term>Obelisks -- Italy -- Rome -- Early works to 1800.</term>
+               <term>Obelisks -- Vatican City -- Early works to 1800.</term>
+               <term>Vatican Obelisk (Vatican City) -- Early works to 1800.</term>
+               <term>Vatican City -- Buildings, structures, etc. -- Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json"
+             url="https://figgy.princeton.edu/concern/scanned_resources/42234270-0619-40da-82b7-c0515f24106c/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>

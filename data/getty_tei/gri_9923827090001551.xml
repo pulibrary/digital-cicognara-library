@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:dcterms="http://purl.org/dc/terms/"
+     xmlns:gettyterms="http://portal.getty.edu/terms/gri/"
+     xmlns:local="http://library.princeton.edu"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Istruzioni elementari per indirizzo de'giovani allo studio dell'architettura civile, divise in libri tre' ... Da Bernardo Antonio Vittone ...</title>
+            <respStmt>
+               <orgName>Getty Research Institute</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Belmond, Giovanni Antonio, 1696-1775.</authority>
+            <authority>Borra, Giovanni Battista, 1713-1770.</authority>
+            <authority>Le Poer, Gaetano.</authority>
+            <authority>Dal Re, Marc'Antonio, 1697-1766.</authority>
+            <authority>Agnelli stampatori.</authority>
+            <idno type="URI">http://portal.getty.edu/books/gri_9923827090001551</idno>
+            <idno type="URI">http://portal.getty.edu/api/7f9h6h</idno>
+            <idno type="URI">http://portal.getty.edu/api/ct041k</idno>
+            <idno>(OCoLC)78360436</idno>
+            <idno type="cico">690</idno>
+            <idno type="dcl">50g</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Istruzioni elementari per indirizzo de'giovani allo studio dell'architettura civile, divise in libri tre' ... Da Bernardo Antonio Vittone ...</title>
+                  <respStmt>
+                     <persName>Vittone, Bernardo Antonio, 1702-1770.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>Lugano, Presso gli Agnelli, stampatori della Suprema superiorità elvetica</publisher>
+                     <pubPlace>Switzerland Lugano.</pubPlace>
+                     <date>MDCCLX [1760]</date>
+                     <date>1760</date>
+                  </imprint>
+                  <extent>[8], 622 pages</extent>
+               </monogr>
+               <relatedItem type="manifest"
+                            target="https://media.getty.edu/iiif/manifest/f9c375c8-55cd-4163-bf55-5810f8409832https://media.getty.edu/iiif/manifest/73b4aabd-7d27-4d57-b3ed-0f76194ae3c5"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Architecture -- Handbooks, manuals, etc. -- Early works to 1800.</term>
+               <term>Architecture -- Details -- Early works to 1800.</term>
+               <term>Heraldry -- Early works to 1800.</term>
+               <term>Architecture</term>
+               <term>Architecture -- Details.</term>
+               <term>Heraldry</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json"
+             url="https://media.getty.edu/iiif/manifest/f9c375c8-55cd-4163-bf55-5810f8409832">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+   <facsimile>
+      <media mimeType="application/json"
+             url="https://media.getty.edu/iiif/manifest/73b4aabd-7d27-4d57-b3ed-0f76194ae3c5">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>

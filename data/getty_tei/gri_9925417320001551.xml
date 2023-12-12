@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:dcterms="http://purl.org/dc/terms/"
+     xmlns:gettyterms="http://portal.getty.edu/terms/gri/"
+     xmlns:local="http://library.princeton.edu"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Descrizione storica delle pitture del Regio-Ducale Palazzo del Te fuori della porta di Mantova detta Pusterla : con alcune tavole in rame.</title>
+            <respStmt>
+               <orgName>Getty Research Institute</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Dall'Acqua, Cristoforo, 1734-1787</authority>
+            <authority>Campi, Antonio Maria, fl. 1783.</authority>
+            <idno type="URI">http://portal.getty.edu/books/gri_9925417320001551</idno>
+            <idno type="URI">http://portal.getty.edu/api/n04p31</idno>
+            <idno>(OCoLC)10082024</idno>
+            <idno type="cico">4234</idno>
+            <idno type="dcl">t86</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Descrizione storica delle pitture del Regio-Ducale Palazzo del Te fuori della porta di Mantova detta Pusterla : con alcune tavole in rame.</title>
+                  <respStmt>
+                     <persName>Bottani, Giovanni, 1725-1804</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>Mantova : Nella stamperia di Giuseppe Braglia</publisher>
+                     <pubPlace>Italy</pubPlace>
+                     <pubPlace>Italy Mantua.</pubPlace>
+                     <date>1783</date>
+                  </imprint>
+                  <extent>62, [2] p. (last leaf blank), [4] leaves of plates (3 folded)</extent>
+               </monogr>
+               <relatedItem type="manifest"
+                            target="https://media.getty.edu/iiif/manifest/bd21a477-cc41-43b8-84f6-a1f6b78acc46"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Romano, Giulio, 1499-1546</term>
+               <term>Gonzaga family -- Art collections.</term>
+               <term>Palazzo del Te (Mantua, Italy)</term>
+               <term>Palaces -- Italy -- Mantua -- Early works to 1800.</term>
+               <term>Palazzo del Te (Mantua, Italy)</term>
+               <term>Palaces.</term>
+               <term>Italy -- Mantua.</term>
+               <term>NA7756.M295 B688 1783</term>
+               <term>N2654 .B68 1783</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json"
+             url="https://media.getty.edu/iiif/manifest/bd21a477-cc41-43b8-84f6-a1f6b78acc46">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>

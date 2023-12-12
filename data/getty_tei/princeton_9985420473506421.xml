@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:dcterms="http://purl.org/dc/terms/"
+     xmlns:gettyterms="http://portal.getty.edu/terms/gri/"
+     xmlns:local="http://library.princeton.edu"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Vetera monimenta [microform] : in quibus praecipuè musiua opera sacrarum, profanarumque aedium structura, ac nonnulli antiqui ritus, dissertationibus, iconibusque illustrantur / Joannis Ciampini Romani, magistri brevium gratiae, ac literarum apostolicarum majoris abbreviatoris, necnon in utraque signatura referendarii.</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <authority>Leopoldo Cicognara Program (University of Illinois at Urbana-Champaign)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985420473506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/jc4j1m</idno>
+            <idno type="cico">3671</idno>
+            <idno type="dcl">zfs</idno>
+            <idno type="dcl">894</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Vetera monimenta [microform] : in quibus praecipuè musiua opera sacrarum, profanarumque aedium structura, ac nonnulli antiqui ritus, dissertationibus, iconibusque illustrantur / Joannis Ciampini Romani, magistri brevium gratiae, ac literarum apostolicarum majoris abbreviatoris, necnon in utraque signatura referendarii.</title>
+                  <respStmt>
+                     <persName>Ciampini, Giovanni Giusto, 1633-1698.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Latin</textLang>
+                  <imprint>
+                     <publisher>Romae : Ex typographia Joannis Jacobi Komarek Bohemi, apud S. Angelum custodem</publisher>
+                     <pubPlace>Italy</pubPlace>
+                     <pubPlace>Rome (Italy)</pubPlace>
+                     <date>1690-1699</date>
+                     <date>1690</date>
+                  </imprint>
+                  <extent>2 v.</extent>
+                  <extent>12 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest"
+                            target="https://figgy.princeton.edu/concern/scanned_resources/6c7f54d5-d050-4489-92b4-52b7e732af31/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Architecture -- Italy -- Rome -- Early works to 1800.</term>
+               <term>Christian art and symbolism -- Early works to 1800.</term>
+               <term>Church architecture -- Italy -- Rome -- Early works to 1800.</term>
+               <term>Mosaics -- Italy -- Rome -- Early works to 1800.</term>
+               <term>Rome (Italy) -- Buildings, structures, etc. -- Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json"
+             url="https://figgy.princeton.edu/concern/scanned_resources/6c7f54d5-d050-4489-92b4-52b7e732af31/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>

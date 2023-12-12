@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:dcterms="http://purl.org/dc/terms/"
+     xmlns:gettyterms="http://portal.getty.edu/terms/gri/"
+     xmlns:local="http://library.princeton.edu"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Albertvs Dvrervs Nvrembergensis pictor hvivs aetatis celeberrimus, versus è Germanica lingua in Latinam : pictoribus, fabris aerariis ac lignariis, lapicidis, statuariis, &amp; vniuersis demum qui circino, gnomone, libella, aut alioqui certa mensura opera sua examinant, propè necessarius, adeò exactè : quatuor his suaru[m] Institutionum geometricarum libris, lineas, superficies &amp; solida corpora tractauit, adhibitis designationibus ad eam rem accommodatissimis : denuo ad scripti exemplaris fidem omnia diligenter recognita, emendatius iam in lucem exeunt.</title>
+            <respStmt>
+               <orgName>Getty Research Institute</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <idno type="URI">http://portal.getty.edu/books/gri_9930185770001551</idno>
+            <idno type="URI">http://portal.getty.edu/api/pn5k18</idno>
+            <idno>(OCoLC)8190875</idno>
+            <idno type="cico">495A-1</idno>
+            <idno type="dcl">7cg</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Albertvs Dvrervs Nvrembergensis pictor hvivs aetatis celeberrimus, versus è Germanica lingua in Latinam : pictoribus, fabris aerariis ac lignariis, lapicidis, statuariis, &amp; vniuersis demum qui circino, gnomone, libella, aut alioqui certa mensura opera sua examinant, propè necessarius, adeò exactè : quatuor his suaru[m] Institutionum geometricarum libris, lineas, superficies &amp; solida corpora tractauit, adhibitis designationibus ad eam rem accommodatissimis : denuo ad scripti exemplaris fidem omnia diligenter recognita, emendatius iam in lucem exeunt.</title>
+                  <respStmt>
+                     <persName>Dürer, Albrecht, 1471-1528</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Latin</textLang>
+                  <imprint>
+                     <publisher>Parisiis : Ex officina Christiani Wecheli, sub scuto Basiliensi</publisher>
+                     <pubPlace>Germany</pubPlace>
+                     <date>M.D.XXXV. [1535]</date>
+                     <date>1535</date>
+                  </imprint>
+                  <extent>[8], 581 [i.e. 185], [3] p.</extent>
+               </monogr>
+               <relatedItem type="manifest"
+                            target="https://media.getty.edu/iiif/manifest/8971785c-7467-4bef-ae2e-2e8d0c890ae7"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Perspective -- Early works to 1800.</term>
+               <term>Measurement -- Early works to 1800.</term>
+               <term>Lettering -- Germany -- Early works to 1800.</term>
+               <term>Lettering</term>
+               <term>Measurement</term>
+               <term>Perspective</term>
+               <term>Germany</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json"
+             url="https://media.getty.edu/iiif/manifest/8971785c-7467-4bef-ae2e-2e8d0c890ae7">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>

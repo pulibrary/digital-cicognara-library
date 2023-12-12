@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:dcterms="http://purl.org/dc/terms/"
+     xmlns:gettyterms="http://portal.getty.edu/terms/gri/"
+     xmlns:local="http://library.princeton.edu"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Das ander Buech gemacht auff die zvvay Colonnen, Corinthia vnd Composita [microform] : sampt jren Podien, Basen, Cornicen, Capitellen, Architraben, Phrisen, vnd Coronamenten, iede inn vier manieren ghezieret vnd getailet, zu mehrer zierd vnd schoene : gezogen auss den berumpten Architecten Vitruuio, sampt noch anderen Zierden darzu dienlich, den Mahlern, Bildhavvern, Stainmetzen, Schreinern, Glaesern, und sunst allen Liebhabern zu gutem / durch Iohans Friedman Friese aussgangen bei Hieronymo Cock.</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Cock, Hieronymus, approximately 1510-1570.</authority>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985297403506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/n3999k</idno>
+            <idno type="cico">746</idno>
+            <idno type="dcl">8gm</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Das ander Buech gemacht auff die zvvay Colonnen, Corinthia vnd Composita [microform] : sampt jren Podien, Basen, Cornicen, Capitellen, Architraben, Phrisen, vnd Coronamenten, iede inn vier manieren ghezieret vnd getailet, zu mehrer zierd vnd schoene : gezogen auss den berumpten Architecten Vitruuio, sampt noch anderen Zierden darzu dienlich, den Mahlern, Bildhavvern, Stainmetzen, Schreinern, Glaesern, und sunst allen Liebhabern zu gutem / durch Iohans Friedman Friese aussgangen bei Hieronymo Cock.</title>
+                  <respStmt>
+                     <persName>Vredeman de Vries, Hans, 1527-approximately 1604.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>German</textLang>
+                  <imprint>
+                     <publisher>[Antorff] : Man findze te kauff, bey der Tapitziers Pant, inn die vier vvinten zu Antorff</publisher>
+                     <date>1578</date>
+                  </imprint>
+                  <extent>[2] p., [12] leaves of plates</extent>
+                  <extent>1 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest"
+                            target="https://figgy.princeton.edu/concern/scanned_resources/38025b23-cf08-4cea-8b05-389025429497/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Architecture -- Orders -- Early works to 1800.</term>
+               <term>Columns -- Early works to 1800.</term>
+               <term>Columns, Corinthian -- Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json"
+             url="https://figgy.princeton.edu/concern/scanned_resources/38025b23-cf08-4cea-8b05-389025429497/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>

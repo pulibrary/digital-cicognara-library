@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:dcterms="http://purl.org/dc/terms/"
+     xmlns:gettyterms="http://portal.getty.edu/terms/gri/"
+     xmlns:local="http://library.princeton.edu"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Osservazioni di Antonio Visentini architetto veneto che servono di continuazione al Trattato di Teofilo Gallaccini sopra gli errori degli architetti.</title>
+            <respStmt>
+               <orgName>Getty Research Institute</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Pasquali, Giovanni Battista, printer.</authority>
+            <authority>Gallaccini, Teofilo, 1564-1641. Trattato di Teofilo Gallaccini sopra gli errori degli architetti.</authority>
+            <idno type="URI">http://portal.getty.edu/books/gri_9928529520001551</idno>
+            <idno type="URI">http://portal.getty.edu/api/809c4b</idno>
+            <idno>(OCoLC)3585389</idno>
+            <idno type="cico">514</idno>
+            <idno type="dcl">3s4</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Osservazioni di Antonio Visentini architetto veneto che servono di continuazione al Trattato di Teofilo Gallaccini sopra gli errori degli architetti.</title>
+                  <respStmt>
+                     <persName>Visentini, Antonio, 1688-1782</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>Venezia : Per Giambatista Pasquali</publisher>
+                     <pubPlace>Italy</pubPlace>
+                     <pubPlace>Italy.</pubPlace>
+                     <pubPlace>Italy Venice.</pubPlace>
+                     <date>MDCCLXXI [1771]</date>
+                     <date>1771</date>
+                  </imprint>
+                  <extent>vij, [1], 141, [3] pages, [1] leaf of plates</extent>
+               </monogr>
+               <relatedItem type="manifest"
+                            target="https://media.getty.edu/iiif/manifest/e25e6c4a-f183-409b-b3ae-02aa1854c8a5"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Architecture -- Italy -- Early works to 1800.</term>
+               <term>Architecture -- Details -- Early works to 1800.</term>
+               <term>Architecture -- Composition, proportion, etc. -- Early works to 1800.</term>
+               <term>Architecture.</term>
+               <term>Architecture -- Composition, proportion, etc.</term>
+               <term>Architecture -- Details.</term>
+               <term>Italy.</term>
+               <term>NA2517 .V65 1771</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json"
+             url="https://media.getty.edu/iiif/manifest/e25e6c4a-f183-409b-b3ae-02aa1854c8a5">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>

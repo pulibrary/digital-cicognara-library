@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:dcterms="http://purl.org/dc/terms/"
+     xmlns:gettyterms="http://portal.getty.edu/terms/gri/"
+     xmlns:local="http://library.princeton.edu"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Illustrazione di un' urnetta lavorata d' oro e di vari altri metalli all' agemina coll' iscrizione Paulus Ageminius faciebat / dell' abate Daniele Dr. Francesconi ...</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Stamperia Palese.</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9943211223506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/pw444r</idno>
+            <idno>(OCoLC)79065025</idno>
+            <idno type="cico">1263</idno>
+            <idno type="dcl">28s</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Illustrazione di un' urnetta lavorata d' oro e di vari altri metalli all' agemina coll' iscrizione Paulus Ageminius faciebat / dell' abate Daniele Dr. Francesconi ...</title>
+                  <respStmt>
+                     <persName>Francesconi, Daniele, 1761-1835.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>In Venezia : Dalla Stamperia Palese</publisher>
+                     <pubPlace>Italy</pubPlace>
+                     <date>1800</date>
+                  </imprint>
+                  <extent>[50], CII p., III folded leaves of plates</extent>
+               </monogr>
+               <relatedItem type="manifest"
+                            target="https://figgy.princeton.edu/concern/scanned_resources/648426ff-f06d-4f46-aca8-35e219b5fbc4/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Urns -- Italy -- Early works to 1800.</term>
+               <term>Damascening -- Early works to 1800.</term>
+               <term>NK4657.I8</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json"
+             url="https://figgy.princeton.edu/concern/scanned_resources/648426ff-f06d-4f46-aca8-35e219b5fbc4/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>

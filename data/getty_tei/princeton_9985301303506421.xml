@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:dcterms="http://purl.org/dc/terms/"
+     xmlns:gettyterms="http://portal.getty.edu/terms/gri/"
+     xmlns:local="http://library.princeton.edu"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Le buone arti sempre più gloriose nel Campidoglio per la solenne Accademia del disegno nel dì 24. aprile MDCCIV [microform] : presidente il cavalier Carlo Maratti, celebre dipintore / relazione di Giuseppe Ghezzi ...</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Albani, Annibale, 1682-1751.</authority>
+            <authority>Accademia di San Luca.</authority>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <authority>Leopoldo Cicognara Program (University of Illinois at Urbana-Champaign)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985301303506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/h82x93</idno>
+            <idno type="cico">1307</idno>
+            <idno type="dcl">25t</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Le buone arti sempre più gloriose nel Campidoglio per la solenne Accademia del disegno nel dì 24. aprile MDCCIV [microform] : presidente il cavalier Carlo Maratti, celebre dipintore / relazione di Giuseppe Ghezzi ...</title>
+                  <respStmt>
+                     <persName>Ghezzi, Giuseppe, 1634-1721.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>In Roma : Per Gaetano Zenobj</publisher>
+                     <date>1704</date>
+                  </imprint>
+                  <extent>83 p.</extent>
+                  <extent>2 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest"
+                            target="https://figgy.princeton.edu/concern/scanned_resources/6547bb79-5983-46d6-845c-ca286f14c014/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Accademia di San Luca.</term>
+               <term>Art -- Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json"
+             url="https://figgy.princeton.edu/concern/scanned_resources/6547bb79-5983-46d6-845c-ca286f14c014/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>

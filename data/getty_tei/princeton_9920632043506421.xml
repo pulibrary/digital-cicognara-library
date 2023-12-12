@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:dcterms="http://purl.org/dc/terms/"
+     xmlns:gettyterms="http://portal.getty.edu/terms/gri/"
+     xmlns:local="http://library.princeton.edu"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Rime di Gio. Paolo Lomazzi, milanese pittore, diuise in sette libri. Nelle quali ad imitatione de i grotteschi vfati da' pittori, ha cantato le lodi di Dio, &amp; de le cose sacre, di prencipi, di signori, &amp; huomini letterati, di pittori, scoltori, &amp; architetti, et poi studiosamente senza alcun certo ordine, e legge accoppiato insieme vari &amp; diuersi concetti tolti da filosofi, historici, poeti, &amp; da altri scrittori. Dove si viene a dimostrare la diuersità de gli studi, inclinationi, costumi, et capricci de gli huomini di qualunque stato, et professione; et però intitolate grotteschi, no solo diletteuoli per la varietà de le inuentioni, mà vtili ancora per la moralità che vi si contiene. Con la vita del avttore descritta da lui stesso in rime sciolte.</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9920632043506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/3w4h3w</idno>
+            <idno>(OCoLC)14351387</idno>
+            <idno type="cico">1023</idno>
+            <idno type="dcl">ds0</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Rime di Gio. Paolo Lomazzi, milanese pittore, diuise in sette libri. Nelle quali ad imitatione de i grotteschi vfati da' pittori, ha cantato le lodi di Dio, &amp; de le cose sacre, di prencipi, di signori, &amp; huomini letterati, di pittori, scoltori, &amp; architetti, et poi studiosamente senza alcun certo ordine, e legge accoppiato insieme vari &amp; diuersi concetti tolti da filosofi, historici, poeti, &amp; da altri scrittori. Dove si viene a dimostrare la diuersità de gli studi, inclinationi, costumi, et capricci de gli huomini di qualunque stato, et professione; et però intitolate grotteschi, no solo diletteuoli per la varietà de le inuentioni, mà vtili ancora per la moralità che vi si contiene. Con la vita del avttore descritta da lui stesso in rime sciolte.</title>
+                  <respStmt>
+                     <persName>Lomazzo, Giovanni Paolo, 1538-1600.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>Milano, Per Paolo Gottardo Pontio</publisher>
+                     <date>1587</date>
+                  </imprint>
+                  <extent>560, [32] p.</extent>
+               </monogr>
+               <relatedItem type="manifest"
+                            target="https://figgy.princeton.edu/concern/scanned_resources/3f3225d5-5e90-41a4-b8d8-f79453d56c30/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>PQ4627.L65</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json"
+             url="https://figgy.princeton.edu/concern/scanned_resources/3f3225d5-5e90-41a4-b8d8-f79453d56c30/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>

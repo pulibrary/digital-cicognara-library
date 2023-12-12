@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:dcterms="http://purl.org/dc/terms/"
+     xmlns:gettyterms="http://portal.getty.edu/terms/gri/"
+     xmlns:local="http://library.princeton.edu"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>L'histoire et le secret de la peinture en cire.</title>
+            <respStmt>
+               <orgName>Getty Research Institute</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <idno type="URI">http://portal.getty.edu/books/gri_9924018830001551</idno>
+            <idno type="URI">http://portal.getty.edu/api/9g8q2f</idno>
+            <idno>(OCoLC)37682348</idno>
+            <idno type="cico">76-2</idno>
+            <idno type="dcl">9p0</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>L'histoire et le secret de la peinture en cire.</title>
+                  <respStmt>
+                     <persName>Diderot, Denis, 1713-1784</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>French</textLang>
+                  <imprint>
+                     <publisher>[Paris?] : [publisher not identified]</publisher>
+                     <pubPlace>France Paris.</pubPlace>
+                     <date>[1755]</date>
+                     <date>1755</date>
+                  </imprint>
+                  <extent>[2], 103, [1] pages</extent>
+               </monogr>
+               <relatedItem type="manifest"
+                            target="https://media.getty.edu/iiif/manifest/9a709b2e-2b1d-44ad-af3b-5e582363c004"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Encaustic painting -- Early works to 1800.</term>
+               <term>Encaustic painting.</term>
+               <term>ND2450 .D56</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json"
+             url="https://media.getty.edu/iiif/manifest/9a709b2e-2b1d-44ad-af3b-5e582363c004">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>

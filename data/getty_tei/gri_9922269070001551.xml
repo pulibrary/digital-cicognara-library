@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:dcterms="http://purl.org/dc/terms/"
+     xmlns:gettyterms="http://portal.getty.edu/terms/gri/"
+     xmlns:local="http://library.princeton.edu"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Storia della scultura dal suo risorgimento in Italia fino al secolo di Canova : fino al secolo di Canova del conte Leopoldo Cicognara / per servire di continuazione all'opere di Winckelmann e di d'Agincourt.</title>
+            <respStmt>
+               <orgName>Getty Research Institute</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Winckelmann, Johann Joachim, 1717-1768.</authority>
+            <authority>Seroux d'Agincourt, J. B. L. G. (Jean Baptiste Louis Georges), 1730-1814.</authority>
+            <idno type="URI">http://portal.getty.edu/books/gri_9922269070001551</idno>
+            <idno type="URI">http://portal.getty.edu/api/j29m39</idno>
+            <idno type="URI">http://portal.getty.edu/api/wf847c</idno>
+            <idno type="URI">http://portal.getty.edu/api/xd4s91</idno>
+            <idno type="URI">http://portal.getty.edu/api/rr1h8s</idno>
+            <idno type="URI">http://portal.getty.edu/api/vp0874</idno>
+            <idno type="URI">http://portal.getty.edu/api/jq404p</idno>
+            <idno type="URI">http://portal.getty.edu/api/q4194s</idno>
+            <idno type="URI">http://portal.getty.edu/api/xd828c</idno>
+            <idno>(OCoLC)2362750</idno>
+            <idno type="cico">18bis</idno>
+            <idno type="dcl">qg0</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Storia della scultura dal suo risorgimento in Italia fino al secolo di Canova : fino al secolo di Canova del conte Leopoldo Cicognara / per servire di continuazione all'opere di Winckelmann e di d'Agincourt.</title>
+                  <respStmt>
+                     <persName>Cicognara, Leopoldo, conte, 1767-1834.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>Prato : Frat. Giachetti</publisher>
+                     <pubPlace>Italy</pubPlace>
+                     <pubPlace>Italy.</pubPlace>
+                     <date>1823-1825</date>
+                     <date>1823</date>
+                  </imprint>
+                  <extent>7 v.</extent>
+               </monogr>
+               <relatedItem type="manifest"
+                            target="https://media.getty.edu/iiif/manifest/dfb797eb-5cd6-4eac-9998-87d734fabb61https://media.getty.edu/iiif/manifest/770fad21-743f-4eca-9ecf-0333469859c5https://media.getty.edu/iiif/manifest/6037dd5a-4f0b-47fa-9244-65e51d98f204https://media.getty.edu/iiif/manifest/bc45429f-b7f9-49fa-9b43-78d5389dbd53https://media.getty.edu/iiif/manifest/e12cecc7-e20c-48bc-9438-017e8d3db83bhttps://media.getty.edu/iiif/manifest/9a049f18-6401-4e03-9af5-b8e3c2528aaehttps://media.getty.edu/iiif/manifest/07b38947-fb48-4196-9fc9-a9d86199a697"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Sculpture -- Italy -- History.</term>
+               <term>Sculpture</term>
+               <term>Italy.</term>
+               <term>NB611 .C6</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json"
+             url="https://media.getty.edu/iiif/manifest/dfb797eb-5cd6-4eac-9998-87d734fabb61">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+   <facsimile>
+      <media mimeType="application/json"
+             url="https://media.getty.edu/iiif/manifest/770fad21-743f-4eca-9ecf-0333469859c5">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+   <facsimile>
+      <media mimeType="application/json"
+             url="https://media.getty.edu/iiif/manifest/6037dd5a-4f0b-47fa-9244-65e51d98f204">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+   <facsimile>
+      <media mimeType="application/json"
+             url="https://media.getty.edu/iiif/manifest/bc45429f-b7f9-49fa-9b43-78d5389dbd53">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+   <facsimile>
+      <media mimeType="application/json"
+             url="https://media.getty.edu/iiif/manifest/e12cecc7-e20c-48bc-9438-017e8d3db83b">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+   <facsimile>
+      <media mimeType="application/json"
+             url="https://media.getty.edu/iiif/manifest/9a049f18-6401-4e03-9af5-b8e3c2528aae">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+   <facsimile>
+      <media mimeType="application/json"
+             url="https://media.getty.edu/iiif/manifest/07b38947-fb48-4196-9fc9-a9d86199a697">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>

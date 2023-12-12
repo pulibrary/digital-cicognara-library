@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:dcterms="http://purl.org/dc/terms/"
+     xmlns:gettyterms="http://portal.getty.edu/terms/gri/"
+     xmlns:local="http://library.princeton.edu"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Discorso di M. Sebastiano Erizzo sopra le medaglie de gli
+                antichi. Con la dichiaratione delle monete consulari &amp; delle medaglie de
+                gli imperadori romani. Nella qual si contiene vna piena &amp; varia cognitione del'
+                istoria di quei tempi.</title>
+            <respStmt>
+               <orgName>Biblioteca Berenson - I Tatti, The Harvard University Center for Italian Renaissance Studies</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <idno type="URI">http://portal.getty.edu/books/hulitatti_990109304880203941</idno>
+            <idno type="URI">http://portal.getty.edu/api/7p143h</idno>
+            <idno>(OCoLC)1030782752</idno>
+            <idno type="cico">2833</idno>
+            <idno type="dcl">0sd</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Discorso di M. Sebastiano Erizzo sopra le medaglie de gli
+                antichi. Con la dichiaratione delle monete consulari &amp; delle medaglie de
+                gli imperadori romani. Nella qual si contiene vna piena &amp; varia cognitione del'
+                istoria di quei tempi.</title>
+                  <respStmt>
+                     <persName>Erizzo, Sebastiano, 1525-1585.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <imprint>
+                     <publisher>In Vinegia, Appresso Gio. Varisco &amp; Paganino Paganini</publisher>
+                     <date>[1559]</date>
+                     <date>1559</date>
+                  </imprint>
+                  <extent>[16], 282, [2], 572 pages</extent>
+               </monogr>
+               <relatedItem type="manifest"
+                            target="https://iiif.lib.harvard.edu/manifests/drs:450304550"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Medals, Ancient -- Early works to 1800.</term>
+               <term>Medals, Roman -- Early works to 1800.</term>
+               <term>Medals, Ancient.</term>
+               <term>Medals, Roman.</term>
+               <term>CJ5595 .E74 1559</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json"
+             url="https://iiif.lib.harvard.edu/manifests/drs:450304550">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>

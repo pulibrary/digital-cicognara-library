@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:dcterms="http://purl.org/dc/terms/"
+     xmlns:gettyterms="http://portal.getty.edu/terms/gri/"
+     xmlns:local="http://library.princeton.edu"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Discorso sopra il nuovo ornato della guglia di S. Pietro [microform].</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Campiglia, Giovanni Domenico, 1692-1775.</authority>
+            <authority>Franceschini, Vincenzo, 1680-approximately 1744.</authority>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <authority>Leopoldo Cicognara Program (University of Illinois at Urbana-Champaign)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985421043506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/zk3f80</idno>
+            <idno type="URI">http://portal.getty.edu/api/8n6282</idno>
+            <idno type="URI">http://portal.getty.edu/api/c9728c</idno>
+            <idno type="URI">http://portal.getty.edu/api/xp936x</idno>
+            <idno type="cico">3703</idno>
+            <idno type="dcl">wc7</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Discorso sopra il nuovo ornato della guglia di S. Pietro [microform].</title>
+                  <respStmt>
+                     <persName>Albani, Annibale, 1682-1751.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>In Roma : Appresso Gio: Maria Salvioni</publisher>
+                     <pubPlace>Vatican City</pubPlace>
+                     <pubPlace>Piazza San Pietro (Vatican City)</pubPlace>
+                     <date>1723</date>
+                  </imprint>
+                  <extent>17 p., [3] leaves of plates</extent>
+                  <extent>2 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest"
+                            target="https://figgy.princeton.edu/concern/scanned_resources/e42673c0-5bee-4c72-b1b0-a6391091c427/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Obelisks -- Vatican City -- Early works to 1800.</term>
+               <term>Vatican Obelisk (Vatican City) -- Early works to 1800.</term>
+               <term>Piazza San Pietro (Vatican City)</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json"
+             url="https://figgy.princeton.edu/concern/scanned_resources/e42673c0-5bee-4c72-b1b0-a6391091c427/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>

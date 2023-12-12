@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:dcterms="http://purl.org/dc/terms/"
+     xmlns:gettyterms="http://portal.getty.edu/terms/gri/"
+     xmlns:local="http://library.princeton.edu"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Vrbis Romae aedificiorvm illvstrivmqvae svpersvnt reliqviae / svmma cvm diligentia a Ioanne Antonio Dosio stilo ferreo vt hodie cernvntvr ; descriptae et a Io. Baptista de Cavaleriis aeneis tabvlis incisis repraesentatae.</title>
+            <respStmt>
+               <orgName>Getty Research Institute</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Cavalieri, Giovanni Battista, approximately 1525-1601</authority>
+            <idno type="URI">http://portal.getty.edu/books/gri_9929675290001551</idno>
+            <idno type="URI">http://portal.getty.edu/api/485x6c</idno>
+            <idno>(OCoLC)3553105</idno>
+            <idno type="cico">3492B-1</idno>
+            <idno type="cico">3704-1</idno>
+            <idno type="dcl">h30</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Vrbis Romae aedificiorvm illvstrivmqvae svpersvnt reliqviae / svmma cvm diligentia a Ioanne Antonio Dosio stilo ferreo vt hodie cernvntvr ; descriptae et a Io. Baptista de Cavaleriis aeneis tabvlis incisis repraesentatae.</title>
+                  <respStmt>
+                     <persName>Dosio, Giovanni Antonio, 1533-approximately 1609 author.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Latin</textLang>
+                  <imprint>
+                     <publisher>[Florence, Italy?] : [publisher not identified]</publisher>
+                     <pubPlace>Italy</pubPlace>
+                     <pubPlace>Rome (Italy)</pubPlace>
+                     <date>M.D. LXIX kal. mai [May 1, 1569]</date>
+                     <date>1569</date>
+                  </imprint>
+                  <extent>50 etched plates</extent>
+               </monogr>
+               <relatedItem type="manifest"
+                            target="https://media.getty.edu/iiif/manifest/c9bf21bb-7660-409b-9bf3-4e98aa7b49c9"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Rome (Italy) -- Antiquities, Roman -- Pictorial works.</term>
+               <term>Rome (Italy) -- Buildings, structures, etc. -- Pictorial works.</term>
+               <term>Architecture, Roman -- Italy -- Rome -- Pictorial works.</term>
+               <term>Architecture, Roman</term>
+               <term>Classical antiquities</term>
+               <term>Buildings</term>
+               <term>Italy -- Rome.</term>
+               <term>NE662.D6 A4 1569</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json"
+             url="https://media.getty.edu/iiif/manifest/c9bf21bb-7660-409b-9bf3-4e98aa7b49c9">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>

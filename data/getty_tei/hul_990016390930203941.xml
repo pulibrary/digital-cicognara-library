@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:dcterms="http://purl.org/dc/terms/"
+     xmlns:gettyterms="http://portal.getty.edu/terms/gri/"
+     xmlns:local="http://library.princeton.edu"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Del tesoro britannico parte prima : overo il museo nummario ove si contengono le medaglie greche e latine in ogni metallo e forma, non prima pubblicate / delineate e descritte da Nicola Francesco Haym romano.</title>
+            <respStmt>
+               <orgName>Harvard Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <authority>Leopoldo Cicognara Program (University of Illinois at Urbana-Champaign)</authority>
+            <idno type="URI">http://portal.getty.edu/books/hul_990016390930203941</idno>
+            <idno type="URI">http://portal.getty.edu/api/1x0c35</idno>
+            <idno>(OCoLC)14713726</idno>
+            <idno type="cico">2880-1</idno>
+            <idno type="dcl">8w6/vol01</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Del tesoro britannico parte prima : overo il museo nummario ove si contengono le medaglie greche e latine in ogni metallo e forma, non prima pubblicate / delineate e descritte da Nicola Francesco Haym romano.</title>
+                  <respStmt>
+                     <persName>Haym, Nicola Francesco</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <textLang>English</textLang>
+                  <imprint>
+                     <publisher>In Londra : Per Giacob Tonson a spese dell' autore</publisher>
+                     <pubPlace>Great Britain</pubPlace>
+                     <pubPlace>England London.</pubPlace>
+                     <date>1719-1720</date>
+                     <date>1719</date>
+                  </imprint>
+                  <extent>2 v., [30] leaves of plates (1 folded)</extent>
+               </monogr>
+               <relatedItem type="manifest"
+                            target="https://iiif.lib.harvard.edu/manifests/drs:493983330"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Numismatics, Greek</term>
+               <term>Numismatics, Roman</term>
+               <term>Numismatics -- Great Britain</term>
+               <term>CJ265 .H4</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json"
+             url="https://iiif.lib.harvard.edu/manifests/drs:493983330">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>

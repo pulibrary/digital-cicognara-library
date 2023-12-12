@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:dcterms="http://purl.org/dc/terms/"
+     xmlns:gettyterms="http://portal.getty.edu/terms/gri/"
+     xmlns:local="http://library.princeton.edu"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Catalogue de l'œuvre de Ch. Nic. Cochin fils... Par Charles-Antoine Jombert.</title>
+            <respStmt>
+               <orgName>National Gallery of Art Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <idno type="URI">http://portal.getty.edu/books/nga_99677273504896</idno>
+            <idno type="URI">http://portal.getty.edu/api/nf927q</idno>
+            <idno>(OCoLC)77821880</idno>
+            <idno type="cico">4447</idno>
+            <idno type="dcl">7gn</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Catalogue de l'œuvre de Ch. Nic. Cochin fils... Par Charles-Antoine Jombert.</title>
+                  <respStmt>
+                     <persName>Jombert, Charles-Antoine, 1712-1784</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>French</textLang>
+                  <imprint>
+                     <publisher>Paris: Impr. de Prault</publisher>
+                     <date>1770</date>
+                  </imprint>
+                  <extent>15 p., [9] leaves of plates</extent>
+               </monogr>
+               <relatedItem type="manifest"
+                            target="https://libraryimage.nga.gov/manifest/mms/99677273504896.json"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Cochin, Charles Nicolas, 1715-1790.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json"
+             url="https://libraryimage.nga.gov/manifest/mms/99677273504896.json">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>

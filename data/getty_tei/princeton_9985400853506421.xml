@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:dcterms="http://purl.org/dc/terms/"
+     xmlns:gettyterms="http://portal.getty.edu/terms/gri/"
+     xmlns:local="http://library.princeton.edu"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Raccolta de' pittori, scultori, et architetti modonesi più celebri nella quale si leggono l'opera loro insigni, e doue l'hanno fatte [microform] : cauata da vari autori e dedicata alla virtuosa Accademia de' pittori modonesi / per don Lodovico Vedriani da Modona.</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985400853506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/nj9p87</idno>
+            <idno type="cico">2399</idno>
+            <idno type="dcl">r5d</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Raccolta de' pittori, scultori, et architetti modonesi più celebri nella quale si leggono l'opera loro insigni, e doue l'hanno fatte [microform] : cauata da vari autori e dedicata alla virtuosa Accademia de' pittori modonesi / per don Lodovico Vedriani da Modona.</title>
+                  <respStmt>
+                     <persName>Vedriani, Lodovico.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>In Modona : Per lo Soliani stampator ducale</publisher>
+                     <pubPlace>Italy</pubPlace>
+                     <date>1662</date>
+                  </imprint>
+                  <extent>152 p.</extent>
+                  <extent>3 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest"
+                            target="https://figgy.princeton.edu/concern/scanned_resources/ce5c9e64-3a62-424b-8637-2193a2dc6515/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Architects -- Italy -- Modena -- Biography -- Early works to 1800.</term>
+               <term>Art -- Italy -- Modena -- Early works to 1800.</term>
+               <term>Artists -- Italy -- Modena -- Biography -- Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json"
+             url="https://figgy.princeton.edu/concern/scanned_resources/ce5c9e64-3a62-424b-8637-2193a2dc6515/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>

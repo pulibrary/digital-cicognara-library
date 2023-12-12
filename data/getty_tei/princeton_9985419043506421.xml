@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:dcterms="http://purl.org/dc/terms/"
+     xmlns:gettyterms="http://portal.getty.edu/terms/gri/"
+     xmlns:local="http://library.princeton.edu"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Delle antiche statue greche e romane [microform] : che nell'antisala della libreria di San Marco, e in altri luoghi pubblici di Venezia si trovano...</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Zanetti, Antonio Maria, 1680-1757.</authority>
+            <authority>Zanetti, Girolamo Francesco, 1713-1782.</authority>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <authority>Leopoldo Cicognara Program (University of Illinois at Urbana-Champaign)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985419043506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/bv189x</idno>
+            <idno type="cico">3565</idno>
+            <idno type="dcl">k2m</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Delle antiche statue greche e romane [microform] : che nell'antisala della libreria di San Marco, e in altri luoghi pubblici di Venezia si trovano...</title>
+                  <respStmt>
+                     <persName>Zanetti, Antonio Maria, 1706-1778.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>In Venezia : [s.n.]</publisher>
+                     <date>1740-1743</date>
+                     <date>1740</date>
+                  </imprint>
+                  <extent>2 v.</extent>
+                  <extent>19 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest"
+                            target="https://figgy.princeton.edu/concern/scanned_resources/741b7cd3-e8a5-474e-ba85-a215c90b29cf/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Sculpture, Classical.</term>
+               <term>Sculpture, Greco-Roman.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json"
+             url="https://figgy.princeton.edu/concern/scanned_resources/741b7cd3-e8a5-474e-ba85-a215c90b29cf/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>

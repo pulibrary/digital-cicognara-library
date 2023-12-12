@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:dcterms="http://purl.org/dc/terms/"
+     xmlns:gettyterms="http://portal.getty.edu/terms/gri/"
+     xmlns:local="http://library.princeton.edu"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Rome moderne : premiére ville de l'Europe, avec toutes ses magnificences et ses delices ; nouvellement &amp; très-exactement dʹecrite ... Ce qui est suivi d'une description très-exacte du gouvernement &amp; de l'Etat de Rome, aussi bien que des fonctions publiques du pape &amp; de tous ceux qui ont des emplois auprès de lui ... Le tout divisʹe en six tomes. / par le Sr. François Deseine. Tome premier. [-sixieme.].</title>
+            <respStmt>
+               <orgName>Getty Research Institute</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Aa, Pieter van der, 1659-1733, printer.</authority>
+            <idno type="URI">http://portal.getty.edu/books/gri_9923242710001551</idno>
+            <idno type="URI">http://portal.getty.edu/api/s47f7g</idno>
+            <idno type="URI">http://portal.getty.edu/api/nw600p</idno>
+            <idno type="URI">http://portal.getty.edu/api/g94p7n</idno>
+            <idno>(OCoLC)49721303</idno>
+            <idno type="cico">3699</idno>
+            <idno type="dcl">48w</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Rome moderne : premiére ville de l'Europe, avec toutes ses magnificences et ses delices ; nouvellement &amp; très-exactement dʹecrite ... Ce qui est suivi d'une description très-exacte du gouvernement &amp; de l'Etat de Rome, aussi bien que des fonctions publiques du pape &amp; de tous ceux qui ont des emplois auprès de lui ... Le tout divisʹe en six tomes. / par le Sr. François Deseine. Tome premier. [-sixieme.].</title>
+                  <respStmt>
+                     <persName>Deseine, François-Jacques, -1715</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>French</textLang>
+                  <imprint>
+                     <publisher>A Leide : Chez Pierre van der Aa</publisher>
+                     <pubPlace>Rome</pubPlace>
+                     <pubPlace>Vatican City</pubPlace>
+                     <pubPlace>Rome (Italy)</pubPlace>
+                     <pubPlace>Italy</pubPlace>
+                     <pubPlace>Rome (Empire)</pubPlace>
+                     <pubPlace>Vatican City.</pubPlace>
+                     <pubPlace>Netherlands Leiden.</pubPlace>
+                     <date>MDCCXIII</date>
+                     <date>1713</date>
+                  </imprint>
+                  <extent>6 volumes</extent>
+               </monogr>
+               <relatedItem type="manifest"
+                            target="https://media.getty.edu/iiif/manifest/803cd3a2-fc2f-419d-bcd3-79e2b76939cchttps://media.getty.edu/iiif/manifest/e4916520-48aa-40cb-a491-ee67565d1f2dhttps://media.getty.edu/iiif/manifest/d57f17b9-f08d-4d9a-9780-646564adfd5e"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Catholic Church -- Government.</term>
+               <term>Vatican City -- Description and travel -- Early works to 1800.</term>
+               <term>Architecture -- Rome -- Early works to 1800.</term>
+               <term>Rome (Italy) -- Description and travel -- Early works to 1800.</term>
+               <term>Catholic Church.</term>
+               <term>Architecture.</term>
+               <term>Political science.</term>
+               <term>Travel.</term>
+               <term>Italy -- Rome.</term>
+               <term>Rome (Empire)</term>
+               <term>Vatican City.</term>
+               <term>Stadscultuur.</term>
+               <term>DG805 .D4</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json"
+             url="https://media.getty.edu/iiif/manifest/803cd3a2-fc2f-419d-bcd3-79e2b76939cc">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+   <facsimile>
+      <media mimeType="application/json"
+             url="https://media.getty.edu/iiif/manifest/e4916520-48aa-40cb-a491-ee67565d1f2d">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+   <facsimile>
+      <media mimeType="application/json"
+             url="https://media.getty.edu/iiif/manifest/d57f17b9-f08d-4d9a-9780-646564adfd5e">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>

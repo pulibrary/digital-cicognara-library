@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:dcterms="http://purl.org/dc/terms/"
+     xmlns:gettyterms="http://portal.getty.edu/terms/gri/"
+     xmlns:local="http://library.princeton.edu"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The life of Michel Angelo Buonarroti [microform] : with his poetry and letters / by R. Duppa ...</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Michelangelo Buonarroti, 1475-1564.</authority>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985343993506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/7j1n64</idno>
+            <idno type="cico">2259</idno>
+            <idno type="dcl">1cv</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>The life of Michel Angelo Buonarroti [microform] : with his poetry and letters / by R. Duppa ...</title>
+                  <respStmt>
+                     <persName>Duppa, Richard, 1770-1831.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>English</textLang>
+                  <imprint>
+                     <publisher>London : Printed for John Murray ... by T. Bensley</publisher>
+                     <date>1807</date>
+                  </imprint>
+                  <extent>xi, 468 p.</extent>
+                  <extent>7 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest"
+                            target="https://figgy.princeton.edu/concern/scanned_resources/5008d26f-3aaa-4c80-a423-ee1caf22e182/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Michelangelo Buonarroti, 1475-1564.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json"
+             url="https://figgy.princeton.edu/concern/scanned_resources/5008d26f-3aaa-4c80-a423-ee1caf22e182/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>

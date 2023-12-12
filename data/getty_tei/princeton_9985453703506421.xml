@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:dcterms="http://purl.org/dc/terms/"
+     xmlns:gettyterms="http://portal.getty.edu/terms/gri/"
+     xmlns:local="http://library.princeton.edu"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Nota intorno ai cavalli di Venezia [microform] : inserita nel terzo volume della storia della scultura.</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <authority>Leopoldo Cicognara Program (University of Illinois at Urbana-Champaign)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985453703506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/7n8v1x</idno>
+            <idno type="cico">3494</idno>
+            <idno type="dcl">cs8</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Nota intorno ai cavalli di Venezia [microform] : inserita nel terzo volume della storia della scultura.</title>
+                  <respStmt>
+                     <persName>Cicognara, Leopoldo, Conte, 1767-1834.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>[Venice] : Impressa nella tipografia Picotti</publisher>
+                     <pubPlace>Italy</pubPlace>
+                     <date>[1815?]</date>
+                     <date>1815</date>
+                  </imprint>
+                  <extent>18 p.</extent>
+                  <extent>1 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest"
+                            target="https://figgy.princeton.edu/concern/scanned_resources/c643943f-1e9f-43aa-8c63-6d7294a2fc77/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Horses in art.</term>
+               <term>Sculpture -- Italy -- Venice.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json"
+             url="https://figgy.princeton.edu/concern/scanned_resources/c643943f-1e9f-43aa-8c63-6d7294a2fc77/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>

@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:dcterms="http://purl.org/dc/terms/"
+     xmlns:gettyterms="http://portal.getty.edu/terms/gri/"
+     xmlns:local="http://library.princeton.edu"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>L'ennuy d'un quart-d'heure.</title>
+            <respStmt>
+               <orgName>Getty Research Institute</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Rollin, Jacques, 1702?-1768.</authority>
+            <idno type="URI">http://portal.getty.edu/books/gri_9926950510001551</idno>
+            <idno type="URI">http://portal.getty.edu/api/9f7t46</idno>
+            <idno>(OCoLC)78418247</idno>
+            <idno type="cico">996C</idno>
+            <idno type="dcl">j2r</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>L'ennuy d'un quart-d'heure.</title>
+                  <respStmt>
+                     <persName>La Mare, abbé de, approximately 1708-1746.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>French</textLang>
+                  <imprint>
+                     <publisher>A Paris : Chez Rollin fils</publisher>
+                     <pubPlace>France Paris.</pubPlace>
+                     <date>1736</date>
+                  </imprint>
+                  <extent>24 p.</extent>
+               </monogr>
+               <relatedItem type="manifest"
+                            target="https://media.getty.edu/iiif/manifest/88bf1add-5f15-4d2a-ac78-325cd096ca71"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Watteau, Antoine, 1684-1721 -- Poetry.</term>
+               <term>Watteau, Antoine, 1684-1721.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json"
+             url="https://media.getty.edu/iiif/manifest/88bf1add-5f15-4d2a-ac78-325cd096ca71">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>

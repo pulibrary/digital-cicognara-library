@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:dcterms="http://purl.org/dc/terms/"
+     xmlns:gettyterms="http://portal.getty.edu/terms/gri/"
+     xmlns:local="http://library.princeton.edu"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Leonis Baptiste Alberti De re aedificatoria incipit lege feliciter.</title>
+            <respStmt>
+               <orgName>Getty Research Institute</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Poliziano, Angelo, 1454-1494, editor.</authority>
+            <authority>Laurentii, Nicolaus, active 1475-1486, printer.</authority>
+            <idno type="URI">http://portal.getty.edu/books/gri_9921763320001551</idno>
+            <idno type="URI">http://portal.getty.edu/api/vq5560</idno>
+            <idno>(OCoLC)80374242</idno>
+            <idno type="cico">370</idno>
+            <idno type="dcl">hgw</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Leonis Baptiste Alberti De re aedificatoria incipit lege feliciter.</title>
+                  <respStmt>
+                     <persName>Alberti, Leon Battista, 1404-1472</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Latin</textLang>
+                  <imprint>
+                     <publisher>Florentiae [Florence] : Accuratissime impressum opera Magistri Nicolai Laurentii Alamani</publisher>
+                     <date>1485</date>
+                  </imprint>
+                  <extent>[204] leaves</extent>
+               </monogr>
+               <relatedItem type="manifest"
+                            target="https://media.getty.edu/iiif/manifest/901981b2-5fea-4e36-9b99-6129bdcba851"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Architecture -- Early works to 1800.</term>
+               <term>Architecture.</term>
+               <term>NA2515 .A33 1485</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json"
+             url="https://media.getty.edu/iiif/manifest/901981b2-5fea-4e36-9b99-6129bdcba851">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>

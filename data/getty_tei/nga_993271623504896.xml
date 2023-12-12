@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:dcterms="http://purl.org/dc/terms/"
+     xmlns:gettyterms="http://portal.getty.edu/terms/gri/"
+     xmlns:local="http://library.princeton.edu"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Mémoire sur la peinture a l'encaustique et sur la peinture a la cire / par M. le comte de Caylus de l'Académie des Belles-Lettres, et M. Majault, docteur de la faculté de médecine en l'Université de Paris, &amp; ancien médecin des armées du Roi.</title>
+            <respStmt>
+               <orgName>National Gallery of Art Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Majault, M. (Michel Joseph)</authority>
+            <idno type="URI">http://portal.getty.edu/books/nga_993271623504896</idno>
+            <idno type="URI">http://portal.getty.edu/api/j40n0k</idno>
+            <idno>(OCoLC)864005946</idno>
+            <idno>(OCoLC)24040313</idno>
+            <idno type="cico">996</idno>
+            <idno type="dcl">h2h</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Mémoire sur la peinture a l'encaustique et sur la peinture a la cire / par M. le comte de Caylus de l'Académie des Belles-Lettres, et M. Majault, docteur de la faculté de médecine en l'Université de Paris, &amp; ancien médecin des armées du Roi.</title>
+                  <respStmt>
+                     <persName>Caylus, Anne Claude Philippe, comte de, 1692-1765.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>French</textLang>
+                  <imprint>
+                     <publisher>A Geneve ; Chez Pissot libraire, à la Croix d'Or, Quai de Conti</publisher>
+                     <date>MDCCLV [1755]</date>
+                     <date>1755</date>
+                  </imprint>
+                  <extent>[8], 133, [3] p., [3] leaves of plates</extent>
+               </monogr>
+               <relatedItem type="manifest"
+                            target="https://libraryimage.nga.gov/manifest/mms/993271623504896.json"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Encaustic painting -- Early works to 1800.</term>
+               <term>Painting -- Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json"
+             url="https://libraryimage.nga.gov/manifest/mms/993271623504896.json">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>

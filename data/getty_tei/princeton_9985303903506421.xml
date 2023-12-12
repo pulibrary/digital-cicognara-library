@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:dcterms="http://purl.org/dc/terms/"
+     xmlns:gettyterms="http://portal.getty.edu/terms/gri/"
+     xmlns:local="http://library.princeton.edu"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Honrras a la Catholica Magestad del Rey D. Phelipe Quatro [microform] : celebradas en Milan à 17. de Deciembre 1665 por orden del Excelentisimo Señor el Señor d. Luis de Guzman Ponce de Leon ... en execucion de orden de la Augustissima Reyna Maria Ana, Nuestra Señora / traducidas de Italiano en Español.</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Barela, Giovanni Battista.</authority>
+            <authority>Stampa, Gerolamo.</authority>
+            <authority>Ucedo, Gabriel de.</authority>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985303903506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/rj8w63</idno>
+            <idno type="cico">1461</idno>
+            <idno type="dcl">wjm</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Honrras a la Catholica Magestad del Rey D. Phelipe Quatro [microform] : celebradas en Milan à 17. de Deciembre 1665 por orden del Excelentisimo Señor el Señor d. Luis de Guzman Ponce de Leon ... en execucion de orden de la Augustissima Reyna Maria Ana, Nuestra Señora / traducidas de Italiano en Español.</title>
+                  <textLang>Italian</textLang>
+                  <textLang>Spanish; Castilian</textLang>
+                  <imprint>
+                     <publisher>En Milan en el Real y Ducal Palacio : Por Marco Antonio Pandolfo Malatesta empresor</publisher>
+                     <pubPlace>Italy</pubPlace>
+                     <date>[1665]</date>
+                     <date>1665</date>
+                  </imprint>
+                  <extent>70 p.</extent>
+                  <extent>2 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest"
+                            target="https://figgy.princeton.edu/concern/scanned_resources/3ab47241-c38a-459a-a621-ab023d4d88ca/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Philip IV, King of Spain, 1605-1665.</term>
+               <term>Memorial rites and ceremonies -- Italy -- Milan -- Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json"
+             url="https://figgy.princeton.edu/concern/scanned_resources/3ab47241-c38a-459a-a621-ab023d4d88ca/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>

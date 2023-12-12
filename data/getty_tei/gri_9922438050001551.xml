@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:dcterms="http://purl.org/dc/terms/"
+     xmlns:gettyterms="http://portal.getty.edu/terms/gri/"
+     xmlns:local="http://library.princeton.edu"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Vollständiges Diarium von den merckwürdigsten Begebenheiten die sich vor, in und nach der höchst-beglückten Wahl und Crönung des allerdurchlauchtigsten, grossmächtigsten und unüberwindlichsten Fürsten und Herrn, Herrn Carls des VII., erwehlten Römischen Kaysers ... im gantzen Heil. Röm. Reich, und sonderlich in dieser freyen Reichs- und Wahl-Stadt Franckfurt am Mayn zugetragen : nebst umständlicher Beschreibung der Ein- und Aufzüge, Freuden-Feste, und übrigen feyerlichen Handlungen, sammt vielen Urkunden, Portraits, und andern Kupferstichen : auch einem Anhang von Beylagen, und ausführlichem Register ...</title>
+            <respStmt>
+               <orgName>Getty Research Institute</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Lentzner, Johann Nikolaus, 1711-1749.</authority>
+            <authority>Finck, Johann Georg, 1721-1757.</authority>
+            <authority>Leclerc, Jakob Friedrich, 1717-</authority>
+            <authority>Reinhardt, Andreas, 1715-1752.</authority>
+            <authority>Rössler, Michael, 1705-1777.</authority>
+            <authority>Ebersbach, Johann Jacob, 1717-1754.</authority>
+            <authority>Müller, C. H., active 18th century.</authority>
+            <authority>Lippold, Franz, 1688-1768.</authority>
+            <authority>Hammer, Johann Christoph, 1701-1755.</authority>
+            <authority>Juncker, Justus, 1703-1767.</authority>
+            <authority>Lon, F. A. van, active approximately 1727-1764.</authority>
+            <authority>Diehl, J. M., active 1742-1748.</authority>
+            <authority>Regenfus, Franz Michael, approximately 1712-1780.</authority>
+            <authority>Holy Roman Empire. Bulla Aurea.</authority>
+            <idno type="URI">http://portal.getty.edu/books/gri_9922438050001551</idno>
+            <idno type="URI">http://portal.getty.edu/api/w1588d</idno>
+            <idno>(OCoLC)15414380</idno>
+            <idno type="cico">1510</idno>
+            <idno type="dcl">4kf</idno>
+            <idno type="dcl">5k9</idno>
+            <idno type="dcl">qvc</idno>
+            <idno type="dcl">s27</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Vollständiges Diarium von den merckwürdigsten Begebenheiten die sich vor, in und nach der höchst-beglückten Wahl und Crönung des allerdurchlauchtigsten, grossmächtigsten und unüberwindlichsten Fürsten und Herrn, Herrn Carls des VII., erwehlten Römischen Kaysers ... im gantzen Heil. Röm. Reich, und sonderlich in dieser freyen Reichs- und Wahl-Stadt Franckfurt am Mayn zugetragen : nebst umständlicher Beschreibung der Ein- und Aufzüge, Freuden-Feste, und übrigen feyerlichen Handlungen, sammt vielen Urkunden, Portraits, und andern Kupferstichen : auch einem Anhang von Beylagen, und ausführlichem Register ...</title>
+                  <textLang>German</textLang>
+                  <imprint>
+                     <publisher>Franckfurt am Mayn : Verlegt von Johann David Jung</publisher>
+                     <pubPlace>Holy Roman Empire</pubPlace>
+                     <pubPlace>Germany</pubPlace>
+                     <pubPlace>Frankfurt am Main (Germany)</pubPlace>
+                     <pubPlace>Europe</pubPlace>
+                     <date>1742-1743</date>
+                     <date>1742</date>
+                  </imprint>
+                  <extent>3 parts in 1 volume</extent>
+               </monogr>
+               <relatedItem type="manifest"
+                            target="https://media.getty.edu/iiif/manifest/b416b6d7-4d58-4d75-a637-16e019a51ee0"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Charles VII, Holy Roman Emperor, 1697-1745 -- Coronation.</term>
+               <term>Charles VII, Holy Roman Emperor, 1697-1745 -- Portraits.</term>
+               <term>Maria Amalia, Empress, consort of Charles VII, Holy Roman Emperor, 1701-1756 -- Coronation.</term>
+               <term>Maria Amalia, Empress, consort of Charles VII, Holy Roman Emperor, 1701-1756 -- Portraits.</term>
+               <term>Elections -- Holy Roman Empire -- Early works to 1800.</term>
+               <term>Coronations -- Germany -- Frankfurt am Main -- Early works to 1800.</term>
+               <term>Processions -- Germany -- Frankfurt am Main -- Early works to 1800.</term>
+               <term>Festivals -- Germany -- Frankfurt am Main -- Early works to 1800.</term>
+               <term>Lighting, Architectural and decorative -- Early works to 1800.</term>
+               <term>Dinners and dining -- Germany -- Frankfurt am Main -- Early works to 1800.</term>
+               <term>Electors (Kurfürsten) -- Portraits.</term>
+               <term>Nobility -- Germany -- Portraits.</term>
+               <term>Holy Roman Empire -- History -- Charles VII, 1742-1745.</term>
+               <term>Holy Roman Empire -- Kings and rulers -- Biography.</term>
+               <term>Holy Roman Empire -- Kings and rulers -- Election -- Early works to 1800.</term>
+               <term>Frankfurt am Main (Germany) -- History -- 18th century -- Early works to 1800.</term>
+               <term>Frankfurt am Main (Germany) -- Social life and customs -- Early works to 1800.</term>
+               <term>Charles VII, Holy Roman Emperor, 1697-1745</term>
+               <term>Coronations.</term>
+               <term>Kings and rulers.</term>
+               <term>Europe -- Holy Roman Empire.</term>
+               <term>DD194 .V65 1742</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json"
+             url="https://media.getty.edu/iiif/manifest/b416b6d7-4d58-4d75-a637-16e019a51ee0">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>

@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:dcterms="http://purl.org/dc/terms/"
+     xmlns:gettyterms="http://portal.getty.edu/terms/gri/"
+     xmlns:local="http://library.princeton.edu"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Orazione funebre in morte del marchese Scipione Maffei detta nella cattedrale di Verona / dal marchese Marc'Antonio Pindemonte del consiglio de' cinquanta, e accadem. filarm. in occasione de' solenni funerali celebrati per parte del medesimo consiglio ; con l'aggiunta d'alcuni componimenti poetici d'autori veronesi.</title>
+            <respStmt>
+               <orgName>Getty Research Institute</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Rotari, Pietro, 1707-1762, illustrator.</authority>
+            <authority>Cunego, Domenico, engraver.</authority>
+            <authority>Cristofali, Adriano, 1718-1788, illustrator.</authority>
+            <authority>Urbani, Giovanni Antonio, engraver.</authority>
+            <authority>Ramanzini, Dionigi, printer.</authority>
+            <idno type="URI">http://portal.getty.edu/books/gri_9930302250001551</idno>
+            <idno type="URI">http://portal.getty.edu/api/nq1637</idno>
+            <idno>(OCoLC)10455619</idno>
+            <idno type="cico">2346</idno>
+            <idno type="dcl">rkv</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Orazione funebre in morte del marchese Scipione Maffei detta nella cattedrale di Verona / dal marchese Marc'Antonio Pindemonte del consiglio de' cinquanta, e accadem. filarm. in occasione de' solenni funerali celebrati per parte del medesimo consiglio ; con l'aggiunta d'alcuni componimenti poetici d'autori veronesi.</title>
+                  <respStmt>
+                     <persName>Pindemonte, Marco Antonio, marchese, 1694-1774, author.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>In Verona : A spese della magnifica città, per Dionisio Ramanzini librajo a S. Tomio</publisher>
+                     <pubPlace>Italy</pubPlace>
+                     <date>MDCCLV [1755]</date>
+                     <date>1755</date>
+                  </imprint>
+                  <extent>xxxviii, [2], 55, [1] pages, [2] leaves of plates</extent>
+               </monogr>
+               <relatedItem type="manifest"
+                            target="https://media.getty.edu/iiif/manifest/9218c698-c0a3-44f5-9f6c-b39e124473a9"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Maffei, Scipione, marchese, 1675-1755 -- Death and burial.</term>
+               <term>Italian poetry -- Italy -- Verona -- Early works to 1800.</term>
+               <term>Maffei, Scipione, marchese, 1675-1755</term>
+               <term>Italian poetry.</term>
+               <term>Italy -- Verona.</term>
+               <term>PQ4712.M3 Z5p</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json"
+             url="https://media.getty.edu/iiif/manifest/9218c698-c0a3-44f5-9f6c-b39e124473a9">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>

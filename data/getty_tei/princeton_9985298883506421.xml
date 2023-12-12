@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:dcterms="http://purl.org/dc/terms/"
+     xmlns:gettyterms="http://portal.getty.edu/terms/gri/"
+     xmlns:local="http://library.princeton.edu"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>De architectura Iacobi Androuetii du Cerceau opus [microform] : quo descriptae sunt aedificiorum quinquaginta plane dissimilium ichnographiae ...</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985298883506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/tt1m9s</idno>
+            <idno type="cico">471</idno>
+            <idno type="dcl">4kr</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>De architectura Iacobi Androuetii du Cerceau opus [microform] : quo descriptae sunt aedificiorum quinquaginta plane dissimilium ichnographiae ...</title>
+                  <respStmt>
+                     <persName>Androuet du Cerceau, Jacques, active 1549-1584.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>French</textLang>
+                  <imprint>
+                     <publisher>Lutetia Parisiorum [Paris] : [E typographia Benedicti Praeuotij ...]</publisher>
+                     <date>1559</date>
+                  </imprint>
+                  <extent>32, [1] p., [16] leaves of plates</extent>
+                  <extent>3 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest"
+                            target="https://figgy.princeton.edu/concern/scanned_resources/522fd523-7ce6-4260-9fc9-8f2d15e7af7a/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Architecture -- Early works to 1800.</term>
+               <term>Architecture -- Designs and plans -- Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json"
+             url="https://figgy.princeton.edu/concern/scanned_resources/522fd523-7ce6-4260-9fc9-8f2d15e7af7a/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>

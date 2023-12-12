@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:dcterms="http://purl.org/dc/terms/"
+     xmlns:gettyterms="http://portal.getty.edu/terms/gri/"
+     xmlns:local="http://library.princeton.edu"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>De ludis circensibus : libri II. De triumphis, liber unus. Quibus universa ferè romanorum veterum sacra ritusq declarantur, ac figuris aeneis illustrantur. Cum notis Ioannis Argoli et additamento Nicolai Pinelli, adiectis hac nouissima editione eruditissimi viri Ioachimi Ioannis Maderi. Notis, et figuris in lib. de Triumphis.</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Argoli, Giovanni, 1609-1660?</authority>
+            <authority>Mader, Joachim Johann, 1626-1680.</authority>
+            <authority>Pinelli, Niccolò.</authority>
+            <authority>Panvinio, Onofrio, 1529-1568. De triumphis.</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9923979523506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/p77z9h</idno>
+            <idno>(OCoLC)06228330</idno>
+            <idno type="cico">3819B</idno>
+            <idno type="cico">3819</idno>
+            <idno type="dcl">fw8</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>De ludis circensibus : libri II. De triumphis, liber unus. Quibus universa ferè romanorum veterum sacra ritusq declarantur, ac figuris aeneis illustrantur. Cum notis Ioannis Argoli et additamento Nicolai Pinelli, adiectis hac nouissima editione eruditissimi viri Ioachimi Ioannis Maderi. Notis, et figuris in lib. de Triumphis.</title>
+                  <respStmt>
+                     <persName>Panvinio, Onofrio, 1529-1568.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Latin</textLang>
+                  <imprint>
+                     <publisher>Patavii : P. M. Frambotti</publisher>
+                     <pubPlace>Rome.</pubPlace>
+                     <pubPlace>Greece.</pubPlace>
+                     <pubPlace>Rome</pubPlace>
+                     <date>1681</date>
+                  </imprint>
+                  <extent>148 [10] 147 p.</extent>
+               </monogr>
+               <relatedItem type="manifest"
+                            target="https://figgy.princeton.edu/concern/scanned_resources/461c3c2d-396d-47c6-8293-8f1543af44a2/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Games -- Rome.</term>
+               <term>Games -- Greece.</term>
+               <term>Triumph.</term>
+               <term>Rome -- Antiquities.</term>
+               <term>DG95</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json"
+             url="https://figgy.princeton.edu/concern/scanned_resources/461c3c2d-396d-47c6-8293-8f1543af44a2/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:dcterms="http://purl.org/dc/terms/"
+     xmlns:gettyterms="http://portal.getty.edu/terms/gri/"
+     xmlns:local="http://library.princeton.edu"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Antichità, vantaggi, e metodo della pittura encausta : discorso : letto nella pubblica adunanza della R. Accademia Economica di Firenze il dì 10. Settembre 1794 / dal Sig. Fabbroni, sotto direttore e sopraintendente del R. Museo di Fisica e Storia naturale di S.A.R. il Gran Duca di Toscana.</title>
+            <respStmt>
+               <orgName>Getty Research Institute</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <idno type="URI">http://portal.getty.edu/books/gri_9929137510001551</idno>
+            <idno type="URI">http://portal.getty.edu/api/5w7716</idno>
+            <idno>(OCoLC)146150922</idno>
+            <idno type="cico">175C</idno>
+            <idno type="dcl">v23</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Antichità, vantaggi, e metodo della pittura encausta : discorso : letto nella pubblica adunanza della R. Accademia Economica di Firenze il dì 10. Settembre 1794 / dal Sig. Fabbroni, sotto direttore e sopraintendente del R. Museo di Fisica e Storia naturale di S.A.R. il Gran Duca di Toscana.</title>
+                  <respStmt>
+                     <persName>Fabbroni, Giovanni Valentino Mattia, 1752-1822</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>In Venezia : Nella stamperia Graziosi a S. Apollinare</publisher>
+                     <pubPlace>Italy Venice.</pubPlace>
+                     <date>MDCCC [1800]</date>
+                     <date>1800</date>
+                  </imprint>
+                  <extent>32 p.</extent>
+               </monogr>
+               <relatedItem type="manifest"
+                            target="https://media.getty.edu/iiif/manifest/6fa38628-e062-4577-aa67-e0e4b3a7577d"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Encaustic painting -- Early works to 1800.</term>
+               <term>Encaustic painting -- Technique -- Early works to 1800.</term>
+               <term>Encaustic painting.</term>
+               <term>Encaustic painting -- Technique.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json"
+             url="https://media.getty.edu/iiif/manifest/6fa38628-e062-4577-aa67-e0e4b3a7577d">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>

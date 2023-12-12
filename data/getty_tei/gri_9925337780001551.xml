@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:dcterms="http://purl.org/dc/terms/"
+     xmlns:gettyterms="http://portal.getty.edu/terms/gri/"
+     xmlns:local="http://library.princeton.edu"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Delle monete di Ferrara trattato di Vincenzo Bellini.</title>
+            <respStmt>
+               <orgName>Getty Research Institute</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Rinaldi, Giuseppe, printer.</authority>
+            <idno type="URI">http://portal.getty.edu/books/gri_9925337780001551</idno>
+            <idno type="URI">http://portal.getty.edu/api/9s773h</idno>
+            <idno>(OCoLC)7311429</idno>
+            <idno type="cico">2763-2</idno>
+            <idno type="dcl">565</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Delle monete di Ferrara trattato di Vincenzo Bellini.</title>
+                  <respStmt>
+                     <persName>Bellini, Vincenzo, 1708-1783</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>Ferrara, G. Rinaldi</publisher>
+                     <pubPlace>Italy</pubPlace>
+                     <pubPlace>Italy Ferrara.</pubPlace>
+                     <date>1761</date>
+                  </imprint>
+                  <extent>3 pages leaves, 326 pages, 1 leaf</extent>
+               </monogr>
+               <relatedItem type="manifest"
+                            target="https://media.getty.edu/iiif/manifest/7aa7cf59-e6d5-417f-b2e4-aedabf21b5a4"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Numismatics -- Italy -- Ferrara.</term>
+               <term>Coinage -- Italy -- Ferrara.</term>
+               <term>Coinage.</term>
+               <term>Numismatics.</term>
+               <term>Italy -- Ferrara.</term>
+               <term>CJ2928.F5 B4</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json"
+             url="https://media.getty.edu/iiif/manifest/7aa7cf59-e6d5-417f-b2e4-aedabf21b5a4">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>

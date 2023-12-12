@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:dcterms="http://purl.org/dc/terms/"
+     xmlns:gettyterms="http://portal.getty.edu/terms/gri/"
+     xmlns:local="http://library.princeton.edu"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Quinto libro d'architettura di Sabastiano Serlio, Bolognese [microform] : nel tratta di diuerse forme de tempii sacri secondo il costume christiano, &amp; al modo antico ....</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985297543506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/zw6q7n</idno>
+            <idno type="cico">664</idno>
+            <idno type="dcl">mzt</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Quinto libro d'architettura di Sabastiano Serlio, Bolognese [microform] : nel tratta di diuerse forme de tempii sacri secondo il costume christiano, &amp; al modo antico ....</title>
+                  <respStmt>
+                     <persName>Serlio, Sebastiano, 1475-1554.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>In Venetia : [Per Pietro de Nicolini da Sabbio ad instantia di Melchione Sessa]</publisher>
+                     <date>1551</date>
+                  </imprint>
+                  <extent>18 leaves</extent>
+                  <extent>1 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest"
+                            target="https://figgy.princeton.edu/concern/scanned_resources/0d878d18-727d-431c-bb03-cec030c8ba98/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Church architecture -- Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json"
+             url="https://figgy.princeton.edu/concern/scanned_resources/0d878d18-727d-431c-bb03-cec030c8ba98/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>

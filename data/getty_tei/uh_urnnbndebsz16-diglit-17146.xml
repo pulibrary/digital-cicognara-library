@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:dcterms="http://purl.org/dc/terms/"
+     xmlns:gettyterms="http://portal.getty.edu/terms/gri/"
+     xmlns:local="http://library.princeton.edu"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Architettvra: Con Il Svo Com[m]ento Et Figvre Vetrvvio</title>
+            <respStmt>
+               <orgName>Heidelberg University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Vitruvius, Author</authority>
+            <authority>Caporali, Giovanni Battista, Translator</authority>
+            <idno type="URI">http://portal.getty.edu/books/uh_urn:nbn:de:bsz:16-diglit-17146</idno>
+            <idno type="URI">http://portal.getty.edu/api/nm9c8d</idno>
+            <idno type="cico">706</idno>
+            <idno type="dcl">vnv</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Architettvra: Con Il Svo Com[m]ento Et Figvre Vetrvvio</title>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <date>1536</date>
+                     <date>1536</date>
+                  </imprint>
+                  <extent>[3] Bl., 131 S.</extent>
+                  <extent>Ill., graph. Darst., Kt. (Holzschn.)</extent>
+               </monogr>
+               <relatedItem type="manifest"
+                            target="https://digi.ub.uni-heidelberg.de/diglit/iiif/vitruvius1536/manifest.json"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Architekturtheorie</term>
+               <term>Bauform</term>
+               <term>Baustil</term>
+               <term>Vitruvius</term>
+               <term>archaeology</term>
+               <term>architecture</term>
+               <term>architecture, in general</term>
+               <term>Archäologie</term>
+               <term>Architektur</term>
+               <term>Architektur, allgemein</term>
+               <term>architectural members and components</term>
+               <term>Bauglieder</term>
+               <term>Cicognara</term>
+               <term>Parte Prima</term>
+               <term>Trattati dell’Architettura</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json"
+             url="https://digi.ub.uni-heidelberg.de/diglit/iiif/vitruvius1536/manifest.json">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>

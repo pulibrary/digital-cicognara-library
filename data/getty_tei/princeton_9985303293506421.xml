@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:dcterms="http://purl.org/dc/terms/"
+     xmlns:gettyterms="http://portal.getty.edu/terms/gri/"
+     xmlns:local="http://library.princeton.edu"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Relation de la feste de Versailles du 18. juillet mil six cens soixante-huit [microform].</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Le Pautre, Jean, 1618-1682.</authority>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985303293506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/dm149j</idno>
+            <idno type="cico">1472</idno>
+            <idno type="dcl">4kd</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Relation de la feste de Versailles du 18. juillet mil six cens soixante-huit [microform].</title>
+                  <respStmt>
+                     <persName>Félibien, André, sieur des Avaux et de Javercy, 1619-1695.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>French</textLang>
+                  <textLang>Latin</textLang>
+                  <imprint>
+                     <publisher>A Paris : De l'imprimerie royale</publisher>
+                     <pubPlace>France</pubPlace>
+                     <date>1679</date>
+                  </imprint>
+                  <extent>43 p.</extent>
+                  <extent>2 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest"
+                            target="https://figgy.princeton.edu/concern/scanned_resources/aa47a6ed-2355-437c-9e4f-af5f8f9eec3d/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Festivals -- France -- Versailles -- History -- 17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json"
+             url="https://figgy.princeton.edu/concern/scanned_resources/aa47a6ed-2355-437c-9e4f-af5f8f9eec3d/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>

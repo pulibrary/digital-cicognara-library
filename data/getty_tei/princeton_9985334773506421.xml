@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:dcterms="http://purl.org/dc/terms/"
+     xmlns:gettyterms="http://portal.getty.edu/terms/gri/"
+     xmlns:local="http://library.princeton.edu"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Hieronymi Mercurialis De arte gymnastica libri sex [microform] : in quibus exercitationum omnium vetustarum genera, loca, modi, facultates, &amp; quidquid denique ad corporis humani exercitationes pertinet, diligenter explicatur.</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <authority>Leopoldo Cicognara Program (University of Illinois at Urbana-Champaign)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985334773506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/c77k35</idno>
+            <idno type="cico">1711</idno>
+            <idno type="dcl">65x</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Hieronymi Mercurialis De arte gymnastica libri sex [microform] : in quibus exercitationum omnium vetustarum genera, loca, modi, facultates, &amp; quidquid denique ad corporis humani exercitationes pertinet, diligenter explicatur.</title>
+                  <respStmt>
+                     <persName>Mercuriale, Girolamo, 1530-1606.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>Venetiis : Apud Iuntas</publisher>
+                     <date>1601</date>
+                  </imprint>
+                  <extent>308 p.</extent>
+                  <extent>6 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest"
+                            target="https://figgy.princeton.edu/concern/scanned_resources/803603b3-66a0-40e8-a72e-ddd8c941ad2d/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Exercise -- Early works to 1800.</term>
+               <term>Gymnastics -- Early works to 1800.</term>
+               <term>Physical education and training -- Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json"
+             url="https://figgy.princeton.edu/concern/scanned_resources/803603b3-66a0-40e8-a72e-ddd8c941ad2d/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>

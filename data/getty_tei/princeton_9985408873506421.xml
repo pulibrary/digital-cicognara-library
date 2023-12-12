@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:dcterms="http://purl.org/dc/terms/"
+     xmlns:gettyterms="http://portal.getty.edu/terms/gri/"
+     xmlns:local="http://library.princeton.edu"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Medallas de las colonias [microform] : municipios y pueblos antiguos de España : coleccion de las que se hallan en diversos autores, y de otras nunca publicadas : con explicacion y dibujo de cada una / por el R. P. M. Fr. Henrique Florez ...</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <authority>Leopoldo Cicognara Program (University of Illinois at Urbana-Champaign)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985408873506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/2v3t0p</idno>
+            <idno type="cico">2840</idno>
+            <idno type="dcl">3d0</idno>
+            <idno type="dcl">trz</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Medallas de las colonias [microform] : municipios y pueblos antiguos de España : coleccion de las que se hallan en diversos autores, y de otras nunca publicadas : con explicacion y dibujo de cada una / por el R. P. M. Fr. Henrique Florez ...</title>
+                  <respStmt>
+                     <persName>Flórez, Enrique, 1702-1773.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Spanish; Castilian</textLang>
+                  <imprint>
+                     <publisher>En Madrid : En la oficina de Antonio Marin</publisher>
+                     <pubPlace>Rome</pubPlace>
+                     <pubPlace>Spain</pubPlace>
+                     <date>1757-1773</date>
+                     <date>1757</date>
+                  </imprint>
+                  <extent>3 v.</extent>
+                  <extent>18 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest"
+                            target="https://figgy.princeton.edu/concern/scanned_resources/ebfb991f-7151-44ee-97c3-48eb41e85eff/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Numismatics -- Rome -- Early works to 1800.</term>
+               <term>Numismatics -- Spain -- Early works to 1800.</term>
+               <term>Numismatics, Gothic.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json"
+             url="https://figgy.princeton.edu/concern/scanned_resources/ebfb991f-7151-44ee-97c3-48eb41e85eff/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>

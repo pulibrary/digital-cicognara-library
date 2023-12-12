@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:dcterms="http://purl.org/dc/terms/"
+     xmlns:gettyterms="http://portal.getty.edu/terms/gri/"
+     xmlns:local="http://library.princeton.edu"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Lettera di Messer Bartolomeo Ammannati ... scritta agli Accademici del disegno l'anno 1582 [microform] : colla quala volle mostrare quanto pericolosa sia all' anime degli artefici di pittura e scultura e l'esercitare l'arti loro in rappresentar figure meno che oneste ed il danno che quindi può derivarae all' altr anime de' fedeli ...</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Accademia delle arti del disegno (Florence, Italy)</authority>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985402033506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/3k5g0j</idno>
+            <idno type="cico">2196</idno>
+            <idno type="dcl">xfs</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Lettera di Messer Bartolomeo Ammannati ... scritta agli Accademici del disegno l'anno 1582 [microform] : colla quala volle mostrare quanto pericolosa sia all' anime degli artefici di pittura e scultura e l'esercitare l'arti loro in rappresentar figure meno che oneste ed il danno che quindi può derivarae all' altr anime de' fedeli ...</title>
+                  <respStmt>
+                     <persName>Ammannati, Bartolomeo, 1511-1592.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>In Firenze : Nella Stamperia di Bartolommeo Sermartelli</publisher>
+                     <date>L'anno 1582 ;</date>
+                     <date>1687</date>
+                  </imprint>
+                  <extent>[14] p.</extent>
+                  <extent>1 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest"
+                            target="https://figgy.princeton.edu/concern/scanned_resources/ec1c8ff9-34ec-4d19-ac69-ad148d5fa3d4/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Accademia delle arti del disegno (Florence, Italy)</term>
+               <term>Art -- Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json"
+             url="https://figgy.princeton.edu/concern/scanned_resources/ec1c8ff9-34ec-4d19-ac69-ad148d5fa3d4/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>

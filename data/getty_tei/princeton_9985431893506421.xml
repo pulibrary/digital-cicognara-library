@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:dcterms="http://purl.org/dc/terms/"
+     xmlns:gettyterms="http://portal.getty.edu/terms/gri/"
+     xmlns:local="http://library.princeton.edu"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Venetia citta nobilissima et singolare [microform] / descritta in XIIII. libri da M. Francesco Sansovino ; nella quale si contengono tutte le guerre passate, con l'attioni illustri di molti senatori. Le vite de i principi, &amp; gli scrittori veneti del tempo loro. Le chiese, fabriche, edifici, &amp; palazzi publichi &amp; priuate. Le leggi, gli ordini, &amp; gli vsi antichi &amp; moderni, con altre cose appresso notabili, &amp; degne di memoria ...</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <authority>Leopoldo Cicognara Program (University of Illinois at Urbana-Champaign)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985431893506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/rg9h77</idno>
+            <idno type="cico">4379</idno>
+            <idno type="dcl">c06</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Venetia citta nobilissima et singolare [microform] / descritta in XIIII. libri da M. Francesco Sansovino ; nella quale si contengono tutte le guerre passate, con l'attioni illustri di molti senatori. Le vite de i principi, &amp; gli scrittori veneti del tempo loro. Le chiese, fabriche, edifici, &amp; palazzi publichi &amp; priuate. Le leggi, gli ordini, &amp; gli vsi antichi &amp; moderni, con altre cose appresso notabili, &amp; degne di memoria ...</title>
+                  <respStmt>
+                     <persName>Sansovino, Francesco, 1521-1586.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>In Venetia : Appresso Iacomo Sansovino</publisher>
+                     <pubPlace>Venice (Italy)</pubPlace>
+                     <date>1581</date>
+                  </imprint>
+                  <extent>286, 38 numb. leaves</extent>
+                  <extent>11 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest"
+                            target="https://figgy.princeton.edu/concern/scanned_resources/78cc29f9-c5d9-4e71-a0d1-5f2281eb684c/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Venice (Italy) -- Description and travel -- Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json"
+             url="https://figgy.princeton.edu/concern/scanned_resources/78cc29f9-c5d9-4e71-a0d1-5f2281eb684c/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>

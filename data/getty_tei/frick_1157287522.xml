@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:dcterms="http://purl.org/dc/terms/"
+     xmlns:gettyterms="http://portal.getty.edu/terms/gri/"
+     xmlns:local="http://library.princeton.edu"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Cabinet de l'art de schulpture [sic] / par le fameux sculpteur Francis van Bossuit ; executé en yvoire ou ebauché en terre ; gravées d'apres les desseins de Barent Graat  par Matthys Pool.</title>
+            <respStmt>
+               <orgName>Frick Art Reference Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Graat, Barend, 1628-1709.</authority>
+            <authority>Pool, Matthys, 1670-approximately 1732.</authority>
+            <idno type="URI">http://portal.getty.edu/books/frick_1157287522</idno>
+            <idno type="URI">http://portal.getty.edu/api/z05b55</idno>
+            <idno>(OCoLC)1157287522</idno>
+            <idno type="cico">272.</idno>
+            <idno type="dcl">0cq</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Cabinet de l'art de schulpture [sic] / par le fameux sculpteur Francis van Bossuit ; executé en yvoire ou ebauché en terre ; gravées d'apres les desseins de Barent Graat  par Matthys Pool.</title>
+                  <respStmt>
+                     <persName>Bossuit, Francis van, 1635?-1692.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Dutch; Flemish</textLang>
+                  <textLang>French</textLang>
+                  <imprint>
+                     <publisher>A Amsterdam : Chez Matthys Pool sur le leʻiose graft proche de heere graft</publisher>
+                     <date>MDCCXXVII [1727]</date>
+                     <date>1727</date>
+                  </imprint>
+                  <extent>1 online resource (103 leaves)</extent>
+               </monogr>
+               <relatedItem type="manifest"
+                            target="https://imagesdigitalcollections.frick.org/compare/barcode/31072001227471"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Bossuit, Francis van, 1635?-1692.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json"
+             url="https://imagesdigitalcollections.frick.org/compare/barcode/31072001227471">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>

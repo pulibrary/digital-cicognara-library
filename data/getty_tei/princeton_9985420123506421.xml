@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:dcterms="http://purl.org/dc/terms/"
+     xmlns:gettyterms="http://portal.getty.edu/terms/gri/"
+     xmlns:local="http://library.princeton.edu"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Laurentii Banck nocropensis Gothi J.U.D. ... Roma triumphans [microform] : seu actus inaugurationum &amp; coronationum Pontificum Romanorum, &amp; in spetie : Innocentii X. Pont. Max. brevis descriptio : cum omnibus triumphis &amp; cerimoniis eidem actui additis : accessit fine appendix, de quarundam Romani, Pontific. cerimoniarum origine : cum triplici indice, capitum, rerum &amp; verborum, ac Latino-Barbaro.</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <authority>Leopoldo Cicognara Program (University of Illinois at Urbana-Champaign)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985420123506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/w3752d</idno>
+            <idno type="cico">3591</idno>
+            <idno type="dcl">hgg</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Laurentii Banck nocropensis Gothi J.U.D. ... Roma triumphans [microform] : seu actus inaugurationum &amp; coronationum Pontificum Romanorum, &amp; in spetie : Innocentii X. Pont. Max. brevis descriptio : cum omnibus triumphis &amp; cerimoniis eidem actui additis : accessit fine appendix, de quarundam Romani, Pontific. cerimoniarum origine : cum triplici indice, capitum, rerum &amp; verborum, ac Latino-Barbaro.</title>
+                  <respStmt>
+                     <persName>Banck, Laurentius Gunnari, 1611-1662.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Latin</textLang>
+                  <imprint>
+                     <publisher>Franekerae : Typis &amp; sumptibus, Johannis Arcerii</publisher>
+                     <pubPlace>Italy</pubPlace>
+                     <date>1656</date>
+                  </imprint>
+                  <extent>480, [83] p.</extent>
+                  <extent>9 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest"
+                            target="https://figgy.princeton.edu/concern/scanned_resources/9f417d4f-962d-4994-80d3-c635db248940/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Innocent X, Pope, 1574-1655.</term>
+               <term>Rites and ceremonies -- Italy -- Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json"
+             url="https://figgy.princeton.edu/concern/scanned_resources/9f417d4f-962d-4994-80d3-c635db248940/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>

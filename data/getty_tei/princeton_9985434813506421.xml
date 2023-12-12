@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:dcterms="http://purl.org/dc/terms/"
+     xmlns:gettyterms="http://portal.getty.edu/terms/gri/"
+     xmlns:local="http://library.princeton.edu"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Serie di ritratti degli eccellenti pittori [microform] : dipinti di propria mano che esistono nell'Imperial galleria di Firenze / colle vite in compendio de' medesimi descritte da Francesco Moücke.</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <authority>Leopoldo Cicognara Program (University of Illinois at Urbana-Champaign)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985434813506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/5k6m4s</idno>
+            <idno type="cico">3417</idno>
+            <idno type="dcl">fs4</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Serie di ritratti degli eccellenti pittori [microform] : dipinti di propria mano che esistono nell'Imperial galleria di Firenze / colle vite in compendio de' medesimi descritte da Francesco Moücke.</title>
+                  <respStmt>
+                     <persName>Moücke, Francesco.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>In Firenze : Nella stamperia Moückiana</publisher>
+                     <date>1752-62</date>
+                     <date>1752</date>
+                  </imprint>
+                  <extent>4 v.</extent>
+                  <extent>54 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest"
+                            target="https://figgy.princeton.edu/concern/scanned_resources/8844aee7-54ae-48c4-b50f-2dc7eeec6aca/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Galleria degli Uffizi.</term>
+               <term>Artists -- Portraits -- Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json"
+             url="https://figgy.princeton.edu/concern/scanned_resources/8844aee7-54ae-48c4-b50f-2dc7eeec6aca/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>

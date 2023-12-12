@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:dcterms="http://purl.org/dc/terms/"
+     xmlns:gettyterms="http://portal.getty.edu/terms/gri/"
+     xmlns:local="http://library.princeton.edu"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Dell'antico teatro di Padova.</title>
+            <respStmt>
+               <orgName>Getty Research Institute</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Stamperia del Seminario (Padua, Italy)</authority>
+            <idno type="URI">http://portal.getty.edu/books/gri_9923803810001551</idno>
+            <idno type="URI">http://portal.getty.edu/api/2k704m</idno>
+            <idno>(OCoLC)84299251</idno>
+            <idno type="cico">800</idno>
+            <idno type="dcl">js6</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Dell'antico teatro di Padova.</title>
+                  <respStmt>
+                     <persName>Stratico, Simone, 1733-1824</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>In Padova : Nella Stamperia del seminario</publisher>
+                     <pubPlace>Italy</pubPlace>
+                     <pubPlace>Padua (Italy)</pubPlace>
+                     <pubPlace>Italy Padua.</pubPlace>
+                     <date>1795</date>
+                  </imprint>
+                  <extent>VIII, 69, [3] p., VI folded leaves of plates</extent>
+               </monogr>
+               <relatedItem type="manifest"
+                            target="https://media.getty.edu/iiif/manifest/14ec31e9-d492-48b8-a467-cf78049387cc"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Amphitheaters -- Italy -- Padua -- Early works to 1800.</term>
+               <term>Padua (Italy) -- Buildings, structures, etc. -- Early works to 1800.</term>
+               <term>Padua (Italy) -- Antiquities -- Early works to 1800.</term>
+               <term>Amphitheaters</term>
+               <term>Antiquities</term>
+               <term>Buildings</term>
+               <term>Italy -- Padua</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json"
+             url="https://media.getty.edu/iiif/manifest/14ec31e9-d492-48b8-a467-cf78049387cc">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>

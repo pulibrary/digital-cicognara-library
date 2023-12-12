@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:dcterms="http://purl.org/dc/terms/"
+     xmlns:gettyterms="http://portal.getty.edu/terms/gri/"
+     xmlns:local="http://library.princeton.edu"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Novus thesaurus antiquitatum romanarum / congestus ab Alberto Henrico de Sallengre ; cum figuris æneis.</title>
+            <respStmt>
+               <orgName>Getty Research Institute</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Sallengre, Albert-Henri de, 1694-1723</authority>
+            <authority>Gronovius, Jacobus, 1645-1716. Thesaurus græcarum antiquitatum.</authority>
+            <idno type="URI">http://portal.getty.edu/books/gri_9928486870001551</idno>
+            <idno type="URI">http://portal.getty.edu/api/kv695h</idno>
+            <idno type="URI">http://portal.getty.edu/api/hn6m33</idno>
+            <idno type="URI">http://portal.getty.edu/api/bw3v8q</idno>
+            <idno>(OCoLC)82195278</idno>
+            <idno type="cico">2488C</idno>
+            <idno type="dcl">5kd</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Novus thesaurus antiquitatum romanarum / congestus ab Alberto Henrico de Sallengre ; cum figuris æneis.</title>
+                  <textLang>Latin</textLang>
+                  <imprint>
+                     <publisher>Venetiis : Typis Jo. Baptistæ Pasquali</publisher>
+                     <pubPlace>Rome</pubPlace>
+                     <pubPlace>Rome (Empire)</pubPlace>
+                     <date>1735</date>
+                  </imprint>
+                  <extent>3 v.</extent>
+               </monogr>
+               <relatedItem type="manifest"
+                            target="https://media.getty.edu/iiif/manifest/16f76f70-951e-4590-9f03-975f2ff5dc08https://media.getty.edu/iiif/manifest/f410ab9c-570a-4ca2-8188-833ccfbdd9fehttps://media.getty.edu/iiif/manifest/147751f3-30f2-46c7-9022-eb48c81a3222"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Classical antiquities.</term>
+               <term>Rome -- History.</term>
+               <term>Rome -- Antiquities.</term>
+               <term>Antiquities</term>
+               <term>Classical antiquities</term>
+               <term>Rome (Empire)</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json"
+             url="https://media.getty.edu/iiif/manifest/16f76f70-951e-4590-9f03-975f2ff5dc08">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+   <facsimile>
+      <media mimeType="application/json"
+             url="https://media.getty.edu/iiif/manifest/f410ab9c-570a-4ca2-8188-833ccfbdd9fe">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+   <facsimile>
+      <media mimeType="application/json"
+             url="https://media.getty.edu/iiif/manifest/147751f3-30f2-46c7-9022-eb48c81a3222">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>

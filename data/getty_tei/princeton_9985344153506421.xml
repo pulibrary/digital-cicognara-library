@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:dcterms="http://purl.org/dc/terms/"
+     xmlns:gettyterms="http://portal.getty.edu/terms/gri/"
+     xmlns:local="http://library.princeton.edu"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Vie de Michel-Ange Buonarroti, peintre, sculpteur et architecte de Florence [microform] / par M. l'abbé Hauchecorne.</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985344153506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/km156n</idno>
+            <idno type="cico">2286</idno>
+            <idno type="dcl">xbt</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Vie de Michel-Ange Buonarroti, peintre, sculpteur et architecte de Florence [microform] / par M. l'abbé Hauchecorne.</title>
+                  <respStmt>
+                     <persName>Hauchecorne, abbé.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>French</textLang>
+                  <imprint>
+                     <publisher>A Paris : Chez L. Cellot, impr.-libr., gendre &amp; successeur de Ch.-Ant. Jombert, son beaupere</publisher>
+                     <date>1783</date>
+                  </imprint>
+                  <extent>xvi, 17-429 p.</extent>
+                  <extent>7 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest"
+                            target="https://figgy.princeton.edu/concern/scanned_resources/2c7cfecb-38eb-4f69-8daa-abee7dac73e0/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Michelangelo Buonarroti, 1475-1564.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json"
+             url="https://figgy.princeton.edu/concern/scanned_resources/2c7cfecb-38eb-4f69-8daa-abee7dac73e0/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>

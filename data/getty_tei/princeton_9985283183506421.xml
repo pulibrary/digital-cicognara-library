@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:dcterms="http://purl.org/dc/terms/"
+     xmlns:gettyterms="http://portal.getty.edu/terms/gri/"
+     xmlns:local="http://library.princeton.edu"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Conferenza del signor Le Brun primo pittore del re di Francia ... sopra l'espressione generale e particolare delle passioni con le sue figure tradotta in italiano [microform]</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985283183506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/xg1k75</idno>
+            <idno type="cico">300</idno>
+            <idno type="dcl">5s1</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Conferenza del signor Le Brun primo pittore del re di Francia ... sopra l'espressione generale e particolare delle passioni con le sue figure tradotta in italiano [microform]</title>
+                  <respStmt>
+                     <persName>Le Brun, Charles, 1619-1690.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <textLang>French</textLang>
+                  <imprint>
+                     <publisher>In Verona : Presso Agostin Carattoni</publisher>
+                     <date>1751</date>
+                  </imprint>
+                  <extent>xxiii, 111 p., [52] leaves of plates</extent>
+                  <extent>4 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest"
+                            target="https://figgy.princeton.edu/concern/scanned_resources/c8b01c83-5a02-4a57-bbc2-a49bd5ef15c8/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Drawing -- Early works to 1800.</term>
+               <term>Drawing -- Technique.</term>
+               <term>Emotions in art.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json"
+             url="https://figgy.princeton.edu/concern/scanned_resources/c8b01c83-5a02-4a57-bbc2-a49bd5ef15c8/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>

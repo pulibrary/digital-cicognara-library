@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:dcterms="http://purl.org/dc/terms/"
+     xmlns:gettyterms="http://portal.getty.edu/terms/gri/"
+     xmlns:local="http://library.princeton.edu"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>L'utile nelle belle arti : riconosciuto nel Campidoglio per l'Accademia del disegno solennizata il dì 5. maggio 1707 : essendo principe della medesima il signor cavalier Carlo Maratti, e viceprincipe il sig. cavalier Francesco Fontana / relazione di Giuseppe Ghezzi, pittore, e secretario accademico, e fra gl'arcadi, Afideno Badio.</title>
+            <respStmt>
+               <orgName>Getty Research Institute</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Bentivoglio d'Aragona, Marco Cornelio, 1668-1732</authority>
+            <authority>Frezza, Giovanni Girolamo, 1659-1743</authority>
+            <authority>Accademia nazionale di San Luca</authority>
+            <idno type="URI">http://portal.getty.edu/books/gri_9926998730001551</idno>
+            <idno type="URI">http://portal.getty.edu/api/qd4n2n</idno>
+            <idno>(OCoLC)81008991</idno>
+            <idno type="cico">1307G</idno>
+            <idno type="dcl">ckk</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>L'utile nelle belle arti : riconosciuto nel Campidoglio per l'Accademia del disegno solennizata il dì 5. maggio 1707 : essendo principe della medesima il signor cavalier Carlo Maratti, e viceprincipe il sig. cavalier Francesco Fontana / relazione di Giuseppe Ghezzi, pittore, e secretario accademico, e fra gl'arcadi, Afideno Badio.</title>
+                  <respStmt>
+                     <persName>Ghezzi, Giuseppe, 1634-1721</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>In Roma : Per Gaetano Zenobi</publisher>
+                     <date>[1707]</date>
+                     <date>1707</date>
+                  </imprint>
+                  <extent>66 pages, 1 unnumbered leaf of plates</extent>
+               </monogr>
+               <relatedItem type="manifest"
+                            target="https://media.getty.edu/iiif/manifest/a2da18b0-b524-4e10-9061-6499e9bebf0b"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Accademia nazionale di San Luca.</term>
+               <term>Accademia nazionale di San Luca.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json"
+             url="https://media.getty.edu/iiif/manifest/a2da18b0-b524-4e10-9061-6499e9bebf0b">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>

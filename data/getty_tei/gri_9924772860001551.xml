@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:dcterms="http://purl.org/dc/terms/"
+     xmlns:gettyterms="http://portal.getty.edu/terms/gri/"
+     xmlns:local="http://library.princeton.edu"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Essay on the origin, history, and principles, of Gothic architecture. By Sir James Hall ...</title>
+            <respStmt>
+               <orgName>Getty Research Institute</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <idno type="URI">http://portal.getty.edu/books/gri_9924772860001551</idno>
+            <idno type="URI">http://portal.getty.edu/api/3n2w35</idno>
+            <idno>(OCoLC)3398271</idno>
+            <idno type="cico">527</idno>
+            <idno type="dcl">trb</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Essay on the origin, history, and principles, of Gothic architecture. By Sir James Hall ...</title>
+                  <respStmt>
+                     <persName>Hall, James, 1761-1832.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>English</textLang>
+                  <imprint>
+                     <publisher>London, John Murray</publisher>
+                     <date>1813</date>
+                  </imprint>
+                  <extent>3 preliminary leaves, 150, [2] pages</extent>
+               </monogr>
+               <relatedItem type="manifest"
+                            target="https://media.getty.edu/iiif/manifest/4f500456-aa62-4795-bd1f-8d1484192119"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Architecture, Gothic.</term>
+               <term>Church architecture -- History.</term>
+               <term>Architecture, Gothic.</term>
+               <term>NA440 .H3</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json"
+             url="https://media.getty.edu/iiif/manifest/4f500456-aa62-4795-bd1f-8d1484192119">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>

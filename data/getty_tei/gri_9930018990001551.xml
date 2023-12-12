@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:dcterms="http://purl.org/dc/terms/"
+     xmlns:gettyterms="http://portal.getty.edu/terms/gri/"
+     xmlns:local="http://library.princeton.edu"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Marci Antonii Nattae astensis De pvlchro libri sex.</title>
+            <respStmt>
+               <orgName>Getty Research Institute</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <idno type="URI">http://portal.getty.edu/books/gri_9930018990001551</idno>
+            <idno type="URI">http://portal.getty.edu/api/f8564q</idno>
+            <idno>(OCoLC)51429134</idno>
+            <idno type="cico">1065</idno>
+            <idno type="dcl">3zx</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Marci Antonii Nattae astensis De pvlchro libri sex.</title>
+                  <respStmt>
+                     <persName>Natta, Marcus Antonius, -1568.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Latin</textLang>
+                  <imprint>
+                     <publisher>Papiae : Apvd Franciscvm Moschenivm</publisher>
+                     <pubPlace>Italy Pavia.</pubPlace>
+                     <date>M.D.LIII. [1553]</date>
+                     <date>1553</date>
+                  </imprint>
+                  <extent>[4], 148 leaves</extent>
+               </monogr>
+               <relatedItem type="manifest"
+                            target="https://media.getty.edu/iiif/manifest/3ac1cb26-eb52-4503-ab91-3215f492f5ab"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Aesthetics -- Early works to 1800.</term>
+               <term>Aesthetics, Modern -- 16th century.</term>
+               <term>Aesthetics</term>
+               <term>Aesthetics, Modern</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json"
+             url="https://media.getty.edu/iiif/manifest/3ac1cb26-eb52-4503-ab91-3215f492f5ab">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>

@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:dcterms="http://purl.org/dc/terms/"
+     xmlns:gettyterms="http://portal.getty.edu/terms/gri/"
+     xmlns:local="http://library.princeton.edu"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Trattato delle piante &amp; immagini de sacri edifizi di Terra Santa / disegnate in Ierusalemme secondo le regole della prospettiua, &amp; uera misura della lor grandezza dal r. p. f. Bernardino Amico da Gallipoli ... ; stampate in Roma ...</title>
+            <respStmt>
+               <orgName>Getty Research Institute</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Callot, Jacques, 1592-1635, illustrator.</authority>
+            <authority>Cecconcelli, Pietro, printer.</authority>
+            <authority>Pre-1801 Imprint Collection (Library of Congress)</authority>
+            <authority>Lessing J. Rosenwald Collection (Library of Congress)</authority>
+            <idno type="URI">http://portal.getty.edu/books/gri_9921772830001551</idno>
+            <idno type="URI">http://portal.getty.edu/api/cv429d</idno>
+            <idno type="URI">http://portal.getty.edu/api/8d019h</idno>
+            <idno>(OCoLC)1833129</idno>
+            <idno type="cico">3932</idno>
+            <idno type="dcl">fh3</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Trattato delle piante &amp; immagini de sacri edifizi di Terra Santa / disegnate in Ierusalemme secondo le regole della prospettiua, &amp; uera misura della lor grandezza dal r. p. f. Bernardino Amico da Gallipoli ... ; stampate in Roma ...</title>
+                  <respStmt>
+                     <persName>Amico, Bernardino</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>In Firenza, Appresso Pietro Cecconcelli</publisher>
+                     <pubPlace>Palestine.</pubPlace>
+                     <pubPlace>Middle East</pubPlace>
+                     <pubPlace>Italy Florence.</pubPlace>
+                     <date>1620</date>
+                  </imprint>
+                  <extent>65 [i.e., 164] pages</extent>
+               </monogr>
+               <relatedItem type="manifest"
+                            target="https://media.getty.edu/iiif/manifest/63f00c9c-999a-4b1f-b50c-cd5d84d5a36b"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Church architecture -- Palestine.</term>
+               <term>Architecture -- Palestine.</term>
+               <term>Architecture.</term>
+               <term>Church architecture.</term>
+               <term>Middle East -- Palestine.</term>
+               <term>NA5977 .A6</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json"
+             url="https://media.getty.edu/iiif/manifest/63f00c9c-999a-4b1f-b50c-cd5d84d5a36b">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>

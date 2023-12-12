@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:dcterms="http://purl.org/dc/terms/"
+     xmlns:gettyterms="http://portal.getty.edu/terms/gri/"
+     xmlns:local="http://library.princeton.edu"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Degli avanzi dell'antica Roma / opera postuma di Bonaventura Overbeke, pittore e cittadino d'Amsterdam ; tradotta e di varie osservazioni critiche e riflessive accresciuta da Paolo Rolli.</title>
+            <respStmt>
+               <orgName>Getty Research Institute</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Rolli, Paolo, 1687-1765, translator.</authority>
+            <authority>Edlin, Thomas, printer.</authority>
+            <idno type="URI">http://portal.getty.edu/books/gri_9926949650001551</idno>
+            <idno type="URI">http://portal.getty.edu/api/0q364w</idno>
+            <idno>(OCoLC)83078651</idno>
+            <idno type="cico">3806</idno>
+            <idno type="dcl">rk3</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Degli avanzi dell'antica Roma / opera postuma di Bonaventura Overbeke, pittore e cittadino d'Amsterdam ; tradotta e di varie osservazioni critiche e riflessive accresciuta da Paolo Rolli.</title>
+                  <respStmt>
+                     <persName>Overbeke, Bonaventura van, 1660-1706.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>In Londra : Presso Tommaso Edlin</publisher>
+                     <pubPlace>Italy</pubPlace>
+                     <pubPlace>Rome</pubPlace>
+                     <pubPlace>Rome (Italy)</pubPlace>
+                     <pubPlace>Rome (Empire)</pubPlace>
+                     <pubPlace>England London.</pubPlace>
+                     <date>1739</date>
+                  </imprint>
+                  <extent>[6], viii, 1-8, 17-160, 165-401, [3] pages</extent>
+               </monogr>
+               <relatedItem type="manifest"
+                            target="https://media.getty.edu/iiif/manifest/156ccfdb-cd36-4e97-b919-0235de18cb9a"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Architecture -- Italy -- Rome -- Early works to 1800.</term>
+               <term>Rome -- Antiquities.</term>
+               <term>Rome (Italy) -- Description and travel.</term>
+               <term>Architecture.</term>
+               <term>Antiquities.</term>
+               <term>Travel.</term>
+               <term>Italy -- Rome.</term>
+               <term>Rome (Empire)</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json"
+             url="https://media.getty.edu/iiif/manifest/156ccfdb-cd36-4e97-b919-0235de18cb9a">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>

@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:dcterms="http://purl.org/dc/terms/"
+     xmlns:gettyterms="http://portal.getty.edu/terms/gri/"
+     xmlns:local="http://library.princeton.edu"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Ricerche sopra un Apolline della villa dell'eminentissimo signor cardinale Alesandro Albani.</title>
+            <respStmt>
+               <orgName>Getty Research Institute</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Raffei, Stefano, 1712-1788. Dissertazione da servire di supplemento all'opera dei Monumenti antichi inediti di Giovanni Winckelmann.</authority>
+            <idno type="URI">http://portal.getty.edu/books/gri_9926325260001551</idno>
+            <idno type="URI">http://portal.getty.edu/api/58949r</idno>
+            <idno>(OCoLC)41054571</idno>
+            <idno type="cico">2506-3-1</idno>
+            <idno type="dcl">hg2</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Ricerche sopra un Apolline della villa dell'eminentissimo signor cardinale Alesandro Albani.</title>
+                  <respStmt>
+                     <persName>Raffei, Stefano, 1712-1788.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>In Roma : Dalle stampe di Generoso Salomoni</publisher>
+                     <date>MDCCXXII [1772]</date>
+                     <date>1772</date>
+                  </imprint>
+                  <extent>v, [1], 18 pages, [3] leaves of plates</extent>
+               </monogr>
+               <relatedItem type="manifest"
+                            target="https://media.getty.edu/iiif/manifest/cf4d0192-4738-45ea-a2b9-cb9d6f819757"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Albani, Alessandro, 1692-1779 -- Art collections.</term>
+               <term>Cavaceppi, Paolo, 1723-1804.</term>
+               <term>Apollo (Deity) -- Art.</term>
+               <term>Villa Albani (Rome, Italy)</term>
+               <term>Apollo (Deity)</term>
+               <term>Sculpture, Greek.</term>
+               <term>Sculpture, Greek.</term>
+               <term>Sculpture -- Conservation and restoration.</term>
+               <term>NB87.A32 R13 1772</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json"
+             url="https://media.getty.edu/iiif/manifest/cf4d0192-4738-45ea-a2b9-cb9d6f819757">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>

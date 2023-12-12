@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:dcterms="http://purl.org/dc/terms/"
+     xmlns:gettyterms="http://portal.getty.edu/terms/gri/"
+     xmlns:local="http://library.princeton.edu"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Description de la galerie royale de Florence / par M. François Zacchiroli.</title>
+            <respStmt>
+               <orgName>Getty Research Institute</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Allegrini, Pietro, printer.</authority>
+            <idno type="URI">http://portal.getty.edu/books/gri_9927811670001551</idno>
+            <idno type="URI">http://portal.getty.edu/api/1k183w</idno>
+            <idno>(OCoLC)7659167</idno>
+            <idno type="cico">4219</idno>
+            <idno type="dcl">k8d</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Description de la galerie royale de Florence / par M. François Zacchiroli.</title>
+                  <respStmt>
+                     <persName>Zacchiroli, Francesco, 1750-1826</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>French</textLang>
+                  <imprint>
+                     <publisher>Florence : P. Allegrini</publisher>
+                     <pubPlace>Italy</pubPlace>
+                     <pubPlace>Italy Florence.</pubPlace>
+                     <date>1783</date>
+                  </imprint>
+                  <extent>3 pt. in 1 volumes</extent>
+               </monogr>
+               <relatedItem type="manifest"
+                            target="https://media.getty.edu/iiif/manifest/f9467018-fd90-4585-a9e3-7606b26c4579"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Galleria degli Uffizi.</term>
+               <term>Art -- Italy -- Florence.</term>
+               <term>Galleria degli Uffizi.</term>
+               <term>Art.</term>
+               <term>Italy -- Florence.</term>
+               <term>Uffizi (Florence, Italie) -- Ouvrages avant 1800.</term>
+               <term>N2570 .Z2</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json"
+             url="https://media.getty.edu/iiif/manifest/f9467018-fd90-4585-a9e3-7606b26c4579">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>

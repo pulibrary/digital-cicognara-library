@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:dcterms="http://purl.org/dc/terms/"
+     xmlns:gettyterms="http://portal.getty.edu/terms/gri/"
+     xmlns:local="http://library.princeton.edu"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Il ballarino / di M. Fabritio Caroso da Sermoneta ; diuiso in due trattati ; nel primo de quali si dimostra la diuersità de i nomi, che si danno à gli atti &amp; mouimenti, che interuengono ne i balli ... ; nel secondo s'insegnano diuerse sorti di balli, &amp; balletti sì all'uso d'Italia, come à quello di Francia, &amp; Spagna ; ornato di molte figure, et con l'intauolatura di liuto, &amp; il soprano della musica nella sonata di ciascun ballo ...</title>
+            <respStmt>
+               <orgName>Getty Research Institute</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Franco, Giacomo, 1550-1620.</authority>
+            <idno type="URI">http://portal.getty.edu/books/gri_9928876030001551</idno>
+            <idno type="URI">http://portal.getty.edu/api/9x5z5d</idno>
+            <idno>(OCoLC)6941660</idno>
+            <idno type="cico">1616</idno>
+            <idno type="dcl">d2n</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Il ballarino / di M. Fabritio Caroso da Sermoneta ; diuiso in due trattati ; nel primo de quali si dimostra la diuersità de i nomi, che si danno à gli atti &amp; mouimenti, che interuengono ne i balli ... ; nel secondo s'insegnano diuerse sorti di balli, &amp; balletti sì all'uso d'Italia, come à quello di Francia, &amp; Spagna ; ornato di molte figure, et con l'intauolatura di liuto, &amp; il soprano della musica nella sonata di ciascun ballo ...</title>
+                  <respStmt>
+                     <persName>Caroso, Fabritio.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>In Venetia : Appresso Franceco Ziletti</publisher>
+                     <pubPlace>Italy.</pubPlace>
+                     <pubPlace>Italy</pubPlace>
+                     <date>1581</date>
+                  </imprint>
+                  <extent>[8], 16, 184, [4] leaves</extent>
+               </monogr>
+               <relatedItem type="manifest"
+                            target="https://media.getty.edu/iiif/manifest/b5a51166-ecb0-4e2b-9c3b-04f367659e8e"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Dance -- Italy.</term>
+               <term>Court dancing -- Italy.</term>
+               <term>Dance music -- Italy.</term>
+               <term>Lute music.</term>
+               <term>Tablature (Music)</term>
+               <term>Court dancing</term>
+               <term>Dance</term>
+               <term>Dance music</term>
+               <term>Lute music</term>
+               <term>Tablature (Music)</term>
+               <term>Italy</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json"
+             url="https://media.getty.edu/iiif/manifest/b5a51166-ecb0-4e2b-9c3b-04f367659e8e">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>

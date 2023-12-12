@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:dcterms="http://purl.org/dc/terms/"
+     xmlns:gettyterms="http://portal.getty.edu/terms/gri/"
+     xmlns:local="http://library.princeton.edu"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Sex. Iulii. Frontini De coloniis. lib. legis. Mamiliae, Rosciae, Allenae, Peducae capita quaedam de agris. assignatis et constitutionibus limitum P. Vellei Paterculi [microform] : ex lib. I. Hist. Rom. Itemque Vlpiani &amp; aliorum quae ad colonias P.R. pertinent, fragmenta M. Porcii Catonis originum, lib. I, Q. Fabii Pictoris, de aureo seculo &amp; origine vrbis Romae lib. II. C. Sempronii de divisione Italiae lib. I. Myrsili Lesbii de origine Italiae et Tyrrhenorum lib. II.</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <authority>Leopoldo Cicognara Program (University of Illinois at Urbana-Champaign)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985432523506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/rw194w</idno>
+            <idno type="cico">3817</idno>
+            <idno type="dcl">vrs</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Sex. Iulii. Frontini De coloniis. lib. legis. Mamiliae, Rosciae, Allenae, Peducae capita quaedam de agris. assignatis et constitutionibus limitum P. Vellei Paterculi [microform] : ex lib. I. Hist. Rom. Itemque Vlpiani &amp; aliorum quae ad colonias P.R. pertinent, fragmenta M. Porcii Catonis originum, lib. I, Q. Fabii Pictoris, de aureo seculo &amp; origine vrbis Romae lib. II. C. Sempronii de divisione Italiae lib. I. Myrsili Lesbii de origine Italiae et Tyrrhenorum lib. II.</title>
+                  <respStmt>
+                     <persName>Frontinus, Sextus Julius.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Latin</textLang>
+                  <imprint>
+                     <publisher>Parisiis : Apud Egidium &amp; Nicolaum Gillios</publisher>
+                     <pubPlace>Roman provinces</pubPlace>
+                     <pubPlace>Rome</pubPlace>
+                     <date>1588</date>
+                  </imprint>
+                  <extent>74, [14] p.</extent>
+                  <extent>2 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest"
+                            target="https://figgy.princeton.edu/concern/scanned_resources/b028a38d-1bb2-494f-9546-e7b074ec5f9a/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Roman provinces -- Administration -- Early works to 1800.</term>
+               <term>Rome -- Colonies -- Early works to 1800.</term>
+               <term>Rome -- History.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json"
+             url="https://figgy.princeton.edu/concern/scanned_resources/b028a38d-1bb2-494f-9546-e7b074ec5f9a/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>

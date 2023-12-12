@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:dcterms="http://purl.org/dc/terms/"
+     xmlns:gettyterms="http://portal.getty.edu/terms/gri/"
+     xmlns:local="http://library.princeton.edu"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Catalogo della libreria del fu cavaliere Giuseppe Bossi : la totalità della libreria del fu cavaliere Giuseppe Bossi essendo stata venduta al librajo G.P. Giegler, di Milano, gli amatori possono rivolgersi al medesimo per la scelta de'libri che desiderano acquistare. Milano il 20 febbrajo 1818.</title>
+            <respStmt>
+               <orgName>Getty Research Institute</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Barocchi, Paola</authority>
+            <idno type="URI">http://portal.getty.edu/books/gri_9930156690001551</idno>
+            <idno type="URI">http://portal.getty.edu/api/m35433</idno>
+            <idno>(OCoLC)2992018</idno>
+            <idno type="cico">4584</idno>
+            <idno type="cico">4644</idno>
+            <idno type="dcl">g6t</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Catalogo della libreria del fu cavaliere Giuseppe Bossi : la totalità della libreria del fu cavaliere Giuseppe Bossi essendo stata venduta al librajo G.P. Giegler, di Milano, gli amatori possono rivolgersi al medesimo per la scelta de'libri che desiderano acquistare. Milano il 20 febbrajo 1818.</title>
+                  <respStmt>
+                     <persName>Bossi, Giuseppe</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>Milano : Tipo. di G. Bessabioni</publisher>
+                     <date>1817</date>
+                  </imprint>
+                  <extent>243 ; xvii pages</extent>
+               </monogr>
+               <relatedItem type="manifest"
+                            target="https://media.getty.edu/iiif/manifest/c31e14ae-41eb-4326-9b4c-59c637a49ce0"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Bossi, Giuseppe -- Library.</term>
+               <term>Bossi, Giuseppe, 1777-1815 -- Library.</term>
+               <term>Bossi, Giuseppe</term>
+               <term>Libraries.</term>
+               <term>Z997 .B67 1817A</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json"
+             url="https://media.getty.edu/iiif/manifest/c31e14ae-41eb-4326-9b4c-59c637a49ce0">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>

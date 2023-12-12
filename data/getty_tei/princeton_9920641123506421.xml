@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:dcterms="http://purl.org/dc/terms/"
+     xmlns:gettyterms="http://portal.getty.edu/terms/gri/"
+     xmlns:local="http://library.princeton.edu"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Riflessioni de padri Tommaso Le Seur, Francesco Jacquier e Ruggiero Giuseppe Boscovich sopra alcune difficolta spettanti i danni, e risarcimenti della cupola di S. Pietro. Proposte nella congregazione tenutasi nel Quirinale a '20. Gennafatte dopo la medesima congregazione.</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Jacquier, François, 1711-1788.</authority>
+            <authority>Boscovich, Ruggero Giuseppe, 1711-1787.</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9920641123506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/3q848v</idno>
+            <idno>(OCoLC)1340513333</idno>
+            <idno type="cico">3849(3)</idno>
+            <idno type="dcl">s5h</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Riflessioni de padri Tommaso Le Seur, Francesco Jacquier e Ruggiero Giuseppe Boscovich sopra alcune difficolta spettanti i danni, e risarcimenti della cupola di S. Pietro. Proposte nella congregazione tenutasi nel Quirinale a '20. Gennafatte dopo la medesima congregazione.</title>
+                  <respStmt>
+                     <persName>Leseur, Thomas, 1703-1770.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>[Roma]</publisher>
+                     <pubPlace>Vatican City</pubPlace>
+                     <date>[1743]</date>
+                     <date>1743</date>
+                  </imprint>
+                  <extent>lxiv p.</extent>
+               </monogr>
+               <relatedItem type="manifest"
+                            target="https://figgy.princeton.edu/concern/scanned_resources/d5211cac-b236-4f05-9203-6246f7e7fdc8/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Basilica di San Pietro in Vaticano.</term>
+               <term>Domes -- Vatican City -- Design and construction.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json"
+             url="https://figgy.princeton.edu/concern/scanned_resources/d5211cac-b236-4f05-9203-6246f7e7fdc8/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>

@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:dcterms="http://purl.org/dc/terms/"
+     xmlns:gettyterms="http://portal.getty.edu/terms/gri/"
+     xmlns:local="http://library.princeton.edu"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Les Cinq Ordres D'Architecture de Vincent Scamozzi ... : tirez du sixiéme livre de son Idee générale d'architecture ; avec les planches originales / par Augustin Charles D'Aviler.</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Daviler, Augustin Charles.</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_99100847583506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/2j0v2r</idno>
+            <idno>(OCoLC)313701831</idno>
+            <idno type="cico">654</idno>
+            <idno type="dcl">hgn</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Les Cinq Ordres D'Architecture de Vincent Scamozzi ... : tirez du sixiéme livre de son Idee générale d'architecture ; avec les planches originales / par Augustin Charles D'Aviler.</title>
+                  <respStmt>
+                     <persName>Scamozzi, Vincenzo, 1552-1616.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>French</textLang>
+                  <imprint>
+                     <publisher>Paris : Coignard</publisher>
+                     <date>1685</date>
+                  </imprint>
+                  <extent>3 Mikrofiches : 24x.</extent>
+               </monogr>
+               <relatedItem type="manifest"
+                            target="https://figgy.princeton.edu/concern/scanned_resources/3518d114-81de-4cef-a4e1-625e35e04251/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>NA2517</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json"
+             url="https://figgy.princeton.edu/concern/scanned_resources/3518d114-81de-4cef-a4e1-625e35e04251/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>

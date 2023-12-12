@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:dcterms="http://purl.org/dc/terms/"
+     xmlns:gettyterms="http://portal.getty.edu/terms/gri/"
+     xmlns:local="http://library.princeton.edu"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Ivsti LipsI De amphitheatris qvae extra Romam libellvs : in quo formæ eorum aliquot &amp; typi.</title>
+            <respStmt>
+               <orgName>Getty Research Institute</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Borcht, Petrus van der, 1545-1608</authority>
+            <idno type="URI">http://portal.getty.edu/books/gri_9921997180001551</idno>
+            <idno type="URI">http://portal.getty.edu/api/zb9r2q</idno>
+            <idno>(OCoLC)41157333</idno>
+            <idno type="cico">791B</idno>
+            <idno type="dcl">1pp</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Ivsti LipsI De amphitheatris qvae extra Romam libellvs : in quo formæ eorum aliquot &amp; typi.</title>
+                  <respStmt>
+                     <persName>Lipsius, Justus, 1547-1606</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Latin</textLang>
+                  <imprint>
+                     <publisher>Antverpiæ : Apud Christophorum Plantinum</publisher>
+                     <pubPlace>Italy.</pubPlace>
+                     <date>[M].[D].LXXXIV [1584]</date>
+                     <date>1584</date>
+                  </imprint>
+                  <extent>32, [3] p., [1] folded leaf of plates</extent>
+               </monogr>
+               <relatedItem type="manifest"
+                            target="https://media.getty.edu/iiif/manifest/a81688b8-b8b5-45d0-89ab-d6e5811cfae1"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Amphitheaters.</term>
+               <term>Amphitheaters -- Italy.</term>
+               <term>Amphitheaters</term>
+               <term>Italy.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json"
+             url="https://media.getty.edu/iiif/manifest/a81688b8-b8b5-45d0-89ab-d6e5811cfae1">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>

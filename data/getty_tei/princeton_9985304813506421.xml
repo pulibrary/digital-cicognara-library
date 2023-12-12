@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:dcterms="http://purl.org/dc/terms/"
+     xmlns:gettyterms="http://portal.getty.edu/terms/gri/"
+     xmlns:local="http://library.princeton.edu"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Esquisse du pays, du caractère et du costume, en Portugal et en Espagne, prises pendant la campagne et durant la marche de l'armée angloise, en 1808 en 1809 .. [microform]= Sketches of the country, character, and costume, in Portugal and Spain, made during the campaign, and on the route of the British army, in 1808 and 1809 / engraved and coloured from the drawings by William Bradford ; with incidental illustration, &amp; appropriate descriptions, of each subject.</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985304813506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/228b38</idno>
+            <idno type="cico">1603</idno>
+            <idno type="dcl">fzj</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Esquisse du pays, du caractère et du costume, en Portugal et en Espagne, prises pendant la campagne et durant la marche de l'armée angloise, en 1808 en 1809 .. [microform]= Sketches of the country, character, and costume, in Portugal and Spain, made during the campaign, and on the route of the British army, in 1808 and 1809 / engraved and coloured from the drawings by William Bradford ; with incidental illustration, &amp; appropriate descriptions, of each subject.</title>
+                  <respStmt>
+                     <persName>Bradford, William, 1779 or 1780-1857.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>English</textLang>
+                  <textLang>French</textLang>
+                  <imprint>
+                     <publisher>London : Printed for J. Booth, by B. R. Howlett</publisher>
+                     <pubPlace>Portugal</pubPlace>
+                     <pubPlace>Spain</pubPlace>
+                     <date>1812</date>
+                  </imprint>
+                  <extent>38 leaves</extent>
+                  <extent>2 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest"
+                            target="https://figgy.princeton.edu/concern/scanned_resources/32118994-7cc3-44c6-b3ae-a645ba3c6b98/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Costume -- Portugal -- Pictorial works.</term>
+               <term>Costume -- Spain -- Pictorial works.</term>
+               <term>Military uniforms.</term>
+               <term>Peninsular War, 1807-1814 -- Chronology.</term>
+               <term>Portugal -- Pictorial works.</term>
+               <term>Spain -- Pictorial works.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json"
+             url="https://figgy.princeton.edu/concern/scanned_resources/32118994-7cc3-44c6-b3ae-a645ba3c6b98/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>

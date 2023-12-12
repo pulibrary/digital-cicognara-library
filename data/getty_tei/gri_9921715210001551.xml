@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:dcterms="http://purl.org/dc/terms/"
+     xmlns:gettyterms="http://portal.getty.edu/terms/gri/"
+     xmlns:local="http://library.princeton.edu"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Medailles sur les principaux evenements du regne de Louis le Grand : avec des explications historiques.</title>
+            <respStmt>
+               <orgName>Getty Research Institute</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Boze, Claude Gros de, 1680-1753, editor.</authority>
+            <authority>Tallemant, Paul, 1642-1712</authority>
+            <authority>Benoist, Antoine, 1632-1717</authority>
+            <authority>Simonneau, Charles, 1645-1728</authority>
+            <authority>Coypel, Antoine, 1661-1722</authority>
+            <authority>Edelinck, Gérard, 1640-1707</authority>
+            <authority>Audran, Benoît, 1661-1721</authority>
+            <authority>Picart, Bernard, 1673-1733</authority>
+            <authority>Imprimerie royale (France), printer.</authority>
+            <idno type="URI">http://portal.getty.edu/books/gri_9921715210001551</idno>
+            <idno type="URI">http://portal.getty.edu/api/733w69</idno>
+            <idno>(OCoLC)10220894</idno>
+            <idno type="cico">2924-2</idno>
+            <idno type="dcl">p86</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Medailles sur les principaux evenements du regne de Louis le Grand : avec des explications historiques.</title>
+                  <respStmt>
+                     <persName>Académie des inscriptions &amp; belles-lettres (France)</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>French</textLang>
+                  <imprint>
+                     <publisher>A Paris : De l'Imprimerie royale</publisher>
+                     <pubPlace>France</pubPlace>
+                     <pubPlace>France.</pubPlace>
+                     <pubPlace>France Paris.</pubPlace>
+                     <date>MDCCII [1702]</date>
+                     <date>1702</date>
+                  </imprint>
+                  <extent>[4], 289 leaves</extent>
+               </monogr>
+               <relatedItem type="manifest"
+                            target="https://media.getty.edu/iiif/manifest/9e13a122-14bf-45db-a83d-5b7429449bdc"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Medals -- France -- Early works to 1800.</term>
+               <term>Louis XIV, King of France, 1638-1715</term>
+               <term>France -- History -- Louis XIV, 1643-1715.</term>
+               <term>Louis XIV, roi de France, 1638-1715.</term>
+               <term>Médailles -- France.</term>
+               <term>France -- Histoire -- 1643-1715 (Louis XIV)</term>
+               <term>Louis XIV, King of France, 1638-1715</term>
+               <term>Medals.</term>
+               <term>France.</term>
+               <term>CJ6155.L6 L6 1702</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json"
+             url="https://media.getty.edu/iiif/manifest/9e13a122-14bf-45db-a83d-5b7429449bdc">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>

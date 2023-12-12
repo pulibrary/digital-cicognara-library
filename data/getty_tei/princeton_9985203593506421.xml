@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:dcterms="http://purl.org/dc/terms/"
+     xmlns:gettyterms="http://portal.getty.edu/terms/gri/"
+     xmlns:local="http://library.princeton.edu"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Del Teatro olimpico di Andrea Palladio in Vicenza [microform] / discorso del Giovanni Montenari ...</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Poleni, Giovanni, 1683-1761.</authority>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985203593506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/77080g</idno>
+            <idno type="cico">767</idno>
+            <idno type="dcl">00m</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Del Teatro olimpico di Andrea Palladio in Vicenza [microform] / discorso del Giovanni Montenari ...</title>
+                  <respStmt>
+                     <persName>Montenari, Giovanni, conte, 1698-1767.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>In Padova : Nella stamperia del Seminario</publisher>
+                     <date>1749</date>
+                  </imprint>
+                  <extent>xii, [4], 153 p.</extent>
+                  <extent>3 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest"
+                            target="https://figgy.princeton.edu/concern/scanned_resources/0466d37b-c868-4c04-9671-0e361f660c4b/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Palladio, Andrea, 1508-1580 -- Individual works -- Vicenza (Italy). Teatro olimpico.</term>
+               <term>Teatro olimpico (Vicenza, Italy)</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json"
+             url="https://figgy.princeton.edu/concern/scanned_resources/0466d37b-c868-4c04-9671-0e361f660c4b/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>

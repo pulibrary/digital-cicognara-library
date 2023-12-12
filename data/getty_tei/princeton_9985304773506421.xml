@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:dcterms="http://purl.org/dc/terms/"
+     xmlns:gettyterms="http://portal.getty.edu/terms/gri/"
+     xmlns:local="http://library.princeton.edu"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Il ballarino di M. Fabritio Caroso da Sermoneta, diuiso in due trattati [microform] : nel primo de' quali si dimostra la diuersità de i nomi, che si danno à gli atti [et] mouimenti, che interuengons ne i balli [et] con molte regole si dichiara con quali creanze [et] in che modo debbano farsi : nel secondo s'insegnano diuerse sorti di balli, &amp; balletti sì all' uso d'Italia, come à quello di Francia, &amp; Spagna : ornato di molte figure et con l'intauolatura di liuto &amp; il soprano della musica nella sonata di ciascun ballo : opera nuouamente mandata in luce ...</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985304773506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/cd8x7k</idno>
+            <idno type="cico">1616</idno>
+            <idno type="dcl">d2n</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Il ballarino di M. Fabritio Caroso da Sermoneta, diuiso in due trattati [microform] : nel primo de' quali si dimostra la diuersità de i nomi, che si danno à gli atti [et] mouimenti, che interuengons ne i balli [et] con molte regole si dichiara con quali creanze [et] in che modo debbano farsi : nel secondo s'insegnano diuerse sorti di balli, &amp; balletti sì all' uso d'Italia, come à quello di Francia, &amp; Spagna : ornato di molte figure et con l'intauolatura di liuto &amp; il soprano della musica nella sonata di ciascun ballo : opera nuouamente mandata in luce ...</title>
+                  <respStmt>
+                     <persName>Caroso, Fabritio.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>In Venetia : Appresso Francesco Ziletti</publisher>
+                     <date>1581</date>
+                  </imprint>
+                  <extent>2 v. in 1.</extent>
+                  <extent>7 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest"
+                            target="https://figgy.princeton.edu/concern/scanned_resources/2c44dc20-d714-4f15-af13-f380ed64767f/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Dance music -- 16th century.</term>
+               <term>Dance -- Early works to 1800.</term>
+               <term>Lute music -- 16th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json"
+             url="https://figgy.princeton.edu/concern/scanned_resources/2c44dc20-d714-4f15-af13-f380ed64767f/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>

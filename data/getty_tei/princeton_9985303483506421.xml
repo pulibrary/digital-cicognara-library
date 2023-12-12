@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:dcterms="http://purl.org/dc/terms/"
+     xmlns:gettyterms="http://portal.getty.edu/terms/gri/"
+     xmlns:local="http://library.princeton.edu"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Applausi festivi fatti in Roma per l'elezzione di Ferdinando III al regno de' romani dal ser.mo princ. Maurizio card. di Savoia descritti al ser.mo Francesco d'Este duca di Modana [microform] / da d. Luigi Manzini ...</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985303483506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/m92f2h</idno>
+            <idno type="cico">1444</idno>
+            <idno type="dcl">42x</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Applausi festivi fatti in Roma per l'elezzione di Ferdinando III al regno de' romani dal ser.mo princ. Maurizio card. di Savoia descritti al ser.mo Francesco d'Este duca di Modana [microform] / da d. Luigi Manzini ...</title>
+                  <respStmt>
+                     <persName>Manzini, Luigi, 1604-1657.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>In Roma : Appresso Pietro Antonio Facciotti</publisher>
+                     <pubPlace>Italy</pubPlace>
+                     <date>1637</date>
+                  </imprint>
+                  <extent>92, 72 p.</extent>
+                  <extent>3 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest"
+                            target="https://figgy.princeton.edu/concern/scanned_resources/6f80efad-f842-4534-95e2-66eba739b654/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Ferdinand III, Holy Roman Emperor, 1608-1657.</term>
+               <term>Francesco I d'Este, Duke of Modena and Reggio, 1610-1658.</term>
+               <term>Festivals -- Italy -- Rome -- History -- 17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json"
+             url="https://figgy.princeton.edu/concern/scanned_resources/6f80efad-f842-4534-95e2-66eba739b654/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>

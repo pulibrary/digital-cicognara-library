@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:dcterms="http://purl.org/dc/terms/"
+     xmlns:gettyterms="http://portal.getty.edu/terms/gri/"
+     xmlns:local="http://library.princeton.edu"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Museo Cospiano annesso a quello del famoso Ulisse Aldrovandi e donato alla sua patria dall'illustrissimo signor Ferdinando Cospi patrizio di Bologna e senatore cavaliere commendatore di S. Stefano, Balì d'Arezzo, e march. di Petriolo, fra' gli Accademici Gelati il fedele, e principe al presente de' medisimi / descrizione di Lorenzo Legati cremonese, dottor filosofo, medico, e pubblico professore delle lettere greche in Bologna, accademico apatista, e ansioso ; al serenissimo Ferdinando III principe di Toscana.</title>
+            <respStmt>
+               <orgName>Getty Research Institute</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Ferdinand III, Holy Roman Emperor, 1608-1657</authority>
+            <authority>Aldrovandi, Ulisse, 1522-1605?</authority>
+            <idno type="URI">http://portal.getty.edu/books/gri_9927834450001551</idno>
+            <idno type="URI">http://portal.getty.edu/api/d48v02</idno>
+            <idno>(OCoLC)2940310</idno>
+            <idno type="cico">3403</idno>
+            <idno type="dcl">tjv</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Museo Cospiano annesso a quello del famoso Ulisse Aldrovandi e donato alla sua patria dall'illustrissimo signor Ferdinando Cospi patrizio di Bologna e senatore cavaliere commendatore di S. Stefano, Balì d'Arezzo, e march. di Petriolo, fra' gli Accademici Gelati il fedele, e principe al presente de' medisimi / descrizione di Lorenzo Legati cremonese, dottor filosofo, medico, e pubblico professore delle lettere greche in Bologna, accademico apatista, e ansioso ; al serenissimo Ferdinando III principe di Toscana.</title>
+                  <respStmt>
+                     <persName>Legati, Lorenzo, -1675</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>In Bologna : Per Giacomo Monti</publisher>
+                     <pubPlace>Italy</pubPlace>
+                     <pubPlace>Italy Bologna.</pubPlace>
+                     <date>MDCLXXVII [1677]</date>
+                     <date>1677</date>
+                  </imprint>
+                  <extent>[24], 532 pages, [1] folded leaf of plates</extent>
+               </monogr>
+               <relatedItem type="manifest"
+                            target="https://media.getty.edu/iiif/manifest/1e6f8dd7-3efb-4221-b9f8-a0a0ac0db90c"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Cospi, Ferdinando, 1606-1686 -- Natural history collections -- Catalogs.</term>
+               <term>Natural history museums -- Italy -- Bologna -- Catalogs.</term>
+               <term>Antiquities -- Private collections -- Italy -- Bologna -- Catalogs.</term>
+               <term>Scientific apparatus and instruments -- Catalogs -- Early works to 1800.</term>
+               <term>Natural history -- Pre-Linnean works -- Catalogs.</term>
+               <term>Antiquities -- Private collections.</term>
+               <term>Natural history.</term>
+               <term>Natural history museums.</term>
+               <term>Scientific apparatus and instruments.</term>
+               <term>Italy -- Bologna.</term>
+               <term>QH41 .L4</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json"
+             url="https://media.getty.edu/iiif/manifest/1e6f8dd7-3efb-4221-b9f8-a0a0ac0db90c">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>

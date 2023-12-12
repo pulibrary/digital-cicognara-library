@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:dcterms="http://purl.org/dc/terms/"
+     xmlns:gettyterms="http://portal.getty.edu/terms/gri/"
+     xmlns:local="http://library.princeton.edu"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Statuto e prescrizioni della pubblica Accademia di pittura, scultura, ed architettura instituita nella città di Venezia per decretò dell'eccellentissimo senato [microform]</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985302443506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/tp1p3m</idno>
+            <idno type="cico">1351</idno>
+            <idno type="dcl">rnm</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Statuto e prescrizioni della pubblica Accademia di pittura, scultura, ed architettura instituita nella città di Venezia per decretò dell'eccellentissimo senato [microform]</title>
+                  <respStmt>
+                     <persName>Regia accademia di belle arti di Venezia.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>[Venezia] : Nella stamperia Savioniana</publisher>
+                     <date>1782</date>
+                  </imprint>
+                  <extent>LII p.</extent>
+                  <extent>1 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest"
+                            target="https://figgy.princeton.edu/concern/scanned_resources/262c463c-65a8-4afd-a4c9-3ff260268df2/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Regia accademia di belle arti di Venezia -- Administration.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json"
+             url="https://figgy.princeton.edu/concern/scanned_resources/262c463c-65a8-4afd-a4c9-3ff260268df2/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>

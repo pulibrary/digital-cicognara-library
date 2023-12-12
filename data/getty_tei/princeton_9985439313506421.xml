@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:dcterms="http://purl.org/dc/terms/"
+     xmlns:gettyterms="http://portal.getty.edu/terms/gri/"
+     xmlns:local="http://library.princeton.edu"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Il mercurio errante delle grandezze di Roma [microform] : tanto antiche, che moderne / di Pietro Rossini ; diviso in due parti ... aggiuntavi la descrizzione del Museo Clementino-Pio, della nuova Sagrestia Vaticana ed altre fabriche fatte sino al presente.</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <authority>Leopoldo Cicognara Program (University of Illinois at Urbana-Champaign)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985439313506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/wf374s</idno>
+            <idno type="URI">http://portal.getty.edu/api/vd6p24</idno>
+            <idno type="URI">http://portal.getty.edu/api/qp3h1c</idno>
+            <idno type="URI">http://portal.getty.edu/api/c02b2m</idno>
+            <idno type="cico">3869</idno>
+            <idno type="dcl">bcs</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Il mercurio errante delle grandezze di Roma [microform] : tanto antiche, che moderne / di Pietro Rossini ; diviso in due parti ... aggiuntavi la descrizzione del Museo Clementino-Pio, della nuova Sagrestia Vaticana ed altre fabriche fatte sino al presente.</title>
+                  <respStmt>
+                     <persName>Rossini, Pietro.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>In Roma : Appresso Natale Barbiellini</publisher>
+                     <pubPlace>Rome (Italy)</pubPlace>
+                     <date>1789</date>
+                  </imprint>
+                  <extent>2 v. (XLIII, 439, 526, 18 p.)</extent>
+                  <extent>17 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest"
+                            target="https://figgy.princeton.edu/concern/scanned_resources/90075dc1-810d-4b2a-934c-8dde09f17cfa/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Rome (Italy) -- Guidebooks -- Early works to 1800.</term>
+               <term>Rome (Italy) -- Antiquities -- Early works to 1800.</term>
+               <term>Rome (Italy) -- Description and travel -- Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json"
+             url="https://figgy.princeton.edu/concern/scanned_resources/90075dc1-810d-4b2a-934c-8dde09f17cfa/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>

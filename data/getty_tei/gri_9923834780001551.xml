@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:dcterms="http://purl.org/dc/terms/"
+     xmlns:gettyterms="http://portal.getty.edu/terms/gri/"
+     xmlns:local="http://library.princeton.edu"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>L'architettura di M. Vitruvio Pollione : colla traduzione italiana e comento / del marchese Berardo Galiani...</title>
+            <respStmt>
+               <orgName>Getty Research Institute</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Galiani, Berardo, marchese, 1724-1774</authority>
+            <authority>Marra, Francesco la, approximately 1710-approximately 1780.</authority>
+            <authority>Cepparuli, Francesco.</authority>
+            <authority>Lucchesini, Ignatius</authority>
+            <authority>Fratelli Simoni.</authority>
+            <idno type="URI">http://portal.getty.edu/books/gri_9923834780001551</idno>
+            <idno type="URI">http://portal.getty.edu/api/d31t1j</idno>
+            <idno>(OCoLC)2505400</idno>
+            <idno type="cico">733</idno>
+            <idno type="dcl">jkd</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>L'architettura di M. Vitruvio Pollione : colla traduzione italiana e comento / del marchese Berardo Galiani...</title>
+                  <respStmt>
+                     <persName>Vitruvius Pollio.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>In Napoli : Nella Stamperia Simoniana</publisher>
+                     <pubPlace>Italy Naples.</pubPlace>
+                     <date>1758</date>
+                  </imprint>
+                  <extent>[8], XXXII, 462 p., [26] leaves, XXV leaves of plates</extent>
+               </monogr>
+               <relatedItem type="manifest"
+                            target="https://media.getty.edu/iiif/manifest/4bc6ebf6-7135-434d-9b1c-67dd9f8afdc9"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Vitruvius Pollio.</term>
+               <term>Architecture -- Early works to 1800.</term>
+               <term>Vitruvius Pollio</term>
+               <term>Architecture</term>
+               <term>NA2517 .V75</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json"
+             url="https://media.getty.edu/iiif/manifest/4bc6ebf6-7135-434d-9b1c-67dd9f8afdc9">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>

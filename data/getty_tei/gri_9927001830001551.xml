@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:dcterms="http://purl.org/dc/terms/"
+     xmlns:gettyterms="http://portal.getty.edu/terms/gri/"
+     xmlns:local="http://library.princeton.edu"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Description des pierres gravées du feu Baron de Stosch / par M. L'Abbé Winckelmann.</title>
+            <respStmt>
+               <orgName>Getty Research Institute</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Winckelmann, Johann Joachim, 1717-1768, editor.</authority>
+            <idno type="URI">http://portal.getty.edu/books/gri_9927001830001551</idno>
+            <idno type="URI">http://portal.getty.edu/api/t45m3j</idno>
+            <idno type="URI">http://portal.getty.edu/api/8v8c7v</idno>
+            <idno>(OCoLC)5724665</idno>
+            <idno type="cico">3072</idno>
+            <idno type="dcl">v82</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Description des pierres gravées du feu Baron de Stosch / par M. L'Abbé Winckelmann.</title>
+                  <respStmt>
+                     <persName>Stosch, Philipp von, Baron, 1691-1757</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>French</textLang>
+                  <imprint>
+                     <publisher>Florence : André Bonducci</publisher>
+                     <pubPlace>Italy Florence.</pubPlace>
+                     <date>1760</date>
+                  </imprint>
+                  <extent>xxxii, 596 pages, [15] leaves</extent>
+               </monogr>
+               <relatedItem type="manifest"
+                            target="https://media.getty.edu/iiif/manifest/0db44026-9a1a-44dd-933d-91ff3a6db580https://media.getty.edu/iiif/manifest/1a1f85b0-553c-4f25-8106-19a412f2ebf3"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Gems -- Catalogs.</term>
+               <term>Gems -- Private collections.</term>
+               <term>Stosch, Philipp von, Baron, 1691-1757 -- Art collections -- Catalogs.</term>
+               <term>Stosch, Philipp von, Baron, 1691-1757</term>
+               <term>Art -- Private collections.</term>
+               <term>Gems.</term>
+               <term>Gems -- Private collections.</term>
+               <term>NK5515.S8 W76 *</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json"
+             url="https://media.getty.edu/iiif/manifest/0db44026-9a1a-44dd-933d-91ff3a6db580">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+   <facsimile>
+      <media mimeType="application/json"
+             url="https://media.getty.edu/iiif/manifest/1a1f85b0-553c-4f25-8106-19a412f2ebf3">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>

@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:dcterms="http://purl.org/dc/terms/"
+     xmlns:gettyterms="http://portal.getty.edu/terms/gri/"
+     xmlns:local="http://library.princeton.edu"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Miscellanea per i giovani studiosi del disegno / publicata da Giocondo Albertolli ... in Milano l'anno MDCCXCVI ; parte terza.</title>
+            <respStmt>
+               <orgName>Getty Research Institute</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Mercoli, Giacomo, 1745-1825</authority>
+            <authority>Albertolli, Raffaele, 1770-1812</authority>
+            <authority>Longhi, Giuseppe, 1766-1831</authority>
+            <authority>Mercoli, Michelangelo, 1773-1802.</authority>
+            <idno type="URI">http://portal.getty.edu/books/gri_9926626480001551</idno>
+            <idno type="URI">http://portal.getty.edu/api/wq7j2h</idno>
+            <idno>(OCoLC)18508722</idno>
+            <idno type="cico">392</idno>
+            <idno type="dcl">jrm</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Miscellanea per i giovani studiosi del disegno / publicata da Giocondo Albertolli ... in Milano l'anno MDCCXCVI ; parte terza.</title>
+                  <respStmt>
+                     <persName>Albertolli, Giocondo, 1742-1839</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>In Milano : Si ritrova presso allo stesso Albertolli</publisher>
+                     <pubPlace>Italy Milan.</pubPlace>
+                     <date>[1796]</date>
+                     <date>1796</date>
+                  </imprint>
+                  <extent>[2] leaves, XX leaves of plates</extent>
+               </monogr>
+               <relatedItem type="manifest"
+                            target="https://media.getty.edu/iiif/manifest/6b96d68d-3e29-4060-8eb2-d351a4d6d704"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Decoration and ornament -- Study and teaching.</term>
+               <term>Decoration and ornament, Architectural.</term>
+               <term>Decoration and ornament, Architectural.</term>
+               <term>Decoration and ornament -- Study and teaching.</term>
+               <term>NK1535 .A4m 1796</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json"
+             url="https://media.getty.edu/iiif/manifest/6b96d68d-3e29-4060-8eb2-d351a4d6d704">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>

@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:dcterms="http://purl.org/dc/terms/"
+     xmlns:gettyterms="http://portal.getty.edu/terms/gri/"
+     xmlns:local="http://library.princeton.edu"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Pomponii Gavrici neapolitani De scvlptvra : vbi agitur de symetriis, de lineamentis, de physiognomia, de perspectiua, de chimice, de ectyposi, de celatura eiusq[ue] speciebus, praeterea de caeteris speciebus statuariae, de plastice, de proplastice, de paradigmatice, de tomice, de colaptice, de claris sculptoribus ac plerisq[ue] aliis rebus scitu dignissimis. Pomponii Gavrici neapolitani Eclogae.</title>
+            <respStmt>
+               <orgName>Getty Research Institute</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Placidus, Antonius.</authority>
+            <authority>Gaurico, Pomponio, 1481 or 1482-1528. Eclogae.</authority>
+            <idno type="URI">http://portal.getty.edu/books/gri_9925565010001551</idno>
+            <idno type="URI">http://portal.getty.edu/api/8d731h</idno>
+            <idno>(OCoLC)78683137</idno>
+            <idno type="cico">277</idno>
+            <idno type="dcl">tv7</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Pomponii Gavrici neapolitani De scvlptvra : vbi agitur de symetriis, de lineamentis, de physiognomia, de perspectiua, de chimice, de ectyposi, de celatura eiusq[ue] speciebus, praeterea de caeteris speciebus statuariae, de plastice, de proplastice, de paradigmatice, de tomice, de colaptice, de claris sculptoribus ac plerisq[ue] aliis rebus scitu dignissimis. Pomponii Gavrici neapolitani Eclogae.</title>
+                  <respStmt>
+                     <persName>Gaurico, Pomponio, 1481 or 1482-1528.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Latin</textLang>
+                  <imprint>
+                     <publisher>Florentiae : [Filippo di Giunta]</publisher>
+                     <date>1504</date>
+                  </imprint>
+                  <extent>[96] pages (the last blank)</extent>
+               </monogr>
+               <relatedItem type="manifest"
+                            target="https://media.getty.edu/iiif/manifest/739bb007-c6de-4a13-997f-97d173ebd577"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Sculpture -- Early works to 1800.</term>
+               <term>Sculpture.</term>
+               <term>NB1138 .G38 1504</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json"
+             url="https://media.getty.edu/iiif/manifest/739bb007-c6de-4a13-997f-97d173ebd577">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>

@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:dcterms="http://purl.org/dc/terms/"
+     xmlns:gettyterms="http://portal.getty.edu/terms/gri/"
+     xmlns:local="http://library.princeton.edu"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Catalogue raisonné des tableaux, desseins &amp; estampes, et autres effets curieux, après le décès de M. de Jullienne / par Pierre Remy ; on a joint à ce catalogue celui des porcelaines, tant anciennes que modernes, des laques les plus recherchées, des riches meubles du célebre ebeniste Boule, &amp; autres effets, par C. F. Julliot.</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Julliot, C. F.</authority>
+            <authority>Remy, Pierre, 1749-1787.</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_997943793506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/6r689b</idno>
+            <idno>(OCoLC)27754683</idno>
+            <idno type="cico">4440</idno>
+            <idno type="dcl">djg</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Catalogue raisonné des tableaux, desseins &amp; estampes, et autres effets curieux, après le décès de M. de Jullienne / par Pierre Remy ; on a joint à ce catalogue celui des porcelaines, tant anciennes que modernes, des laques les plus recherchées, des riches meubles du célebre ebeniste Boule, &amp; autres effets, par C. F. Julliot.</title>
+                  <textLang>French</textLang>
+                  <imprint>
+                     <publisher>Paris : Chez Vente</publisher>
+                     <date>1767</date>
+                  </imprint>
+                  <extent>xx, 316, 80 p., 1 leaf of plates</extent>
+               </monogr>
+               <relatedItem type="manifest"
+                            target="https://figgy.princeton.edu/concern/scanned_resources/d10ce3bf-eddc-4ad2-8868-ab18a5cdeb28/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Jullienne, Jean de, 1686-1766 -- Art collections.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json"
+             url="https://figgy.princeton.edu/concern/scanned_resources/d10ce3bf-eddc-4ad2-8868-ab18a5cdeb28/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>

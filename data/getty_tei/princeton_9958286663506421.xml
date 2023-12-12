@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:dcterms="http://purl.org/dc/terms/"
+     xmlns:gettyterms="http://portal.getty.edu/terms/gri/"
+     xmlns:local="http://library.princeton.edu"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Nuovo metodo per apprendere insieme le teorie, e le pratiche della scelta architettura civile sopra una nuova raccolta de' piu cospicui esemplari di Roma : fedelmente misurati, e con diligenza incisi / per opera degli architetti Giandomenico Navone, e Gio. Bat. Cipriani ; colle descrizioni e annotazioni dell'Ab. Niccola Mari.</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Cipriani, Giovanni Battista, 1766-1839.</authority>
+            <authority>Mari, Niccola, ab.</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9958286663506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/cf7698</idno>
+            <idno>(OCoLC)123502661</idno>
+            <idno type="cico">578</idno>
+            <idno type="dcl">qft</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Nuovo metodo per apprendere insieme le teorie, e le pratiche della scelta architettura civile sopra una nuova raccolta de' piu cospicui esemplari di Roma : fedelmente misurati, e con diligenza incisi / per opera degli architetti Giandomenico Navone, e Gio. Bat. Cipriani ; colle descrizioni e annotazioni dell'Ab. Niccola Mari.</title>
+                  <respStmt>
+                     <persName>Navone, Giandomenico.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>In Roma : Dai torchi di Luigi Perego Salvioni</publisher>
+                     <pubPlace>Italy</pubPlace>
+                     <date>MDCCXCIV [1794]</date>
+                     <date>1794</date>
+                  </imprint>
+                  <extent>[30] p., [60] leaves of plates</extent>
+               </monogr>
+               <relatedItem type="manifest"
+                            target="https://figgy.princeton.edu/concern/scanned_resources/796881dc-c45e-4272-807e-91ec35c03f63/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Architecture -- Italy -- Rome -- Early works to 1800.</term>
+               <term>NA1120</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json"
+             url="https://figgy.princeton.edu/concern/scanned_resources/796881dc-c45e-4272-807e-91ec35c03f63/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>

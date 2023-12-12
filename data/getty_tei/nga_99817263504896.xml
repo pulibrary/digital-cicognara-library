@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:dcterms="http://purl.org/dc/terms/"
+     xmlns:gettyterms="http://portal.getty.edu/terms/gri/"
+     xmlns:local="http://library.princeton.edu"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Opusculum de balneis Puteolorum, Baiarum, et Pithecusarum. A Joanne Elisio medico instauratum. Nunc denuo a Scipione Mazzella Neapolitano recognitum pluribus rebus auctum, &amp; illustratum. Cum additamentis auctorum omnium, qui hactenus de his scripserunt.</title>
+            <respStmt>
+               <orgName>National Gallery of Art Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Accolti, Francesco, 1416 or 1417-1488.</authority>
+            <authority>Alcadino, active 1191.</authority>
+            <authority>Eustazio da Matera, active 13th century.</authority>
+            <authority>Lombardi, Giovanni Francesco, active 16th century.</authority>
+            <authority>Mazzella, Scipione.</authority>
+            <authority>Petrus, de Ebulo, active 1196.</authority>
+            <idno type="URI">http://portal.getty.edu/books/nga_99817263504896</idno>
+            <idno type="URI">http://portal.getty.edu/api/538f19</idno>
+            <idno>(OCoLC)14321661</idno>
+            <idno type="cico">4317</idno>
+            <idno type="dcl">zvg</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Opusculum de balneis Puteolorum, Baiarum, et Pithecusarum. A Joanne Elisio medico instauratum. Nunc denuo a Scipione Mazzella Neapolitano recognitum pluribus rebus auctum, &amp; illustratum. Cum additamentis auctorum omnium, qui hactenus de his scripserunt.</title>
+                  <respStmt>
+                     <persName>Elisio, Giovanni Battista, active 1500.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Latin</textLang>
+                  <imprint>
+                     <publisher>Neapoli, Apud Horatium Salvianum</publisher>
+                     <date>1591</date>
+                  </imprint>
+                  <extent>66, [6] p.</extent>
+               </monogr>
+               <relatedItem type="manifest"
+                            target="https://libraryimage.nga.gov/manifest/mms/99817263504896.json"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>WZ 240 E43o 1591</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json"
+             url="https://libraryimage.nga.gov/manifest/mms/99817263504896.json">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>

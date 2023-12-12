@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:dcterms="http://purl.org/dc/terms/"
+     xmlns:gettyterms="http://portal.getty.edu/terms/gri/"
+     xmlns:local="http://library.princeton.edu"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Trattato dell'imbrigliare, maneggiare, et ferrare cavalli [microform] : diviso in tre parti, con alcuni discorsi sopra la natura di caualli, con disegni di briglie, maneggi, &amp; di caualieri a cauallo, &amp; de ferri d'esso / di M. Cesare Fiaschi ...</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <authority>Leopoldo Cicognara Program (University of Illinois at Urbana-Champaign)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985429623506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/192s7s</idno>
+            <idno type="cico">4603</idno>
+            <idno type="dcl">tgb</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Trattato dell'imbrigliare, maneggiare, et ferrare cavalli [microform] : diviso in tre parti, con alcuni discorsi sopra la natura di caualli, con disegni di briglie, maneggi, &amp; di caualieri a cauallo, &amp; de ferri d'esso / di M. Cesare Fiaschi ...</title>
+                  <respStmt>
+                     <persName>Fiaschi, Cesare, active 1563.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>In Bologna : Per Anselmo Giaccarelli</publisher>
+                     <date>1556</date>
+                  </imprint>
+                  <extent>171 p.</extent>
+                  <extent>3 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest"
+                            target="https://figgy.princeton.edu/concern/scanned_resources/995c42fa-b11e-4584-a375-2ca0517d4a26/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Bridles -- Early works to 1800.</term>
+               <term>Dressage -- Early works to 1800.</term>
+               <term>Horsemanship -- Early works to 1800.</term>
+               <term>Horses -- Training -- Early works to 1800.</term>
+               <term>Horseshoes -- Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json"
+             url="https://figgy.princeton.edu/concern/scanned_resources/995c42fa-b11e-4584-a375-2ca0517d4a26/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>

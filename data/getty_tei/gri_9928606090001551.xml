@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:dcterms="http://purl.org/dc/terms/"
+     xmlns:gettyterms="http://portal.getty.edu/terms/gri/"
+     xmlns:local="http://library.princeton.edu"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Discursos apologeticos : en que se defiende la ingenuidad del arte de la pintura, que es liberal, de todos derechos, no inferior a las siete que comunmente se reciben. / De don Ivan de Butron ...</title>
+            <respStmt>
+               <orgName>Getty Research Institute</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Sánchez, Luis, active 1572-1627, printer.</authority>
+            <idno type="URI">http://portal.getty.edu/books/gri_9928606090001551</idno>
+            <idno type="URI">http://portal.getty.edu/api/j30q55</idno>
+            <idno>(OCoLC)56199646</idno>
+            <idno type="cico">96</idno>
+            <idno type="dcl">w7w</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Discursos apologeticos : en que se defiende la ingenuidad del arte de la pintura, que es liberal, de todos derechos, no inferior a las siete que comunmente se reciben. / De don Ivan de Butron ...</title>
+                  <respStmt>
+                     <persName>Butrón, Juan de.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Spanish; Castilian</textLang>
+                  <imprint>
+                     <publisher>En Madrid : Por Luis Sanchez</publisher>
+                     <pubPlace>Spain Madrid.</pubPlace>
+                     <date>Año de M. DC. XXVI</date>
+                     <date>1626</date>
+                  </imprint>
+                  <extent>[16], 122, [18] leaves, 1 unnumbered leaf of plates</extent>
+               </monogr>
+               <relatedItem type="manifest"
+                            target="https://media.getty.edu/iiif/manifest/951637ab-7f72-4ff4-834e-b0e580631dae"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Painting -- Early works to 1800.</term>
+               <term>Painting.</term>
+               <term>ND1130 .B98 1626</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json"
+             url="https://media.getty.edu/iiif/manifest/951637ab-7f72-4ff4-834e-b0e580631dae">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>

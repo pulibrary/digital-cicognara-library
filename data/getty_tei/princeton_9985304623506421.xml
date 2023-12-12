@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:dcterms="http://purl.org/dc/terms/"
+     xmlns:gettyterms="http://portal.getty.edu/terms/gri/"
+     xmlns:local="http://library.princeton.edu"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Warhaffte Relation vnd historischer, politischer, höfflicher Discours vber dess durchleuchtigen, hochgebornen Fürsten und Herren, Herren Johann Friderichen, Herzogen zu Würtemberg und Teck ... jungen Sohns Prinz Friderichen angestelter vnd gehaltner, christlicher und fürstlicher Kind Tauff [microform] : sampt darbey begangnem und glücklich vollendtem fürstlichem ritterlichem frewden Fest zu Stuttgardten : den 8.9.10.11.12.13.14.&amp;c. Martij, anno 1616 / auff ... gnädigen Bevehl verfertiget durch Philopatrida Charitinum.</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985304623506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/1w8x1f</idno>
+            <idno type="cico">1422</idno>
+            <idno type="dcl">qfw</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Warhaffte Relation vnd historischer, politischer, höfflicher Discours vber dess durchleuchtigen, hochgebornen Fürsten und Herren, Herren Johann Friderichen, Herzogen zu Würtemberg und Teck ... jungen Sohns Prinz Friderichen angestelter vnd gehaltner, christlicher und fürstlicher Kind Tauff [microform] : sampt darbey begangnem und glücklich vollendtem fürstlichem ritterlichem frewden Fest zu Stuttgardten : den 8.9.10.11.12.13.14.&amp;c. Martij, anno 1616 / auff ... gnädigen Bevehl verfertiget durch Philopatrida Charitinum.</title>
+                  <respStmt>
+                     <persName>Assum, Johann Augustin.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>German</textLang>
+                  <imprint>
+                     <publisher>[Stuttgart?] : Getruckt bey Johann Weyrich Rösslin und Johann Alexander Cellio</publisher>
+                     <pubPlace>Germany</pubPlace>
+                     <date>Anno Christi 1616</date>
+                     <date>1616</date>
+                  </imprint>
+                  <extent>40, 62, [1] p.</extent>
+                  <extent>2 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest"
+                            target="https://figgy.princeton.edu/concern/scanned_resources/67b3a41c-4fd6-4f74-8402-d7ef9c186e94/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Johann Friedrich, Herzog von Württemberg und Teck, 1582-1628.</term>
+               <term>Baptism -- Germany -- Sturrgart -- Early works to 1800.</term>
+               <term>Festivals -- Germany -- Stuttgart -- History -- 17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json"
+             url="https://figgy.princeton.edu/concern/scanned_resources/67b3a41c-4fd6-4f74-8402-d7ef9c186e94/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>

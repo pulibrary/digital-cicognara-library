@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:dcterms="http://purl.org/dc/terms/"
+     xmlns:gettyterms="http://portal.getty.edu/terms/gri/"
+     xmlns:local="http://library.princeton.edu"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>De' dittici degli antichi profani, e sacri libri III : coll' appendice d'alcuni necrologj, e calendarj finora non pubblicati.</title>
+            <respStmt>
+               <orgName>Getty Research Institute</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Benedini, Filippo Maria</authority>
+            <idno type="URI">http://portal.getty.edu/books/gri_9926570410001551</idno>
+            <idno type="URI">http://portal.getty.edu/api/4c5n23</idno>
+            <idno>(OCoLC)46472402</idno>
+            <idno type="cico">3215-1</idno>
+            <idno type="dcl">fs3</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>De' dittici degli antichi profani, e sacri libri III : coll' appendice d'alcuni necrologj, e calendarj finora non pubblicati.</title>
+                  <respStmt>
+                     <persName>Donati, Sebastiano, 1712-</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>In Lucca : Per Filippo Maria Benedini</publisher>
+                     <pubPlace>Rome</pubPlace>
+                     <pubPlace>Rome (Empire)</pubPlace>
+                     <pubPlace>Italy Lucca.</pubPlace>
+                     <date>1753</date>
+                  </imprint>
+                  <extent>xxxi, [1], 491 [i.e. 291], [1] p., VI leaves of plates (4 folded)</extent>
+               </monogr>
+               <relatedItem type="manifest"
+                            target="https://media.getty.edu/iiif/manifest/2b56e187-53e9-48ec-88e5-c7fbfa07a852"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Diptychs.</term>
+               <term>Classical antiquities.</term>
+               <term>Rome -- Antiquities.</term>
+               <term>Provenance -- Trissino (Leonardo)</term>
+               <term>Antiquities.</term>
+               <term>Classical antiquities.</term>
+               <term>Diptychs.</term>
+               <term>Rome (Empire)</term>
+               <term>DE61.D5 D66 1753</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json"
+             url="https://media.getty.edu/iiif/manifest/2b56e187-53e9-48ec-88e5-c7fbfa07a852">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>

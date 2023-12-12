@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:dcterms="http://purl.org/dc/terms/"
+     xmlns:gettyterms="http://portal.getty.edu/terms/gri/"
+     xmlns:local="http://library.princeton.edu"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Disegno e relazione della fiera fatta in Bologna questo anno M.DCCC.VI in occasione della solita festa popare della porchetta [microform] : dedicata agl'illustriss. signori Confaloniere et eccelsi signori Anziani del quarto bimestra.</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <authority>Leopoldo Cicognara Program (University of Illinois at Urbana-Champaign)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985452353506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/vz1q72</idno>
+            <idno type="cico">1487 [d]</idno>
+            <idno type="dcl">j2j</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Disegno e relazione della fiera fatta in Bologna questo anno M.DCCC.VI in occasione della solita festa popare della porchetta [microform] : dedicata agl'illustriss. signori Confaloniere et eccelsi signori Anziani del quarto bimestra.</title>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>In Bologna : Nella stamperia Arciuese</publisher>
+                     <pubPlace>Italy</pubPlace>
+                     <pubPlace>Bologna (Italy)</pubPlace>
+                     <date>1706</date>
+                  </imprint>
+                  <extent>[8] p., [1] folded leaf of plates</extent>
+                  <extent>1 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest"
+                            target="https://figgy.princeton.edu/concern/scanned_resources/d583768e-50b0-4fb9-a349-072bb14c640d/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Cooking (Pork) -- Italy -- Bologna -- History -- 18th century.</term>
+               <term>Festivals -- Italy -- Bologna -- History -- 18th century.</term>
+               <term>Bologna (Italy) -- Social life and customs -- Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json"
+             url="https://figgy.princeton.edu/concern/scanned_resources/d583768e-50b0-4fb9-a349-072bb14c640d/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>

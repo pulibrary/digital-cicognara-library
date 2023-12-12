@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:dcterms="http://purl.org/dc/terms/"
+     xmlns:gettyterms="http://portal.getty.edu/terms/gri/"
+     xmlns:local="http://library.princeton.edu"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Le noue muse / di Marcello Macedonio ; raccolte e date alla stampa da Pietro Macedonio suo fratello.</title>
+            <respStmt>
+               <orgName>Getty Research Institute</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Paduano, Felice, illustrator.</authority>
+            <authority>Longo, Tarquinio, active 1598-1620, printer.</authority>
+            <authority>Ruardo, Giovanni, publisher.</authority>
+            <idno type="URI">http://portal.getty.edu/books/gri_9928872300001551</idno>
+            <idno type="URI">http://portal.getty.edu/api/f8684r</idno>
+            <idno>(OCoLC)84298604</idno>
+            <idno type="cico">4719</idno>
+            <idno type="dcl">d39</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Le noue muse / di Marcello Macedonio ; raccolte e date alla stampa da Pietro Macedonio suo fratello.</title>
+                  <respStmt>
+                     <persName>Macedonio, Marcello</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>In Napoli : Ad instanza di Gio. Ruardo</publisher>
+                     <pubPlace>Italy Naples.</pubPlace>
+                     <date>1614</date>
+                  </imprint>
+                  <extent>[8], 260 p., [9] leaves of plates</extent>
+               </monogr>
+               <relatedItem type="manifest"
+                            target="https://media.getty.edu/iiif/manifest/ac44d0bd-7ac5-46bc-a75e-d1fc88670f87"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Lurato, A. M. -- Autograph.</term>
+               <term>PQ4627.M143 N6 1614</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json"
+             url="https://media.getty.edu/iiif/manifest/ac44d0bd-7ac5-46bc-a75e-d1fc88670f87">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>

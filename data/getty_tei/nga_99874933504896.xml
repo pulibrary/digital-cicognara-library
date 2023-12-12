@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:dcterms="http://purl.org/dc/terms/"
+     xmlns:gettyterms="http://portal.getty.edu/terms/gri/"
+     xmlns:local="http://library.princeton.edu"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Il centesimo dell'anno M.DC.XCV. : celebrato in Roma dall'Accademia del disegno, essendo prencipe il Signor Cavalier Carlo Fontano, architetto / descritto da Giuseppe Ghezzi, pittore, segretario accademico.</title>
+            <respStmt>
+               <orgName>National Gallery of Art Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Accademia di San Luca.</authority>
+            <idno type="URI">http://portal.getty.edu/books/nga_99874933504896</idno>
+            <idno type="URI">http://portal.getty.edu/api/jz579c</idno>
+            <idno>(OCoLC)07042714</idno>
+            <idno type="cico">1307</idno>
+            <idno type="dcl">hvr</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Il centesimo dell'anno M.DC.XCV. : celebrato in Roma dall'Accademia del disegno, essendo prencipe il Signor Cavalier Carlo Fontano, architetto / descritto da Giuseppe Ghezzi, pittore, segretario accademico.</title>
+                  <respStmt>
+                     <persName>Ghezzi, Giuseppe, 1634-1721.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>Roma : Gio. Francesco Buagni</publisher>
+                     <date>1696</date>
+                  </imprint>
+                  <extent>52 p.</extent>
+               </monogr>
+               <relatedItem type="manifest"
+                            target="https://libraryimage.nga.gov/manifest/mms/99874933504896.json"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Accademia di San Luca -- Centennial celebrations, etc.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json"
+             url="https://libraryimage.nga.gov/manifest/mms/99874933504896.json">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>

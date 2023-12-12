@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:dcterms="http://purl.org/dc/terms/"
+     xmlns:gettyterms="http://portal.getty.edu/terms/gri/"
+     xmlns:local="http://library.princeton.edu"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Alberti Dureri clarissimi pictoris et geometrae De sym[m]etria partium in rectis formis hu[m]anorum corporum, libri [microform] / in latinum conversi.</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Camerarius, Joachim, 1500-1574.</authority>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985294273506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/13156n</idno>
+            <idno type="cico">319 (1)</idno>
+            <idno type="dcl">vrc</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Alberti Dureri clarissimi pictoris et geometrae De sym[m]etria partium in rectis formis hu[m]anorum corporum, libri [microform] / in latinum conversi.</title>
+                  <respStmt>
+                     <persName>Dürer, Albrecht, 1471-1528.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Latin</textLang>
+                  <imprint>
+                     <publisher>Norimbergae : Excudebatur opus ... In aedib. viduae Durerianae</publisher>
+                     <date>1532</date>
+                  </imprint>
+                  <extent>[160] p. (last leaf blank)</extent>
+                  <extent>3 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest"
+                            target="https://figgy.princeton.edu/concern/scanned_resources/e8a4324f-b557-4249-8ea5-b6423db29c36/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Dürer, Albrecht, 1471-1528 -- Drawing.</term>
+               <term>Human figure in art.</term>
+               <term>Proportion (Art)</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json"
+             url="https://figgy.princeton.edu/concern/scanned_resources/e8a4324f-b557-4249-8ea5-b6423db29c36/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>

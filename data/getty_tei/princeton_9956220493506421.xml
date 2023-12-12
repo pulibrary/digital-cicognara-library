@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:dcterms="http://purl.org/dc/terms/"
+     xmlns:gettyterms="http://portal.getty.edu/terms/gri/"
+     xmlns:local="http://library.princeton.edu"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Philippi Cluveri Italia antiqua : opus post omnium curas elaboratissimum : tabulis geographicis aere expressis illustratum : ejusdem Sicilia, Sardinia, et Corsica : cum indice locupletissimo.</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Geylekerck, Nicolaes, -approximately 1657, engraver.</authority>
+            <authority>Bruce, David, of Kinnaird, former owner.</authority>
+            <authority>Officina Elzeviriana, printer.</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9956220493506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/g6815p</idno>
+            <idno>(OCoLC)137237835</idno>
+            <idno type="cico">3989</idno>
+            <idno type="dcl">b30</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Philippi Cluveri Italia antiqua : opus post omnium curas elaboratissimum : tabulis geographicis aere expressis illustratum : ejusdem Sicilia, Sardinia, et Corsica : cum indice locupletissimo.</title>
+                  <respStmt>
+                     <persName>Clüver, Philipp, 1580-1622.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Latin</textLang>
+                  <imprint>
+                     <publisher>Lugduni Batavorum [Leyden] : Ex officina Elseviriana</publisher>
+                     <pubPlace>Italy</pubPlace>
+                     <pubPlace>Rome</pubPlace>
+                     <pubPlace>Sicily (Italy)</pubPlace>
+                     <pubPlace>Sardinia (Italy)</pubPlace>
+                     <pubPlace>Corsica (France)</pubPlace>
+                     <date>1624</date>
+                  </imprint>
+                  <extent>2 v. (v. 1: [20], 786, [2] p., [15] leaves of plates; v. 2: [4], 787-1338, [22] p., [10] leaves of plates)</extent>
+               </monogr>
+               <relatedItem type="manifest"
+                            target="https://figgy.princeton.edu/concern/scanned_resources/9772c3a6-b717-4a90-8666-b8540057e549/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Ethnology -- Italy -- Early works to 1800.</term>
+               <term>Rome -- Description and travel -- Early works to 1800.</term>
+               <term>Italy -- History -- To 476 -- Early works to 1800.</term>
+               <term>Sicily (Italy) -- History -- To 800 -- Early works to 1800.</term>
+               <term>Sardinia (Italy) -- Historical geography -- Early works to 1800.</term>
+               <term>Corsica (France) -- Historical geography -- Early works to 1800.</term>
+               <term>Sicily (Italy) -- Description and travel -- Early works to 1800.</term>
+               <term>DG30.C6</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json"
+             url="https://figgy.princeton.edu/concern/scanned_resources/9772c3a6-b717-4a90-8666-b8540057e549/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>

@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:dcterms="http://purl.org/dc/terms/"
+     xmlns:gettyterms="http://portal.getty.edu/terms/gri/"
+     xmlns:local="http://library.princeton.edu"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Americae tertia pars memorabilẽ provinciæ Brasiliæ historiam continẽs, Germanico primùm sermone scriptam à Ioãne Stadio, nunc autem Latinitate donatam à Teucrio Annæo Priuato Colchanthe [i.e. J.A. Lonicer] Addita est narratio profectionis Ioannis Lerij in eamdem provinciam, quã ille intio Gallicè conscripsit, postea verò Latinam fecit. His accessit descriptio morum &amp; ferocitatis incolarum illius regiones, atque colloquium ipsorum idiomate conscriptum. Omnia recens evulgata, &amp; eiconibus illustrata studio &amp; diligentia Theodori de Bry.</title>
+            <respStmt>
+               <orgName>Getty Research Institute</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Barré, Nicolas</authority>
+            <authority>Staden, Hans, approximately 1525-approximately 1576. Americae tertia pars memorabilẽ provinciae Brasiliae historiam continẽs.</authority>
+            <authority>Léry, Jean de, 1534-1611. Narratio profectionis.</authority>
+            <idno type="URI">http://portal.getty.edu/books/gri_9928621320001551</idno>
+            <idno type="URI">http://portal.getty.edu/api/xr7r9w</idno>
+            <idno>(OCoLC)54247780</idno>
+            <idno type="cico">3970C-3-3</idno>
+            <idno type="dcl">5k7</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Americae tertia pars memorabilẽ provinciæ Brasiliæ historiam continẽs, Germanico primùm sermone scriptam à Ioãne Stadio, nunc autem Latinitate donatam à Teucrio Annæo Priuato Colchanthe [i.e. J.A. Lonicer] Addita est narratio profectionis Ioannis Lerij in eamdem provinciam, quã ille intio Gallicè conscripsit, postea verò Latinam fecit. His accessit descriptio morum &amp; ferocitatis incolarum illius regiones, atque colloquium ipsorum idiomate conscriptum. Omnia recens evulgata, &amp; eiconibus illustrata studio &amp; diligentia Theodori de Bry.</title>
+                  <respStmt>
+                     <persName>Bry, Theodor de, 1528-1598</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Latin</textLang>
+                  <imprint>
+                     <publisher>[Francofvrti ad Moenvm], [Impressum apvd I. Wechelvm, impensis T. de Bry] venales reperiũtur in officina T. de Bry</publisher>
+                     <pubPlace>Brazil.</pubPlace>
+                     <pubPlace>Brazil</pubPlace>
+                     <pubPlace>America</pubPlace>
+                     <pubPlace>America.</pubPlace>
+                     <date>1592 [i.e. 1597?]</date>
+                     <date>1592</date>
+                  </imprint>
+                  <extent>[16], 296, [14] pages</extent>
+               </monogr>
+               <relatedItem type="manifest"
+                            target="https://media.getty.edu/iiif/manifest/b1e7efa4-7715-46ee-8be4-23da22b868db"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Villegaignon, Nicolas Durand de, 1510-1571?</term>
+               <term>Indians of South America -- Brazil.</term>
+               <term>Tupinamba Indians.</term>
+               <term>Tupi language.</term>
+               <term>Brazil -- Description and travel.</term>
+               <term>America -- History -- To 1810.</term>
+               <term>Villegaignon, Nicolas Durand de, 1510-1571?</term>
+               <term>Indians of South America.</term>
+               <term>Travel.</term>
+               <term>Tupi language.</term>
+               <term>Tupinamba Indians.</term>
+               <term>America.</term>
+               <term>Brazil.</term>
+               <term>G159 .B7 pt.3a</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json"
+             url="https://media.getty.edu/iiif/manifest/b1e7efa4-7715-46ee-8be4-23da22b868db">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>

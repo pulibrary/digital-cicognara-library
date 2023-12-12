@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:dcterms="http://purl.org/dc/terms/"
+     xmlns:gettyterms="http://portal.getty.edu/terms/gri/"
+     xmlns:local="http://library.princeton.edu"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Esseqvie del serenissimo don Francesco Medici, gran duca di Toscana II / descritte da Giovambatista Strozzi.</title>
+            <respStmt>
+               <orgName>Getty Research Institute</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Sermartelli, Bartolomeo, active 1563-1600, printer.</authority>
+            <idno type="URI">http://portal.getty.edu/books/gri_9927362740001551</idno>
+            <idno type="URI">http://portal.getty.edu/api/1r4g6q</idno>
+            <idno>(OCoLC)15937054</idno>
+            <idno type="cico">1427</idno>
+            <idno type="dcl">fg5</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Esseqvie del serenissimo don Francesco Medici, gran duca di Toscana II / descritte da Giovambatista Strozzi.</title>
+                  <respStmt>
+                     <persName>Strozzi, Giovanni Battista, il Giovane, 1551-1634.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>In Fiorenza : Ne le case de' Sermartelli</publisher>
+                     <pubPlace>Italy</pubPlace>
+                     <pubPlace>Italy Florence.</pubPlace>
+                     <date>ne l'anno 1587</date>
+                     <date>1587</date>
+                  </imprint>
+                  <extent>[4], 60 p., [2] folded leaves of plates</extent>
+               </monogr>
+               <relatedItem type="manifest"
+                            target="https://media.getty.edu/iiif/manifest/9c2cfe9f-de58-4a49-a93f-f42e5924a2ad"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Francesco I, Grand-Duke of Tuscany, 1541-1587 -- Death and burial.</term>
+               <term>Funeral rites and ceremonies -- Italy -- Florence -- Early works to 1800.</term>
+               <term>Francesco I, Grand-Duke of Tuscany, 1541-1587</term>
+               <term>Funeral rites and ceremonies</term>
+               <term>Italy -- Florence</term>
+               <term>DG738.19 .S87 1587</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json"
+             url="https://media.getty.edu/iiif/manifest/9c2cfe9f-de58-4a49-a93f-f42e5924a2ad">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>

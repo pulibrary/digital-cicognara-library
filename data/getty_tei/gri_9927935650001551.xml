@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:dcterms="http://purl.org/dc/terms/"
+     xmlns:gettyterms="http://portal.getty.edu/terms/gri/"
+     xmlns:local="http://library.princeton.edu"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Discorso sopra il nuovo ornato della guglia di S. Pietro ...</title>
+            <respStmt>
+               <orgName>Getty Research Institute</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Salvioni, Giovanni Maria, 1676-1755, printer.</authority>
+            <authority>Mastrozzi, Fed., engraver.</authority>
+            <idno type="URI">http://portal.getty.edu/books/gri_9927935650001551</idno>
+            <idno type="URI">http://portal.getty.edu/api/4v7g6r</idno>
+            <idno>(OCoLC)18435675</idno>
+            <idno type="cico">3703-1</idno>
+            <idno type="cico">2665-3</idno>
+            <idno type="dcl">wc7</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Discorso sopra il nuovo ornato della guglia di S. Pietro ...</title>
+                  <respStmt>
+                     <persName>Sergardi, Lodovico, 1660-1726.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>In Roma : Appresso Gio. Maria Salvioni</publisher>
+                     <pubPlace>Vatican City.</pubPlace>
+                     <pubPlace>Vatican City</pubPlace>
+                     <pubPlace>Piazza San Pietro (Vatican City)</pubPlace>
+                     <date>M. DCC. XXIII. [1723]</date>
+                     <date>1723</date>
+                  </imprint>
+                  <extent>17, 3 unnumbered pages, 4 unnumbered leaves of plates</extent>
+               </monogr>
+               <relatedItem type="manifest"
+                            target="https://media.getty.edu/iiif/manifest/cd24d453-f3a1-4d0d-805e-1442310340ce"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Obelisco vaticano (Vatican City) -- Early works to 1800.</term>
+               <term>Obelisks -- Vatican City.</term>
+               <term>Vatican City -- Buildings, structures, etc. -- Early works to 1800.</term>
+               <term>Piazza San Pietro (Vatican City)</term>
+               <term>Buildings.</term>
+               <term>Obelisks.</term>
+               <term>Vatican City.</term>
+               <term>Vatican City -- Piazza San Pietro.</term>
+               <term>NA5620 S9S4</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json"
+             url="https://media.getty.edu/iiif/manifest/cd24d453-f3a1-4d0d-805e-1442310340ce">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>

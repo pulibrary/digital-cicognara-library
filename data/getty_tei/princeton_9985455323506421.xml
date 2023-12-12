@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:dcterms="http://purl.org/dc/terms/"
+     xmlns:gettyterms="http://portal.getty.edu/terms/gri/"
+     xmlns:local="http://library.princeton.edu"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Vollständiges Diarium von den merckwürdigsten Begebenheiten die sich vor, in und nach der höchst-beglückten Wahl und Crönung des allerdurchlauchtigsten, grossmächtigsten und unüberwindlichsten Fürsten und Herrn, Herrn Carls des VII., erwehlten Römischen Kaysers ... im gantzen Heil. Röm. Reich, und sonderlich in dieser freyen Reichs- und Wahl-Stadt Franckfurt am Mayn zugetragen [microform] : nebst umständlicher Beschreibung der Ein- und Aufzüge, Freuden-Feste, und übrigen feyerlichen Handlungen, sammt vielen Urkunden, Portraits, und andern Kupferstichen : auch einem Anhang von Beylagen, und ausführlichem Register ...</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985455323506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/kw0s7c</idno>
+            <idno type="cico">1510</idno>
+            <idno type="dcl">4kf</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Vollständiges Diarium von den merckwürdigsten Begebenheiten die sich vor, in und nach der höchst-beglückten Wahl und Crönung des allerdurchlauchtigsten, grossmächtigsten und unüberwindlichsten Fürsten und Herrn, Herrn Carls des VII., erwehlten Römischen Kaysers ... im gantzen Heil. Röm. Reich, und sonderlich in dieser freyen Reichs- und Wahl-Stadt Franckfurt am Mayn zugetragen [microform] : nebst umständlicher Beschreibung der Ein- und Aufzüge, Freuden-Feste, und übrigen feyerlichen Handlungen, sammt vielen Urkunden, Portraits, und andern Kupferstichen : auch einem Anhang von Beylagen, und ausführlichem Register ...</title>
+                  <textLang>German</textLang>
+                  <imprint>
+                     <publisher>Franckfurt am Mayn : Verlegt von Johann David Jung</publisher>
+                     <pubPlace>Coronations</pubPlace>
+                     <date>1742-1743</date>
+                     <date>1742</date>
+                  </imprint>
+                  <extent>2 v.</extent>
+                  <extent>16 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest"
+                            target="https://figgy.princeton.edu/concern/scanned_resources/ad0d8b72-5b92-478f-8271-d1ad7c0dabf9/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Charles VII, Holy Roman Emperor, 1695-1745 -- Coronation.</term>
+               <term>Coronations -- Germany -- Frankfurt am Main -- History -- 17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json"
+             url="https://figgy.princeton.edu/concern/scanned_resources/ad0d8b72-5b92-478f-8271-d1ad7c0dabf9/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>

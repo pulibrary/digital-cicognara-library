@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:dcterms="http://purl.org/dc/terms/"
+     xmlns:gettyterms="http://portal.getty.edu/terms/gri/"
+     xmlns:local="http://library.princeton.edu"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Entrata del christianiss. re Henrico III. di Francia et di Polonia, nella città di Mantova : con gli sontvosissimi apparati, &amp; feste fatte da Sua Eccellentia, per riceuer Sua Maestà Christianissima.</title>
+            <respStmt>
+               <orgName>Getty Research Institute</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <idno type="URI">http://portal.getty.edu/books/gri_9927304530001551</idno>
+            <idno type="URI">http://portal.getty.edu/api/n65x4z</idno>
+            <idno>(OCoLC)82491570</idno>
+            <idno type="cico">1385</idno>
+            <idno type="dcl">1mb</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Entrata del christianiss. re Henrico III. di Francia et di Polonia, nella città di Mantova : con gli sontvosissimi apparati, &amp; feste fatte da Sua Eccellentia, per riceuer Sua Maestà Christianissima.</title>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>In Venetia : Appresso Francesco Patriani</publisher>
+                     <pubPlace>Italy</pubPlace>
+                     <pubPlace>Mantua (Italy)</pubPlace>
+                     <date>MDLXXIIII [1574]</date>
+                     <date>1574</date>
+                  </imprint>
+                  <extent>10 unnumbered pages</extent>
+               </monogr>
+               <relatedItem type="manifest"
+                            target="https://media.getty.edu/iiif/manifest/9c2e0c31-21ff-4126-b816-dadae671f2a4"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Henry III, King of France, 1551-1589 -- Travel -- Early works to 1800.</term>
+               <term>Royal visitors -- Italy -- Mantua -- Early works to 1800.</term>
+               <term>Festivals -- Italy -- Mantua -- Early works to 1800.</term>
+               <term>Emblems -- Italy -- Mantua -- Early works to 1800.</term>
+               <term>Mantua (Italy) -- Social life and customs -- Early works to 1800.</term>
+               <term>Henry III, King of France, 1551-1589</term>
+               <term>Emblems.</term>
+               <term>Festivals.</term>
+               <term>Manners and customs.</term>
+               <term>Royal visitors.</term>
+               <term>Travel.</term>
+               <term>Italy -- Mantua.</term>
+               <term>DG975.M32 E58 1574</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json"
+             url="https://media.getty.edu/iiif/manifest/9c2e0c31-21ff-4126-b816-dadae671f2a4">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>

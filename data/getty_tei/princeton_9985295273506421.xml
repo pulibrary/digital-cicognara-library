@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:dcterms="http://purl.org/dc/terms/"
+     xmlns:gettyterms="http://portal.getty.edu/terms/gri/"
+     xmlns:local="http://library.princeton.edu"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Livre d'architecture [microform] : contenant les principes generaux de cet art et les plans, elevations et profils de quelques-uns des batimens faits en France &amp; dans les pays etrangers / par le Sieur Boffrand ... ouvrage françois et latin ...</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985295273506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/rc3v56</idno>
+            <idno type="cico">440 (1)</idno>
+            <idno type="dcl">wnf</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Livre d'architecture [microform] : contenant les principes generaux de cet art et les plans, elevations et profils de quelques-uns des batimens faits en France &amp; dans les pays etrangers / par le Sieur Boffrand ... ouvrage françois et latin ...</title>
+                  <respStmt>
+                     <persName>Boffrand, Germain, 1667-1754.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>French</textLang>
+                  <textLang>Latin</textLang>
+                  <imprint>
+                     <publisher>A Paris : Chez Guillaume Cavelier</publisher>
+                     <date>1745</date>
+                  </imprint>
+                  <extent>99, [1] p.</extent>
+                  <extent>6 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest"
+                            target="https://figgy.princeton.edu/concern/scanned_resources/4a97f0da-e888-40b9-a9a8-8eaa1a8d7a77/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Architecture -- Designs and plans.</term>
+               <term>Architecture -- Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json"
+             url="https://figgy.princeton.edu/concern/scanned_resources/4a97f0da-e888-40b9-a9a8-8eaa1a8d7a77/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>

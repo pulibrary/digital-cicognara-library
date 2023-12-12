@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:dcterms="http://purl.org/dc/terms/"
+     xmlns:gettyterms="http://portal.getty.edu/terms/gri/"
+     xmlns:local="http://library.princeton.edu"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Vita, passio, et resurrectio Iesu Christi varijs Iconibus à celeberrimo pictore Martino de Vos expressa [microform] : ab Adriano Collart nunc primum in aes incisis.</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Collaert, Adriaen, -1618.</authority>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985342053506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/6p8q9r</idno>
+            <idno type="cico">2141</idno>
+            <idno type="dcl">5kc</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Vita, passio, et resurrectio Iesu Christi varijs Iconibus à celeberrimo pictore Martino de Vos expressa [microform] : ab Adriano Collart nunc primum in aes incisis.</title>
+                  <respStmt>
+                     <persName>Vos, Maarten de, 1532-1603.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Latin</textLang>
+                  <imprint>
+                     <publisher>[Antwerp : Joan Galle, excudit]</publisher>
+                     <date>[1638?]</date>
+                     <date>1638</date>
+                  </imprint>
+                  <extent>51 leaves</extent>
+                  <extent>2 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest"
+                            target="https://figgy.princeton.edu/concern/scanned_resources/c918d24a-2bcc-453e-a492-7f84e480a11c/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Jesus Christ -- Art.</term>
+               <term>Jesus Christ -- Iconography.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json"
+             url="https://figgy.princeton.edu/concern/scanned_resources/c918d24a-2bcc-453e-a492-7f84e480a11c/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>

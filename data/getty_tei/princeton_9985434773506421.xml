@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:dcterms="http://purl.org/dc/terms/"
+     xmlns:gettyterms="http://portal.getty.edu/terms/gri/"
+     xmlns:local="http://library.princeton.edu"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Gemmae antiquae ex thesauro Mediceo et privatorum dactyliothecis florentiae [microform] : exhibentes tabulis C. imagines virorum illustrium et deorum / cum observationibus Antonii Francisci Gorii ... .</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <authority>Leopoldo Cicognara Program (University of Illinois at Urbana-Champaign)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985434773506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/b66036</idno>
+            <idno type="URI">http://portal.getty.edu/api/2h5829</idno>
+            <idno type="cico">3417</idno>
+            <idno type="dcl">x2g</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Gemmae antiquae ex thesauro Mediceo et privatorum dactyliothecis florentiae [microform] : exhibentes tabulis C. imagines virorum illustrium et deorum / cum observationibus Antonii Francisci Gorii ... .</title>
+                  <respStmt>
+                     <persName>Gori, Antonio Francesco, 1691-1757.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Latin</textLang>
+                  <imprint>
+                     <publisher>Florentiae : Ex typographia Michaelis Nestenus et Francisci Moücke</publisher>
+                     <pubPlace>Italy</pubPlace>
+                     <date>1731-1732</date>
+                     <date>1731</date>
+                  </imprint>
+                  <extent>2 v.</extent>
+                  <extent>38 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest"
+                            target="https://figgy.princeton.edu/concern/scanned_resources/4cbc05e0-83d9-424b-957c-5d3ce4c970ee/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Gems, Ancient -- Italy -- Florence.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json"
+             url="https://figgy.princeton.edu/concern/scanned_resources/4cbc05e0-83d9-424b-957c-5d3ce4c970ee/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>

@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:dcterms="http://purl.org/dc/terms/"
+     xmlns:gettyterms="http://portal.getty.edu/terms/gri/"
+     xmlns:local="http://library.princeton.edu"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Osservazioni di Francesco dé Ficoroni sopra l'antichita di Roma, descritte nel diario italico, publicato in Parigi l'anno 1702 dal M. rev. Padre D. Bernardo de Montfaucon ...</title>
+            <respStmt>
+               <orgName>Getty Research Institute</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <idno type="URI">http://portal.getty.edu/books/gri_9928524110001551</idno>
+            <idno type="URI">http://portal.getty.edu/api/p94729</idno>
+            <idno>(OCoLC)79037753</idno>
+            <idno type="cico">3720</idno>
+            <idno type="dcl">r2h</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Osservazioni di Francesco dé Ficoroni sopra l'antichita di Roma, descritte nel diario italico, publicato in Parigi l'anno 1702 dal M. rev. Padre D. Bernardo de Montfaucon ...</title>
+                  <respStmt>
+                     <persName>Ficoroni, Francesco, 1664-1747</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>In Roma : Nella Stamperia di Antonio de' Rossi</publisher>
+                     <pubPlace>Rome (Italy)</pubPlace>
+                     <pubPlace>Italy</pubPlace>
+                     <date>1709</date>
+                  </imprint>
+                  <extent>[2], 63, [1] pages</extent>
+               </monogr>
+               <relatedItem type="manifest"
+                            target="https://media.getty.edu/iiif/manifest/9c940cb2-b48d-4bf0-bfa2-cd9a8d2030f2"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Montfaucon, Bernard de, 1655-1741. Diarium italicum.</term>
+               <term>Rome (Italy) -- Description and travel -- Early works to 1800.</term>
+               <term>Rome (Italy) -- Antiquities.</term>
+               <term>Antiquities.</term>
+               <term>Travel.</term>
+               <term>Italy -- Rome.</term>
+               <term>DG424 F53 1709</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json"
+             url="https://media.getty.edu/iiif/manifest/9c940cb2-b48d-4bf0-bfa2-cd9a8d2030f2">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>

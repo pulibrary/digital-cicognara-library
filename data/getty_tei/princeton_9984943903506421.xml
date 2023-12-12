@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:dcterms="http://purl.org/dc/terms/"
+     xmlns:gettyterms="http://portal.getty.edu/terms/gri/"
+     xmlns:local="http://library.princeton.edu"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Deiphira [microform] / di Messer Leon Battista Alberto ... ne la quale ne insegna amare te[m]peratamente, &amp; ne fa diuenire, o piu dotti ad amare, o piu prudenti a fuggir amore, nouame[n?] te stampata.</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9984943903506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/j5424n</idno>
+            <idno type="cico">387</idno>
+            <idno type="dcl">hrn</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Deiphira [microform] / di Messer Leon Battista Alberto ... ne la quale ne insegna amare te[m]peratamente, &amp; ne fa diuenire, o piu dotti ad amare, o piu prudenti a fuggir amore, nouame[n?] te stampata.</title>
+                  <respStmt>
+                     <persName>Alberti, Leon Battista, 1404-1472.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>Venetia : [s.n.]</publisher>
+                     <date>1545</date>
+                  </imprint>
+                  <extent>10-23 numb. leaves</extent>
+                  <extent>1 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest"
+                            target="https://figgy.princeton.edu/concern/scanned_resources/5838807f-9d72-457a-bd68-17b04043838e/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Love.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json"
+             url="https://figgy.princeton.edu/concern/scanned_resources/5838807f-9d72-457a-bd68-17b04043838e/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>

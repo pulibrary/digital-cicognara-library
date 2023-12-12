@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:dcterms="http://purl.org/dc/terms/"
+     xmlns:gettyterms="http://portal.getty.edu/terms/gri/"
+     xmlns:local="http://library.princeton.edu"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Blasone veneto, o, Gentlizie insegne delle famiglie patrizie, Oggi esistenti in Venezia / Delineato già dal P. Generale Coronelli.</title>
+            <respStmt>
+               <orgName>National Gallery of Art Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <idno type="URI">http://portal.getty.edu/books/nga_99750893504896</idno>
+            <idno type="URI">http://portal.getty.edu/api/pz5k99</idno>
+            <idno>(OCoLC)78425772</idno>
+            <idno type="cico">4358</idno>
+            <idno type="dcl">x67</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Blasone veneto, o, Gentlizie insegne delle famiglie patrizie, Oggi esistenti in Venezia / Delineato già dal P. Generale Coronelli.</title>
+                  <respStmt>
+                     <persName>Coronelli, Vincenzo, 1650-1718</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>[Venezia] : Stampato da Gio. Batista Tramontin, e si trova nella Libr. del Rovinetti, alla Verità</publisher>
+                     <pubPlace>Italy</pubPlace>
+                     <pubPlace>Venice (Italy)</pubPlace>
+                     <date>1706</date>
+                  </imprint>
+                  <extent>114 leaves, [2] folded leaves of plates</extent>
+               </monogr>
+               <relatedItem type="manifest"
+                            target="https://libraryimage.nga.gov/manifest/mms/99750893504896.json"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Heraldry -- Italy -- Venice -- Early works to 1800.</term>
+               <term>Venice (Italy) -- Nobility.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json"
+             url="https://libraryimage.nga.gov/manifest/mms/99750893504896.json">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>

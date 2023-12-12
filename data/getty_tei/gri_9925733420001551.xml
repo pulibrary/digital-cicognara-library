@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:dcterms="http://purl.org/dc/terms/"
+     xmlns:gettyterms="http://portal.getty.edu/terms/gri/"
+     xmlns:local="http://library.princeton.edu"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Libro primo, scielta d. varii tempietti antichi : con le piante et alzatte desegnati in prospettiva / d. m. Gio. Batt̃a. Montano Milanese ... ; date in luce, per Gio. Batt̃a. Soria Rom ̊a benefitio pvblico et fatti intagliare in rami ...</title>
+            <respStmt>
+               <orgName>Getty Research Institute</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Soria, Gio. Batta. (Giovanni Battista), 1581-1651</authority>
+            <authority>David, Jérôme, approximately 1605-approximately 1670</authority>
+            <idno type="URI">http://portal.getty.edu/books/gri_9925733420001551</idno>
+            <idno type="URI">http://portal.getty.edu/api/z0433s</idno>
+            <idno>(OCoLC)3416221</idno>
+            <idno type="cico">570-2</idno>
+            <idno type="dcl">12v</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Libro primo, scielta d. varii tempietti antichi : con le piante et alzatte desegnati in prospettiva / d. m. Gio. Batt̃a. Montano Milanese ... ; date in luce, per Gio. Batt̃a. Soria Rom ̊a benefitio pvblico et fatti intagliare in rami ...</title>
+                  <respStmt>
+                     <persName>Montano, Giovanni Battista, 1545-1621</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>In Roma : Apresso il sudetto Soria</publisher>
+                     <date>1624</date>
+                  </imprint>
+                  <extent>[iv], 66 leaves of plates</extent>
+               </monogr>
+               <relatedItem type="manifest"
+                            target="https://media.getty.edu/iiif/manifest/679d8dc2-f6c7-4599-bf08-93b3261c392b"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Architecture -- Early works to 1800.</term>
+               <term>Temples, Roman -- Designs and plans -- Early works to 1800.</term>
+               <term>Architecture</term>
+               <term>Temples, Roman</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json"
+             url="https://media.getty.edu/iiif/manifest/679d8dc2-f6c7-4599-bf08-93b3261c392b">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>

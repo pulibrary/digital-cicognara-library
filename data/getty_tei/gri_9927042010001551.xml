@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:dcterms="http://purl.org/dc/terms/"
+     xmlns:gettyterms="http://portal.getty.edu/terms/gri/"
+     xmlns:local="http://library.princeton.edu"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Familiaris qvaedam epistola e Roma in Hispaniam missa, in qua quid actum sit die xxix. aprilis, vij. maij, x. &amp; xvij. septembris in translatione obelisci breuiter explicatur. Breuis item rerum in hoc primo anno à sanctiss. d.n. gestarum enumeratio ...</title>
+            <respStmt>
+               <orgName>Getty Research Institute</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <idno type="URI">http://portal.getty.edu/books/gri_9927042010001551</idno>
+            <idno type="URI">http://portal.getty.edu/api/ff004x</idno>
+            <idno>(OCoLC)80613823</idno>
+            <idno type="cico">2542(1)-3</idno>
+            <idno type="dcl">8p7</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Familiaris qvaedam epistola e Roma in Hispaniam missa, in qua quid actum sit die xxix. aprilis, vij. maij, x. &amp; xvij. septembris in translatione obelisci breuiter explicatur. Breuis item rerum in hoc primo anno à sanctiss. d.n. gestarum enumeratio ...</title>
+                  <respStmt>
+                     <persName>G. P., active 16th century.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Latin</textLang>
+                  <imprint>
+                     <publisher>Romae, apud Alexandrum Gardanum, &amp; Franciscum Coattinum socios. Impensis Bartholomaei Grassi bibliopolae romani</publisher>
+                     <pubPlace>Vatican City.</pubPlace>
+                     <date>1586</date>
+                  </imprint>
+                  <extent>10 unnumbered pages</extent>
+               </monogr>
+               <relatedItem type="manifest"
+                            target="https://media.getty.edu/iiif/manifest/109b70c1-e23b-4fa7-9698-91d03ce91a2a"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Obelisco vaticano (Vatican City)</term>
+               <term>Dedication services -- Biography.</term>
+               <term>Festivals -- Vatican City.</term>
+               <term>Dedication services.</term>
+               <term>Festivals.</term>
+               <term>Vatican City.</term>
+               <term>NA1120.65.O12 A27 1583 c.1</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json"
+             url="https://media.getty.edu/iiif/manifest/109b70c1-e23b-4fa7-9698-91d03ce91a2a">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>

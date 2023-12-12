@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:dcterms="http://purl.org/dc/terms/"
+     xmlns:gettyterms="http://portal.getty.edu/terms/gri/"
+     xmlns:local="http://library.princeton.edu"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Bernardini Scardeonii, canonici Patavini, De antiquitate urbis Patauii &amp; claris ciuibus patauinis libri tres [microform] : in quindecim classes distincti : eiusdem appendix De sepulchris insignibus exterorum Patavii iacentium.</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <authority>Leopoldo Cicognara Program (University of Illinois at Urbana-Champaign)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985442293506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/4k1q37</idno>
+            <idno type="cico">4091</idno>
+            <idno type="dcl">wc8</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Bernardini Scardeonii, canonici Patavini, De antiquitate urbis Patauii &amp; claris ciuibus patauinis libri tres [microform] : in quindecim classes distincti : eiusdem appendix De sepulchris insignibus exterorum Patavii iacentium.</title>
+                  <respStmt>
+                     <persName>Scardeone, Bernardino, 1478-1574.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Latin</textLang>
+                  <imprint>
+                     <publisher>Basileae : Apud Nicolaum Episcopiumiuniorem</publisher>
+                     <pubPlace>Italy</pubPlace>
+                     <pubPlace>Padua (Italy)</pubPlace>
+                     <date>Anno 1560</date>
+                     <date>1560</date>
+                  </imprint>
+                  <extent>437 p.</extent>
+                  <extent>8 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest"
+                            target="https://figgy.princeton.edu/concern/scanned_resources/765c616b-4f34-49df-a78c-145d1225440a/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Epitaphs -- Italy -- Padua -- Early works to 1800.</term>
+               <term>Inscriptions, Latin -- Italy -- Padua -- Early works to 1800.</term>
+               <term>Padua (Italy) -- Bio-bibliography -- Early works to 1800.</term>
+               <term>Padua (Italy) -- History.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json"
+             url="https://figgy.princeton.edu/concern/scanned_resources/765c616b-4f34-49df-a78c-145d1225440a/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>

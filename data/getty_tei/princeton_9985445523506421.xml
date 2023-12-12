@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:dcterms="http://purl.org/dc/terms/"
+     xmlns:gettyterms="http://portal.getty.edu/terms/gri/"
+     xmlns:local="http://library.princeton.edu"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Admiranda narratio fida tamen, de commodis et incolarum ritibus Virginiae [microform] : nuper admodum ab Anglis, qui à Dn. Richardo Greinvile equestris ordinis viro eò in coloniam anno M.D. LXXXV. deducti sunt inuentae, sumtus faciente Dn. Waltero Raleigh equestris ordinis viro fodinaru[m] stanni praefecto ex auctoritate serenissimae reginae Angliae / anglico scripta sermone à Thoma Hariot ... ; nunc autem primum latio donata à C.C.A. ...</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Clusius, Carolus, 1526-1609.</authority>
+            <authority>White, John, fl. 1575-1593.</authority>
+            <authority>Bry, Theodor de, 1528-1598. America. Pars 1. Latin</authority>
+            <authority>Bry, Theodor de, 1528-1598. Collectiones peregrinationum in Indiam orientalem et Indiam occidentalem.</authority>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <authority>Leopoldo Cicognara Program (University of Illinois at Urbana-Champaign)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985445523506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/mp7f6n</idno>
+            <idno type="cico">3970</idno>
+            <idno type="dcl">hjz</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Admiranda narratio fida tamen, de commodis et incolarum ritibus Virginiae [microform] : nuper admodum ab Anglis, qui à Dn. Richardo Greinvile equestris ordinis viro eò in coloniam anno M.D. LXXXV. deducti sunt inuentae, sumtus faciente Dn. Waltero Raleigh equestris ordinis viro fodinaru[m] stanni praefecto ex auctoritate serenissimae reginae Angliae / anglico scripta sermone à Thoma Hariot ... ; nunc autem primum latio donata à C.C.A. ...</title>
+                  <respStmt>
+                     <persName>Harriot, Thomas, 1560-1621.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Latin</textLang>
+                  <imprint>
+                     <publisher>Francoforti ad Moenum : Typis Ioannis Wecheli, sumtibus vero Theodori de Bry, venales reperiuntur in officina Sigismundi Fierabendi</publisher>
+                     <pubPlace>Virginia.</pubPlace>
+                     <pubPlace>Virginia</pubPlace>
+                     <date>1590</date>
+                  </imprint>
+                  <extent>34 p., XXII, V leaves of plates</extent>
+                  <extent>2 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest"
+                            target="https://figgy.princeton.edu/concern/scanned_resources/7a89fe16-d5fd-4235-a248-a7add4720fbf/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Indians of North America -- Virginia.</term>
+               <term>Virginia -- Description and travel -- Early works to 1800.</term>
+               <term>Virginia -- History -- Colonial period, ca. 1600-1775 -- Sources.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json"
+             url="https://figgy.princeton.edu/concern/scanned_resources/7a89fe16-d5fd-4235-a248-a7add4720fbf/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>

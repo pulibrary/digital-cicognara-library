@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:dcterms="http://purl.org/dc/terms/"
+     xmlns:gettyterms="http://portal.getty.edu/terms/gri/"
+     xmlns:local="http://library.princeton.edu"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Alcestis pro marito moriens, et vitae ab Hercule restituta [microform] : ex manuscripto, quod inter Regio-electoralia Brandenburgica asservatur, Pighiano, publici juris fecit, et Dialogo illustravit L. Beger ...</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Pighius, Stephanus Vinandus, 1520-1604.</authority>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <authority>Leopoldo Cicognara Program (University of Illinois at Urbana-Champaign)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985407533506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/v34q90</idno>
+            <idno type="cico">2759</idno>
+            <idno type="dcl">t2c</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Alcestis pro marito moriens, et vitae ab Hercule restituta [microform] : ex manuscripto, quod inter Regio-electoralia Brandenburgica asservatur, Pighiano, publici juris fecit, et Dialogo illustravit L. Beger ...</title>
+                  <respStmt>
+                     <persName>Beger, Lorenz, 1653-1705.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Latin</textLang>
+                  <imprint>
+                     <publisher>Coloniae Brandenburgicae : Typis Ulrici Liebperti</publisher>
+                     <date>1703</date>
+                  </imprint>
+                  <extent>27 p.</extent>
+                  <extent>1 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest"
+                            target="https://figgy.princeton.edu/concern/scanned_resources/ed7e1168-15b6-4ea6-a78f-4554fd9f7a94/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Alcestis, Queen, consort of Admetus, King of Pherae -- Drama.</term>
+               <term>Hercules (Roman mythological character)</term>
+               <term>Mythology, Classical.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json"
+             url="https://figgy.princeton.edu/concern/scanned_resources/ed7e1168-15b6-4ea6-a78f-4554fd9f7a94/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>

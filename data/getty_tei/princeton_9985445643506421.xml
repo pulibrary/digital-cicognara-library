@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:dcterms="http://purl.org/dc/terms/"
+     xmlns:gettyterms="http://portal.getty.edu/terms/gri/"
+     xmlns:local="http://library.princeton.edu"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Americae tertia pars [microform] : Memorabile[n] provinciae Brasiliae historiam contin[n]es / germanico primùm sermone scriptam à Ioa[n]e Stadio ... ; nunc autem latinitate donatam à Teucrio Annaeo Priuato Colchanthe ... ; addita est narratio profectionis Ioannis Lerij in eamdem provinciam, qua[m] ille initio gallicè conscripsit, postea verò latinam fecit ; his accessit descriptio morum &amp; ferocitatis incolarum illius regionis, atque colloquium ipsorum idiomate conscriptum ; omnia recens evulgata, &amp; eiconibus in aes incisis ac ad vivum expressis illustrata, ad normam exemplaris praedictorum autorum, studio &amp; diligentia Theodori de Bry ...</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Lonicer, Adam, 1528-1586.</authority>
+            <authority>Barré, Nicolas, 1621-1686.. Exemplar duarum litterarum.</authority>
+            <authority>Bry, Theodor de, 1528-1598. America. Pars 3. Latin.</authority>
+            <authority>Bry, Theodor de, 1528-1598. Collectiones peregrinationum in Indiam orientalem et Indiam occidentalem.</authority>
+            <authority>Léry, Jean de, 1534-1611. Histoire d'un voyage fait en la terre du Brésil. Latin.</authority>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <authority>Leopoldo Cicognara Program (University of Illinois at Urbana-Champaign)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985445643506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/409x7b</idno>
+            <idno type="cico">3970</idno>
+            <idno type="dcl">5k7</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Americae tertia pars [microform] : Memorabile[n] provinciae Brasiliae historiam contin[n]es / germanico primùm sermone scriptam à Ioa[n]e Stadio ... ; nunc autem latinitate donatam à Teucrio Annaeo Priuato Colchanthe ... ; addita est narratio profectionis Ioannis Lerij in eamdem provinciam, qua[m] ille initio gallicè conscripsit, postea verò latinam fecit ; his accessit descriptio morum &amp; ferocitatis incolarum illius regionis, atque colloquium ipsorum idiomate conscriptum ; omnia recens evulgata, &amp; eiconibus in aes incisis ac ad vivum expressis illustrata, ad normam exemplaris praedictorum autorum, studio &amp; diligentia Theodori de Bry ...</title>
+                  <respStmt>
+                     <persName>Staden, Hans, approximately 1525-approximately 1576.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Latin</textLang>
+                  <imprint>
+                     <publisher>Impressum Francofori ad Moenum : Apud Matthiam Beckerum, impensis Theodori de Bry</publisher>
+                     <pubPlace>Brazil</pubPlace>
+                     <date>1592</date>
+                  </imprint>
+                  <extent>296 p.</extent>
+                  <extent>6 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest"
+                            target="https://figgy.princeton.edu/concern/scanned_resources/49fb7547-f651-4553-9dc7-70caad69ac86/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Indians of South America -- Brazil -- Early works to 1800.</term>
+               <term>Brazil -- Description and travel -- Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json"
+             url="https://figgy.princeton.edu/concern/scanned_resources/49fb7547-f651-4553-9dc7-70caad69ac86/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>

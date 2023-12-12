@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:dcterms="http://purl.org/dc/terms/"
+     xmlns:gettyterms="http://portal.getty.edu/terms/gri/"
+     xmlns:local="http://library.princeton.edu"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Le grand cabinet romain, ou, Recueil d'antiquitez romaines : qui consistent en bas reliefs, statues des dieux &amp; des hommes, instruments sacerdotaux, lampes, urnes, seaux, brasselets, clefs, anneaux, &amp; phioles lacrimales, que l'on trouve a Rome / avec les explication de Michel Ange de La Chausse.</title>
+            <respStmt>
+               <orgName>Getty Research Institute</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Roche, Joachim, translator.</authority>
+            <authority>Luiken, Caspar, 1672-1708, engraver.</authority>
+            <authority>Goeree, Jan, 1670-1731, engraver.</authority>
+            <idno type="URI">http://portal.getty.edu/books/gri_9922859640001551</idno>
+            <idno type="URI">http://portal.getty.edu/api/tz6d9j</idno>
+            <idno>(OCoLC)23632353</idno>
+            <idno type="cico">2804bis</idno>
+            <idno type="dcl">r2g</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Le grand cabinet romain, ou, Recueil d'antiquitez romaines : qui consistent en bas reliefs, statues des dieux &amp; des hommes, instruments sacerdotaux, lampes, urnes, seaux, brasselets, clefs, anneaux, &amp; phioles lacrimales, que l'on trouve a Rome / avec les explication de Michel Ange de La Chausse.</title>
+                  <respStmt>
+                     <persName>La Chausse, Michel Ange de, 1660?-1724.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>French</textLang>
+                  <imprint>
+                     <publisher>A Amsterdam : Chez François L'Honoré, &amp; Zacharie Chastelain le fils</publisher>
+                     <pubPlace>Greece.</pubPlace>
+                     <pubPlace>Rome.</pubPlace>
+                     <pubPlace>Rome (Empire)</pubPlace>
+                     <date>1706</date>
+                  </imprint>
+                  <extent>[14], 126, [4] pages, 43 unnumbered leaves of plates</extent>
+               </monogr>
+               <relatedItem type="manifest"
+                            target="https://media.getty.edu/iiif/manifest/fb09215b-1811-43e4-91a1-078616996773"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Classical antiquities -- Early works to 1800.</term>
+               <term>Art -- Greece.</term>
+               <term>Art -- Rome.</term>
+               <term>Art objects, Classical.</term>
+               <term>Art.</term>
+               <term>Art objects, Classical.</term>
+               <term>Classical antiquities.</term>
+               <term>Greece.</term>
+               <term>Rome (Empire)</term>
+               <term>N5615.C499 F5 1706</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json"
+             url="https://media.getty.edu/iiif/manifest/fb09215b-1811-43e4-91a1-078616996773">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>

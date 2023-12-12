@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:dcterms="http://purl.org/dc/terms/"
+     xmlns:gettyterms="http://portal.getty.edu/terms/gri/"
+     xmlns:local="http://library.princeton.edu"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Teatro de la gloria consagrado a la excelentisima Señora Dona Felice de Sandoval Enriquez Duquesa de Uceda difunta por el excelentisimo Señor Don Gaspar Tellez Giron Duque de Osuna Conde de Vrena gouernador del estado de Milan y Capitan General Italia en sus solemnes esequias celebradas en Milan [microform].</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985303113506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/1p0j96</idno>
+            <idno type="cico">1469</idno>
+            <idno type="dcl">305</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Teatro de la gloria consagrado a la excelentisima Señora Dona Felice de Sandoval Enriquez Duquesa de Uceda difunta por el excelentisimo Señor Don Gaspar Tellez Giron Duque de Osuna Conde de Vrena gouernador del estado de Milan y Capitan General Italia en sus solemnes esequias celebradas en Milan [microform].</title>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>[Milan : s.n]</publisher>
+                     <pubPlace>Italy</pubPlace>
+                     <date>[1671]</date>
+                     <date>1671</date>
+                  </imprint>
+                  <extent>109 p.</extent>
+                  <extent>3 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest"
+                            target="https://figgy.princeton.edu/concern/scanned_resources/b3b9f3a2-4d08-450c-97b5-5456bce73079/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Sandoval, Felice de, duquesa de Osuna.</term>
+               <term>Funeral rites and ceremonies -- Italy -- Milan -- Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json"
+             url="https://figgy.princeton.edu/concern/scanned_resources/b3b9f3a2-4d08-450c-97b5-5456bce73079/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>

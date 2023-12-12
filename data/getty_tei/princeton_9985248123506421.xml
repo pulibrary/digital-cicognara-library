@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:dcterms="http://purl.org/dc/terms/"
+     xmlns:gettyterms="http://portal.getty.edu/terms/gri/"
+     xmlns:local="http://library.princeton.edu"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Vita di Filippo di Ser Brunellesco, architetto fiorentino [microform] / scritta da Fillippo Baldinucci ; con altra in fine di anonimo contemporaneo scrittore ; ambedue per la prima volta pubblicate ed illustrate dal Domenico Moreni ...</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Moreni, Domenico, 1763-1835.</authority>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985248123506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/sf2q2f</idno>
+            <idno type="cico">45b</idno>
+            <idno type="dcl">tfp</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Vita di Filippo di Ser Brunellesco, architetto fiorentino [microform] / scritta da Fillippo Baldinucci ; con altra in fine di anonimo contemporaneo scrittore ; ambedue per la prima volta pubblicate ed illustrate dal Domenico Moreni ...</title>
+                  <respStmt>
+                     <persName>Baldinucci, Filippo, 1625-1696.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>Firenze : N. Carli</publisher>
+                     <date>1812</date>
+                  </imprint>
+                  <extent>xvi, 208 p.</extent>
+                  <extent>4 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest"
+                            target="https://figgy.princeton.edu/concern/scanned_resources/9e9c309e-52d2-47ea-8312-47777437619a/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Brunelleschi, Filippo, 1377-1446.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json"
+             url="https://figgy.princeton.edu/concern/scanned_resources/9e9c309e-52d2-47ea-8312-47777437619a/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>

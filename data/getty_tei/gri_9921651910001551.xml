@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:dcterms="http://purl.org/dc/terms/"
+     xmlns:gettyterms="http://portal.getty.edu/terms/gri/"
+     xmlns:local="http://library.princeton.edu"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Opuscoli di Agostino Gerli.</title>
+            <respStmt>
+               <orgName>Getty Research Institute</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Patrini, Giuseppe, 1711-1786, engraver.</authority>
+            <authority>Muzzi, Domenico, 1742-1812.</authority>
+            <authority>Mantelli, Girolamo, engraver.</authority>
+            <idno type="URI">http://portal.getty.edu/books/gri_9921651910001551</idno>
+            <idno type="URI">http://portal.getty.edu/api/ts8n5b</idno>
+            <idno>(OCoLC)3792586</idno>
+            <idno type="cico">515</idno>
+            <idno type="dcl">35q</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Opuscoli di Agostino Gerli.</title>
+                  <respStmt>
+                     <persName>Gerli, Agostino</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>Parma, Dalla Stamperia reale</publisher>
+                     <pubPlace>Italy.</pubPlace>
+                     <pubPlace>Italy</pubPlace>
+                     <pubPlace>Italy Parma.</pubPlace>
+                     <date>1785</date>
+                  </imprint>
+                  <extent>5 preliminary leaves, 99 pages</extent>
+               </monogr>
+               <relatedItem type="manifest"
+                            target="https://media.getty.edu/iiif/manifest/8aa74073-7ae3-4619-9a55-6e1e2a6df69f"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Andreani, Paolo.</term>
+               <term>Balloon ascensions -- Early works to 1800.</term>
+               <term>Pavements -- Italy.</term>
+               <term>Mural painting and decoration -- Early works to 1800.</term>
+               <term>Church architecture -- Italy -- Seregno.</term>
+               <term>Ventilation -- Early works to 1800.</term>
+               <term>Balloon ascensions.</term>
+               <term>Church architecture.</term>
+               <term>Mural painting and decoration.</term>
+               <term>Pavements.</term>
+               <term>Ventilation.</term>
+               <term>Italy -- Seregno.</term>
+               <term>TL620.A6 B4</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json"
+             url="https://media.getty.edu/iiif/manifest/8aa74073-7ae3-4619-9a55-6e1e2a6df69f">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>

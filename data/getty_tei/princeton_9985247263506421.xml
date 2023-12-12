@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:dcterms="http://purl.org/dc/terms/"
+     xmlns:gettyterms="http://portal.getty.edu/terms/gri/"
+     xmlns:local="http://library.princeton.edu"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Risorgimento d'Italia negli studj, nelle arti, e ne' costumi dopo il mille [microform] / dell'abate Saverio Bettinelli ... ; a cui si aggiugne ora per la prima volta L'elogio del Petrarca scritto ultimamente dal medesimo autore.</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <authority>Leopoldo Cicognara Program (University of Illinois at Urbana-Champaign)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985247263506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/7j3t4n</idno>
+            <idno type="cico">8</idno>
+            <idno type="dcl">335</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Risorgimento d'Italia negli studj, nelle arti, e ne' costumi dopo il mille [microform] / dell'abate Saverio Bettinelli ... ; a cui si aggiugne ora per la prima volta L'elogio del Petrarca scritto ultimamente dal medesimo autore.</title>
+                  <respStmt>
+                     <persName>Bettinelli, Saverio, 1718-1808.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>Bassano : A spese Remondini di Venezia</publisher>
+                     <pubPlace>Italy.</pubPlace>
+                     <pubPlace>Italy</pubPlace>
+                     <date>1786</date>
+                  </imprint>
+                  <extent>2 v.</extent>
+                  <extent>13 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest"
+                            target="https://figgy.princeton.edu/concern/scanned_resources/a7dd71db-b3b4-49b5-84a2-4b53903c3e0d/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Petrarca, Francesco, 1304-1374.</term>
+               <term>Arts, Renaissance -- Italy.</term>
+               <term>Humanism -- Italy.</term>
+               <term>Renaissance -- Italy.</term>
+               <term>Italy -- Civilization -- 1268-1559.</term>
+               <term>Italy -- Civilization -- 1559-1789.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json"
+             url="https://figgy.princeton.edu/concern/scanned_resources/a7dd71db-b3b4-49b5-84a2-4b53903c3e0d/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>

@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:dcterms="http://purl.org/dc/terms/"
+     xmlns:gettyterms="http://portal.getty.edu/terms/gri/"
+     xmlns:local="http://library.princeton.edu"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Trattato di Teofilo Gallaccini sopra gli errori degli architetti, ora per la prima volta pubblicato.</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Gallaccini, Teofilo, 1564-1641. Trattato di Teofilo Gallaccini sopra gli errori degli architetti.</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9920281933506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/cw550w</idno>
+            <idno>(OCoLC)03364208</idno>
+            <idno type="cico">513-1</idno>
+            <idno type="cico">1</idno>
+            <idno type="dcl">1p9</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Trattato di Teofilo Gallaccini sopra gli errori degli architetti, ora per la prima volta pubblicato.</title>
+                  <respStmt>
+                     <persName>Gallaccini, Teofilo, 1564-1641.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>Venezia, Per G. Pasquali</publisher>
+                     <date>1767</date>
+                  </imprint>
+                  <extent>xij, 81 p.</extent>
+               </monogr>
+               <relatedItem type="manifest"
+                            target="https://figgy.princeton.edu/concern/scanned_resources/d89cbc18-c25f-4df5-9596-787ac5d38124/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Architecture -- Early works to 1800.</term>
+               <term>NA2517 .G17</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json"
+             url="https://figgy.princeton.edu/concern/scanned_resources/d89cbc18-c25f-4df5-9596-787ac5d38124/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>

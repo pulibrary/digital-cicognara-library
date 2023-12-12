@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:dcterms="http://purl.org/dc/terms/"
+     xmlns:gettyterms="http://portal.getty.edu/terms/gri/"
+     xmlns:local="http://library.princeton.edu"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Sopra le sedici colonne presso S. Lorenzo in Milano.</title>
+            <respStmt>
+               <orgName>Getty Research Institute</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <idno type="URI">http://portal.getty.edu/books/gri_9924161230001551</idno>
+            <idno type="URI">http://portal.getty.edu/api/fq332n</idno>
+            <idno>(OCoLC)79137138</idno>
+            <idno type="cico">4004</idno>
+            <idno type="dcl">0x4</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Sopra le sedici colonne presso S. Lorenzo in Milano.</title>
+                  <respStmt>
+                     <persName>Silva, Ercole, 1756-1840</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>Monza : Stamperia Corbetta</publisher>
+                     <pubPlace>Italy</pubPlace>
+                     <pubPlace>Milan (Italy)</pubPlace>
+                     <date>1811</date>
+                  </imprint>
+                  <extent>18 pages</extent>
+               </monogr>
+               <relatedItem type="manifest"
+                            target="https://media.getty.edu/iiif/manifest/8e9d1e64-fe8d-4da1-98ae-66c95cf083f7"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Basilica di San Lorenzo (Milan, Italy)</term>
+               <term>Columns, Corinthian -- Italy -- Milan.</term>
+               <term>Milan (Italy) -- Antiquities, Roman.</term>
+               <term>Basilica di San Lorenzo (Milan, Italy)</term>
+               <term>Classical antiquities.</term>
+               <term>Columns, Corinthian.</term>
+               <term>Italy -- Milan.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json"
+             url="https://media.getty.edu/iiif/manifest/8e9d1e64-fe8d-4da1-98ae-66c95cf083f7">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>

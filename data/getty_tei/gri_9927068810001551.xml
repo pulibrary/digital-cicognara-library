@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:dcterms="http://purl.org/dc/terms/"
+     xmlns:gettyterms="http://portal.getty.edu/terms/gri/"
+     xmlns:local="http://library.princeton.edu"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Ordo dedicationis obelisci quem S.D.N. Sixtvs V Pont. Max. in foro vaticano, ad limina apostolorum erexit : et benedictionis item crucis, quam in eius fastigio collocauit v. kal. Octob. feria sexta, anno M.D. XXCVI. : adiuncta est initio breuis quasi historia, ordine contexta, qua praeclarum obelisci crucisq. erectae opus, sempiterna memoria dignum / P. Galesinivs ... explicat dilvcide.</title>
+            <respStmt>
+               <orgName>Getty Research Institute</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Grassi, Bartolomeo, active 1582-1600, publisher.</authority>
+            <authority>Ruffinelli, Giacomo, active 16th century, printer.</authority>
+            <idno type="URI">http://portal.getty.edu/books/gri_9927068810001551</idno>
+            <idno type="URI">http://portal.getty.edu/api/189f2s</idno>
+            <idno>(OCoLC)33475096</idno>
+            <idno type="cico">2542(1)-2</idno>
+            <idno type="dcl">3pc</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Ordo dedicationis obelisci quem S.D.N. Sixtvs V Pont. Max. in foro vaticano, ad limina apostolorum erexit : et benedictionis item crucis, quam in eius fastigio collocauit v. kal. Octob. feria sexta, anno M.D. XXCVI. : adiuncta est initio breuis quasi historia, ordine contexta, qua praeclarum obelisci crucisq. erectae opus, sempiterna memoria dignum / P. Galesinivs ... explicat dilvcide.</title>
+                  <respStmt>
+                     <persName>Gallesini, Pietro, -approximately 1590</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Latin</textLang>
+                  <imprint>
+                     <publisher>Romae : Ex typographia Bartholomaei Grassij</publisher>
+                     <pubPlace>Italy</pubPlace>
+                     <pubPlace>Italy Rome.</pubPlace>
+                     <date>1586</date>
+                  </imprint>
+                  <extent>32 unnumbered pages</extent>
+               </monogr>
+               <relatedItem type="manifest"
+                            target="https://media.getty.edu/iiif/manifest/ed80bfd0-f5bc-4366-ae60-ef9e32f7faab"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Obelisks -- Italy -- Rome -- Early works to 1800.</term>
+               <term>Obelisco vaticano (Vatican City)</term>
+               <term>Obelisks.</term>
+               <term>Italy -- Rome.</term>
+               <term>DT62.O2 G35 1586</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json"
+             url="https://media.getty.edu/iiif/manifest/ed80bfd0-f5bc-4366-ae60-ef9e32f7faab">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>

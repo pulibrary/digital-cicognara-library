@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:dcterms="http://purl.org/dc/terms/"
+     xmlns:gettyterms="http://portal.getty.edu/terms/gri/"
+     xmlns:local="http://library.princeton.edu"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Recueil de fragmens de sculpture antique en terre cuite.</title>
+            <respStmt>
+               <orgName>Getty Research Institute</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Miger, Simon Charles, 1736-1820.</authority>
+            <authority>Cochin, Charles Nicolas, 1715-1790</authority>
+            <authority>Macchiavelli, Giacomo, -1811.</authority>
+            <idno type="URI">http://portal.getty.edu/books/gri_9922957060001551</idno>
+            <idno type="URI">http://portal.getty.edu/api/g32x4x</idno>
+            <idno>(OCoLC)38301720</idno>
+            <idno type="cico">2477</idno>
+            <idno type="dcl">m8b</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Recueil de fragmens de sculpture antique en terre cuite.</title>
+                  <respStmt>
+                     <persName>Seroux d'Agincourt, J. B. L. G. (Jean Baptiste Louis Georges), 1730-1814.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>French</textLang>
+                  <imprint>
+                     <publisher>A Paris : Chez Treuttel et Wurtz ... :</publisher>
+                     <date>1814</date>
+                  </imprint>
+                  <extent>[4], iii, [1], 100, [4] pages, [1], xxxvii leaves of plates</extent>
+               </monogr>
+               <relatedItem type="manifest"
+                            target="https://media.getty.edu/iiif/manifest/5c930fb6-ff88-42ae-af48-f026fd3278d3"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Terra-cotta, Classical.</term>
+               <term>Terra-cotta figurines, Classical.</term>
+               <term>Terra-cotta sculpture, Classical.</term>
+               <term>Terres cuites.</term>
+               <term>Sculpture antique.</term>
+               <term>Terra-cotta, Classical.</term>
+               <term>Terra-cotta figurines, Classical.</term>
+               <term>Terra-cotta sculpture, Classical.</term>
+               <term>NB69 .S476</term>
+               <term>NK3835 .S47 1814</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json"
+             url="https://media.getty.edu/iiif/manifest/5c930fb6-ff88-42ae-af48-f026fd3278d3">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>

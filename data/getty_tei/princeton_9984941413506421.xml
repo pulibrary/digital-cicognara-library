@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:dcterms="http://purl.org/dc/terms/"
+     xmlns:gettyterms="http://portal.getty.edu/terms/gri/"
+     xmlns:local="http://library.princeton.edu"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Conversations sur la connoissance de la peinture et sur le jugement qu'on doit faire des tableaux [microform] : où par occasion il est parlé de la vie de Rubens &amp; de quelques-uns de ses plus beaux ouvrages.</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9984941413506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/st904k</idno>
+            <idno type="cico">182a</idno>
+            <idno type="dcl">12w</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Conversations sur la connoissance de la peinture et sur le jugement qu'on doit faire des tableaux [microform] : où par occasion il est parlé de la vie de Rubens &amp; de quelques-uns de ses plus beaux ouvrages.</title>
+                  <respStmt>
+                     <persName>Piles, Roger de, 1635-1709.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>French</textLang>
+                  <imprint>
+                     <publisher>A Paris : Chez Nicolas Langlois</publisher>
+                     <date>1677</date>
+                  </imprint>
+                  <extent>[36], 309, [29] p.</extent>
+                  <extent>6 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest"
+                            target="https://figgy.princeton.edu/concern/scanned_resources/d4f7223b-e2ef-480e-ac19-12fc47a34eac/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Rubens, Peter Paul, 1577-1640.</term>
+               <term>Painting -- Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json"
+             url="https://figgy.princeton.edu/concern/scanned_resources/d4f7223b-e2ef-480e-ac19-12fc47a34eac/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>

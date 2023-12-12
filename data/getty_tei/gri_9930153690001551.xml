@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:dcterms="http://purl.org/dc/terms/"
+     xmlns:gettyterms="http://portal.getty.edu/terms/gri/"
+     xmlns:local="http://library.princeton.edu"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Alberti Dvreri pictoris et architecti praestantissimi De vrbibvs, arcibvs, castellisque condendis, ac muniendis rationes aliquot : praesenti bellorum necessitati accommodatissimae : nunc recens è lingua Germanica in Latinam traductae.</title>
+            <respStmt>
+               <orgName>Getty Research Institute</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Camerarius, Joachim, 1500-1574</authority>
+            <idno type="URI">http://portal.getty.edu/books/gri_9930153690001551</idno>
+            <idno type="URI">http://portal.getty.edu/api/m69f86</idno>
+            <idno>(OCoLC)8190947</idno>
+            <idno type="cico">495A-2</idno>
+            <idno type="dcl">g86</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Alberti Dvreri pictoris et architecti praestantissimi De vrbibvs, arcibvs, castellisque condendis, ac muniendis rationes aliquot : praesenti bellorum necessitati accommodatissimae : nunc recens è lingua Germanica in Latinam traductae.</title>
+                  <respStmt>
+                     <persName>Dürer, Albrecht, 1471-1528</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Latin</textLang>
+                  <imprint>
+                     <publisher>Parisiis : Ex officina Christiani Wecheli, sub scuto Basiliensi</publisher>
+                     <date>M.D.XXXV. [1535]</date>
+                     <date>1535</date>
+                  </imprint>
+                  <extent>[80] p. (some folded)</extent>
+               </monogr>
+               <relatedItem type="manifest"
+                            target="https://media.getty.edu/iiif/manifest/9e97e26a-0c44-4482-b573-c58a9c83c766"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Fortification -- Early works to 1800.</term>
+               <term>Fortification</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json"
+             url="https://media.getty.edu/iiif/manifest/9e97e26a-0c44-4482-b573-c58a9c83c766">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>

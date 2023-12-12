@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:dcterms="http://purl.org/dc/terms/"
+     xmlns:gettyterms="http://portal.getty.edu/terms/gri/"
+     xmlns:local="http://library.princeton.edu"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Vita di Andrea Palladio vicentino egregio architetto, scritta da Tommaso Temanza ... Aggiuntevi in fine due scritture dello stesso Palladio fin ora inedite.</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9920306893506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/p96936</idno>
+            <idno>(OCoLC)03588232</idno>
+            <idno type="cico">2376</idno>
+            <idno type="dcl">9zs</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Vita di Andrea Palladio vicentino egregio architetto, scritta da Tommaso Temanza ... Aggiuntevi in fine due scritture dello stesso Palladio fin ora inedite.</title>
+                  <respStmt>
+                     <persName>Temanza, Tommaso, 1705-1789.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>In Venezia, Presso Giambattista Pasquali</publisher>
+                     <date>1762</date>
+                  </imprint>
+                  <extent>2 p. l., C p., 9 l.</extent>
+               </monogr>
+               <relatedItem type="manifest"
+                            target="https://figgy.princeton.edu/concern/scanned_resources/7e9ccafd-ffd6-43a4-923e-4b0748c2e5da/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Palladio, Andrea, 1508-1580.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json"
+             url="https://figgy.princeton.edu/concern/scanned_resources/7e9ccafd-ffd6-43a4-923e-4b0748c2e5da/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>

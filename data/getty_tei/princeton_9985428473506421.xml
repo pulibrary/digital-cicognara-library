@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:dcterms="http://purl.org/dc/terms/"
+     xmlns:gettyterms="http://portal.getty.edu/terms/gri/"
+     xmlns:local="http://library.princeton.edu"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Le pitture e sculture di Brescia che sono esposte al pubblico [microform] : con un'appendice di alcune private gallerie.</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Chizzola, Luigi.</authority>
+            <authority>Rodella, Giovanni Battista. 1724-1794.</authority>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <authority>Leopoldo Cicognara Program (University of Illinois at Urbana-Champaign)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985428473506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/n15j8c</idno>
+            <idno type="cico">4185</idno>
+            <idno type="dcl">9gs</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Le pitture e sculture di Brescia che sono esposte al pubblico [microform] : con un'appendice di alcune private gallerie.</title>
+                  <respStmt>
+                     <persName>Carboni, Giovanni Battista, 1725-1790.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>In Brescia : Dalle stampe di Giambatista Bossini</publisher>
+                     <pubPlace>Italy</pubPlace>
+                     <date>1760</date>
+                  </imprint>
+                  <extent>xxiv, 196 p.</extent>
+                  <extent>4 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest"
+                            target="https://figgy.princeton.edu/concern/scanned_resources/eb06d21b-b07d-4a60-bd2f-b54cb4d55ef1/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Art, Italian -- Italy -- Brescia -- Early works to 1800.</term>
+               <term>Painting -- Italy -- Brescia -- Early works to 1800.</term>
+               <term>Sculpture -- Italy -- Brescia -- Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json"
+             url="https://figgy.princeton.edu/concern/scanned_resources/eb06d21b-b07d-4a60-bd2f-b54cb4d55ef1/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>

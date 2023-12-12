@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:dcterms="http://purl.org/dc/terms/"
+     xmlns:gettyterms="http://portal.getty.edu/terms/gri/"
+     xmlns:local="http://library.princeton.edu"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Fragmens d'architecture, sculpture et peinture, dans le style antique : ouvrage dans lequel on trouvera toutes sortes de détails relatifs à la décoration intérieure et extérieure des édifices : composés ou recueillis, et gravés au trait / par P.N. Beauvallet.</title>
+            <respStmt>
+               <orgName>Getty Research Institute</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <idno type="URI">http://portal.getty.edu/books/gri_9927851230001551</idno>
+            <idno type="URI">http://portal.getty.edu/api/2h5696</idno>
+            <idno type="URI">http://portal.getty.edu/api/vp143c</idno>
+            <idno>(OCoLC)83030012</idno>
+            <idno type="cico">425</idno>
+            <idno type="dcl">qfr</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Fragmens d'architecture, sculpture et peinture, dans le style antique : ouvrage dans lequel on trouvera toutes sortes de détails relatifs à la décoration intérieure et extérieure des édifices : composés ou recueillis, et gravés au trait / par P.N. Beauvallet.</title>
+                  <respStmt>
+                     <persName>Beauvallet, Pierre Nicolas, 1750-1818.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>French</textLang>
+                  <imprint>
+                     <publisher>Paris : Joubert</publisher>
+                     <date>1804</date>
+                  </imprint>
+                  <extent>2 volumes</extent>
+               </monogr>
+               <relatedItem type="manifest"
+                            target="https://media.getty.edu/iiif/manifest/28380c60-f781-4eee-9943-04c24601acfbhttps://media.getty.edu/iiif/manifest/695f7304-42e4-4139-b9ea-8afab23f4fd4"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Decoration and ornament.</term>
+               <term>Neoclassicism (Art)</term>
+               <term>Beauvallet, Pierre Nicolas, 1750-1818.</term>
+               <term>Decoration and ornament</term>
+               <term>Neoclassicism (Art)</term>
+               <term>NK1535.B38 F81</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json"
+             url="https://media.getty.edu/iiif/manifest/28380c60-f781-4eee-9943-04c24601acfb">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+   <facsimile>
+      <media mimeType="application/json"
+             url="https://media.getty.edu/iiif/manifest/695f7304-42e4-4139-b9ea-8afab23f4fd4">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>

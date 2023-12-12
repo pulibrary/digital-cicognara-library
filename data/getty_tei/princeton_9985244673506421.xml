@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:dcterms="http://purl.org/dc/terms/"
+     xmlns:gettyterms="http://portal.getty.edu/terms/gri/"
+     xmlns:local="http://library.princeton.edu"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Declaration de l'usage du graphometre [microform]: par la pratique duq[ue]l l'on peut mesurer toutes distances des choses de remarque qui se pourront voir &amp; discerner du lieu ou il sera posé: et por arpenter terres, bois, prez, &amp; faire plans de villes ... sans reigle d'arithmetique / Jnuenté nouuellement, et mis en lumiere par Philippe Danfrie ... A la fin ... est adiousté ... vn traicté de l'usage du trigometre ...</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985244673506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/b61c87</idno>
+            <idno type="cico">903</idno>
+            <idno type="dcl">mkf</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Declaration de l'usage du graphometre [microform]: par la pratique duq[ue]l l'on peut mesurer toutes distances des choses de remarque qui se pourront voir &amp; discerner du lieu ou il sera posé: et por arpenter terres, bois, prez, &amp; faire plans de villes ... sans reigle d'arithmetique / Jnuenté nouuellement, et mis en lumiere par Philippe Danfrie ... A la fin ... est adiousté ... vn traicté de l'usage du trigometre ...</title>
+                  <respStmt>
+                     <persName>Danfrie, Philippe.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>French</textLang>
+                  <imprint>
+                     <publisher>A Paris : Chez ledict Danfrie</publisher>
+                     <date>1597</date>
+                  </imprint>
+                  <extent>91, [1], 34, [1] p.</extent>
+                  <extent>2 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest"
+                            target="https://figgy.princeton.edu/concern/scanned_resources/77184615-f1df-4e21-b26f-31fbd32ae9cc/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Surveying -- Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json"
+             url="https://figgy.princeton.edu/concern/scanned_resources/77184615-f1df-4e21-b26f-31fbd32ae9cc/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:dcterms="http://purl.org/dc/terms/"
+     xmlns:gettyterms="http://portal.getty.edu/terms/gri/"
+     xmlns:local="http://library.princeton.edu"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Statuti suntuari [microform] : ricordati da Giovanni Villani circa il vestiario delle donne, i regali e banchetti delle nozze e circa le pompe funebri ordinati dal comune di Pistoia negli anni 1332 e 1333 / dati in luce con annotazioni da Sebastiano Ciampi.</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Ciampi, Sebastiano, 1769-1847</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_99100847663506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/0r2b26</idno>
+            <idno>(OCoLC)729908365</idno>
+            <idno type="cico">1526</idno>
+            <idno type="dcl">s2r</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Statuti suntuari [microform] : ricordati da Giovanni Villani circa il vestiario delle donne, i regali e banchetti delle nozze e circa le pompe funebri ordinati dal comune di Pistoia negli anni 1332 e 1333 / dati in luce con annotazioni da Sebastiano Ciampi.</title>
+                  <respStmt>
+                     <persName>Villani, Giovanni, 1280-1348.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>Pisa : Prosperi</publisher>
+                     <date>1815</date>
+                  </imprint>
+                  <extent>XXV S.</extent>
+                  <extent>1 Mikrofiche : 24x.</extent>
+               </monogr>
+               <relatedItem type="manifest"
+                            target="https://figgy.princeton.edu/concern/scanned_resources/5473b8f5-35d8-4652-b0f8-fcd7ee3d2f8b/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords/>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json"
+             url="https://figgy.princeton.edu/concern/scanned_resources/5473b8f5-35d8-4652-b0f8-fcd7ee3d2f8b/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>

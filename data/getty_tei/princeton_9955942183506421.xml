@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:dcterms="http://purl.org/dc/terms/"
+     xmlns:gettyterms="http://portal.getty.edu/terms/gri/"
+     xmlns:local="http://library.princeton.edu"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Storia dell'Accademia Clementina di Bologna aggregata all'Instituto delle scienze e dell'arti.</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Accademia clementina.</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9955942183506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/105g8w</idno>
+            <idno>(OCoLC)23642848</idno>
+            <idno type="cico">2418</idno>
+            <idno type="dcl">cs2</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Storia dell'Accademia Clementina di Bologna aggregata all'Instituto delle scienze e dell'arti.</title>
+                  <respStmt>
+                     <persName>Zanotti, Giampietro, 1674-1765.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>Bologna : L. dalla Volpe</publisher>
+                     <pubPlace>Italy</pubPlace>
+                     <date>1739</date>
+                  </imprint>
+                  <extent>2 v.</extent>
+               </monogr>
+               <relatedItem type="manifest"
+                            target="https://figgy.princeton.edu/concern/scanned_resources/498c3811-dc91-4996-aaba-2371f6486695/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Accademia clementina.</term>
+               <term>Art -- Italy -- Bologna.</term>
+               <term>Painting -- Italy -- Bologna -- History.</term>
+               <term>N15 .B7 1739</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json"
+             url="https://figgy.princeton.edu/concern/scanned_resources/498c3811-dc91-4996-aaba-2371f6486695/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>

@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:dcterms="http://purl.org/dc/terms/"
+     xmlns:gettyterms="http://portal.getty.edu/terms/gri/"
+     xmlns:local="http://library.princeton.edu"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Dictionnaire des arts de peinture, sculpture et gravure [microform] / par M. Watelet ... &amp; M. Lévesque ...</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Levesque, P. Ch.</authority>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985343343506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/hm890s</idno>
+            <idno type="URI">http://portal.getty.edu/api/zg9q9b</idno>
+            <idno type="URI">http://portal.getty.edu/api/vn7w27</idno>
+            <idno type="URI">http://portal.getty.edu/api/nv0k88</idno>
+            <idno type="URI">http://portal.getty.edu/api/005793</idno>
+            <idno type="URI">http://portal.getty.edu/api/st7n2m</idno>
+            <idno type="URI">http://portal.getty.edu/api/6r7n27</idno>
+            <idno type="URI">http://portal.getty.edu/api/2q826z</idno>
+            <idno type="URI">http://portal.getty.edu/api/g17w2b</idno>
+            <idno type="URI">http://portal.getty.edu/api/nj599f</idno>
+            <idno type="cico">2180</idno>
+            <idno type="dcl">sg1</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Dictionnaire des arts de peinture, sculpture et gravure [microform] / par M. Watelet ... &amp; M. Lévesque ...</title>
+                  <respStmt>
+                     <persName>Watelet, Claude-Henri, 1718-1786.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>French</textLang>
+                  <imprint>
+                     <publisher>A Paris : Chez L.F. Prault</publisher>
+                     <date>1792</date>
+                  </imprint>
+                  <extent>5 v.</extent>
+                  <extent>54 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest"
+                            target="https://figgy.princeton.edu/concern/scanned_resources/1ef76e8a-e271-487d-b02c-859141c110f5/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Art -- Dictionaries -- French -- Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json"
+             url="https://figgy.princeton.edu/concern/scanned_resources/1ef76e8a-e271-487d-b02c-859141c110f5/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>

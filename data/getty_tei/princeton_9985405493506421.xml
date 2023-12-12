@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:dcterms="http://purl.org/dc/terms/"
+     xmlns:gettyterms="http://portal.getty.edu/terms/gri/"
+     xmlns:local="http://library.princeton.edu"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Discorso di M. Filippo Pigafetta d'intorno all'historia della aguglia, et alla ragione del muouerla [microform].</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985405493506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/369s7p</idno>
+            <idno type="cico">2542</idno>
+            <idno type="dcl">k88</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Discorso di M. Filippo Pigafetta d'intorno all'historia della aguglia, et alla ragione del muouerla [microform].</title>
+                  <respStmt>
+                     <persName>Pigafetta, Filippo, 1533-1604.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>In Roma : Appresso Bartolomeo Grassi</publisher>
+                     <pubPlace>Vatican City</pubPlace>
+                     <pubPlace>Egypt</pubPlace>
+                     <date>1586</date>
+                  </imprint>
+                  <extent>[36] p.</extent>
+                  <extent>1 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest"
+                            target="https://figgy.princeton.edu/concern/scanned_resources/f6e10070-a77c-4adf-b390-8c452de0c9cd/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Moving of buildings, bridges, etc. -- Vatican City -- Early works to 1800.</term>
+               <term>Obelisks -- Egypt -- History.</term>
+               <term>Obelisks -- Vatican City -- Early works to 1800.</term>
+               <term>Vatican Obelisk (Vatican City) -- Early works to 1800.</term>
+               <term>Vatican City -- Buildings, structures, etc. -- Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json"
+             url="https://figgy.princeton.edu/concern/scanned_resources/f6e10070-a77c-4adf-b390-8c452de0c9cd/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>

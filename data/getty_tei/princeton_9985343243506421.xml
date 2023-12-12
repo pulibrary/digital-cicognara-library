@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:dcterms="http://purl.org/dc/terms/"
+     xmlns:gettyterms="http://portal.getty.edu/terms/gri/"
+     xmlns:local="http://library.princeton.edu"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Dictionnaire des artistes, ou [microform] : Notice historique et raisonnée des architectes, peintres, graveurs, sculpteurs, musiciens, acteurs &amp; danseurs, imprimeurs, horlogers &amp; méchaniciens / ouvrage rédigé par M. l'Abbe de Fontenai.</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985343243506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/726f0c</idno>
+            <idno type="cico">2162</idno>
+            <idno type="dcl">njv</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Dictionnaire des artistes, ou [microform] : Notice historique et raisonnée des architectes, peintres, graveurs, sculpteurs, musiciens, acteurs &amp; danseurs, imprimeurs, horlogers &amp; méchaniciens / ouvrage rédigé par M. l'Abbe de Fontenai.</title>
+                  <respStmt>
+                     <persName>Fontenai, abbé de (Louis-Abel de Bonafons), 1737-1806.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>French</textLang>
+                  <imprint>
+                     <publisher>A Paris : Chez Vincent, Imprimeur-Libraire</publisher>
+                     <date>1776</date>
+                  </imprint>
+                  <extent>2 v.</extent>
+                  <extent>24 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest"
+                            target="https://figgy.princeton.edu/concern/scanned_resources/59cee4c4-0653-4949-8ce9-4942704be1f8/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Architects -- Biography -- Dictionaries -- Early works to 1800.</term>
+               <term>Artists -- Biography -- Dictionaries -- Early works to 1800.</term>
+               <term>Artists -- Dictionaries -- French -- Early works to 1800.</term>
+               <term>Engravers -- Biography -- Dictionaries -- Early works to 1800.</term>
+               <term>Musicians -- Biography -- Dictionaries -- Early works to 1800.</term>
+               <term>Printers -- Biography -- Dictionaries -- Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json"
+             url="https://figgy.princeton.edu/concern/scanned_resources/59cee4c4-0653-4949-8ce9-4942704be1f8/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>

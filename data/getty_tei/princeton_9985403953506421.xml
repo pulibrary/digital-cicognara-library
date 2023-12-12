@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:dcterms="http://purl.org/dc/terms/"
+     xmlns:gettyterms="http://portal.getty.edu/terms/gri/"
+     xmlns:local="http://library.princeton.edu"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Acta apostolorum [microform] / elegantiss. monochromatis a duobus praestantiss. pictorib. Begis summo artificio delineata a Martino Hemskerchio harlemensi nempe que ea incoaverat et Johanne Stradano brugensi, qui ea absolvit.</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Straet, Jan van der, 1523-1605.</authority>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985403953506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/bv1w17</idno>
+            <idno type="cico">2141</idno>
+            <idno type="dcl">wc0</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Acta apostolorum [microform] / elegantiss. monochromatis a duobus praestantiss. pictorib. Begis summo artificio delineata a Martino Hemskerchio harlemensi nempe que ea incoaverat et Johanne Stradano brugensi, qui ea absolvit.</title>
+                  <respStmt>
+                     <persName>Heemskerk, Martin van, 1498-1574.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Latin</textLang>
+                  <imprint>
+                     <publisher>Antuerpi[a]e : Ioannes Gall[a]eus</publisher>
+                     <date>[158-?]</date>
+                     <date>1580</date>
+                  </imprint>
+                  <extent>[1], 34 leaves</extent>
+                  <extent>2 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest"
+                            target="https://figgy.princeton.edu/concern/scanned_resources/49a898d9-813f-4904-abe0-dc0a26edbde9/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Bible. Acts -- Illustrations.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json"
+             url="https://figgy.princeton.edu/concern/scanned_resources/49a898d9-813f-4904-abe0-dc0a26edbde9/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>

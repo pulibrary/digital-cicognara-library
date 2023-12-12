@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:dcterms="http://purl.org/dc/terms/"
+     xmlns:gettyterms="http://portal.getty.edu/terms/gri/"
+     xmlns:local="http://library.princeton.edu"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Lettera di Bajocco al ch. signor Abate Carlo Fea giureconsulto, o sia, Memorie per servire alla storia letteraria di questo nuovo scrittore di antiquaria, e belle arti.</title>
+            <respStmt>
+               <orgName>Getty Research Institute</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fèa, Carlo, 1753-1836.</authority>
+            <idno type="URI">http://portal.getty.edu/books/gri_9926115480001551</idno>
+            <idno type="URI">http://portal.getty.edu/api/d0888h</idno>
+            <idno>(OCoLC)146155282</idno>
+            <idno type="cico">1140</idno>
+            <idno type="dcl">mcb</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Lettera di Bajocco al ch. signor Abate Carlo Fea giureconsulto, o sia, Memorie per servire alla storia letteraria di questo nuovo scrittore di antiquaria, e belle arti.</title>
+                  <respStmt>
+                     <persName>Boni, Onofrio, 1743-1818</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>Cosmopoli : [publisher not identified]</publisher>
+                     <pubPlace>Italy Rome.</pubPlace>
+                     <date>MDCCLXXXVI [1786]</date>
+                     <date>1786</date>
+                  </imprint>
+                  <extent>xxiv. pages</extent>
+               </monogr>
+               <relatedItem type="manifest"
+                            target="https://media.getty.edu/iiif/manifest/09ca21d1-c3cb-46ab-ae71-00cc90fada3f"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Fèa, Carlo, 1753-1836</term>
+               <term>Art -- Early works to 1800.</term>
+               <term>Fèa, Carlo, 1753-1836</term>
+               <term>Art.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json"
+             url="https://media.getty.edu/iiif/manifest/09ca21d1-c3cb-46ab-ae71-00cc90fada3f">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>

@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:dcterms="http://purl.org/dc/terms/"
+     xmlns:gettyterms="http://portal.getty.edu/terms/gri/"
+     xmlns:local="http://library.princeton.edu"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Della via Appia riconosciuta e descritta da Roma a Brindisi libri IV / di Francesco Maria Pratilli ; all'illustriss. ed eccellentiss. signore il signor conte d. Egidio Gaetano dell'Aquila d'Aragona de' duchi di Laurenzano gentiluomo di camera del re nostro signore.</title>
+            <respStmt>
+               <orgName>Getty Research Institute</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Strina, Ferdinando, active 1730-1760, illustrator.</authority>
+            <authority>Di Simone, Giovanni, active 1741-1752, printer.</authority>
+            <idno type="URI">http://portal.getty.edu/books/gri_9925313200001551</idno>
+            <idno type="URI">http://portal.getty.edu/api/rd8186</idno>
+            <idno>(OCoLC)23643551</idno>
+            <idno type="cico">3846</idno>
+            <idno type="dcl">6gk</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Della via Appia riconosciuta e descritta da Roma a Brindisi libri IV / di Francesco Maria Pratilli ; all'illustriss. ed eccellentiss. signore il signor conte d. Egidio Gaetano dell'Aquila d'Aragona de' duchi di Laurenzano gentiluomo di camera del re nostro signore.</title>
+                  <respStmt>
+                     <persName>Pratilli, Francesco Maria, 1689-1763, author.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>In Napoli : Per Giovanni di Simone</publisher>
+                     <pubPlace>Italy</pubPlace>
+                     <pubPlace>Appian Way (Italy)</pubPlace>
+                     <pubPlace>Italy.</pubPlace>
+                     <pubPlace>Italy Naples.</pubPlace>
+                     <date>MDCCXLV [1745]</date>
+                     <date>1745</date>
+                  </imprint>
+                  <extent>[8], 566, [2] pages, [4] folded leaves of plates</extent>
+               </monogr>
+               <relatedItem type="manifest"
+                            target="https://media.getty.edu/iiif/manifest/150750a9-e653-431f-bb04-5d13f1bcac2e"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Inscriptions, Latin -- Italy -- Early works to 1800.</term>
+               <term>Roads, Roman -- Italy -- Early works to 1800.</term>
+               <term>Appian Way (Italy) -- Maps -- Early works to 1800.</term>
+               <term>Italy -- Antiquities, Roman -- Early works to 1800.</term>
+               <term>Classical antiquities.</term>
+               <term>Inscriptions, Latin.</term>
+               <term>Roads, Roman.</term>
+               <term>Italy.</term>
+               <term>Italy -- Appian Way.</term>
+               <term>DG29.A64 P91</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json"
+             url="https://media.getty.edu/iiif/manifest/150750a9-e653-431f-bb04-5d13f1bcac2e">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>

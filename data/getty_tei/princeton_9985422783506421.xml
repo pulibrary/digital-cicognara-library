@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:dcterms="http://purl.org/dc/terms/"
+     xmlns:gettyterms="http://portal.getty.edu/terms/gri/"
+     xmlns:local="http://library.princeton.edu"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Breve dichiarzione delle sei tavole incise in rame da Anton Franc. Barbazza romano che rappresentano la storia ecclesiastica de primo e secondo secolo [microform] : ideate dal celebre monsignor Francesco Bianchini e perfezionate dal r.p.d. Giuseppe Bianchini ... / pubblicata nel Giornale de' Letterati di Roma per gli anni 1752, 1753 e 1754 opera di Gaetano Cenni ...</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Cenni, Gaetano, 1698-1762.</authority>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <authority>Leopoldo Cicognara Program (University of Illinois at Urbana-Champaign)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985422783506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/44628w</idno>
+            <idno type="cico">3663</idno>
+            <idno type="dcl">znk</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Breve dichiarzione delle sei tavole incise in rame da Anton Franc. Barbazza romano che rappresentano la storia ecclesiastica de primo e secondo secolo [microform] : ideate dal celebre monsignor Francesco Bianchini e perfezionate dal r.p.d. Giuseppe Bianchini ... / pubblicata nel Giornale de' Letterati di Roma per gli anni 1752, 1753 e 1754 opera di Gaetano Cenni ...</title>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>In Roma : Appresso li Fratelli Pagiarini</publisher>
+                     <date>1753</date>
+                  </imprint>
+                  <extent>121 p.</extent>
+                  <extent>2 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest"
+                            target="https://figgy.princeton.edu/concern/scanned_resources/7e5c5605-0081-4bf2-bf8a-4b785c30773f/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Barbazza, Antonio Giuseppe, b. 1722.</term>
+               <term>Bianchini, Francesco, 1662-1729.</term>
+               <term>Bianchini, Giuseppe, 1704-1764.</term>
+               <term>Church history -- Primitive and early church, ca. 30-600.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json"
+             url="https://figgy.princeton.edu/concern/scanned_resources/7e5c5605-0081-4bf2-bf8a-4b785c30773f/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>

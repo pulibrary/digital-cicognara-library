@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:dcterms="http://purl.org/dc/terms/"
+     xmlns:gettyterms="http://portal.getty.edu/terms/gri/"
+     xmlns:local="http://library.princeton.edu"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Di alcune altre antichità cristiane conservate in Pesaro nel Museo Olivieri [microform].</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <authority>Leopoldo Cicognara Program (University of Illinois at Urbana-Champaign)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985458803506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/qq2z4d</idno>
+            <idno type="cico">3286</idno>
+            <idno type="dcl">78v</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Di alcune altre antichità cristiane conservate in Pesaro nel Museo Olivieri [microform].</title>
+                  <respStmt>
+                     <persName>Abbati Olivieri-Giordani, Annibale degli, 1708-1789.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>In Pesaro : In Casa Gavelli</publisher>
+                     <pubPlace>Italy</pubPlace>
+                     <date>1784</date>
+                  </imprint>
+                  <extent>VII p.</extent>
+                  <extent>1 microfiche : positive ; 11 x 15 cm.</extent>
+               </monogr>
+               <relatedItem type="manifest"
+                            target="https://figgy.princeton.edu/concern/scanned_resources/126b90c0-de43-45e4-9d75-75d2980cf3ad/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Museo oliveriano di Pesaro.</term>
+               <term>Christian antiquities -- Italy -- Pesaro.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json"
+             url="https://figgy.princeton.edu/concern/scanned_resources/126b90c0-de43-45e4-9d75-75d2980cf3ad/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>

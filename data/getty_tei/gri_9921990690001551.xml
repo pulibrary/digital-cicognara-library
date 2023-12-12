@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:dcterms="http://purl.org/dc/terms/"
+     xmlns:gettyterms="http://portal.getty.edu/terms/gri/"
+     xmlns:local="http://library.princeton.edu"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Ivsti LipsI de amphitheatro liber : in quo forma ipsa loci expressa, &amp; ration spectandi / cum æneis figuris.</title>
+            <respStmt>
+               <orgName>Getty Research Institute</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <idno type="URI">http://portal.getty.edu/books/gri_9921990690001551</idno>
+            <idno type="URI">http://portal.getty.edu/api/2j7w3x</idno>
+            <idno>(OCoLC)77946489</idno>
+            <idno type="cico">791A</idno>
+            <idno type="dcl">f2w</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Ivsti LipsI de amphitheatro liber : in quo forma ipsa loci expressa, &amp; ration spectandi / cum æneis figuris.</title>
+                  <respStmt>
+                     <persName>Lipsius, Justus, 1547-1606</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Latin</textLang>
+                  <imprint>
+                     <publisher>Antverpiæ : Apud Christophorum Plantinum</publisher>
+                     <pubPlace>Italy.</pubPlace>
+                     <date>[M].[D].LXXXIV [1584]</date>
+                     <date>1584</date>
+                  </imprint>
+                  <extent>98, [3] p., [2] folded leaves of plates</extent>
+               </monogr>
+               <relatedItem type="manifest"
+                            target="https://media.getty.edu/iiif/manifest/d429086d-22dd-4a3b-a4b0-8713c7b54585"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Amphitheaters.</term>
+               <term>Amphitheaters -- Italy.</term>
+               <term>Amphitheaters</term>
+               <term>Italy.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json"
+             url="https://media.getty.edu/iiif/manifest/d429086d-22dd-4a3b-a4b0-8713c7b54585">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>

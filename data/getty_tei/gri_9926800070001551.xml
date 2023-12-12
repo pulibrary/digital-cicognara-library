@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:dcterms="http://purl.org/dc/terms/"
+     xmlns:gettyterms="http://portal.getty.edu/terms/gri/"
+     xmlns:local="http://library.princeton.edu"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Storia della scultura dal suo risorgimento in Italia sino al secolo di Napoleone : per sevire di continuazione alle opere di Winckelmann e di d'Agincourt.</title>
+            <respStmt>
+               <orgName>Getty Research Institute</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Winckelmann, Johann Joachim, 1717-1768</authority>
+            <authority>Seroux d'Agincourt, J. B. L. G. (Jean Baptiste Louis Georges), 1730-1814</authority>
+            <idno type="URI">http://portal.getty.edu/books/gri_9926800070001551</idno>
+            <idno type="URI">http://portal.getty.edu/api/s59929</idno>
+            <idno type="URI">http://portal.getty.edu/api/128f6f</idno>
+            <idno type="URI">http://portal.getty.edu/api/54629t</idno>
+            <idno>(OCoLC)1724646</idno>
+            <idno type="cico">18</idno>
+            <idno type="cico">2486</idno>
+            <idno type="dcl">qg0</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Storia della scultura dal suo risorgimento in Italia sino al secolo di Napoleone : per sevire di continuazione alle opere di Winckelmann e di d'Agincourt.</title>
+                  <respStmt>
+                     <persName>Cicognara, Leopoldo, Conte, 1767-1834</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>Venezia : Nella tipografia Picotti</publisher>
+                     <pubPlace>Italy</pubPlace>
+                     <pubPlace>Italy.</pubPlace>
+                     <date>1813-1818</date>
+                     <date>1813</date>
+                  </imprint>
+                  <extent>3 v.</extent>
+               </monogr>
+               <relatedItem type="manifest"
+                            target="https://media.getty.edu/iiif/manifest/cb65cac4-3040-45c0-b807-346f0cd7a2eehttps://media.getty.edu/iiif/manifest/768f8308-442a-4198-a439-248d0e0f47d6https://media.getty.edu/iiif/manifest/69874412-5785-427e-894f-abe3dabc1868"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Sculpture, Italian.</term>
+               <term>Sculpture -- Italy -- History.</term>
+               <term>Sculpture</term>
+               <term>Sculpture, Italian</term>
+               <term>Italy.     -781</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json"
+             url="https://media.getty.edu/iiif/manifest/cb65cac4-3040-45c0-b807-346f0cd7a2ee">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+   <facsimile>
+      <media mimeType="application/json"
+             url="https://media.getty.edu/iiif/manifest/768f8308-442a-4198-a439-248d0e0f47d6">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+   <facsimile>
+      <media mimeType="application/json"
+             url="https://media.getty.edu/iiif/manifest/69874412-5785-427e-894f-abe3dabc1868">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>

@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:dcterms="http://purl.org/dc/terms/"
+     xmlns:gettyterms="http://portal.getty.edu/terms/gri/"
+     xmlns:local="http://library.princeton.edu"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Facillima methodus delineandi omnes humani corporis partes</title>
+            <respStmt>
+               <orgName>Getty Research Institute</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Esengren, Philipp, active 1594-1631. Primi elementi della simmetria</authority>
+            <authority>Remondini (Firm), publisher.</authority>
+            <idno type="URI">http://portal.getty.edu/books/gri_9926994740001551</idno>
+            <idno type="URI">http://portal.getty.edu/api/4k1t4q</idno>
+            <idno>(OCoLC)84287252</idno>
+            <idno type="cico">323</idno>
+            <idno type="dcl">tjk</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Facillima methodus delineandi omnes humani corporis partes</title>
+                  <respStmt>
+                     <persName>Esengren, Philipp, active 1594-1631 artist.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>Veneto : Ex Typographio Remondiniano</publisher>
+                     <pubPlace>Italy Venice.</pubPlace>
+                     <date>[1770?]</date>
+                     <date>1770</date>
+                  </imprint>
+                  <extent>27 prints</extent>
+               </monogr>
+               <relatedItem type="manifest"
+                            target="https://media.getty.edu/iiif/manifest/038a5b69-a54e-427d-abf7-6b50c9e24a40"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Anatomy, Artistic.</term>
+               <term>Drawing -- Technique.</term>
+               <term>NC760 .E84 1770</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json"
+             url="https://media.getty.edu/iiif/manifest/038a5b69-a54e-427d-abf7-6b50c9e24a40">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>

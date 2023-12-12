@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:dcterms="http://purl.org/dc/terms/"
+     xmlns:gettyterms="http://portal.getty.edu/terms/gri/"
+     xmlns:local="http://library.princeton.edu"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Della trasportatione dell'obelisco vaticano et delle fabriche di nostro signore Papa Sisto V / fatte dal cavallier Domenico Fontana, architetto di sua santità ; intagliato da Natal Bonifatio da Sibenicco.</title>
+            <respStmt>
+               <orgName>Getty Research Institute</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Bonifacio, Natale, 1538-1592, engraver.</authority>
+            <authority>Basa, Domenico, active 1579-1596, printer.</authority>
+            <authority>Guerra, Giovanni, 1544-1618</authority>
+            <idno type="URI">http://portal.getty.edu/books/gri_9923605080001551</idno>
+            <idno type="URI">http://portal.getty.edu/api/fq3q63</idno>
+            <idno>(OCoLC)3359549</idno>
+            <idno type="cico">3736</idno>
+            <idno type="dcl">4d7</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Della trasportatione dell'obelisco vaticano et delle fabriche di nostro signore Papa Sisto V / fatte dal cavallier Domenico Fontana, architetto di sua santità ; intagliato da Natal Bonifatio da Sibenicco.</title>
+                  <respStmt>
+                     <persName>Fontana, Domenico, 1543-1607</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>In Roma : Appresso Domenico Basa</publisher>
+                     <pubPlace>Vatican City</pubPlace>
+                     <pubPlace>Vatican City.</pubPlace>
+                     <pubPlace>Italy Rome.</pubPlace>
+                     <date>MDXC [1590]</date>
+                     <date>1590</date>
+                  </imprint>
+                  <extent>[1], 108 [i.e. 111], [5] leaves, 38 leaves of plates (some folded)</extent>
+               </monogr>
+               <relatedItem type="manifest"
+                            target="https://media.getty.edu/iiif/manifest/1e9f18a3-1850-4563-a4b9-2aff49eb4588"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Obelisks -- Vatican City -- Early works to 1800.</term>
+               <term>Vatican City -- Buildings, structures, etc. -- Early works to 1800.</term>
+               <term>Sixtus V, Pope, 1520-1590</term>
+               <term>Sixtus V, Pope, 1520-1590</term>
+               <term>Buildings.</term>
+               <term>Obelisks.</term>
+               <term>Vatican City.</term>
+               <term>DT62.O2 F6 1590</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json"
+             url="https://media.getty.edu/iiif/manifest/1e9f18a3-1850-4563-a4b9-2aff49eb4588">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>

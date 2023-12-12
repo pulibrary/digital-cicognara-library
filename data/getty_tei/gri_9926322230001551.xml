@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:dcterms="http://purl.org/dc/terms/"
+     xmlns:gettyterms="http://portal.getty.edu/terms/gri/"
+     xmlns:local="http://library.princeton.edu"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Saggio di osservazioni sopra un bassorilievo della villa dell'eminentissimo signor cardinale Alessandro Albani.</title>
+            <respStmt>
+               <orgName>Getty Research Institute</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Raffei, Stefano, 1712-1788. Osservazioni sopra un altro bassorilievo della medesima villa Albani.</authority>
+            <authority>Raffei, Stefano, 1712-1788. Dissertazione sopra un singolar combattimento espresso in bassorilievo.</authority>
+            <authority>Raffei, Stefano, 1712-1788. Filottete addolorato altro bassorilievo.</authority>
+            <idno type="URI">http://portal.getty.edu/books/gri_9926322230001551</idno>
+            <idno type="URI">http://portal.getty.edu/api/bt2f22</idno>
+            <idno>(OCoLC)146008691</idno>
+            <idno type="cico">2506-3-2</idno>
+            <idno type="dcl">hg2</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Saggio di osservazioni sopra un bassorilievo della villa dell'eminentissimo signor cardinale Alessandro Albani.</title>
+                  <respStmt>
+                     <persName>Raffei, Stefano, 1712-1788.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>In Roma : Dalle stampe di Generoso Salomoni</publisher>
+                     <pubPlace>Italy</pubPlace>
+                     <date>MDCCXXIII [1773]</date>
+                     <date>1773</date>
+                  </imprint>
+                  <extent>56, [1], 28 pages, 4 unnumbered leaves of plates (2 folded)</extent>
+               </monogr>
+               <relatedItem type="manifest"
+                            target="https://media.getty.edu/iiif/manifest/b9cfc3a3-749c-4b18-976f-3427c59b387d"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Albani, Alessandro, 1692-1779 -- Art collections.</term>
+               <term>Bas-relief -- Private collections -- Italy -- Rome.</term>
+               <term>Albani, Alessandro, 1692-1779.</term>
+               <term>Art -- Private collections.</term>
+               <term>Italy -- Rome.</term>
+               <term>NB87.A32 R13 1772</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json"
+             url="https://media.getty.edu/iiif/manifest/b9cfc3a3-749c-4b18-976f-3427c59b387d">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>

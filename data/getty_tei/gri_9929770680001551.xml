@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:dcterms="http://purl.org/dc/terms/"
+     xmlns:gettyterms="http://portal.getty.edu/terms/gri/"
+     xmlns:local="http://library.princeton.edu"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Eseqvie della maestà cesarea dell'imperadore Ferdinando II : celebrate dall'altezza sereniss. di Ferdinando II, gran duca di Toscana, nell'insigne collegiata di San Lorenzo, il dì 2. d'aprile 1637.</title>
+            <respStmt>
+               <orgName>Getty Research Institute</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Ferdinando II, Grand-Duke of Tuscany, 1610-1670</authority>
+            <authority>Della Bella, Stefano, 1610-1664</authority>
+            <authority>Parigi, Alfonso, -1656</authority>
+            <idno type="URI">http://portal.getty.edu/books/gri_9929770680001551</idno>
+            <idno type="URI">http://portal.getty.edu/api/177g5k</idno>
+            <idno>(OCoLC)77846705</idno>
+            <idno type="cico">1446</idno>
+            <idno type="dcl">p8t</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Eseqvie della maestà cesarea dell'imperadore Ferdinando II : celebrate dall'altezza sereniss. di Ferdinando II, gran duca di Toscana, nell'insigne collegiata di San Lorenzo, il dì 2. d'aprile 1637.</title>
+                  <respStmt>
+                     <persName>Rondinelli, Francesco, 1589-1665</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>[Firenze] : [Nella stamperia De Massi e Landi]</publisher>
+                     <pubPlace>Italy</pubPlace>
+                     <date>[1638]</date>
+                     <date>1638</date>
+                  </imprint>
+                  <extent>[4], 60 pages, 5 unnumbered leaves of plates (4 folded)</extent>
+               </monogr>
+               <relatedItem type="manifest"
+                            target="https://media.getty.edu/iiif/manifest/1cf930e1-9f1f-429e-9d3d-82ce8ec4502a"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Ferdinand II, Holy Roman Emperor, 1578-1637 -- Death and burial.</term>
+               <term>Funeral rites and ceremonies -- Italy -- Florence -- Early works to 1800.</term>
+               <term>Ferdinand II, Holy Roman Emperor, 1578-1637</term>
+               <term>Funeral rites and ceremonies.</term>
+               <term>Italy -- Florence.</term>
+               <term>DD188 .R66 1638</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json"
+             url="https://media.getty.edu/iiif/manifest/1cf930e1-9f1f-429e-9d3d-82ce8ec4502a">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>

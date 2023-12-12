@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:dcterms="http://purl.org/dc/terms/"
+     xmlns:gettyterms="http://portal.getty.edu/terms/gri/"
+     xmlns:local="http://library.princeton.edu"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Lettres à Madame ** sur les peintures, les sculptures et les gravures, exposées dans le Sallon du Louvre en 1763</title>
+            <respStmt>
+               <orgName>Metropolitan Museum of Art</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <idno type="URI">http://portal.getty.edu/books/met_p16028coll4_38696</idno>
+            <idno type="dcl">cvs</idno>
+            <idno type="cico">1275B</idno>
+            <idno type="URI">http://portal.getty.edu/api/943z0v</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Lettres à Madame ** sur les peintures, les sculptures et les gravures, exposées dans le Sallon du Louvre en 1763</title>
+                  <respStmt>
+                     <persName>Mathon de La Cour, Charles-Joseph, 1738-1793</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>French</textLang>
+                  <imprint>
+                     <publisher>Paris : Guillaume Desprez</publisher>
+                  </imprint>
+                  <extent>1 p.l., 93 p. : 3 engr. ill. ; 17 cm</extent>
+               </monogr>
+               <relatedItem type="manifest"
+                            target="https://cdm16028.contentdm.oclc.org/iiif/info/p16028coll4/38696/manifest.json"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Salon (Exhibition : Paris, France) (1765)</term>
+               <term>Art criticism France History 18th century</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json"
+             url="https://cdm16028.contentdm.oclc.org/iiif/info/p16028coll4/38696/manifest.json">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>

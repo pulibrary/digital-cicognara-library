@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:dcterms="http://purl.org/dc/terms/"
+     xmlns:gettyterms="http://portal.getty.edu/terms/gri/"
+     xmlns:local="http://library.princeton.edu"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Bassirilievi volsci in terracotta dipinti a varj colori : trovati nella cittá di Velletri / da Marco Carloni ...</title>
+            <respStmt>
+               <orgName>Getty Research Institute</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Becchetti, Filippo Angelico, -1814</authority>
+            <authority>Salomoni, Giovanni Generoso, printer.</authority>
+            <idno type="URI">http://portal.getty.edu/books/gri_9927105980001551</idno>
+            <idno type="URI">http://portal.getty.edu/api/s31m4b</idno>
+            <idno>(OCoLC)49765616</idno>
+            <idno type="cico">2560</idno>
+            <idno type="dcl">wfp</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Bassirilievi volsci in terracotta dipinti a varj colori : trovati nella cittá di Velletri / da Marco Carloni ...</title>
+                  <respStmt>
+                     <persName>Carloni, Marco, 1742-1796</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>In Roma : Nella stamperia Salomoni</publisher>
+                     <pubPlace>Italy</pubPlace>
+                     <pubPlace>Velletri (Italy)</pubPlace>
+                     <pubPlace>Italy Rome.</pubPlace>
+                     <date>M DCC LXXXV [1785]</date>
+                     <date>1785</date>
+                  </imprint>
+                  <extent>XX pages, VII leaves of plates</extent>
+               </monogr>
+               <relatedItem type="manifest"
+                            target="https://media.getty.edu/iiif/manifest/359e5ebe-100f-40cb-a46d-9de91171298b"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Bas-relief -- Italy -- Velletri -- Early works to 1800.</term>
+               <term>Velletri (Italy) -- Antiquities.</term>
+               <term>Antiquities.</term>
+               <term>Bas-relief.</term>
+               <term>Italy -- Velletri.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json"
+             url="https://media.getty.edu/iiif/manifest/359e5ebe-100f-40cb-a46d-9de91171298b">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>

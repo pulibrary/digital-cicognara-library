@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:dcterms="http://purl.org/dc/terms/"
+     xmlns:gettyterms="http://portal.getty.edu/terms/gri/"
+     xmlns:local="http://library.princeton.edu"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Riflessioni de padri Tommaso Le Seur, Francesco Jacquier ... e Ruggiero Giuseppe Boscovich ... sopra alcune difficolta spettanti i danni, e risarcimenti della cupola di S. Pietro [microform] : proposte nella congregazione tenutasi nel Quirinale à 20. Gennaro MDCCXLIII e sopra alcune nove isprezzioni fatte dopo la medesima congregazione.</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Boscovich, Ruggero Giuseppe, 1711-1787.</authority>
+            <authority>Jacquier, François, 1711-1788.</authority>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <authority>Leopoldo Cicognara Program (University of Illinois at Urbana-Champaign)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985435963506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/kz3x57</idno>
+            <idno type="cico">3849</idno>
+            <idno type="dcl">s5h</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Riflessioni de padri Tommaso Le Seur, Francesco Jacquier ... e Ruggiero Giuseppe Boscovich ... sopra alcune difficolta spettanti i danni, e risarcimenti della cupola di S. Pietro [microform] : proposte nella congregazione tenutasi nel Quirinale à 20. Gennaro MDCCXLIII e sopra alcune nove isprezzioni fatte dopo la medesima congregazione.</title>
+                  <respStmt>
+                     <persName>Leseur, Thomas, 1703-1770.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>[Rome : s.n]</publisher>
+                     <pubPlace>Vatican City</pubPlace>
+                     <date>[1743]</date>
+                     <date>1743</date>
+                  </imprint>
+                  <extent>LXIV p., [1] leaf of plates</extent>
+                  <extent>1 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest"
+                            target="https://figgy.princeton.edu/concern/scanned_resources/99234d63-0db1-4986-83c2-56d3bfc7bb41/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Basilica di San Pietro in Vaticano.</term>
+               <term>Domes -- Vatican City -- Design and construction -- Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json"
+             url="https://figgy.princeton.edu/concern/scanned_resources/99234d63-0db1-4986-83c2-56d3bfc7bb41/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>

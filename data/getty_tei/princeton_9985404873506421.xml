@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:dcterms="http://purl.org/dc/terms/"
+     xmlns:gettyterms="http://portal.getty.edu/terms/gri/"
+     xmlns:local="http://library.princeton.edu"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Thesaurus antiquitatum romanarum [microform] : in quo continentur lectissimi quique scriptores, qui superiori aut nostro seculo Romanae reipublicae rationem, disciplinam, leges, instituta, Sacra, Artesque togatas ac sagatas explicarunt &amp; illustrarunt / congestus a Joanne Georgio Graevio ; accesserunt variae &amp; accuratae tabulae aeneae.</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985404873506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/8n5b5q</idno>
+            <idno type="URI">http://portal.getty.edu/api/n4993g</idno>
+            <idno type="URI">http://portal.getty.edu/api/05743d</idno>
+            <idno type="URI">http://portal.getty.edu/api/tk8300</idno>
+            <idno type="URI">http://portal.getty.edu/api/hd2r93</idno>
+            <idno type="URI">http://portal.getty.edu/api/f80f9r</idno>
+            <idno type="URI">http://portal.getty.edu/api/703051</idno>
+            <idno type="URI">http://portal.getty.edu/api/6d122x</idno>
+            <idno type="URI">http://portal.getty.edu/api/q2889c</idno>
+            <idno type="URI">http://portal.getty.edu/api/cd1837</idno>
+            <idno type="URI">http://portal.getty.edu/api/j20080</idno>
+            <idno type="URI">http://portal.getty.edu/api/6z3s76</idno>
+            <idno type="URI">http://portal.getty.edu/api/vw7f7t</idno>
+            <idno type="URI">http://portal.getty.edu/api/gc4j8s</idno>
+            <idno type="cico">2488</idno>
+            <idno type="dcl">hs4</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Thesaurus antiquitatum romanarum [microform] : in quo continentur lectissimi quique scriptores, qui superiori aut nostro seculo Romanae reipublicae rationem, disciplinam, leges, instituta, Sacra, Artesque togatas ac sagatas explicarunt &amp; illustrarunt / congestus a Joanne Georgio Graevio ; accesserunt variae &amp; accuratae tabulae aeneae.</title>
+                  <respStmt>
+                     <persName>Graevius, Joannes Georgius, 1632-1703.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Latin</textLang>
+                  <imprint>
+                     <publisher>Venetiis : Typis Bartholomaei Javarina</publisher>
+                     <pubPlace>Rome</pubPlace>
+                     <date>1732-1737</date>
+                     <date>1732</date>
+                  </imprint>
+                  <extent>12 v.</extent>
+                  <extent>159 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest"
+                            target="https://figgy.princeton.edu/concern/scanned_resources/5c86d19e-d967-42ea-a96e-f32b211b22e3/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Rome -- Antiquities -- Early works to 1800.</term>
+               <term>Rome -- History -- Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json"
+             url="https://figgy.princeton.edu/concern/scanned_resources/5c86d19e-d967-42ea-a96e-f32b211b22e3/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>

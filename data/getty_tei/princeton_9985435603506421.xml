@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:dcterms="http://purl.org/dc/terms/"
+     xmlns:gettyterms="http://portal.getty.edu/terms/gri/"
+     xmlns:local="http://library.princeton.edu"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Roma ricercata nel suo sito [microform] : con tutte le curiosità, che in essa si ritrouano, tanto antiche, come moderne, cioè chiese, monasterij hospidali, collegij, seminarij, tempij, teatri, anfiteatri, naumachie, cerchi, fori, curie, palazzi, e statue librarie, musei, pitture, sculture, &amp; i nomi degli artefici / del Signor Fioravanti Martinelli romano ; di nuouo corretta, &amp; accresciuta dal Signor Matteo Flentin Lieggese.</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Flentin, Matthaeus.</authority>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <authority>Leopoldo Cicognara Program (University of Illinois at Urbana-Champaign)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985435603506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/sz1m0t</idno>
+            <idno type="cico">3783</idno>
+            <idno type="dcl">0d9</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Roma ricercata nel suo sito [microform] : con tutte le curiosità, che in essa si ritrouano, tanto antiche, come moderne, cioè chiese, monasterij hospidali, collegij, seminarij, tempij, teatri, anfiteatri, naumachie, cerchi, fori, curie, palazzi, e statue librarie, musei, pitture, sculture, &amp; i nomi degli artefici / del Signor Fioravanti Martinelli romano ; di nuouo corretta, &amp; accresciuta dal Signor Matteo Flentin Lieggese.</title>
+                  <respStmt>
+                     <persName>Martinelli, Fioravante, active 17th century.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>In Roma : Per Francesco Tizzoni :</publisher>
+                     <pubPlace>Rome (Italy)</pubPlace>
+                     <date>1687</date>
+                  </imprint>
+                  <extent>180 p.</extent>
+                  <extent>3 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest"
+                            target="https://figgy.princeton.edu/concern/scanned_resources/27b1ad05-e951-4cf6-9f9b-3aead4ee5003/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Rome (Italy) -- Antiquities -- Early works to 1800.</term>
+               <term>Rome (Italy) -- Description and travel -- Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json"
+             url="https://figgy.princeton.edu/concern/scanned_resources/27b1ad05-e951-4cf6-9f9b-3aead4ee5003/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>

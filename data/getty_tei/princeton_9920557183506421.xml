@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:dcterms="http://purl.org/dc/terms/"
+     xmlns:gettyterms="http://portal.getty.edu/terms/gri/"
+     xmlns:local="http://library.princeton.edu"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Descrizzione delle imagini dipinnte da Rafaelle d'Urbino nelle Camere del Palazzo Apostolico Vaticano. / Di Gio. Pietro Bellori.</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Marquand, Allan, 1853-1924, donor.</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9920557183506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/2g5p5s</idno>
+            <idno>(OCoLC)09750534</idno>
+            <idno type="cico">3369A</idno>
+            <idno type="cico">3369</idno>
+            <idno type="dcl">88w</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Descrizzione delle imagini dipinnte da Rafaelle d'Urbino nelle Camere del Palazzo Apostolico Vaticano. / Di Gio. Pietro Bellori.</title>
+                  <respStmt>
+                     <persName>Bellori, Giovanni Pietro, 1615?-1696.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>In Roma. : Nella stamparia di Gio: Giacomo Komarek Boëmo</publisher>
+                     <date>1695</date>
+                  </imprint>
+                  <extent>[6], 1-63, [2], 64-112 p., [1] leaf of plates</extent>
+               </monogr>
+               <relatedItem type="manifest"
+                            target="https://figgy.princeton.edu/concern/scanned_resources/91b14ebd-29f5-4d1e-bb47-f41d2c566e99/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Raphael, 1483-1520.</term>
+               <term>Stanze di Raffaello (Vatican Palace, Vatican City)</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json"
+             url="https://figgy.princeton.edu/concern/scanned_resources/91b14ebd-29f5-4d1e-bb47-f41d2c566e99/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>

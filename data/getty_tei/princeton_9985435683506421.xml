@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:dcterms="http://purl.org/dc/terms/"
+     xmlns:gettyterms="http://portal.getty.edu/terms/gri/"
+     xmlns:local="http://library.princeton.edu"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Musaeum septalisanum Manfredi Septalae Patritii Mediolanensis industrioso labore constructum [microform] / Pauli Mariae Terzagi ... cum logocentronibus siuè centonibus eiusdem Terzagi de natura Crystalli, coralij, testaceoroum montanorum &amp; lapidisicatorum, achatis, succini, ambari &amp; Magnetis.</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <authority>Leopoldo Cicognara Program (University of Illinois at Urbana-Champaign)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985435683506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/n82j32</idno>
+            <idno type="cico">3461</idno>
+            <idno type="dcl">zzd</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Musaeum septalisanum Manfredi Septalae Patritii Mediolanensis industrioso labore constructum [microform] / Pauli Mariae Terzagi ... cum logocentronibus siuè centonibus eiusdem Terzagi de natura Crystalli, coralij, testaceoroum montanorum &amp; lapidisicatorum, achatis, succini, ambari &amp; Magnetis.</title>
+                  <respStmt>
+                     <persName>Terzago, Paolo Maria.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Latin</textLang>
+                  <imprint>
+                     <publisher>Dertonae : Typis Filiorum ed. Elisei Violae</publisher>
+                     <date>1664</date>
+                  </imprint>
+                  <extent>324 p.</extent>
+                  <extent>5 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest"
+                            target="https://figgy.princeton.edu/concern/scanned_resources/e772b1b8-d87a-415e-b541-4d3c8ee0904b/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Settala, Manfredo, 1600-1680 -- Natural history collections -- Early works to 1800.</term>
+               <term>Natural history -- Catalogs and collections -- Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json"
+             url="https://figgy.princeton.edu/concern/scanned_resources/e772b1b8-d87a-415e-b541-4d3c8ee0904b/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>

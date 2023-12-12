@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:dcterms="http://purl.org/dc/terms/"
+     xmlns:gettyterms="http://portal.getty.edu/terms/gri/"
+     xmlns:local="http://library.princeton.edu"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Difesa dell' alfabeto degli antichi Toscani pubblicato nel MDCCXXXVII dall' autore del Museo etrusco [microform] : disapprovato dall' illustrissimo sig. marchese Scipione Maffei nel tomo V delle sue Osservazioni letterarie, date in luce in Verona : con tavole e figure.</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Maffei, Scipione, marchese, 1675-1755. Osservazioni letterarie che possono servir di continuazione al Giornal de' letterati d'Italia.</authority>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985405343506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/vt369v</idno>
+            <idno type="cico">2586</idno>
+            <idno type="dcl">w57</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Difesa dell' alfabeto degli antichi Toscani pubblicato nel MDCCXXXVII dall' autore del Museo etrusco [microform] : disapprovato dall' illustrissimo sig. marchese Scipione Maffei nel tomo V delle sue Osservazioni letterarie, date in luce in Verona : con tavole e figure.</title>
+                  <respStmt>
+                     <persName>Gori, Antonio Francesco, 1691-1757.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>In Firenze : Per Anton Maria Albizzini</publisher>
+                     <date>1742</date>
+                  </imprint>
+                  <extent>CCLII, 231 p.</extent>
+                  <extent>8 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest"
+                            target="https://figgy.princeton.edu/concern/scanned_resources/b23c24a0-ef29-48ab-82c8-8c563dd4a936/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Etruscan language -- Alphabet -- Early works to 1800.</term>
+               <term>Inscriptions, Etruscan -- Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json"
+             url="https://figgy.princeton.edu/concern/scanned_resources/b23c24a0-ef29-48ab-82c8-8c563dd4a936/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>

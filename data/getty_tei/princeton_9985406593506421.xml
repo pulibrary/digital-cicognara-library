@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:dcterms="http://purl.org/dc/terms/"
+     xmlns:gettyterms="http://portal.getty.edu/terms/gri/"
+     xmlns:local="http://library.princeton.edu"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Georgii Agricolae De mensuris &amp; ponderibus Romanorum atque Graecorum lib. V [microform] : De externis mensuris &amp; ponderibus lib. II ; Ad ea, quae Andreas Alciatus denuo disputauit de mensuris &amp; ponderibus, breuis defensio lib. I ; De mensuris, quibus interualla metimur lib. I ; De restituendis ponderibus atq[ue] mensuris lib. I ; De precio metallorum &amp; monetis lib. III.</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985406593506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/gs3c6r</idno>
+            <idno type="cico">2729</idno>
+            <idno type="dcl">nk0</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Georgii Agricolae De mensuris &amp; ponderibus Romanorum atque Graecorum lib. V [microform] : De externis mensuris &amp; ponderibus lib. II ; Ad ea, quae Andreas Alciatus denuo disputauit de mensuris &amp; ponderibus, breuis defensio lib. I ; De mensuris, quibus interualla metimur lib. I ; De restituendis ponderibus atq[ue] mensuris lib. I ; De precio metallorum &amp; monetis lib. III.</title>
+                  <respStmt>
+                     <persName>Agricola, Georg, 1494-1555.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Latin</textLang>
+                  <imprint>
+                     <publisher>Basileae : [Apud Hier. Frobenium et Nic. Episcopium]</publisher>
+                     <date>1550</date>
+                  </imprint>
+                  <extent>340 p.</extent>
+                  <extent>6 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest"
+                            target="https://figgy.princeton.edu/concern/scanned_resources/2ceae59d-1113-4964-8a34-25c8657b844e/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Alciati, Andrea, 1492-1550. De ponderibus et mensuris libellus.</term>
+               <term>Coins, Ancient.</term>
+               <term>Weights and measures, Ancient.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json"
+             url="https://figgy.princeton.edu/concern/scanned_resources/2ceae59d-1113-4964-8a34-25c8657b844e/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>

@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:dcterms="http://purl.org/dc/terms/"
+     xmlns:gettyterms="http://portal.getty.edu/terms/gri/"
+     xmlns:local="http://library.princeton.edu"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Prose de' signori accademici Gelati di Bologna ... : colle loro imprese anteposte a' discorsi / pubblicate sotto il principato accademico del sig. co. Valerio Zani.</title>
+            <respStmt>
+               <orgName>Getty Research Institute</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Zani, Valerio, conte, -1696.</authority>
+            <authority>Capponi, Giovan Battista, 1620-1675.</authority>
+            <authority>Tinti, Lorenzo, -1672.</authority>
+            <authority>Carracci, Agostino, 1557-1602.</authority>
+            <authority>Manolessi, 17th cent.</authority>
+            <authority>Accademia dei Gelati (Bologna, Italy)</authority>
+            <idno type="URI">http://portal.getty.edu/books/gri_9927727010001551</idno>
+            <idno type="URI">http://portal.getty.edu/api/nq3869</idno>
+            <idno>(OCoLC)12007655</idno>
+            <idno type="cico">1613</idno>
+            <idno type="cico">1830A</idno>
+            <idno type="dcl">35w</idno>
+            <idno type="dcl">jg3</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Prose de' signori accademici Gelati di Bologna ... : colle loro imprese anteposte a' discorsi / pubblicate sotto il principato accademico del sig. co. Valerio Zani.</title>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>In Bologna : Per li Manolessi</publisher>
+                     <pubPlace>Italy</pubPlace>
+                     <pubPlace>Italy Bologna.</pubPlace>
+                     <date>1671</date>
+                  </imprint>
+                  <extent>[14], 160 p., 161-168 leaves, 169-391, [2] (blank), 392-432 p.</extent>
+               </monogr>
+               <relatedItem type="manifest"
+                            target="https://media.getty.edu/iiif/manifest/48dc3a30-aef7-4f9b-97cb-0b86e59fab29"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Accademia dei Gelati (Bologna, Italy)</term>
+               <term>Learned institutions and societies -- Italy -- Bologna.</term>
+               <term>Accademia dei Gelati (Bologna, Italy)</term>
+               <term>Learned institutions and societies</term>
+               <term>Italy -- Bologna</term>
+               <term>AS222 .B46</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json"
+             url="https://media.getty.edu/iiif/manifest/48dc3a30-aef7-4f9b-97cb-0b86e59fab29">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>

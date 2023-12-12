@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:dcterms="http://purl.org/dc/terms/"
+     xmlns:gettyterms="http://portal.getty.edu/terms/gri/"
+     xmlns:local="http://library.princeton.edu"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Orazione di M. Francesco Maria Molza contro Lorenzino de' Medici / recata dal latino in italiano da Giulio Bernardino Tomitano.</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Tomitano, Giulio Bernardino.</authority>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <authority>Leopoldo Cicognara Program (University of Illinois at Urbana-Champaign)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_99100897093506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/nt9w3j</idno>
+            <idno>(OCoLC)83458647</idno>
+            <idno type="cico">1215</idno>
+            <idno type="dcl">1wq</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Orazione di M. Francesco Maria Molza contro Lorenzino de' Medici / recata dal latino in italiano da Giulio Bernardino Tomitano.</title>
+                  <respStmt>
+                     <persName>Molza, Francesco Maria, 1489-1544.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>In Treviso : Per Giulio Trento</publisher>
+                     <date>1801</date>
+                  </imprint>
+                  <extent>24 pages</extent>
+                  <extent>1 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest"
+                            target="https://figgy.princeton.edu/concern/scanned_resources/2354f45e-fe56-4995-a1f9-6ad74d6837d7/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Medici, Lorenzino de', 1514-1548.</term>
+               <term>Medici, Lorenzino de', 1514-1548.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json"
+             url="https://figgy.princeton.edu/concern/scanned_resources/2354f45e-fe56-4995-a1f9-6ad74d6837d7/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>

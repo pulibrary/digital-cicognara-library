@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:dcterms="http://purl.org/dc/terms/"
+     xmlns:gettyterms="http://portal.getty.edu/terms/gri/"
+     xmlns:local="http://library.princeton.edu"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Utriusque thesauri antiquitatum Romanarum Graecarumque [microform] : nova supplementa / congesta ab Joanne Poleno.</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Poleni, Giovanni, 1683-1761.</authority>
+            <authority>Graevius, Joannes Georgius, 1632-1703. Thesaurus antiquitatum romanarum.</authority>
+            <authority>Gronovius, Jacobus, 1645-1716. Thesaurus graecarum antiquitatum.</authority>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985404913506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/gz4h3t</idno>
+            <idno type="cico">2488</idno>
+            <idno type="dcl">bpc</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Utriusque thesauri antiquitatum Romanarum Graecarumque [microform] : nova supplementa / congesta ab Joanne Poleno.</title>
+                  <textLang>Latin</textLang>
+                  <imprint>
+                     <publisher>Venetiis : Typis Jo: Baptistae Pasquali</publisher>
+                     <pubPlace>Greece</pubPlace>
+                     <pubPlace>Rome</pubPlace>
+                     <date>1737</date>
+                  </imprint>
+                  <extent>5 v.</extent>
+                  <extent>64 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest"
+                            target="https://figgy.princeton.edu/concern/scanned_resources/1b51474d-68c6-4311-a547-55c7469cd888/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Classical antiquities.</term>
+               <term>Greece -- Antiquities -- Early works to 1800.</term>
+               <term>Rome -- Antiquities -- Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json"
+             url="https://figgy.princeton.edu/concern/scanned_resources/1b51474d-68c6-4311-a547-55c7469cd888/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>

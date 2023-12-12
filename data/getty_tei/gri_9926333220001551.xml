@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:dcterms="http://purl.org/dc/terms/"
+     xmlns:gettyterms="http://portal.getty.edu/terms/gri/"
+     xmlns:local="http://library.princeton.edu"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Pittvre del Doni, academico pellegrino : nelle quali si mostra di nuoua inuentione : amore, fortuna, tempo, castità, religione, sdegno, riforma, morte, sonno &amp; sogno, huomo, republica, &amp; magnanimità : divise in due trattati : libro primo.</title>
+            <respStmt>
+               <orgName>Getty Research Institute</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <idno type="URI">http://portal.getty.edu/books/gri_9926333220001551</idno>
+            <idno type="URI">http://portal.getty.edu/api/fp5j82</idno>
+            <idno>(OCoLC)2223791</idno>
+            <idno type="cico">115B</idno>
+            <idno type="dcl">78f</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Pittvre del Doni, academico pellegrino : nelle quali si mostra di nuoua inuentione : amore, fortuna, tempo, castità, religione, sdegno, riforma, morte, sonno &amp; sogno, huomo, republica, &amp; magnanimità : divise in due trattati : libro primo.</title>
+                  <respStmt>
+                     <persName>Doni, Anton Francesco, 1513-1574</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>In Padova : Appresso Gratioso Perchacino</publisher>
+                     <date>1564</date>
+                  </imprint>
+                  <extent>64 leaves</extent>
+               </monogr>
+               <relatedItem type="manifest"
+                            target="https://media.getty.edu/iiif/manifest/8be8a6c0-a545-4be3-8faa-922e6ee259dd"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Conduct of life -- Early works to 1800.</term>
+               <term>Virtue -- Early works to 1800.</term>
+               <term>Conduct of life.</term>
+               <term>Virtue.</term>
+               <term>PQ4621.D5 P5 1564</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json"
+             url="https://media.getty.edu/iiif/manifest/8be8a6c0-a545-4be3-8faa-922e6ee259dd">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>

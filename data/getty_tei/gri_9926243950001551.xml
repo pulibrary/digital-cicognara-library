@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:dcterms="http://purl.org/dc/terms/"
+     xmlns:gettyterms="http://portal.getty.edu/terms/gri/"
+     xmlns:local="http://library.princeton.edu"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Catalogue de tableaux, sculptures, dessins, estampes encadrées, en feuilles &amp; en recueils d'un précieux fonds de planches gravées avec leurs epreuves; de divers ustensiles de graveur &amp; autre objets de curiosité : le tout provenant de la succession de feu M. Le Bas, premier graveur du cabinet du roi, pensionnaire de Sa Majesté, conseiller en son academie de peinture &amp; sculpture, &amp;c. : dont la vente se fera dans les premiers jours du mois de décembre prochain, en sa maison, rue du Roin Saint-Jacques, au coin de celle Boutebrie / par Me. Hayot de Longpré, huissier-commissaire-priseur.</title>
+            <respStmt>
+               <orgName>Getty Research Institute</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Le Bas, Jacques-Philippe, 1707-1783</authority>
+            <authority>Clousier, Jacques-Gabriel, -1804?, printer.</authority>
+            <authority>Joullain, F. C., fils, 1734?-1790, expert.</authority>
+            <idno type="URI">http://portal.getty.edu/books/gri_9926243950001551</idno>
+            <idno type="URI">http://portal.getty.edu/api/1k9r7d</idno>
+            <idno>(OCoLC)171622341</idno>
+            <idno type="cico">4501</idno>
+            <idno type="cico">4500</idno>
+            <idno type="dcl">c9j</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Catalogue de tableaux, sculptures, dessins, estampes encadrées, en feuilles &amp; en recueils d'un précieux fonds de planches gravées avec leurs epreuves; de divers ustensiles de graveur &amp; autre objets de curiosité : le tout provenant de la succession de feu M. Le Bas, premier graveur du cabinet du roi, pensionnaire de Sa Majesté, conseiller en son academie de peinture &amp; sculpture, &amp;c. : dont la vente se fera dans les premiers jours du mois de décembre prochain, en sa maison, rue du Roin Saint-Jacques, au coin de celle Boutebrie / par Me. Hayot de Longpré, huissier-commissaire-priseur.</title>
+                  <respStmt>
+                     <persName>Hayot de Longpré, Philippe, auctioneer.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>French</textLang>
+                  <imprint>
+                     <publisher>Le présent catalogue se vend 24 fols. a Paris : Chez Clousier, imprimeur-libraire, rue de Sorbonne, Joullain, marchand de tableaux &amp; c estampes, quai de la Mégisserie, et dans la maison de feu M. Le Bas</publisher>
+                     <pubPlace>France</pubPlace>
+                     <pubPlace>France Paris.</pubPlace>
+                     <date>MDCCLXXXIII [1783]</date>
+                     <date>1783</date>
+                  </imprint>
+                  <extent>[4], xlviij, [1], 92 p.</extent>
+               </monogr>
+               <relatedItem type="manifest"
+                            target="https://media.getty.edu/iiif/manifest/dd53307a-c364-4979-899d-88666e4e227a"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Le Bas, Jacques-Philippe, 1707-1783 -- Art collections -- Catalogs.</term>
+               <term>Prints, European -- Catalogs -- Early works to 1800.</term>
+               <term>Drawing, European -- Catalogs -- Early works to 1800.</term>
+               <term>Art -- Private collections -- France -- Paris -- Catalogs -- Early works to 1800.</term>
+               <term>Le Bas, Jacques-Philippe, 1707-1783</term>
+               <term>Art -- Private collections.</term>
+               <term>Drawing, European.</term>
+               <term>Prints, European.</term>
+               <term>France -- Paris.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json"
+             url="https://media.getty.edu/iiif/manifest/dd53307a-c364-4979-899d-88666e4e227a">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>

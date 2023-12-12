@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:dcterms="http://purl.org/dc/terms/"
+     xmlns:gettyterms="http://portal.getty.edu/terms/gri/"
+     xmlns:local="http://library.princeton.edu"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Vita inedita di Raffaello da Urbino : illustrata con note / da Angelo Comolli.</title>
+            <respStmt>
+               <orgName>Getty Research Institute</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <idno type="URI">http://portal.getty.edu/books/gri_9922250850001551</idno>
+            <idno type="URI">http://portal.getty.edu/api/t32g4d</idno>
+            <idno>(OCoLC)123943705</idno>
+            <idno type="cico">2242</idno>
+            <idno type="dcl">75v</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Vita inedita di Raffaello da Urbino : illustrata con note / da Angelo Comolli.</title>
+                  <respStmt>
+                     <persName>Comolli, Angelo</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>Roma : Appresso Il Salvioni</publisher>
+                     <pubPlace>Italy</pubPlace>
+                     <pubPlace>Italy.</pubPlace>
+                     <pubPlace>Italy Rome.</pubPlace>
+                     <date>MDCCXCI [1791]</date>
+                     <date>1791</date>
+                  </imprint>
+                  <extent>[4], 104 p.</extent>
+               </monogr>
+               <relatedItem type="manifest"
+                            target="https://media.getty.edu/iiif/manifest/94f4adee-eb7d-4f85-a93d-c66a811c4993"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Raphael, 1483-1520</term>
+               <term>Raphael, 1483-1520</term>
+               <term>Painters -- Italy -- Biography -- Early works to 1800.</term>
+               <term>Painters.</term>
+               <term>Italy.</term>
+               <term>N44.R25 C6 1791</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json"
+             url="https://media.getty.edu/iiif/manifest/94f4adee-eb7d-4f85-a93d-c66a811c4993">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>

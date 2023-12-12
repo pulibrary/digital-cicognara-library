@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:dcterms="http://purl.org/dc/terms/"
+     xmlns:gettyterms="http://portal.getty.edu/terms/gri/"
+     xmlns:local="http://library.princeton.edu"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Vitae, et res gestae Pontificum Romanorum et S.R.E. Cardinalium a Clemente X. usque ad Clementem XII. / scriptae a Mario Guarnacci ... ; quibus perducitur ad nostra haec tempora historia eorumdem ab Alphonso Ciacconio Ordinis Praedicatorum aliisque descripta a S. Petro ad Clementem IX.</title>
+            <respStmt>
+               <orgName>Getty Research Institute</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Chacón, Alfonso, 1540-1599. Vitae et gesta summorum pontificum à Christo Domino usque ad Clementem VIII.</authority>
+            <authority>Rossi, Girolamo, 1682-1762?</authority>
+            <authority>Nelli, Pietro, 1672-1740</authority>
+            <authority>Monaldini, Venanzio</authority>
+            <authority>Bernabò, Giovanni Battista, 1702-1769</authority>
+            <authority>Lazzarini, Giuseppe, 1702-1780</authority>
+            <idno type="URI">http://portal.getty.edu/books/gri_9929059040001551</idno>
+            <idno type="URI">http://portal.getty.edu/api/7r591m</idno>
+            <idno type="URI">http://portal.getty.edu/api/kg116n</idno>
+            <idno>(OCoLC)53937922</idno>
+            <idno type="cico">3670-2</idno>
+            <idno type="dcl">bpv</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Vitae, et res gestae Pontificum Romanorum et S.R.E. Cardinalium a Clemente X. usque ad Clementem XII. / scriptae a Mario Guarnacci ... ; quibus perducitur ad nostra haec tempora historia eorumdem ab Alphonso Ciacconio Ordinis Praedicatorum aliisque descripta a S. Petro ad Clementem IX.</title>
+                  <respStmt>
+                     <persName>Guarnacci, Mario, 1701-1785</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Latin</textLang>
+                  <imprint>
+                     <publisher>Romae : Sumptibus Venantii Monaldini :</publisher>
+                     <pubPlace>Italy Rome.</pubPlace>
+                     <date>1751</date>
+                  </imprint>
+                  <extent>2 v.</extent>
+               </monogr>
+               <relatedItem type="manifest"
+                            target="https://media.getty.edu/iiif/manifest/4b10dfda-37ea-45a2-806c-c0e95ffb60d4https://media.getty.edu/iiif/manifest/f7f4e05a-74bc-4339-a473-4661dc7e15cc"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Papacy -- History -- Early works to 1800.</term>
+               <term>Popes -- Biography -- Early works to 1800.</term>
+               <term>Popes -- Portraits -- Early works to 1800.</term>
+               <term>Cardinals -- Biography -- Early works to 1800.</term>
+               <term>Cardinals -- Portraits -- Early works to 1800.</term>
+               <term>Catholic Church -- Clergy -- Biography.</term>
+               <term>Catholic Church.</term>
+               <term>Clergy.</term>
+               <term>Cardinals.</term>
+               <term>Papacy.</term>
+               <term>Popes.</term>
+               <term>BX953 .G837 1751</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json"
+             url="https://media.getty.edu/iiif/manifest/4b10dfda-37ea-45a2-806c-c0e95ffb60d4">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+   <facsimile>
+      <media mimeType="application/json"
+             url="https://media.getty.edu/iiif/manifest/f7f4e05a-74bc-4339-a473-4661dc7e15cc">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>

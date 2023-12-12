@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:dcterms="http://purl.org/dc/terms/"
+     xmlns:gettyterms="http://portal.getty.edu/terms/gri/"
+     xmlns:local="http://library.princeton.edu"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Roma antica e moderna, o sia, Nuova descrizione di tutti gl' edifici antichi e moderni, tanto sagri, quanto profani della citta' di Roma ... abbellita con duecento e più figure di rame, e con curiose notizie istoriche ... divisa in tre tomi ...</title>
+            <respStmt>
+               <orgName>National Gallery of Art Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Roisecco, Gregorio.</authority>
+            <idno type="URI">http://portal.getty.edu/books/nga_99682083504896</idno>
+            <idno type="URI">http://portal.getty.edu/api/zm7k68</idno>
+            <idno>(OCoLC)973454271</idno>
+            <idno type="cico">3855</idno>
+            <idno type="dcl">qp6</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Roma antica e moderna, o sia, Nuova descrizione di tutti gl' edifici antichi e moderni, tanto sagri, quanto profani della citta' di Roma ... abbellita con duecento e più figure di rame, e con curiose notizie istoriche ... divisa in tre tomi ...</title>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>Roma : Appresso Gregorio Roisecco</publisher>
+                     <pubPlace>Rome (Italy)</pubPlace>
+                     <date>1750</date>
+                  </imprint>
+                  <extent>3 v.</extent>
+               </monogr>
+               <relatedItem type="manifest"
+                            target="https://libraryimage.nga.gov/manifest/mms/99682083504896.json"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Rome (Italy) -- Description and travel.</term>
+               <term>Rome (Italy) -- Antiquities.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json"
+             url="https://libraryimage.nga.gov/manifest/mms/99682083504896.json">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:dcterms="http://purl.org/dc/terms/"
+     xmlns:gettyterms="http://portal.getty.edu/terms/gri/"
+     xmlns:local="http://library.princeton.edu"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Pomponii Gaurici Neapolitani De sculptura : ubi agitur De Symetriis, De lineamentis, De physiognomonia, De perspectiva, De chemice, De ectyposi, De celatura, eiusbq; speciebus, Praeterea de caeteris spiebus staturarie, De plastice, De proplastice, De paradigmatice, De tomice, De colaptice, De claris sculptoribns [sic] Ac plerisq; aliis rebus scitu dignissimis.</title>
+            <respStmt>
+               <orgName>National Gallery of Art Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <idno type="URI">http://portal.getty.edu/books/nga_99750243504896</idno>
+            <idno type="URI">http://portal.getty.edu/api/nz5709</idno>
+            <idno>(OCoLC)973464319</idno>
+            <idno type="cico">277</idno>
+            <idno type="dcl">tv7</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Pomponii Gaurici Neapolitani De sculptura : ubi agitur De Symetriis, De lineamentis, De physiognomonia, De perspectiva, De chemice, De ectyposi, De celatura, eiusbq; speciebus, Praeterea de caeteris spiebus staturarie, De plastice, De proplastice, De paradigmatice, De tomice, De colaptice, De claris sculptoribns [sic] Ac plerisq; aliis rebus scitu dignissimis.</title>
+                  <respStmt>
+                     <persName>Gaurico, Pomponio, 1481 or 1482-1528</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Latin</textLang>
+                  <imprint>
+                     <publisher>Florentiae : [s.n.]</publisher>
+                     <date>1504</date>
+                  </imprint>
+                  <extent>[95] p.</extent>
+               </monogr>
+               <relatedItem type="manifest"
+                            target="https://libraryimage.nga.gov/manifest/mms/99750243504896.json"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Sculpture -- Early works to 1800</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json"
+             url="https://libraryimage.nga.gov/manifest/mms/99750243504896.json">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>

@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:dcterms="http://purl.org/dc/terms/"
+     xmlns:gettyterms="http://portal.getty.edu/terms/gri/"
+     xmlns:local="http://library.princeton.edu"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Osservazioni sopra il libro della Felsina pittrice per difesa di Raffaello da Urbino, dei Caracci, e della loro scuola / publicate, e divise in sette lettere da D. Vincenzo Vittoria ...</title>
+            <respStmt>
+               <orgName>Getty Research Institute</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Zenobi, Gaetano, fl. 1698-1707.</authority>
+            <idno type="URI">http://portal.getty.edu/books/gri_9926795750001551</idno>
+            <idno type="URI">http://portal.getty.edu/api/5f5k4t</idno>
+            <idno>(OCoLC)13336115</idno>
+            <idno type="cico">2404</idno>
+            <idno type="dcl">g8d</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Osservazioni sopra il libro della Felsina pittrice per difesa di Raffaello da Urbino, dei Caracci, e della loro scuola / publicate, e divise in sette lettere da D. Vincenzo Vittoria ...</title>
+                  <respStmt>
+                     <persName>Victoria, Vicente, 1658-1712.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>In Roma : Nella stamparia di Gaetano Zenobj</publisher>
+                     <pubPlace>Italy</pubPlace>
+                     <pubPlace>Italy Rome.</pubPlace>
+                     <date>1703</date>
+                  </imprint>
+                  <extent>114, [2] p., [1] leaf of plates</extent>
+               </monogr>
+               <relatedItem type="manifest"
+                            target="https://media.getty.edu/iiif/manifest/8c98adb7-d91e-4885-9869-eb45884f1999"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Malvasia, Carlo Cesare, conte, 1616-1693. Felsina pittrice.</term>
+               <term>Painters -- Italy -- Bologna -- Biography -- Early works to 1800.</term>
+               <term>Felsina pittrice (Malvasia, Carlo Cesare, conte)</term>
+               <term>Painters</term>
+               <term>Italy -- Bologna</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json"
+             url="https://media.getty.edu/iiif/manifest/8c98adb7-d91e-4885-9869-eb45884f1999">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>

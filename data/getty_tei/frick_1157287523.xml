@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:dcterms="http://purl.org/dc/terms/"
+     xmlns:gettyterms="http://portal.getty.edu/terms/gri/"
+     xmlns:local="http://library.princeton.edu"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Artisti alemanni / [opera di Neu Maÿr]</title>
+            <respStmt>
+               <orgName>Frick Art Reference Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <idno type="URI">http://portal.getty.edu/books/frick_1157287523</idno>
+            <idno type="URI">http://portal.getty.edu/api/zg4d1g</idno>
+            <idno type="URI">http://portal.getty.edu/api/781k4c</idno>
+            <idno>(OCoLC)1157287523</idno>
+            <idno type="cico">2333A.</idno>
+            <idno type="cico">2333B.</idno>
+            <idno type="cico">2333C.</idno>
+            <idno type="cico">2333D.</idno>
+            <idno type="dcl">231</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Artisti alemanni / [opera di Neu Maÿr]</title>
+                  <respStmt>
+                     <persName>Neumayr, Antonio, 1772-1840.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>Venezia : Per Francesco Andreola</publisher>
+                     <pubPlace>Germany</pubPlace>
+                     <pubPlace>Germany.</pubPlace>
+                     <date>1819-</date>
+                     <date>1819</date>
+                  </imprint>
+                  <extent>1 online resource (2 volumes)</extent>
+               </monogr>
+               <relatedItem type="manifest"
+                            target="https://imagesdigitalcollections.frick.org/compare/barcode/31072001605825https://imagesdigitalcollections.frick.org/compare/barcode/31072001605833"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Artists -- Germany -- Biography -- Dictionaries.</term>
+               <term>Artists -- Germany.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json"
+             url="https://imagesdigitalcollections.frick.org/compare/barcode/31072001605825">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+   <facsimile>
+      <media mimeType="application/json"
+             url="https://imagesdigitalcollections.frick.org/compare/barcode/31072001605833">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>

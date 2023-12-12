@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:dcterms="http://purl.org/dc/terms/"
+     xmlns:gettyterms="http://portal.getty.edu/terms/gri/"
+     xmlns:local="http://library.princeton.edu"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Delle lodi delle belle arti : orazione e componimenti poetici detti in Campidoglio in occasione della festa del concorso celebrata dall'insigne accademia del disegno di S. Luca : essendo principe de essa il signor Placido Costanzi, l'anno MDCCLVIII ...</title>
+            <respStmt>
+               <orgName>National Gallery of Art Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Carrara, Francesco.</authority>
+            <authority>Accademia di San Luca.</authority>
+            <idno type="URI">http://portal.getty.edu/books/nga_99979903504896</idno>
+            <idno type="URI">http://portal.getty.edu/api/6t9q3g</idno>
+            <idno>(OCoLC)79891802</idno>
+            <idno type="cico">1307</idno>
+            <idno type="dcl">100</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Delle lodi delle belle arti : orazione e componimenti poetici detti in Campidoglio in occasione della festa del concorso celebrata dall'insigne accademia del disegno di S. Luca : essendo principe de essa il signor Placido Costanzi, l'anno MDCCLVIII ...</title>
+                  <respStmt>
+                     <persName>Costanzi, Placido.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>In Roma : Appresso Niccolò e Marco Pagliarini</publisher>
+                     <date>1758</date>
+                  </imprint>
+                  <extent>xvi, 109, [1] p.</extent>
+               </monogr>
+               <relatedItem type="manifest"
+                            target="https://libraryimage.nga.gov/manifest/mms/99979903504896.json"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Accademia di San Luca.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json"
+             url="https://libraryimage.nga.gov/manifest/mms/99979903504896.json">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>

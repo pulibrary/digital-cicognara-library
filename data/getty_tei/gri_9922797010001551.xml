@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:dcterms="http://purl.org/dc/terms/"
+     xmlns:gettyterms="http://portal.getty.edu/terms/gri/"
+     xmlns:local="http://library.princeton.edu"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Monumenti antichi inediti / spiegati ed illustrati da Giovanni Winckelmann.</title>
+            <respStmt>
+               <orgName>Getty Research Institute</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <idno type="URI">http://portal.getty.edu/books/gri_9922797010001551</idno>
+            <idno type="URI">http://portal.getty.edu/api/97006m</idno>
+            <idno type="URI">http://portal.getty.edu/api/8c3c98</idno>
+            <idno>(OCoLC)1015483212</idno>
+            <idno type="cico">2506</idno>
+            <idno type="dcl">pc8</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Monumenti antichi inediti / spiegati ed illustrati da Giovanni Winckelmann.</title>
+                  <respStmt>
+                     <persName>Winckelmann, Johann Joachim, 1717-1768</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>Roma : A spese dell'autore</publisher>
+                     <pubPlace>Italy</pubPlace>
+                     <pubPlace>Rome</pubPlace>
+                     <pubPlace>Rome (Empire)</pubPlace>
+                     <date>1767</date>
+                  </imprint>
+                  <extent>2 v.</extent>
+               </monogr>
+               <relatedItem type="manifest"
+                            target="https://media.getty.edu/iiif/manifest/b6f630a2-2bc6-4a5c-b516-316199afce1ahttps://media.getty.edu/iiif/manifest/a0680c1e-9e4d-4221-af25-94a22610787e"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Albani, Alessandro, 1692-1779 -- Art collections.</term>
+               <term>Art, Ancient -- Private collections -- Italy -- Rome.</term>
+               <term>Rome -- Antiquities -- Early works to 1800.</term>
+               <term>Albani, Alessandro, 1692-1779</term>
+               <term>Antiquities</term>
+               <term>Art, Ancient -- Private collections</term>
+               <term>Art -- Private collections</term>
+               <term>Italy -- Rome</term>
+               <term>Rome (Empire)</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json"
+             url="https://media.getty.edu/iiif/manifest/b6f630a2-2bc6-4a5c-b516-316199afce1a">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+   <facsimile>
+      <media mimeType="application/json"
+             url="https://media.getty.edu/iiif/manifest/a0680c1e-9e4d-4221-af25-94a22610787e">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>

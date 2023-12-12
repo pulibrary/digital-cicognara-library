@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:dcterms="http://purl.org/dc/terms/"
+     xmlns:gettyterms="http://portal.getty.edu/terms/gri/"
+     xmlns:local="http://library.princeton.edu"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Regole generali di architettura di Sabastiano Serlio Bolognese : sopra le cinque maniere de gliedifici, cioe, thoscano, dorico, ionico, corinthio, e composito ; con gli essempi de l'antiquita, che per la maggior parte concordano con la dottrina di Vitruuio.</title>
+            <respStmt>
+               <orgName>Getty Research Institute</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Sessa, Melchiorre, active 1546-1600, printer</authority>
+            <authority>Nicolini da Sabbio, Pietro, bookseller.</authority>
+            <idno type="URI">http://portal.getty.edu/books/gri_9933530610601551</idno>
+            <idno type="URI">http://portal.getty.edu/api/4q0p10</idno>
+            <idno>(OCoLC)77626524</idno>
+            <idno type="cico">664-3</idno>
+            <idno type="dcl">qg9</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Regole generali di architettura di Sabastiano Serlio Bolognese : sopra le cinque maniere de gliedifici, cioe, thoscano, dorico, ionico, corinthio, e composito ; con gli essempi de l'antiquita, che per la maggior parte concordano con la dottrina di Vitruuio.</title>
+                  <respStmt>
+                     <persName>Serlio, Sebastiano, 1475-1554</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>In Venetia : Per Pietro de Nicolini da Sabbio, ad instantia di Marchione Sessa</publisher>
+                     <pubPlace>Rome</pubPlace>
+                     <pubPlace>Rome (Empire)</pubPlace>
+                     <pubPlace>Italy Venice.</pubPlace>
+                     <date>MDLI [1551]</date>
+                     <date>1551</date>
+                  </imprint>
+                  <extent>LXXVI leaves</extent>
+               </monogr>
+               <relatedItem type="manifest"
+                            target="https://media.getty.edu/iiif/manifest/8570660b-3f2e-4fc2-be49-b5ea9fbf76a6"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Architecture -- Early works to 1800.</term>
+               <term>Architecture -- Orders -- Early works to 1800.</term>
+               <term>Architecture, Roman -- Early works to 1800.</term>
+               <term>Rome -- Antiquities -- Early works to 1800.</term>
+               <term>Antiquities</term>
+               <term>Architecture</term>
+               <term>Architecture -- Orders</term>
+               <term>Architecture, Roman</term>
+               <term>Rome (Empire)</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json"
+             url="https://media.getty.edu/iiif/manifest/8570660b-3f2e-4fc2-be49-b5ea9fbf76a6">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>

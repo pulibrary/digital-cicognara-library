@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:dcterms="http://purl.org/dc/terms/"
+     xmlns:gettyterms="http://portal.getty.edu/terms/gri/"
+     xmlns:local="http://library.princeton.edu"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Delle ornatrici, e de' loro uffizj de insieme della superstizione de' gentili nella chioma, e della cultura della medesima presso le antiche donne romane [microform] / opera del signor marchese Francesco Eugenio Guasco ...</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985334443506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/0f5r2s</idno>
+            <idno type="cico">1667</idno>
+            <idno type="dcl">306</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Delle ornatrici, e de' loro uffizj de insieme della superstizione de' gentili nella chioma, e della cultura della medesima presso le antiche donne romane [microform] / opera del signor marchese Francesco Eugenio Guasco ...</title>
+                  <respStmt>
+                     <persName>Guasco, Francesco Eugenio, 1725-1798.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>Napoli : Nella stamperia di Giovanni Gravier</publisher>
+                     <pubPlace>Italy</pubPlace>
+                     <date>1775</date>
+                  </imprint>
+                  <extent>x, 179 p.</extent>
+                  <extent>3 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest"
+                            target="https://figgy.princeton.edu/concern/scanned_resources/b3f367b9-02e1-4a0e-8717-8c247f25a05f/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Beauty, Personal -- Early works to 1800.</term>
+               <term>Hairdressing -- Italy -- Rome -- Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json"
+             url="https://figgy.princeton.edu/concern/scanned_resources/b3f367b9-02e1-4a0e-8717-8c247f25a05f/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>

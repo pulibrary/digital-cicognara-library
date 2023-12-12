@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:dcterms="http://purl.org/dc/terms/"
+     xmlns:gettyterms="http://portal.getty.edu/terms/gri/"
+     xmlns:local="http://library.princeton.edu"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Ragionamenti del Sig. cavaliere Giorgio Vasari, pittore e architetto aretino [microform] : sopra le inuentioni da lui dipinte in Firenze nel Palazzo di Loro Altezze Serenissime ; con lo illustriss. &amp; eccellentiss. Signor Don Francesco Medici allora principe di Firenze ; insieme con la inuentione della pittura da lui cominciata nella cvpola ; con due tavole ...</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Vasari, Giorgio, 1562-1625.</authority>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985265663506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/v3068g</idno>
+            <idno type="cico">225</idno>
+            <idno type="dcl">dzk</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Ragionamenti del Sig. cavaliere Giorgio Vasari, pittore e architetto aretino [microform] : sopra le inuentioni da lui dipinte in Firenze nel Palazzo di Loro Altezze Serenissime ; con lo illustriss. &amp; eccellentiss. Signor Don Francesco Medici allora principe di Firenze ; insieme con la inuentione della pittura da lui cominciata nella cvpola ; con due tavole ...</title>
+                  <respStmt>
+                     <persName>Vasari, Giorgio, 1511-1574.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>In Firenze : Appresso F. Giunti</publisher>
+                     <pubPlace>Italy</pubPlace>
+                     <date>1588</date>
+                  </imprint>
+                  <extent>[8], 186, [18] p.</extent>
+                  <extent>4 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest"
+                            target="https://figgy.princeton.edu/concern/scanned_resources/63d768ee-8b5e-41cf-8ec4-f8b2c50a7686/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Palazzo vecchio (Florence, Italy)</term>
+               <term>Mural painting and decoration, Italian -- Italy -- Florence.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json"
+             url="https://figgy.princeton.edu/concern/scanned_resources/63d768ee-8b5e-41cf-8ec4-f8b2c50a7686/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>

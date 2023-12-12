@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:dcterms="http://purl.org/dc/terms/"
+     xmlns:gettyterms="http://portal.getty.edu/terms/gri/"
+     xmlns:local="http://library.princeton.edu"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Mascarades / recuillies &amp; mises en taille douce par Robert Boissart, valentianois ; Iani Iacobi Boissardi invent. ...</title>
+            <respStmt>
+               <orgName>Getty Research Institute</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Boissard, Robert, approximately 1570-</authority>
+            <idno type="URI">http://portal.getty.edu/books/gri_9929232400001551</idno>
+            <idno type="URI">http://portal.getty.edu/api/f91m23</idno>
+            <idno>(OCoLC)78604725</idno>
+            <idno type="cico">1594-1</idno>
+            <idno type="dcl">qs8</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Mascarades / recuillies &amp; mises en taille douce par Robert Boissart, valentianois ; Iani Iacobi Boissardi invent. ...</title>
+                  <respStmt>
+                     <persName>Boissard, Jean Jacques, 1528-1602</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Latin</textLang>
+                  <imprint>
+                     <publisher>[Strasbourg?] : [publisher not identified]</publisher>
+                     <date>1597</date>
+                  </imprint>
+                  <extent>27 unnumbered leaves</extent>
+               </monogr>
+               <relatedItem type="manifest"
+                            target="https://media.getty.edu/iiif/manifest/4f10013d-4710-4ebc-9343-5e6558594917"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Masquerades -- Early works to 1800.</term>
+               <term>Costume -- Early works to 1800.</term>
+               <term>Costume.</term>
+               <term>Masquerades.</term>
+               <term>NE650.B657 M3 1597</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json"
+             url="https://media.getty.edu/iiif/manifest/4f10013d-4710-4ebc-9343-5e6558594917">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>

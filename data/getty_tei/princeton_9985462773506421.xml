@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:dcterms="http://purl.org/dc/terms/"
+     xmlns:gettyterms="http://portal.getty.edu/terms/gri/"
+     xmlns:local="http://library.princeton.edu"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Dialogismo simbolico per l'inventione della contrada di Fontebranda detta dell'Ocha [microform] : da rappresentarsi nel corso delle bufale nella publica piazza di Siena ...</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <authority>Leopoldo Cicognara Program (University of Illinois at Urbana-Champaign)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985462773506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/c30n10</idno>
+            <idno type="cico">1414</idno>
+            <idno type="cico">1487[b]</idno>
+            <idno type="dcl">znc</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Dialogismo simbolico per l'inventione della contrada di Fontebranda detta dell'Ocha [microform] : da rappresentarsi nel corso delle bufale nella publica piazza di Siena ...</title>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>In Siena : Appresso Matteo Florimi</publisher>
+                     <pubPlace>Italy</pubPlace>
+                     <date>1612</date>
+                  </imprint>
+                  <extent>[8] p.</extent>
+                  <extent>1 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest"
+                            target="https://figgy.princeton.edu/concern/scanned_resources/b9aba758-ce0e-47ef-a2f0-8c1273c60829/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Festivals -- Italy -- Siena -- Early works to 1800.</term>
+               <term>Parade floats -- Italy -- Siena -- Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json"
+             url="https://figgy.princeton.edu/concern/scanned_resources/b9aba758-ce0e-47ef-a2f0-8c1273c60829/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>

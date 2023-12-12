@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:dcterms="http://purl.org/dc/terms/"
+     xmlns:gettyterms="http://portal.getty.edu/terms/gri/"
+     xmlns:local="http://library.princeton.edu"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Voyage pittoresque de la Grèce.</title>
+            <respStmt>
+               <orgName>Getty Research Institute</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Barbié du Bocage, Jean Denis, 1760-1825</authority>
+            <authority>Letronne, M. (Antoine-Jean), 1787-1848</authority>
+            <idno type="URI">http://portal.getty.edu/books/gri_9928728870001551</idno>
+            <idno type="URI">http://portal.getty.edu/api/5t5v9n</idno>
+            <idno type="URI">http://portal.getty.edu/api/3x6k3x</idno>
+            <idno type="URI">http://portal.getty.edu/api/sg2602</idno>
+            <idno>(OCoLC)2356486</idno>
+            <idno type="cico">2659</idno>
+            <idno type="dcl">t2r</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Voyage pittoresque de la Grèce.</title>
+                  <respStmt>
+                     <persName>Choiseul-Gouffier, Marie-Gabriel-Auguste-Florent, comte de, 1752-1817</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>French</textLang>
+                  <imprint>
+                     <publisher>Paris</publisher>
+                     <pubPlace>Greece</pubPlace>
+                     <pubPlace>Greece.</pubPlace>
+                     <date>1782-[1824]</date>
+                     <date>1782</date>
+                  </imprint>
+                  <extent>volumes</extent>
+               </monogr>
+               <relatedItem type="manifest"
+                            target="https://media.getty.edu/iiif/manifest/dc8a6047-1e45-4a6c-aa12-2775f2a457e9"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Greece -- Description and travel.</term>
+               <term>Greece -- Antiquities.</term>
+               <term>Antiquities.</term>
+               <term>Travel.</term>
+               <term>Greece.</term>
+               <term>DF721 .C54</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json"
+             url="https://media.getty.edu/iiif/manifest/dc8a6047-1e45-4a6c-aa12-2775f2a457e9">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>

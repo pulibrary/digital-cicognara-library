@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:dcterms="http://purl.org/dc/terms/"
+     xmlns:gettyterms="http://portal.getty.edu/terms/gri/"
+     xmlns:local="http://library.princeton.edu"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Crudelitas in Catholicis mactandis [microform].</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985342623506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/jf024s</idno>
+            <idno type="cico">2008</idno>
+            <idno type="dcl">j5c</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Crudelitas in Catholicis mactandis [microform].</title>
+                  <respStmt>
+                     <persName>Cavalieri, Giovanni Battista, approximately 1525-1601.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>[Romae : s.n]</publisher>
+                     <pubPlace>England</pubPlace>
+                     <date>[1584]</date>
+                     <date>1584</date>
+                  </imprint>
+                  <extent>[1], 4 p.</extent>
+                  <extent>1 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest"
+                            target="https://figgy.princeton.edu/concern/scanned_resources/b79be1ba-38b3-4cec-949f-75fdafed256e/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Christian martyrs -- England -- Early works to 1800.</term>
+               <term>Martyrdom (Christianity) in art -- Early works to 1800.</term>
+               <term>Persecution -- England -- History.</term>
+               <term>Torture -- Religious aspects -- Christianity -- Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json"
+             url="https://figgy.princeton.edu/concern/scanned_resources/b79be1ba-38b3-4cec-949f-75fdafed256e/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>

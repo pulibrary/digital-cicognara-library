@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:dcterms="http://purl.org/dc/terms/"
+     xmlns:gettyterms="http://portal.getty.edu/terms/gri/"
+     xmlns:local="http://library.princeton.edu"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Oevvre de la diversite des termes, dont on vse en archítecture, reduict en ordre. Par Maistre Huges Sambin ...</title>
+            <respStmt>
+               <orgName>Getty Research Institute</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <idno type="URI">http://portal.getty.edu/books/gri_9922443600001551</idno>
+            <idno type="URI">http://portal.getty.edu/api/k29b3v</idno>
+            <idno>(OCoLC)3487602</idno>
+            <idno type="cico">2176</idno>
+            <idno type="dcl">70v</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Oevvre de la diversite des termes, dont on vse en archítecture, reduict en ordre. Par Maistre Huges Sambin ...</title>
+                  <respStmt>
+                     <persName>Sambin, Hugues, 1520?-1601</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>French</textLang>
+                  <imprint>
+                     <publisher>A Lyon, Par Iean Dvrant</publisher>
+                     <date>1572</date>
+                  </imprint>
+                  <extent>76 pages, 1 leaf</extent>
+               </monogr>
+               <relatedItem type="manifest"
+                            target="https://media.getty.edu/iiif/manifest/688a7047-5931-48f3-84ad-bfb290daa672"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Decoration and ornament, Architectural.</term>
+               <term>Architecture -- Details.</term>
+               <term>Architecture -- Details.</term>
+               <term>Decoration and ornament, Architectural.</term>
+               <term>NA3310 .S3</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json"
+             url="https://media.getty.edu/iiif/manifest/688a7047-5931-48f3-84ad-bfb290daa672">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>

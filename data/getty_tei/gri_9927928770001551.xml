@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:dcterms="http://purl.org/dc/terms/"
+     xmlns:gettyterms="http://portal.getty.edu/terms/gri/"
+     xmlns:local="http://library.princeton.edu"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Dialogo di M. Lodovico Dolce, nel quale si ragiona del modo di accrescere e conseruar la memoria.</title>
+            <respStmt>
+               <orgName>Getty Research Institute</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Sessa, Melchiorre, active 1546-1600, printer, publisher.</authority>
+            <authority>Sessa, Giovanni Battista, active 1546-1602, printer, publisher.</authority>
+            <authority>Romberch, Johann Horst von, active 1505-1532. Congestorium artificiose memorie.</authority>
+            <authority>Giovanni Battista Sessa &amp; fratelli, publisher, printer.</authority>
+            <idno type="URI">http://portal.getty.edu/books/gri_9927928770001551</idno>
+            <idno type="URI">http://portal.getty.edu/api/9h4s4p</idno>
+            <idno>(OCoLC)19981294</idno>
+            <idno type="cico">3214</idno>
+            <idno type="dcl">sct</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Dialogo di M. Lodovico Dolce, nel quale si ragiona del modo di accrescere e conseruar la memoria.</title>
+                  <respStmt>
+                     <persName>Dolce, Lodovico, 1508-1568 author.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>In Venetia : Appresso Gio. Battista, et Marchio Sessa Fratelli</publisher>
+                     <pubPlace>Italy</pubPlace>
+                     <date>1562</date>
+                  </imprint>
+                  <extent>[4], 119, [1] leaves</extent>
+               </monogr>
+               <relatedItem type="manifest"
+                            target="https://media.getty.edu/iiif/manifest/5fe452bb-a9a5-46f7-85a7-2efb06425a7d"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Mnemonics -- Early works to 1800.</term>
+               <term>Early printed books -- Italy -- Venice -- 16th century -- Specimens.</term>
+               <term>Wood-engraving -- Italy -- 16th century -- Specimens.</term>
+               <term>Mnemonics.</term>
+               <term>BF383 .D6 1562</term>
+               <term>WZ 240 D662d 1562</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json"
+             url="https://media.getty.edu/iiif/manifest/5fe452bb-a9a5-46f7-85a7-2efb06425a7d">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>

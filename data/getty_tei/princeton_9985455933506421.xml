@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:dcterms="http://purl.org/dc/terms/"
+     xmlns:gettyterms="http://portal.getty.edu/terms/gri/"
+     xmlns:local="http://library.princeton.edu"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Discorsi letti nella grande aula dell'Imperiale Regio Palazzo Reale delle scienze e delle arti in occasione della solenne distribuzione de' premj dell'Imperiale Regia Accademia delle belle arti [microform] / fattasi da S.E. il Signore Conte di Saurau ... il giorno 14 agosto 1816.</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <authority>Leopoldo Cicognara Program (University of Illinois at Urbana-Champaign)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985455933506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/9t382k</idno>
+            <idno type="cico">1337</idno>
+            <idno type="dcl">x7w</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Discorsi letti nella grande aula dell'Imperiale Regio Palazzo Reale delle scienze e delle arti in occasione della solenne distribuzione de' premj dell'Imperiale Regia Accademia delle belle arti [microform] / fattasi da S.E. il Signore Conte di Saurau ... il giorno 14 agosto 1816.</title>
+                  <respStmt>
+                     <persName>Accademia di belle arti (Milan, Italy)</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>Milano : Dall'Imp. regia stamperia</publisher>
+                     <pubPlace>Italy</pubPlace>
+                     <date>1816</date>
+                  </imprint>
+                  <extent>64 p.</extent>
+                  <extent>1 microfiche ; 11 x 15 cm.</extent>
+               </monogr>
+               <relatedItem type="manifest"
+                            target="https://figgy.princeton.edu/concern/scanned_resources/020d9f66-a6fb-40cc-b58e-0837b6527746/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Accademia di belle arti (Milan, Italy) -- Awards.</term>
+               <term>Art -- Awards -- Italy -- Milan.</term>
+               <term>Speeches, addresses, etc., Italian.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json"
+             url="https://figgy.princeton.edu/concern/scanned_resources/020d9f66-a6fb-40cc-b58e-0837b6527746/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>

@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:dcterms="http://purl.org/dc/terms/"
+     xmlns:gettyterms="http://portal.getty.edu/terms/gri/"
+     xmlns:local="http://library.princeton.edu"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Views in Palestine [microform] : from the original drawings of Luigi Mayer : with an historical and descriptive account of the country, and its remarkable places = Vues en Palestine : d'après les dessins originaux de Luigi Mayer : avec une relation historique et descriptive du pay et des lieux principaux qu'on y remarque.</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985404183506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/998237</idno>
+            <idno type="cico">2530</idno>
+            <idno type="dcl">m2h</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Views in Palestine [microform] : from the original drawings of Luigi Mayer : with an historical and descriptive account of the country, and its remarkable places = Vues en Palestine : d'après les dessins originaux de Luigi Mayer : avec une relation historique et descriptive du pay et des lieux principaux qu'on y remarque.</title>
+                  <textLang>English</textLang>
+                  <textLang>French</textLang>
+                  <imprint>
+                     <publisher>London : Printed by T. Bensley for R. Bowyer</publisher>
+                     <pubPlace>Palestine</pubPlace>
+                     <date>1804</date>
+                  </imprint>
+                  <extent>47 p.</extent>
+                  <extent>4 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest"
+                            target="https://figgy.princeton.edu/concern/scanned_resources/cd69a73a-ab1b-498e-a34e-a6f74f03ae31/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Mayer, Luigi.</term>
+               <term>Palestine -- Description and travel.</term>
+               <term>Palestine -- In art.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json"
+             url="https://figgy.princeton.edu/concern/scanned_resources/cd69a73a-ab1b-498e-a34e-a6f74f03ae31/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>

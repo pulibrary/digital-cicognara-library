@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:dcterms="http://purl.org/dc/terms/"
+     xmlns:gettyterms="http://portal.getty.edu/terms/gri/"
+     xmlns:local="http://library.princeton.edu"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Le delizie della villa di Castellazzo : descritte in verso / dall'abbate Domencio Felice Leonardi lucchese fra gli Arcadi Ildosio Foloetico.</title>
+            <respStmt>
+               <orgName>Getty Research Institute</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Dal Re, Marc'Antonio, 1697-1766, engraver.</authority>
+            <authority>Malatesta, Giuseppe Richino, active 18th century, printer.</authority>
+            <authority>Arconati-Visconti, Giuseppe Antonio, conte, 1698-1763, dedicatee.</authority>
+            <idno type="URI">http://portal.getty.edu/books/gri_9923823090001551</idno>
+            <idno type="URI">http://portal.getty.edu/api/pn5h68</idno>
+            <idno>(OCoLC)80333652</idno>
+            <idno type="cico">4030</idno>
+            <idno type="dcl">wvj</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Le delizie della villa di Castellazzo : descritte in verso / dall'abbate Domencio Felice Leonardi lucchese fra gli Arcadi Ildosio Foloetico.</title>
+                  <respStmt>
+                     <persName>Leonardi, Domenico Felice, author.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>In Milano : Nella regia ducal corte, per Giuseppe Richino Malatesta, stampatore regio camerale</publisher>
+                     <pubPlace>Italy</pubPlace>
+                     <pubPlace>Italy Milan.</pubPlace>
+                     <date>MDCCXLIII [1743]</date>
+                     <date>1743</date>
+                  </imprint>
+                  <extent>LXVIII, [4] pages, [48] leaves of plates</extent>
+               </monogr>
+               <relatedItem type="manifest"
+                            target="https://media.getty.edu/iiif/manifest/6bf74084-a620-4fb5-b233-53d60f3d556b"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Villa Arconati (Bollate, Italy) -- Poetry.</term>
+               <term>Villa Arconati (Bollate, Italy) -- Pictorial works.</term>
+               <term>Villa Arconati (Bollate, Italy) -- Early works to 1800.</term>
+               <term>Palaces -- Italy -- Bollate -- Pictorial works.</term>
+               <term>Gardens -- Italy -- Bollate -- Pictorial works.</term>
+               <term>Villa Arconati (Bollate, Italy)</term>
+               <term>Gardens</term>
+               <term>Palaces</term>
+               <term>Italy -- Bollate.</term>
+               <term>PQ4707.L49 D45 1743</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json"
+             url="https://media.getty.edu/iiif/manifest/6bf74084-a620-4fb5-b233-53d60f3d556b">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>

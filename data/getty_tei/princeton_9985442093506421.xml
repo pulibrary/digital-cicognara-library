@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:dcterms="http://purl.org/dc/terms/"
+     xmlns:gettyterms="http://portal.getty.edu/terms/gri/"
+     xmlns:local="http://library.princeton.edu"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Il forastiere illuminato per le pitture, sculture, ed architetture della città di Padova [microform] : ovvero descrizione delle cose più rare della stessa città con altre curiose notizie / di Gio. Battista Rossetti.</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <authority>Leopoldo Cicognara Program (University of Illinois at Urbana-Champaign)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985442093506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/cj2m20</idno>
+            <idno type="cico">4279</idno>
+            <idno type="dcl">594</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Il forastiere illuminato per le pitture, sculture, ed architetture della città di Padova [microform] : ovvero descrizione delle cose più rare della stessa città con altre curiose notizie / di Gio. Battista Rossetti.</title>
+                  <respStmt>
+                     <persName>Rossetti, Giovambatista, 1696-1785.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>In Padova : Per il Conazti, a S. Bartolommeo</publisher>
+                     <pubPlace>Italy</pubPlace>
+                     <pubPlace>Padua (Italy)</pubPlace>
+                     <date>[1786]</date>
+                     <date>1786</date>
+                  </imprint>
+                  <extent>XII, 300 p.</extent>
+                  <extent>5 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest"
+                            target="https://figgy.princeton.edu/concern/scanned_resources/7c2e1aa0-f731-4b1d-adb7-1482faa4d344/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Art -- Italy -- Padua -- Guidebooks -- Early works to 1800.</term>
+               <term>Padua (Italy) -- Description and travel -- Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json"
+             url="https://figgy.princeton.edu/concern/scanned_resources/7c2e1aa0-f731-4b1d-adb7-1482faa4d344/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>

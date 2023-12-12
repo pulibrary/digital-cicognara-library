@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:dcterms="http://purl.org/dc/terms/"
+     xmlns:gettyterms="http://portal.getty.edu/terms/gri/"
+     xmlns:local="http://library.princeton.edu"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>De felicissimo Pavli. III. pont. max. adventv Pervsiam vrbem. ac praestitis civitatis officiis libellvs.</title>
+            <respStmt>
+               <orgName>Getty Research Institute</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <idno type="URI">http://portal.getty.edu/books/gri_9924062200001551</idno>
+            <idno type="URI">http://portal.getty.edu/api/900k6d</idno>
+            <idno>(OCoLC)78284470</idno>
+            <idno type="cico">1369</idno>
+            <idno type="dcl">v32</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>De felicissimo Pavli. III. pont. max. adventv Pervsiam vrbem. ac praestitis civitatis officiis libellvs.</title>
+                  <textLang>Latin</textLang>
+                  <imprint>
+                     <publisher>[Perugia, Italy?] : [publisher not identified]</publisher>
+                     <pubPlace>Italy</pubPlace>
+                     <pubPlace>Perugia (Italy)</pubPlace>
+                     <date>[1535?]</date>
+                     <date>1535</date>
+                  </imprint>
+                  <extent>1 volume (unpaged)</extent>
+               </monogr>
+               <relatedItem type="manifest"
+                            target="https://media.getty.edu/iiif/manifest/122b3fd9-1a91-43d8-becd-5fc2e0dd8bc3"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Paul III, Pope, 1468-1549</term>
+               <term>Papal visits -- Italy -- Perugia -- Early works to 1800.</term>
+               <term>Perugia (Italy) -- Social life and customs -- Early works to 1800.</term>
+               <term>Paul III, Pope, 1468-1549</term>
+               <term>Manners and customs.</term>
+               <term>Papal visits.</term>
+               <term>Italy -- Perugia.</term>
+               <term>DG975.P4 D44 1535</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json"
+             url="https://media.getty.edu/iiif/manifest/122b3fd9-1a91-43d8-becd-5fc2e0dd8bc3">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>

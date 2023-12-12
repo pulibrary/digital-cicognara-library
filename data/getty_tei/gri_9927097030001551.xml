@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:dcterms="http://purl.org/dc/terms/"
+     xmlns:gettyterms="http://portal.getty.edu/terms/gri/"
+     xmlns:local="http://library.princeton.edu"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>I riti nuziali degli antichi Romani : per le nozze di Sua Eccellenza don Giovanni Lambertini con Sua Eccellenza donna Lucrezia Savorgnan.</title>
+            <respStmt>
+               <orgName>Getty Research Institute</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Becattelli, Lorenzo.</authority>
+            <authority>Scarselli, Flaminio, 1705-1776. Dei riti delle antiche nozze romane.</authority>
+            <authority>Preti, Lodovico, 1727-1810.</authority>
+            <authority>Leonardis, Jacopo, 1723-approximately 1782.</authority>
+            <authority>Malvezzi, Floriano.</authority>
+            <authority>Bigheri, Vittorio.</authority>
+            <authority>Bigheri, Angelo.</authority>
+            <authority>Minozzi, Flaminio, 1735-1817.</authority>
+            <authority>Gandolfi, Gaetano, 1734-1802.</authority>
+            <authority>Ferri, Angelo.</authority>
+            <idno type="URI">http://portal.getty.edu/books/gri_9927097030001551</idno>
+            <idno type="URI">http://portal.getty.edu/api/1g5t41</idno>
+            <idno>(OCoLC)36661491</idno>
+            <idno type="cico">1780</idno>
+            <idno type="dcl">72v</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>I riti nuziali degli antichi Romani : per le nozze di Sua Eccellenza don Giovanni Lambertini con Sua Eccellenza donna Lucrezia Savorgnan.</title>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>In Bologna : Per Lelio dalla Volpe</publisher>
+                     <pubPlace>Italy</pubPlace>
+                     <pubPlace>Rome.</pubPlace>
+                     <pubPlace>Rome (Empire)</pubPlace>
+                     <date>MDCCLXII [1762]</date>
+                     <date>1762</date>
+                  </imprint>
+                  <extent>xvi, xxiv, 75 p.</extent>
+               </monogr>
+               <relatedItem type="manifest"
+                            target="https://media.getty.edu/iiif/manifest/2ce96157-9029-409a-9677-be7b9190f146"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Lambertini, Giovanni -- Marriage.</term>
+               <term>Savorgnan, Lucrezia -- Marriage.</term>
+               <term>Marriages of royalty and nobility -- Italy -- Bologna.</term>
+               <term>Marriage customs and rites -- Rome.</term>
+               <term>Weddings -- Italy -- Bologna.</term>
+               <term>Marriage</term>
+               <term>Marriage customs and rites</term>
+               <term>Marriages of royalty and nobility</term>
+               <term>Weddings</term>
+               <term>Italy -- Bologna</term>
+               <term>Rome (Empire)</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json"
+             url="https://media.getty.edu/iiif/manifest/2ce96157-9029-409a-9677-be7b9190f146">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>

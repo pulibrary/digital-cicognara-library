@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:dcterms="http://purl.org/dc/terms/"
+     xmlns:gettyterms="http://portal.getty.edu/terms/gri/"
+     xmlns:local="http://library.princeton.edu"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>De veri precetti della pittura di M. Gio. Battista Armenini da Faenza libri tre [microform] : ne' quali con bell'ordine d'vtili &amp; buoni auertimenti, per chi desidera in essa farsi con prestezza eccellente, di dimostrano i modi principali del disegnare, &amp; del dipignere, &amp; di fare le pitture, che si conuengono alle conditioni de' luoghi, &amp; delle persone. ...</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9984940723506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/890g4x</idno>
+            <idno type="cico">74</idno>
+            <idno type="dcl">gzj</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>De veri precetti della pittura di M. Gio. Battista Armenini da Faenza libri tre [microform] : ne' quali con bell'ordine d'vtili &amp; buoni auertimenti, per chi desidera in essa farsi con prestezza eccellente, di dimostrano i modi principali del disegnare, &amp; del dipignere, &amp; di fare le pitture, che si conuengono alle conditioni de' luoghi, &amp; delle persone. ...</title>
+                  <respStmt>
+                     <persName>Armenini, Giovanni Battista, 1533?-1609.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>In Ravenna : Apresso Francesco Tebaldini, ad instantia di Tomaso Pasini Libraro in Bologna</publisher>
+                     <pubPlace>Italy.</pubPlace>
+                     <date>1587</date>
+                  </imprint>
+                  <extent>[20], 229, [3] p.</extent>
+                  <extent>4 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest"
+                            target="https://figgy.princeton.edu/concern/scanned_resources/f03c20cb-2130-4af8-920d-e9d0337d25ab/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Painters -- Italy.</term>
+               <term>Painting -- Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json"
+             url="https://figgy.princeton.edu/concern/scanned_resources/f03c20cb-2130-4af8-920d-e9d0337d25ab/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>

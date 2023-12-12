@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:dcterms="http://purl.org/dc/terms/"
+     xmlns:gettyterms="http://portal.getty.edu/terms/gri/"
+     xmlns:local="http://library.princeton.edu"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>I pianti d'Elicona su la tomba di Teresa Ventura Venier.</title>
+            <respStmt>
+               <orgName>Getty Research Institute</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Bodoni, Giambattista, 1740-1813</authority>
+            <authority>Pepoli, Alessandro Ercole, conte, 1757-1796</authority>
+            <idno type="URI">http://portal.getty.edu/books/gri_9924230730001551</idno>
+            <idno type="URI">http://portal.getty.edu/api/b73n3r</idno>
+            <idno>(OCoLC)12035262</idno>
+            <idno type="cico">1531</idno>
+            <idno type="dcl">440</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>I pianti d'Elicona su la tomba di Teresa Ventura Venier.</title>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>Parma : Dalla Stamperia reale</publisher>
+                     <date>1790</date>
+                  </imprint>
+                  <extent>63 pages, 1 unnumbered leaf of plates</extent>
+               </monogr>
+               <relatedItem type="manifest"
+                            target="https://media.getty.edu/iiif/manifest/e343d231-4d91-4ecc-b3d4-389dd5d50de1"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Venier, Teresa Ventura, 1750-1790 -- Poetry.</term>
+               <term>PQ4213.A7 P53 1790</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json"
+             url="https://media.getty.edu/iiif/manifest/e343d231-4d91-4ecc-b3d4-389dd5d50de1">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:dcterms="http://purl.org/dc/terms/"
+     xmlns:gettyterms="http://portal.getty.edu/terms/gri/"
+     xmlns:local="http://library.princeton.edu"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Osservazioni comunicate al regio architetto sig. profess. Antolini sopra la forma dell'edifizio da sostituirsi alla chiesa di S. Geminiano [microform].</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <authority>Leopoldo Cicognara Program (University of Illinois at Urbana-Champaign)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985449583506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/5d2m2k</idno>
+            <idno type="cico">1276</idno>
+            <idno type="dcl">78n</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Osservazioni comunicate al regio architetto sig. profess. Antolini sopra la forma dell'edifizio da sostituirsi alla chiesa di S. Geminiano [microform].</title>
+                  <respStmt>
+                     <persName>Pinali, Gaetano, 1759-</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>Venezia : Dalla Stamperia Fracasso</publisher>
+                     <pubPlace>Italy</pubPlace>
+                     <date>1807</date>
+                  </imprint>
+                  <extent>xii, 34 p.</extent>
+                  <extent>1 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest"
+                            target="https://figgy.princeton.edu/concern/scanned_resources/9a6688d2-1c92-492e-ac62-50799cd56fdc/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Architecture -- Italy -- Venice -- History -- 19th century.</term>
+               <term>Church buildings -- Italy -- Venice.</term>
+               <term>City planning -- Italy -- Venice -- History -- 19th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json"
+             url="https://figgy.princeton.edu/concern/scanned_resources/9a6688d2-1c92-492e-ac62-50799cd56fdc/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>

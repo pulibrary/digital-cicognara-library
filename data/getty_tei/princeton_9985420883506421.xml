@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:dcterms="http://purl.org/dc/terms/"
+     xmlns:gettyterms="http://portal.getty.edu/terms/gri/"
+     xmlns:local="http://library.princeton.edu"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Rome moderne [microform] : premiʹere ville de l'Europe : avec toutes ses magnificences et ses delices : nouvellement &amp; très-exactement dʹecrite ... Ce qui est suivi d'une description très-exacte du gouvernement &amp; de l'Etat de Rome, aussi bien que des fonctions publiques du Pape &amp; de tous ceux qui ont des emplois auprès de lui ... Le tout divisʹe en six tomes / par le Sr. François Deseine.</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <authority>Leopoldo Cicognara Program (University of Illinois at Urbana-Champaign)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985420883506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/d36m07</idno>
+            <idno type="URI">http://portal.getty.edu/api/7s6b7b</idno>
+            <idno type="URI">http://portal.getty.edu/api/8q7n3m</idno>
+            <idno type="URI">http://portal.getty.edu/api/0q388j</idno>
+            <idno type="URI">http://portal.getty.edu/api/5r403j</idno>
+            <idno type="URI">http://portal.getty.edu/api/f35t4t</idno>
+            <idno type="URI">http://portal.getty.edu/api/731784</idno>
+            <idno type="cico">3699</idno>
+            <idno type="dcl">48w</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Rome moderne [microform] : premiʹere ville de l'Europe : avec toutes ses magnificences et ses delices : nouvellement &amp; très-exactement dʹecrite ... Ce qui est suivi d'une description très-exacte du gouvernement &amp; de l'Etat de Rome, aussi bien que des fonctions publiques du Pape &amp; de tous ceux qui ont des emplois auprès de lui ... Le tout divisʹe en six tomes / par le Sr. François Deseine.</title>
+                  <respStmt>
+                     <persName>Deseine, François-Jacques, -1715.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>French</textLang>
+                  <imprint>
+                     <publisher>A Leide : Chez Pierre van der Aa</publisher>
+                     <pubPlace>Italy</pubPlace>
+                     <pubPlace>Rome (Italy)</pubPlace>
+                     <pubPlace>Vatican City.</pubPlace>
+                     <date>1713</date>
+                  </imprint>
+                  <extent>6 v.</extent>
+                  <extent>33 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest"
+                            target="https://figgy.princeton.edu/concern/scanned_resources/6e319a85-5db1-4dff-bc96-0df9f7804b34/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Catholic Church -- Government.</term>
+               <term>Architecture -- Italy -- Rome -- Early works to 1800.</term>
+               <term>Rome (Italy) -- Description and travel -- Early works to 1800.</term>
+               <term>Vatican City.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json"
+             url="https://figgy.princeton.edu/concern/scanned_resources/6e319a85-5db1-4dff-bc96-0df9f7804b34/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>

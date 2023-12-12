@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:dcterms="http://purl.org/dc/terms/"
+     xmlns:gettyterms="http://portal.getty.edu/terms/gri/"
+     xmlns:local="http://library.princeton.edu"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Istoria della citta di Chiusi in Toscana dall'anno DCCCCXXXVI al MDXCV [microform] / di mess. Jacomo Gori da Senalonga per la prima volta venuta in luce dall'esemplare MS della liberia pubblica Magliavechiana.</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <authority>Leopoldo Cicognara Program (University of Illinois at Urbana-Champaign)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985423063506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/943b69</idno>
+            <idno type="cico">3703</idno>
+            <idno type="dcl">hp5</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Istoria della citta di Chiusi in Toscana dall'anno DCCCCXXXVI al MDXCV [microform] / di mess. Jacomo Gori da Senalonga per la prima volta venuta in luce dall'esemplare MS della liberia pubblica Magliavechiana.</title>
+                  <respStmt>
+                     <persName>Gori, Jacomo, 16th cent.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>[S.l. : s.n]</publisher>
+                     <pubPlace>Chiusi (Italy)</pubPlace>
+                     <date>1747</date>
+                  </imprint>
+                  <extent>col. [879]-1124.</extent>
+                  <extent>6 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest"
+                            target="https://figgy.princeton.edu/concern/scanned_resources/7c7ef66c-2ade-4404-a020-dfa753530aad/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Chiusi (Italy) -- History.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json"
+             url="https://figgy.princeton.edu/concern/scanned_resources/7c7ef66c-2ade-4404-a020-dfa753530aad/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>

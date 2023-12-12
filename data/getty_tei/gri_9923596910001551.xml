@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:dcterms="http://purl.org/dc/terms/"
+     xmlns:gettyterms="http://portal.getty.edu/terms/gri/"
+     xmlns:local="http://library.princeton.edu"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The gentleman's and connoisseur's dictionary of painters : containing a complete collection, and account, of the most distinguished artists ... from the year 1250, when the art of painting was revived by Cimabue, to the year 1767 ... extracted from the most authentic writers who have treated on the subject of painting , in Latin, Italian, Spanish, English, French, and Low Dutch : to which are added two catalogues, the one a catalogue of the disciples of the most famous masters ... the other a catalogue of those painters, who imitated the works of the eminent masters so exactly, as to have their copies frequently mistaken for originals ... by the Rev. M. Pilkington ...</title>
+            <respStmt>
+               <orgName>Getty Research Institute</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Cadell, T. (Thomas), 1742-1802.</authority>
+            <idno type="URI">http://portal.getty.edu/books/gri_9923596910001551</idno>
+            <idno type="URI">http://portal.getty.edu/api/r13m28</idno>
+            <idno>(OCoLC)13934780</idno>
+            <idno type="cico">2173</idno>
+            <idno type="dcl">vbs</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>The gentleman's and connoisseur's dictionary of painters : containing a complete collection, and account, of the most distinguished artists ... from the year 1250, when the art of painting was revived by Cimabue, to the year 1767 ... extracted from the most authentic writers who have treated on the subject of painting , in Latin, Italian, Spanish, English, French, and Low Dutch : to which are added two catalogues, the one a catalogue of the disciples of the most famous masters ... the other a catalogue of those painters, who imitated the works of the eminent masters so exactly, as to have their copies frequently mistaken for originals ... by the Rev. M. Pilkington ...</title>
+                  <respStmt>
+                     <persName>Pilkington, Matthew, 1701-1784.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>English</textLang>
+                  <imprint>
+                     <publisher>London : Printed by T. Cadell (successor to Mr. Millar) in the Strand</publisher>
+                     <pubPlace>England London.</pubPlace>
+                     <date>MDCCLXX [1770]</date>
+                     <date>1770</date>
+                  </imprint>
+                  <extent>xxxiv, 723 pages</extent>
+               </monogr>
+               <relatedItem type="manifest"
+                            target="https://media.getty.edu/iiif/manifest/d7494f73-d7bd-4926-be2d-7fbee500662e"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Painters -- Dictionaries.</term>
+               <term>Painters</term>
+               <term>ND35 .P55</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json"
+             url="https://media.getty.edu/iiif/manifest/d7494f73-d7bd-4926-be2d-7fbee500662e">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>

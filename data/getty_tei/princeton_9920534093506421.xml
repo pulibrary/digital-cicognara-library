@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:dcterms="http://purl.org/dc/terms/"
+     xmlns:gettyterms="http://portal.getty.edu/terms/gri/"
+     xmlns:local="http://library.princeton.edu"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Raccolta di disegni originali di Fraco. Mazzola detto il Parmigianino tolti dal gabinetto di sva eccellenza il sigre. conte Alessandro Sanvitale. Incisi da Benigno Bossi.</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Bossi, Benigno, 1727-1792, engr.</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9920534093506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/c35t11</idno>
+            <idno>(OCoLC)08780182</idno>
+            <idno type="cico">328 (12)</idno>
+            <idno type="dcl">85n</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Raccolta di disegni originali di Fraco. Mazzola detto il Parmigianino tolti dal gabinetto di sva eccellenza il sigre. conte Alessandro Sanvitale. Incisi da Benigno Bossi.</title>
+                  <respStmt>
+                     <persName>Parmigianino, 1503-1540.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>Parma</publisher>
+                     <date>1772</date>
+                  </imprint>
+                  <extent>1 p. l., 29 plates (part col.), 1 l.</extent>
+               </monogr>
+               <relatedItem type="manifest"
+                            target="https://figgy.princeton.edu/concern/scanned_resources/ade07fc1-03f4-4d4a-8a6c-fa93b68729b6/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Clothing and dress in art.</term>
+               <term>ND623.M6</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json"
+             url="https://figgy.princeton.edu/concern/scanned_resources/ade07fc1-03f4-4d4a-8a6c-fa93b68729b6/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>

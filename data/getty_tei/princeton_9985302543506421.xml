@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:dcterms="http://purl.org/dc/terms/"
+     xmlns:gettyterms="http://portal.getty.edu/terms/gri/"
+     xmlns:local="http://library.princeton.edu"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Descrittione de gli apparati fatti in Bologna per la venuta di n.s. Papa Clemente VIII [microform] : con gli disegni de gli archi, statue, &amp; pitture ... / da Vittorio Benacci ...</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985302543506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/xw366f</idno>
+            <idno type="cico">1402</idno>
+            <idno type="dcl">55z</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Descrittione de gli apparati fatti in Bologna per la venuta di n.s. Papa Clemente VIII [microform] : con gli disegni de gli archi, statue, &amp; pitture ... / da Vittorio Benacci ...</title>
+                  <respStmt>
+                     <persName>Benacci, Vittorio, 1571-1629.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>[Bologna? : s.n.]</publisher>
+                     <pubPlace>Italy</pubPlace>
+                     <pubPlace>Bologna (Italy)</pubPlace>
+                     <date>1598</date>
+                  </imprint>
+                  <extent>[15] p.</extent>
+                  <extent>1 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest"
+                            target="https://figgy.princeton.edu/concern/scanned_resources/91c0199f-7dca-4018-a6cd-c8eae90d7656/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Clement VIII, Pope, 1536-1605.</term>
+               <term>Festivals -- Italy -- Bologna -- 16th century.</term>
+               <term>Pageants -- Italy -- Bologna -- 16th century.</term>
+               <term>Triumphal arches -- Italy -- Bologna -- 16th century.</term>
+               <term>Bologna (Italy) -- History -- 16th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json"
+             url="https://figgy.princeton.edu/concern/scanned_resources/91c0199f-7dca-4018-a6cd-c8eae90d7656/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>

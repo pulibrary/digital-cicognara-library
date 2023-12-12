@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:dcterms="http://purl.org/dc/terms/"
+     xmlns:gettyterms="http://portal.getty.edu/terms/gri/"
+     xmlns:local="http://library.princeton.edu"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Memorie del calcio fiorentino : tratte da diverse scritture e dedicate all' Altezze Serenissime di Ferdinando principe di Toscana e Violante Beatrice di Baviera.</title>
+            <respStmt>
+               <orgName>Getty Research Institute</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Bini, Pietro di Lorenzo</authority>
+            <authority>Nacci, Francesco, 17th cent.</authority>
+            <authority>Cecchini, Alessandro, 17th cent.</authority>
+            <authority>Matini, Piero, active 1684-1700</authority>
+            <authority>Stamperia di S.A.S. alla Condotta.</authority>
+            <idno type="URI">http://portal.getty.edu/books/gri_9927483120001551</idno>
+            <idno type="URI">http://portal.getty.edu/api/t16r8s</idno>
+            <idno>(OCoLC)79317922</idno>
+            <idno type="cico">1570</idno>
+            <idno type="cico">3177</idno>
+            <idno type="dcl">czv</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Memorie del calcio fiorentino : tratte da diverse scritture e dedicate all' Altezze Serenissime di Ferdinando principe di Toscana e Violante Beatrice di Baviera.</title>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>In Firenze : Nella Stamperia di S.A.S. alla Condotta</publisher>
+                     <pubPlace>Italy Florence.</pubPlace>
+                     <date>1688</date>
+                  </imprint>
+                  <extent>[12], 118 p., [2] folded leaves of plates</extent>
+               </monogr>
+               <relatedItem type="manifest"
+                            target="https://media.getty.edu/iiif/manifest/de5ec6eb-7f94-451d-80c9-26415bfdec98"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Ferdinando de' Medici, Prince of Tuscany, 1663-1713 -- Marriage.</term>
+               <term>Violante Beatrice, di Baviera, Princess, consort of Ferdinando de' Medici, Prince of Tuscany, 1673-1731 -- Marriage.</term>
+               <term>Florentine football -- Early works to 1800.</term>
+               <term>Medici, Ferdinando de', 1663-1713</term>
+               <term>Violante Beatrice, di Baviera, Princess, consort of Ferdinando de' Medici, Prince of Tuscany, 1673-1731</term>
+               <term>Florentine football</term>
+               <term>Marriage</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json"
+             url="https://media.getty.edu/iiif/manifest/de5ec6eb-7f94-451d-80c9-26415bfdec98">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>

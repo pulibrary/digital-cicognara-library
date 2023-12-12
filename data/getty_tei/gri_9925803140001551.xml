@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:dcterms="http://purl.org/dc/terms/"
+     xmlns:gettyterms="http://portal.getty.edu/terms/gri/"
+     xmlns:local="http://library.princeton.edu"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Danicorum monumentorum libri sex : e spissis antiquitatum tenebris et in Dania ac Norvegia extantibus ruderibus / eruti ab Olao Worm ...</title>
+            <respStmt>
+               <orgName>Getty Research Institute</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Pass, Simon van de, 1595?-1647</authority>
+            <idno type="URI">http://portal.getty.edu/books/gri_9925803140001551</idno>
+            <idno type="URI">http://portal.getty.edu/api/zx2n6h</idno>
+            <idno>(OCoLC)23639611</idno>
+            <idno type="cico">4124</idno>
+            <idno type="dcl">h5k</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Danicorum monumentorum libri sex : e spissis antiquitatum tenebris et in Dania ac Norvegia extantibus ruderibus / eruti ab Olao Worm ...</title>
+                  <respStmt>
+                     <persName>Worm, Ole, 1588-1654</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Latin</textLang>
+                  <imprint>
+                     <publisher>Hafniae : Apud Ioachimum Moltkenium</publisher>
+                     <pubPlace>Denmark</pubPlace>
+                     <pubPlace>Norway</pubPlace>
+                     <pubPlace>Denmark.</pubPlace>
+                     <pubPlace>Norway.</pubPlace>
+                     <pubPlace>Denmark Copenhagen.</pubPlace>
+                     <date>ao. 1643</date>
+                     <date>1643</date>
+                  </imprint>
+                  <extent>[24], 40, 526, [16] p., [2] folded leaves of plates</extent>
+               </monogr>
+               <relatedItem type="manifest"
+                            target="https://media.getty.edu/iiif/manifest/096034bb-09e1-41ff-b286-336344a03a67"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Inscriptions, Runic -- Denmark -- Early works to 1800.</term>
+               <term>Inscriptions, Runic -- Norway -- Early works to 1800.</term>
+               <term>Denmark -- Antiquities -- Early works to 1800.</term>
+               <term>Norway -- Antiquities -- Early works to 1800.</term>
+               <term>Antiquities.</term>
+               <term>Inscriptions, Runic.</term>
+               <term>Denmark.</term>
+               <term>Norway.</term>
+               <term>DL121 W8</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json"
+             url="https://media.getty.edu/iiif/manifest/096034bb-09e1-41ff-b286-336344a03a67">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>

@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:dcterms="http://purl.org/dc/terms/"
+     xmlns:gettyterms="http://portal.getty.edu/terms/gri/"
+     xmlns:local="http://library.princeton.edu"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Descrizione della festa popolare della porchetta fatta in Bologna da [microform] : da gl'illustrissimi ed eccelsi signori Confaloniero di Giustizia et Anziani del quarto bimestre dell'anno 1721.</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <authority>Leopoldo Cicognara Program (University of Illinois at Urbana-Champaign)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985452333506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/626f8g</idno>
+            <idno type="cico">1487 [c]</idno>
+            <idno type="dcl">krk</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Descrizione della festa popolare della porchetta fatta in Bologna da [microform] : da gl'illustrissimi ed eccelsi signori Confaloniero di Giustizia et Anziani del quarto bimestre dell'anno 1721.</title>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>In Bolonga : Nelle stampe de' Peri</publisher>
+                     <pubPlace>Italy</pubPlace>
+                     <pubPlace>Bologna (Italy)</pubPlace>
+                     <date>[1721]</date>
+                     <date>1721</date>
+                  </imprint>
+                  <extent>8 p.</extent>
+                  <extent>1 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest"
+                            target="https://figgy.princeton.edu/concern/scanned_resources/cc243572-8534-48a7-9870-d1b7f80c178d/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Cooking (Pork) -- Italy -- Bologna -- History -- 18th century.</term>
+               <term>Festivals -- Italy -- Bologna -- History -- 18th century.</term>
+               <term>Bologna (Italy) -- Social life and customs -- Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json"
+             url="https://figgy.princeton.edu/concern/scanned_resources/cc243572-8534-48a7-9870-d1b7f80c178d/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>

@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:dcterms="http://purl.org/dc/terms/"
+     xmlns:gettyterms="http://portal.getty.edu/terms/gri/"
+     xmlns:local="http://library.princeton.edu"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Novo teatro di machine et edificii per uarie et sicure operationi [microform]. Cō le loro figure tagliate in rame é la dichiaratione, e dimostratione di ciascuna. Opera necesaria ad architetti, e a quelli, chi di tale studio si dilettano, di Vittorio Zonca ... [microform].</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985245443506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/j72d30</idno>
+            <idno type="cico">971</idno>
+            <idno type="dcl">1w1</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Novo teatro di machine et edificii per uarie et sicure operationi [microform]. Cō le loro figure tagliate in rame é la dichiaratione, e dimostratione di ciascuna. Opera necesaria ad architetti, e a quelli, chi di tale studio si dilettano, di Vittorio Zonca ... [microform].</title>
+                  <respStmt>
+                     <persName>Zonca, Vittorio, approximately 1580-</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Latin</textLang>
+                  <imprint>
+                     <publisher>Padova, F. Bertelli</publisher>
+                     <date>1621</date>
+                  </imprint>
+                  <extent>3 p. l., 115 p.</extent>
+                  <extent>microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest"
+                            target="https://figgy.princeton.edu/concern/scanned_resources/0527bf2d-a011-48d8-991a-83e99b6372c8/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords/>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json"
+             url="https://figgy.princeton.edu/concern/scanned_resources/0527bf2d-a011-48d8-991a-83e99b6372c8/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>

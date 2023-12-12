@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:dcterms="http://purl.org/dc/terms/"
+     xmlns:gettyterms="http://portal.getty.edu/terms/gri/"
+     xmlns:local="http://library.princeton.edu"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>M. Vitruuii Pollionis viri suae professionis peritissimi De architectura libri. X [microform] : ad Augustum Caesarem accuratissime conscripti, &amp; locis quamplurimis hac editione emendati / adiunctis nunc primun Gulielmi Philandri Castilionii ... castigationibus atque annotationibus in eosdem longe doctiss ... vna cum lib. II. Ses. Iulii Frontini De aquaeductibus vrbis Romae, &amp; Nicolai Cusani Dialogo de staticis experimentis ; cum Graeco pariter &amp; Latino indice ...</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Agricola, Georg, 1494-1555.</authority>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985175963506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/jp1m3t</idno>
+            <idno type="cico">711</idno>
+            <idno type="dcl">s24</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>M. Vitruuii Pollionis viri suae professionis peritissimi De architectura libri. X [microform] : ad Augustum Caesarem accuratissime conscripti, &amp; locis quamplurimis hac editione emendati / adiunctis nunc primun Gulielmi Philandri Castilionii ... castigationibus atque annotationibus in eosdem longe doctiss ... vna cum lib. II. Ses. Iulii Frontini De aquaeductibus vrbis Romae, &amp; Nicolai Cusani Dialogo de staticis experimentis ; cum Graeco pariter &amp; Latino indice ...</title>
+                  <respStmt>
+                     <persName>Vitruvius Pollio.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Latin</textLang>
+                  <imprint>
+                     <publisher>[Argentorati : Ex officina Knoblochiana, per Georgium Machaeropieum]</publisher>
+                     <date>1550</date>
+                  </imprint>
+                  <extent>[60], 493, [57] p.</extent>
+                  <extent>9 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest"
+                            target="https://figgy.princeton.edu/concern/scanned_resources/c8fb0317-56e8-4c2d-98e4-7aa4496ddaae/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords/>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json"
+             url="https://figgy.princeton.edu/concern/scanned_resources/c8fb0317-56e8-4c2d-98e4-7aa4496ddaae/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>

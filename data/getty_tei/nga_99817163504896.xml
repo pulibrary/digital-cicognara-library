@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:dcterms="http://purl.org/dc/terms/"
+     xmlns:gettyterms="http://portal.getty.edu/terms/gri/"
+     xmlns:local="http://library.princeton.edu"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Le finezze de pennelli italiani, ammirate, e studiate da Girupeno sotto la scorta, e disciplina del genio di Raffaello d'Urbino, con una curiosa, ed'attentissima osseruatione di tutto ciò, che facilmente possa riuscire d'utile, e di diletto à chi desidera rendersi perfetto nella teorica, e prattica della nobil'arte della pittura. Opera di Luigi Scaramvccia Perugino ... Con alcune massime ò siano ricordi nel fine degni di riflessione ...</title>
+            <respStmt>
+               <orgName>National Gallery of Art Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <idno type="URI">http://portal.getty.edu/books/nga_99817163504896</idno>
+            <idno type="URI">http://portal.getty.edu/api/0z8t0n</idno>
+            <idno>(OCoLC)973455683</idno>
+            <idno type="cico">205</idno>
+            <idno type="dcl">mrj</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Le finezze de pennelli italiani, ammirate, e studiate da Girupeno sotto la scorta, e disciplina del genio di Raffaello d'Urbino, con una curiosa, ed'attentissima osseruatione di tutto ciò, che facilmente possa riuscire d'utile, e di diletto à chi desidera rendersi perfetto nella teorica, e prattica della nobil'arte della pittura. Opera di Luigi Scaramvccia Perugino ... Con alcune massime ò siano ricordi nel fine degni di riflessione ...</title>
+                  <respStmt>
+                     <persName>Scaramuccia, Luigi Pellegrini, 1616-1680</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>Pavia, Per G.A. Magri, stampatore</publisher>
+                     <pubPlace>Italy</pubPlace>
+                     <date>[1674]</date>
+                     <date>1674</date>
+                  </imprint>
+                  <extent>13 p. l., 216, [12] p.</extent>
+               </monogr>
+               <relatedItem type="manifest"
+                            target="https://libraryimage.nga.gov/manifest/mms/99817163504896.json"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Painters -- Italy</term>
+               <term>Painting, Italian</term>
+               <term>Painting, Renaissance -- Italy</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json"
+             url="https://libraryimage.nga.gov/manifest/mms/99817163504896.json">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>

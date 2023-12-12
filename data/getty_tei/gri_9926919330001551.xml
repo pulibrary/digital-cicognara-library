@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:dcterms="http://purl.org/dc/terms/"
+     xmlns:gettyterms="http://portal.getty.edu/terms/gri/"
+     xmlns:local="http://library.princeton.edu"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Monumenta veteris Antii, hoc est, Inscriptio M. Aquilii et tabula solis Mithrae variis figuris &amp; symbolis exsculpta quae nuper inibi reperta, nunc prodeunt commentari illustrata, &amp; accuratè explicata : accedunt Dissertationes de Beleno et aliis quibusdam Aquilejensium diis. et De colonia Forojuliensi / auctore Philippo à Turre ... ; addita sunt fragmenta inscriptionum Fratrum arvalium recèns in agro romano effossa.</title>
+            <respStmt>
+               <orgName>Getty Research Institute</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Zenobi, Gaetano, fl. 1698-1707.</authority>
+            <idno type="URI">http://portal.getty.edu/books/gri_9926919330001551</idno>
+            <idno type="URI">http://portal.getty.edu/api/dw809x</idno>
+            <idno>(OCoLC)11384491</idno>
+            <idno type="cico">2631</idno>
+            <idno type="dcl">5w7</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Monumenta veteris Antii, hoc est, Inscriptio M. Aquilii et tabula solis Mithrae variis figuris &amp; symbolis exsculpta quae nuper inibi reperta, nunc prodeunt commentari illustrata, &amp; accuratè explicata : accedunt Dissertationes de Beleno et aliis quibusdam Aquilejensium diis. et De colonia Forojuliensi / auctore Philippo à Turre ... ; addita sunt fragmenta inscriptionum Fratrum arvalium recèns in agro romano effossa.</title>
+                  <respStmt>
+                     <persName>Della Torre, Filippo, 1657-1717.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Latin</textLang>
+                  <imprint>
+                     <publisher>Romae : Novis typis Cajetani Zenobii</publisher>
+                     <pubPlace>Italy.</pubPlace>
+                     <pubPlace>Italy</pubPlace>
+                     <pubPlace>Italy Rome.</pubPlace>
+                     <date>anno 1700</date>
+                     <date>1700</date>
+                  </imprint>
+                  <extent>[16], 400, [16] p., [3] leaves of plates (1 folded)</extent>
+               </monogr>
+               <relatedItem type="manifest"
+                            target="https://media.getty.edu/iiif/manifest/a75c8865-2266-4a81-b27b-4bd6b450c2e7"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Fratres Arvales.</term>
+               <term>Inscriptions, Latin -- Italy.</term>
+               <term>Mithraism -- Early works to 1800.</term>
+               <term>Fratres Arvales</term>
+               <term>Inscriptions, Latin</term>
+               <term>Mithraism</term>
+               <term>Italy</term>
+               <term>CN523 .T6</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json"
+             url="https://media.getty.edu/iiif/manifest/a75c8865-2266-4a81-b27b-4bd6b450c2e7">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>

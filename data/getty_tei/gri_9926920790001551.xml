@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:dcterms="http://purl.org/dc/terms/"
+     xmlns:gettyterms="http://portal.getty.edu/terms/gri/"
+     xmlns:local="http://library.princeton.edu"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Justi Fontanini Forojuliensis De antiquitatibus Hortae : coloniae Etruscorum, libri tres : ubi praeter historiam Hortanam alia non pauca res Romanas, Italicasque illustrantia proferuntur. Cum. figuris. aeri. incisis : Et gemina appendice monumentorum ex codicibus potissimum Vaticanis : in quibus eminet genuinum decretum Sancti. Gelasii. I. Pont. Max.</title>
+            <respStmt>
+               <orgName>Getty Research Institute</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Ruscius, Julius. Narratio de instaurando Hortino Ponte vetustissimo.</authority>
+            <authority>Nuzzi, Ferdinando, 1645-1717. Discorso intorno alla coltivazione e popolazione della Campagna di Roma.</authority>
+            <idno type="URI">http://portal.getty.edu/books/gri_9926920790001551</idno>
+            <idno type="URI">http://portal.getty.edu/api/9v2g14</idno>
+            <idno>(OCoLC)31722478</idno>
+            <idno type="cico">2576</idno>
+            <idno type="dcl">r2f</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Justi Fontanini Forojuliensis De antiquitatibus Hortae : coloniae Etruscorum, libri tres : ubi praeter historiam Hortanam alia non pauca res Romanas, Italicasque illustrantia proferuntur. Cum. figuris. aeri. incisis : Et gemina appendice monumentorum ex codicibus potissimum Vaticanis : in quibus eminet genuinum decretum Sancti. Gelasii. I. Pont. Max.</title>
+                  <respStmt>
+                     <persName>Fontanini, Giusto, 1666-1736.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Latin</textLang>
+                  <imprint>
+                     <publisher>Romae : Ex typographia Rocchi Bernabò ... Prostat apud Pagliarinos Bibliopolas</publisher>
+                     <pubPlace>Orte (Italy)</pubPlace>
+                     <pubPlace>Campagna di Roma (Italy)</pubPlace>
+                     <pubPlace>Italy</pubPlace>
+                     <pubPlace>Orte (Italie)</pubPlace>
+                     <pubPlace>Italy Rome.</pubPlace>
+                     <date>1723</date>
+                  </imprint>
+                  <extent>[2], xxii, 511, [1], [4], 102, [2] p., [8] leaves of plates (some folded)</extent>
+               </monogr>
+               <relatedItem type="manifest"
+                            target="https://media.getty.edu/iiif/manifest/b755a444-46b8-414c-834c-4aad6300ed3a"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Orte (Italy) -- Antiquities.</term>
+               <term>Orte (Italy) -- History -- Early works to 1800.</term>
+               <term>Campagna di Roma (Italy) -- Description and travel -- Early works to 1800.</term>
+               <term>Antiquities</term>
+               <term>Travel</term>
+               <term>Italy -- Campagna di Roma</term>
+               <term>Italy -- Orte</term>
+               <term>fre Orte (Italie) -- Antiquités -- Ouvrages avant 1800.</term>
+               <term>DG975.O679 F6 1723</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json"
+             url="https://media.getty.edu/iiif/manifest/b755a444-46b8-414c-834c-4aad6300ed3a">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>

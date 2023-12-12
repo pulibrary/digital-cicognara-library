@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:dcterms="http://purl.org/dc/terms/"
+     xmlns:gettyterms="http://portal.getty.edu/terms/gri/"
+     xmlns:local="http://library.princeton.edu"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Dichiarazione di una tavola ospitale ritrovata in Roma sopra il monte Aventino.</title>
+            <respStmt>
+               <orgName>Getty Research Institute</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <idno type="URI">http://portal.getty.edu/books/gri_9922476070001551</idno>
+            <idno type="URI">http://portal.getty.edu/api/dx7q88</idno>
+            <idno>(OCoLC)166520864</idno>
+            <idno type="cico">3345</idno>
+            <idno type="dcl">wrj</idno>
+            <idno type="dcl">qzr</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Dichiarazione di una tavola ospitale ritrovata in Roma sopra il monte Aventino.</title>
+                  <respStmt>
+                     <persName>Spalletti, Giuseppe, active 1764.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>In Roma : Nella stamperia Salomoniana</publisher>
+                     <pubPlace>Italy</pubPlace>
+                     <pubPlace>Rome</pubPlace>
+                     <pubPlace>Rome (Italy)</pubPlace>
+                     <pubPlace>Rome (Empire)</pubPlace>
+                     <date>1777</date>
+                  </imprint>
+                  <extent>152 pages, [1] folded leaf of plates</extent>
+               </monogr>
+               <relatedItem type="manifest"
+                            target="https://media.getty.edu/iiif/manifest/0e20fc69-b217-4c8e-a388-ecb0ab2500ac"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Inscriptions, Latin -- Italy -- Rome.</term>
+               <term>Rome -- History -- Sources.</term>
+               <term>Rome (Italy) -- Antiquities.</term>
+               <term>Antiquities.</term>
+               <term>Inscriptions, Latin.</term>
+               <term>Italy -- Rome.</term>
+               <term>Rome (Empire)</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json"
+             url="https://media.getty.edu/iiif/manifest/0e20fc69-b217-4c8e-a388-ecb0ab2500ac">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>

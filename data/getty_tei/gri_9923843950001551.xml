@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:dcterms="http://purl.org/dc/terms/"
+     xmlns:gettyterms="http://portal.getty.edu/terms/gri/"
+     xmlns:local="http://library.princeton.edu"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Relation de la feste de Versailles du 18. juillet mil six cens soixante-huit.</title>
+            <respStmt>
+               <orgName>Getty Research Institute</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Le Pautre, Jean, 1618-1682.</authority>
+            <idno type="URI">http://portal.getty.edu/books/gri_9923843950001551</idno>
+            <idno type="URI">http://portal.getty.edu/api/9c0j55</idno>
+            <idno>(OCoLC)26985592</idno>
+            <idno type="cico">1472-1</idno>
+            <idno type="dcl">4kd</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Relation de la feste de Versailles du 18. juillet mil six cens soixante-huit.</title>
+                  <respStmt>
+                     <persName>Félibien, André, sieur des Avaux et de Javercy, 1619-1695</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>French</textLang>
+                  <textLang>Latin</textLang>
+                  <imprint>
+                     <publisher>A Paris : De l'Imprimerie royale</publisher>
+                     <pubPlace>France</pubPlace>
+                     <date>M.DC.LXXIX [1679]</date>
+                     <date>1679</date>
+                  </imprint>
+                  <extent>43, [1] p., 5 folded leaves of plates</extent>
+               </monogr>
+               <relatedItem type="manifest"
+                            target="https://media.getty.edu/iiif/manifest/0f2d3ae3-eb55-46d2-9678-7d58a06abada"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Louis XIV, King of France, 1638-1715</term>
+               <term>Festivals -- France -- Versailles.</term>
+               <term>France -- Court and courtiers.</term>
+               <term>Louis XIV, King of France, 1638-1715</term>
+               <term>Courts and courtiers</term>
+               <term>Festivals</term>
+               <term>France</term>
+               <term>France -- Versailles</term>
+               <term>DC126 .P5</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json"
+             url="https://media.getty.edu/iiif/manifest/0f2d3ae3-eb55-46d2-9678-7d58a06abada">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>

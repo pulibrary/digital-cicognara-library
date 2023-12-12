@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:dcterms="http://purl.org/dc/terms/"
+     xmlns:gettyterms="http://portal.getty.edu/terms/gri/"
+     xmlns:local="http://library.princeton.edu"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Vollständiges Diarium von allem, was sich vor, in, und nach der höchsterwünschten Crönung der allerdurchlauchtigsten, grossmächtigsten Fürstin und Frauen, Frauen Maria Amalia gecrönten Römischen Kayserin ... in dieser freyen Reichs- und Wahl-Stadt Franckfurt am Mayn zugetragen .. [microform]</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985304303506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/k9502j</idno>
+            <idno type="cico">1510</idno>
+            <idno type="dcl">s27</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Vollständiges Diarium von allem, was sich vor, in, und nach der höchsterwünschten Crönung der allerdurchlauchtigsten, grossmächtigsten Fürstin und Frauen, Frauen Maria Amalia gecrönten Römischen Kayserin ... in dieser freyen Reichs- und Wahl-Stadt Franckfurt am Mayn zugetragen .. [microform]</title>
+                  <textLang>German</textLang>
+                  <imprint>
+                     <publisher>Frankfurt am Mayn : Verlegt von John Davig Jung</publisher>
+                     <pubPlace>Germany</pubPlace>
+                     <date>1743</date>
+                  </imprint>
+                  <extent>1 v. (unpaged)</extent>
+                  <extent>3 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest"
+                            target="https://figgy.princeton.edu/concern/scanned_resources/aa0db0ac-519c-49e5-8aca-224afb417179/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Maria Amalia, Empress, consort of Charles VII, Holy Roman Emperor, 1701-1756 -- Coronation.</term>
+               <term>Coronations -- Germany -- Frankfurt am Main -- History -- 18th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json"
+             url="https://figgy.princeton.edu/concern/scanned_resources/aa0db0ac-519c-49e5-8aca-224afb417179/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>

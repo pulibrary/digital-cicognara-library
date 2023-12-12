@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:dcterms="http://purl.org/dc/terms/"
+     xmlns:gettyterms="http://portal.getty.edu/terms/gri/"
+     xmlns:local="http://library.princeton.edu"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Il mercurio errante delle grandezze di Roma : tanto antiche, che moderne / di Pietro Rossini.</title>
+            <respStmt>
+               <orgName>Getty Research Institute</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <idno type="URI">http://portal.getty.edu/books/gri_9927355000001551</idno>
+            <idno type="URI">http://portal.getty.edu/api/6m485v</idno>
+            <idno type="URI">http://portal.getty.edu/api/7z1g34</idno>
+            <idno>(OCoLC)82911537</idno>
+            <idno type="cico">3869C</idno>
+            <idno type="dcl">bcs</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Il mercurio errante delle grandezze di Roma : tanto antiche, che moderne / di Pietro Rossini.</title>
+                  <respStmt>
+                     <persName>Rossini, Pietro</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>In Roma : Appresso Natale Barbiellini, Mercante di libri a Pasquino</publisher>
+                     <pubPlace>Rome (Italy)</pubPlace>
+                     <pubPlace>Italy</pubPlace>
+                     <date>MDCCLXXXIX [1789]</date>
+                     <date>1789</date>
+                  </imprint>
+                  <extent>2 volumes</extent>
+               </monogr>
+               <relatedItem type="manifest"
+                            target="https://media.getty.edu/iiif/manifest/1b7ce940-4b40-4bb7-8508-aa31a3fb31f0https://media.getty.edu/iiif/manifest/19e25a50-6900-4324-b617-1c7f369a8fbf"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Rome (Italy) -- Guidebooks -- Early works to 1800.</term>
+               <term>Rome (Italy) -- Description and travel -- Early works to 1800.</term>
+               <term>Rome (Italy) -- Antiquities -- Early works to 1800.</term>
+               <term>Antiquities.</term>
+               <term>Travel.</term>
+               <term>Italy -- Rome.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json"
+             url="https://media.getty.edu/iiif/manifest/1b7ce940-4b40-4bb7-8508-aa31a3fb31f0">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+   <facsimile>
+      <media mimeType="application/json"
+             url="https://media.getty.edu/iiif/manifest/19e25a50-6900-4324-b617-1c7f369a8fbf">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>

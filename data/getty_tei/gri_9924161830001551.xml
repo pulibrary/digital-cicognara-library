@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:dcterms="http://purl.org/dc/terms/"
+     xmlns:gettyterms="http://portal.getty.edu/terms/gri/"
+     xmlns:local="http://library.princeton.edu"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Istituzione antiquario-numismatica, o sia, Introduzione allo studio delle antiche medaglie : in due libri proposta / d'all'autore dell'Istituzione antiquario-lapidaria.</title>
+            <respStmt>
+               <orgName>Getty Research Institute</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Monaldini, Venanzio</authority>
+            <authority>Zempel, Giovanni, active 1730-1795</authority>
+            <idno type="URI">http://portal.getty.edu/books/gri_9924161830001551</idno>
+            <idno type="URI">http://portal.getty.edu/api/jf3g4g</idno>
+            <idno>(OCoLC)38028065</idno>
+            <idno type="cico">2890</idno>
+            <idno type="dcl">23h</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Istituzione antiquario-numismatica, o sia, Introduzione allo studio delle antiche medaglie : in due libri proposta / d'all'autore dell'Istituzione antiquario-lapidaria.</title>
+                  <respStmt>
+                     <persName>Monaldini, Giuseppe Antonio.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>In Roma : A spese di Venanzio Monaldini, nella stamperia di Giovanni Zempel</publisher>
+                     <date>1772</date>
+                  </imprint>
+                  <extent>xxxii, 487 pages, 3 folded leaves of plates</extent>
+               </monogr>
+               <relatedItem type="manifest"
+                            target="https://media.getty.edu/iiif/manifest/ba33f3d8-a9eb-4916-a86a-21819b244188"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Numismatics, Ancient -- Early works to 1800.</term>
+               <term>Coins, Ancient -- Early works to 1800.</term>
+               <term>Medals -- Collectors and collecting -- Handbooks, manuals, etc.</term>
+               <term>Coins -- Collectors and collecting -- Handbooks, manuals, etc.</term>
+               <term>Medals -- Collectors and collecting.</term>
+               <term>Coins -- Collectors and collecting.</term>
+               <term>Coins, Ancient.</term>
+               <term>Numismatics, Ancient.</term>
+               <term>CJ231 .M6 1772</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json"
+             url="https://media.getty.edu/iiif/manifest/ba33f3d8-a9eb-4916-a86a-21819b244188">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>

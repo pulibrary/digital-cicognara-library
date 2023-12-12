@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:dcterms="http://purl.org/dc/terms/"
+     xmlns:gettyterms="http://portal.getty.edu/terms/gri/"
+     xmlns:local="http://library.princeton.edu"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Traicté des manieres de graver en taille douce sur l'airin. : Par le moyen des eaux fortes, &amp; des vernix durs &amp; mols. : Ensemble de la façon d'en imprimer les planches &amp; d'en construire la presse, &amp; autres choses concernans lesdits arts. / Par A. Bosse, graueur en taille douce.</title>
+            <respStmt>
+               <orgName>Getty Research Institute</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Des Hayes, Pierre, -1659, printer.</authority>
+            <idno type="URI">http://portal.getty.edu/books/gri_9925339220001551</idno>
+            <idno type="URI">http://portal.getty.edu/api/fc3g55</idno>
+            <idno>(OCoLC)3633120</idno>
+            <idno type="cico">251</idno>
+            <idno type="dcl">g2f</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Traicté des manieres de graver en taille douce sur l'airin. : Par le moyen des eaux fortes, &amp; des vernix durs &amp; mols. : Ensemble de la façon d'en imprimer les planches &amp; d'en construire la presse, &amp; autres choses concernans lesdits arts. / Par A. Bosse, graueur en taille douce.</title>
+                  <respStmt>
+                     <persName>Bosse, Abraham, 1602-1676 author, engraver, publisher.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>French</textLang>
+                  <imprint>
+                     <publisher>A Paris, : Chez ledit Bosse, en l'Isle du Palais, à la Roze rouge, deuant la megisserie</publisher>
+                     <pubPlace>France Paris.</pubPlace>
+                     <date>MDCXLV [1645]</date>
+                     <date>1645</date>
+                  </imprint>
+                  <extent>6 unnumbered pages (the 6th page blank), 75 pages, 1 unnumbered blank page, 16, that is, 18 pages of plates, 2 unnumbered leaves of plates</extent>
+               </monogr>
+               <relatedItem type="manifest"
+                            target="https://media.getty.edu/iiif/manifest/ec532c70-2a65-4663-9ec8-385778fd4ac2"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Etching -- Technique -- Early works to 1800.</term>
+               <term>Engraving -- Technique -- Early works to 1800.</term>
+               <term>Engraving -- Printing -- Early works to 1800.</term>
+               <term>Engraving -- Early works to 1800.</term>
+               <term>Engraving.</term>
+               <term>Engraving -- Printing.</term>
+               <term>Engraving -- Technique.</term>
+               <term>Etching -- Technique.</term>
+               <term>NE1760 .B73 1645</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json"
+             url="https://media.getty.edu/iiif/manifest/ec532c70-2a65-4663-9ec8-385778fd4ac2">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>

@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:dcterms="http://purl.org/dc/terms/"
+     xmlns:gettyterms="http://portal.getty.edu/terms/gri/"
+     xmlns:local="http://library.princeton.edu"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Dissertazione sull'arco etrusco della Via Vecchia : già stampata in Firenze l'anno MDCCXCI nel tomo IX de' Saggi di dissertazioni accademiche ... / opera di Baldassarre Orsini ...</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <idno type="URI">http://portal.getty.edu/books/princeton_99100906993506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/c30s0k</idno>
+            <idno>(OCoLC)313625721</idno>
+            <idno type="cico">2612</idno>
+            <idno type="dcl">60b</idno>
+            <idno type="dcl">g01</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Dissertazione sull'arco etrusco della Via Vecchia : già stampata in Firenze l'anno MDCCXCI nel tomo IX de' Saggi di dissertazioni accademiche ... / opera di Baldassarre Orsini ...</title>
+                  <respStmt>
+                     <persName>Orsini, Baldassarre.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>Perugia : Baduel</publisher>
+                     <date>1807</date>
+                  </imprint>
+                  <extent>2 Mikrofiches : 24x.</extent>
+               </monogr>
+               <relatedItem type="manifest"
+                            target="https://figgy.princeton.edu/concern/scanned_resources/ef45cde3-b8b0-4ed2-8b57-5306650efb4e/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords/>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json"
+             url="https://figgy.princeton.edu/concern/scanned_resources/ef45cde3-b8b0-4ed2-8b57-5306650efb4e/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>

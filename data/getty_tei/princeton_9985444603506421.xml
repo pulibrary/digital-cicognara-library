@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:dcterms="http://purl.org/dc/terms/"
+     xmlns:gettyterms="http://portal.getty.edu/terms/gri/"
+     xmlns:local="http://library.princeton.edu"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Spiegazione de bassirilievi [microform] : che si osservano nell'urna sepolcrale detta volgarmente d'Alessandro Severo, che si conserva nel Museo di Campidoglio / pubblicata dall'abate Ridolfino Venuti ...</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <authority>Leopoldo Cicognara Program (University of Illinois at Urbana-Champaign)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985444603506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/gw9p3x</idno>
+            <idno type="cico">3899</idno>
+            <idno type="dcl">ggb</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Spiegazione de bassirilievi [microform] : che si osservano nell'urna sepolcrale detta volgarmente d'Alessandro Severo, che si conserva nel Museo di Campidoglio / pubblicata dall'abate Ridolfino Venuti ...</title>
+                  <respStmt>
+                     <persName>Venuti, Ridolfino, 1705-1763.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>In Roma : A spese di Fausto Amidei</publisher>
+                     <date>1756</date>
+                  </imprint>
+                  <extent>15 p.</extent>
+                  <extent>1 microfiche : positive ; 11 x 15 cm.</extent>
+               </monogr>
+               <relatedItem type="manifest"
+                            target="https://figgy.princeton.edu/concern/scanned_resources/b8cfa19d-9239-4499-84cc-e00e4df1992e/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Severus Alexander, Emperor of Rome, 208-235.</term>
+               <term>Palazzo nuovo (Rome, Italy)</term>
+               <term>Relief (Sculpture)</term>
+               <term>Sculpture, Roman.</term>
+               <term>Urns, Roman.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json"
+             url="https://figgy.princeton.edu/concern/scanned_resources/b8cfa19d-9239-4499-84cc-e00e4df1992e/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>

@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:dcterms="http://purl.org/dc/terms/"
+     xmlns:gettyterms="http://portal.getty.edu/terms/gri/"
+     xmlns:local="http://library.princeton.edu"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Mémoires historiques relatifs à la fonte et à l'élévation de la statue équestre de Henri IV sur le terre-plein du Pont-Neuf à Paris.</title>
+            <respStmt>
+               <orgName>Getty Research Institute</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Guillaume, 19th cent.</authority>
+            <authority>Imbard, 19th cent.</authority>
+            <authority>Pauquet, Hippolyte Louis Emile, 1797-</authority>
+            <authority>Pauquet, Louis, 1759-ca. 1824.</authority>
+            <idno type="URI">http://portal.getty.edu/books/gri_9925137010001551</idno>
+            <idno type="URI">http://portal.getty.edu/api/sn4c91</idno>
+            <idno>(OCoLC)10101735</idno>
+            <idno type="cico">3512</idno>
+            <idno type="dcl">js3</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Mémoires historiques relatifs à la fonte et à l'élévation de la statue équestre de Henri IV sur le terre-plein du Pont-Neuf à Paris.</title>
+                  <respStmt>
+                     <persName>Lafolie, Charles-Jean, 1780-1824</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>French</textLang>
+                  <imprint>
+                     <publisher>Paris, Le Normant</publisher>
+                     <pubPlace>France</pubPlace>
+                     <date>1819</date>
+                  </imprint>
+                  <extent>xii, 328, 100 pages</extent>
+               </monogr>
+               <relatedItem type="manifest"
+                            target="https://media.getty.edu/iiif/manifest/fcdb5354-0e55-4b28-9a90-4a2f8995713e"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Henry IV, King of France, 1553-1610 -- Monuments.</term>
+               <term>Lemot, François Frédéric, 1772-1827. Statue of Henry IV.</term>
+               <term>Henry IV, King of France, 1553-1610</term>
+               <term>Equestrian statues.</term>
+               <term>Bronze founding.</term>
+               <term>Monuments -- France -- Paris.</term>
+               <term>Bronze founding -- France -- Paris.</term>
+               <term>Equestrian statues -- France -- Paris.</term>
+               <term>Monuments.</term>
+               <term>France -- Paris.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json"
+             url="https://media.getty.edu/iiif/manifest/fcdb5354-0e55-4b28-9a90-4a2f8995713e">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>

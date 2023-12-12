@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:dcterms="http://purl.org/dc/terms/"
+     xmlns:gettyterms="http://portal.getty.edu/terms/gri/"
+     xmlns:local="http://library.princeton.edu"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Dell'architettura egiziana : dissertazione d'un corrispondente dell'Accademia delle Scienze di Parigi, membro dell'Istituto di Bologna, dell'Accademie di Padova, di Siena, di Cortona, di Ravenna, d'Udine, e pastor arcade / [J. Belgrado?].</title>
+            <respStmt>
+               <orgName>Getty Research Institute</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <idno type="URI">http://portal.getty.edu/books/gri_9926798470001551</idno>
+            <idno type="URI">http://portal.getty.edu/api/gz0t1q</idno>
+            <idno>(OCoLC)54319576</idno>
+            <idno type="cico">2512</idno>
+            <idno type="dcl">x56</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Dell'architettura egiziana : dissertazione d'un corrispondente dell'Accademia delle Scienze di Parigi, membro dell'Istituto di Bologna, dell'Accademie di Padova, di Siena, di Cortona, di Ravenna, d'Udine, e pastor arcade / [J. Belgrado?].</title>
+                  <respStmt>
+                     <persName>Belgrado, Jacopo, 1704-1789.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>Parma : Dalla Stamperia Reale</publisher>
+                     <pubPlace>Egypt</pubPlace>
+                     <pubPlace>Italy Parma.</pubPlace>
+                     <date>MDCCLXXXVI [1786]</date>
+                     <date>1786</date>
+                  </imprint>
+                  <extent>xvi, CCLXVIII pages</extent>
+               </monogr>
+               <relatedItem type="manifest"
+                            target="https://media.getty.edu/iiif/manifest/94bbf5eb-62e4-456d-8e4f-497befee3f99"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Architecture -- Egypt -- Early works to 1800.</term>
+               <term>Architecture, Egyptian.</term>
+               <term>NA1581 .B44 1786</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json"
+             url="https://media.getty.edu/iiif/manifest/94bbf5eb-62e4-456d-8e4f-497befee3f99">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>

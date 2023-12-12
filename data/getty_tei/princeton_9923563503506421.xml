@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:dcterms="http://purl.org/dc/terms/"
+     xmlns:gettyterms="http://portal.getty.edu/terms/gri/"
+     xmlns:local="http://library.princeton.edu"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Iusti LipsI De amphitheatro liber : in quo forma ipsa loci expressa, &amp; ratio spectandi : cum aeneis figuris.</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Lipsius, Justus, 1547-1606. De amphitheatris quae extra Romam libellus. 1585.</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9923563503506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/zz9k68</idno>
+            <idno>(OCoLC)24628883</idno>
+            <idno type="cico">791</idno>
+            <idno type="dcl">f2w</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Iusti LipsI De amphitheatro liber : in quo forma ipsa loci expressa, &amp; ratio spectandi : cum aeneis figuris.</title>
+                  <respStmt>
+                     <persName>Lipsius, Justus, 1547-1606.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Latin</textLang>
+                  <imprint>
+                     <publisher>Antuerpiae : Apud Christophorum Plantinum</publisher>
+                     <pubPlace>Rome.</pubPlace>
+                     <date>1585</date>
+                  </imprint>
+                  <extent>105, [3] p., [7] leaves of plates (1 folded)</extent>
+               </monogr>
+               <relatedItem type="manifest"
+                            target="https://figgy.princeton.edu/concern/scanned_resources/9adc1ae0-d0d4-4f7f-bfa1-9fa1e930fbf5/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Colosseum (Rome, Italy)</term>
+               <term>Amphitheaters -- Rome.</term>
+               <term>DG68.1 .L56 1585</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json"
+             url="https://figgy.princeton.edu/concern/scanned_resources/9adc1ae0-d0d4-4f7f-bfa1-9fa1e930fbf5/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>

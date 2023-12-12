@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:dcterms="http://purl.org/dc/terms/"
+     xmlns:gettyterms="http://portal.getty.edu/terms/gri/"
+     xmlns:local="http://library.princeton.edu"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Geschichte der zeichnenden Künste von ihrer Wiederauflebung bis auf die neuesten Zeiten: Geschichte der Mahlerey in Frankreich</title>
+            <respStmt>
+               <orgName>Heidelberg University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <idno type="URI">http://portal.getty.edu/books/uh_urn:nbn:de:bsz:16-diglit-78904</idno>
+            <idno type="URI">http://portal.getty.edu/api/b66m2b</idno>
+            <idno type="cico">31C</idno>
+            <idno type="dcl">xz9</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Geschichte der zeichnenden Künste von ihrer Wiederauflebung bis auf die neuesten Zeiten: Geschichte der Mahlerey in Frankreich</title>
+                  <textLang>German</textLang>
+                  <imprint>
+                     <pubPlace>Frankreich</pubPlace>
+                     <date>1805</date>
+                     <date>1805</date>
+                  </imprint>
+                  <extent>X, 634 S., [12] Bl.</extent>
+               </monogr>
+               <relatedItem type="manifest"
+                            target="https://digi.ub.uni-heidelberg.de/diglit/iiif/fiorillo1805bd3/manifest.json"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Malerei</term>
+               <term>Zeichnung</term>
+               <term>Cicognara</term>
+               <term>Parte Prima</term>
+               <term>Delle Belle Arti in generale</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json"
+             url="https://digi.ub.uni-heidelberg.de/diglit/iiif/fiorillo1805bd3/manifest.json">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>

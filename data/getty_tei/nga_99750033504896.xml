@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:dcterms="http://purl.org/dc/terms/"
+     xmlns:gettyterms="http://portal.getty.edu/terms/gri/"
+     xmlns:local="http://library.princeton.edu"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Lettera del Cavaliere Onofrio Boni al chiarissimo signore Abate Gaetano Marini ... sui Tempi Monopteri degli antichi e su qualche altro oggetto di belle arti.</title>
+            <respStmt>
+               <orgName>National Gallery of Art Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Marini, Luigi Gaetano, 1742-1815.</authority>
+            <idno type="URI">http://portal.getty.edu/books/nga_99750033504896</idno>
+            <idno type="URI">http://portal.getty.edu/api/1n2m86</idno>
+            <idno>(OCoLC)80507518</idno>
+            <idno type="cico">1141</idno>
+            <idno type="dcl">bp3</idno>
+            <idno type="dcl">j8s</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Lettera del Cavaliere Onofrio Boni al chiarissimo signore Abate Gaetano Marini ... sui Tempi Monopteri degli antichi e su qualche altro oggetto di belle arti.</title>
+                  <respStmt>
+                     <persName>Boni, Onofrio, 1743-1818.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>[S.l. : s.n]</publisher>
+                     <date>[1804?]</date>
+                     <date>1804</date>
+                  </imprint>
+                  <extent>32 p.</extent>
+               </monogr>
+               <relatedItem type="manifest"
+                            target="https://libraryimage.nga.gov/manifest/mms/99750033504896.json"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords/>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json"
+             url="https://libraryimage.nga.gov/manifest/mms/99750033504896.json">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>

@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:dcterms="http://purl.org/dc/terms/"
+     xmlns:gettyterms="http://portal.getty.edu/terms/gri/"
+     xmlns:local="http://library.princeton.edu"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Diuersi ornamenti capricciosi per depositi o altari : vtilisimi a virtuosi / nouamente inuentati, da M. Giovanbatista Montani ... Dati in luce da Giouanbatista Soria ...</title>
+            <respStmt>
+               <orgName>Getty Research Institute</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Soria, Gio. Batta. (Giovanni Battista), 1581-1651.</authority>
+            <authority>Congio, Camillo, engraver.</authority>
+            <authority>David, Jérôme, approximately 1605-approximately 1670, engraver.</authority>
+            <authority>Soria, Gio. Batta. (Giovanni Battista), 1581-1651, publisher.</authority>
+            <idno type="URI">http://portal.getty.edu/books/gri_9925721680001551</idno>
+            <idno type="URI">http://portal.getty.edu/api/q62n48</idno>
+            <idno>(OCoLC)51803473</idno>
+            <idno type="cico">570-3</idno>
+            <idno type="dcl">9rw</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Diuersi ornamenti capricciosi per depositi o altari : vtilisimi a virtuosi / nouamente inuentati, da M. Giovanbatista Montani ... Dati in luce da Giouanbatista Soria ...</title>
+                  <respStmt>
+                     <persName>Montano, Giovanni Battista, 1545-1621.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>In Roma : Apresso al detto Soria</publisher>
+                     <pubPlace>Italy</pubPlace>
+                     <pubPlace>Italy.</pubPlace>
+                     <pubPlace>Italy Rome.</pubPlace>
+                     <date>1625</date>
+                  </imprint>
+                  <extent>[4], 40 leaves of plates</extent>
+               </monogr>
+               <relatedItem type="manifest"
+                            target="https://media.getty.edu/iiif/manifest/1b290a99-9f29-42a8-ac5d-164cc36fff4b"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Church decoration and ornament -- Pictorial works -- Early works to 1800.</term>
+               <term>Architecture, Italian -- Pictorial works -- Early works to 1800.</term>
+               <term>Altars -- Pictorial works -- Early works to 1800.</term>
+               <term>Sepulchral monuments -- Italy -- Pictorial works -- Early works to 1800.</term>
+               <term>Altars.</term>
+               <term>Architecture, Italian.</term>
+               <term>Church decoration and ornament.</term>
+               <term>Sepulchral monuments</term>
+               <term>Italy.</term>
+               <term>NA2515 .M76 1638</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json"
+             url="https://media.getty.edu/iiif/manifest/1b290a99-9f29-42a8-ac5d-164cc36fff4b">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>

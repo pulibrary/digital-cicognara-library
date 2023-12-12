@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:dcterms="http://purl.org/dc/terms/"
+     xmlns:gettyterms="http://portal.getty.edu/terms/gri/"
+     xmlns:local="http://library.princeton.edu"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Lettera di Francesco Cancellieri al ch. sig. dottore Koreff professore di medicina nell'Università di Berlino : sopra il tarantismo, l'aria di Roma, e della sua campagna, ed i palazzi pontificj entro, e fuori di Roma, con le notizie di Castel Gandolfo, e de' paesi circonvicini.</title>
+            <respStmt>
+               <orgName>Getty Research Institute</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Koreff, Johann Ferdinand, 1783-1851</authority>
+            <authority>Cipriani, Giovanni Battista, 1766-1839, engraver.</authority>
+            <idno type="URI">http://portal.getty.edu/books/gri_9923786380001551</idno>
+            <idno type="URI">http://portal.getty.edu/api/pj3w1j</idno>
+            <idno>(OCoLC)9311311</idno>
+            <idno type="cico">3651</idno>
+            <idno type="dcl">p8b</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Lettera di Francesco Cancellieri al ch. sig. dottore Koreff professore di medicina nell'Università di Berlino : sopra il tarantismo, l'aria di Roma, e della sua campagna, ed i palazzi pontificj entro, e fuori di Roma, con le notizie di Castel Gandolfo, e de' paesi circonvicini.</title>
+                  <respStmt>
+                     <persName>Cancellieri, Francesco, 1751-1826</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>Roma : Presso Francesco Bourlié</publisher>
+                     <pubPlace>Castel Gandolfo (Italy)</pubPlace>
+                     <pubPlace>Rome (Italy)</pubPlace>
+                     <pubPlace>Italy</pubPlace>
+                     <pubPlace>Italy Rome.</pubPlace>
+                     <date>MDCCCXVII [1817]</date>
+                     <date>1817</date>
+                  </imprint>
+                  <extent>380, 2 unnumbered pages, 1 unnumbered leaf of plates</extent>
+               </monogr>
+               <relatedItem type="manifest"
+                            target="https://media.getty.edu/iiif/manifest/cc0f65fa-8293-4140-bf32-815969553a0c"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Cancellieri, Francesco, 1751-1826 -- Correspondence.</term>
+               <term>Koreff, Johann Ferdinand, 1783-1851 -- Correspondence.</term>
+               <term>Popes -- Dwellings.</term>
+               <term>Tarantism.</term>
+               <term>Castel Gandolfo (Italy)</term>
+               <term>Rome (Italy) -- Climate.</term>
+               <term>Rome (Italy) -- Description and travel.</term>
+               <term>Cancellieri, Francesco, 1751-1826</term>
+               <term>Koreff, Johann Ferdinand, 1783-1851</term>
+               <term>Climatology.</term>
+               <term>Popes -- Dwellings.</term>
+               <term>Tarantism.</term>
+               <term>Travel.</term>
+               <term>Italy -- Castel Gandolfo.</term>
+               <term>Italy -- Rome.</term>
+               <term>RJ506.P68 C3 1817</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json"
+             url="https://media.getty.edu/iiif/manifest/cc0f65fa-8293-4140-bf32-815969553a0c">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>

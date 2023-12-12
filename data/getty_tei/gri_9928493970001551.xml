@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:dcterms="http://purl.org/dc/terms/"
+     xmlns:gettyterms="http://portal.getty.edu/terms/gri/"
+     xmlns:local="http://library.princeton.edu"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Opusculũ ·d mirabilibus noue [et] veteris urbis Rome / editum a Frãcisco Albertino Floreñ.</title>
+            <respStmt>
+               <orgName>Getty Research Institute</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <idno type="URI">http://portal.getty.edu/books/gri_9928493970001551</idno>
+            <idno type="URI">http://portal.getty.edu/api/xv797k</idno>
+            <idno>(OCoLC)84922661</idno>
+            <idno type="cico">3571</idno>
+            <idno type="dcl">762</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Opusculũ ·d mirabilibus noue [et] veteris urbis Rome / editum a Frãcisco Albertino Floreñ.</title>
+                  <respStmt>
+                     <persName>Albertini, Francesco, active 1493-1510</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Latin</textLang>
+                  <imprint>
+                     <publisher>Impressum Romae : Per Iacobum Mazochium</publisher>
+                     <pubPlace>Italy</pubPlace>
+                     <pubPlace>Rome (Italy)</pubPlace>
+                     <date>1515</date>
+                  </imprint>
+                  <extent>103 leaves</extent>
+               </monogr>
+               <relatedItem type="manifest"
+                            target="https://media.getty.edu/iiif/manifest/2c27d09f-61d9-4b6f-9a09-633064a35898"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Rome (Italy) -- Guidebooks.</term>
+               <term>Christian pilgrims and pilgrimages -- Italy -- Rome.</term>
+               <term>Rome (Italy) -- Antiquities.</term>
+               <term>Antiquities.</term>
+               <term>Christian pilgrims and pilgrimages.</term>
+               <term>Italy -- Rome.</term>
+               <term>DG805 .A43 1515</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json"
+             url="https://media.getty.edu/iiif/manifest/2c27d09f-61d9-4b6f-9a09-633064a35898">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>

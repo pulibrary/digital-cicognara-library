@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:dcterms="http://purl.org/dc/terms/"
+     xmlns:gettyterms="http://portal.getty.edu/terms/gri/"
+     xmlns:local="http://library.princeton.edu"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Andreæ Alciati emblemata cvm commentariis Clavdii Minois ... : &amp; notis Lavrentii Pignorii Patavini : nouissima hac editione in continuam vnius commentarij seriem congestis, in certas quasdam quasi classes dispositis, &amp; plusquam dimidia parte auctis / opera et vigiliis Ioannis Thvilii ... accesserunt in fine Federici Morelli ... Corollaria &amp; monita, ad eadem emblemata ... cum indice triplici.</title>
+            <respStmt>
+               <orgName>Getty Research Institute</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Thuille, Johann, 1590-1630.</authority>
+            <authority>Mignault, Claude, approximately 1536-1606.</authority>
+            <authority>Pignoria, Lorenzo, 1571-1631.</authority>
+            <authority>Morel, Fédéric, approximately 1552-1630. Corollaria et monita.</authority>
+            <idno type="URI">http://portal.getty.edu/books/gri_9924102400001551</idno>
+            <idno type="URI">http://portal.getty.edu/api/4b2j29</idno>
+            <idno>(OCoLC)84293246</idno>
+            <idno type="cico">1837A</idno>
+            <idno type="dcl">3w4</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Andreæ Alciati emblemata cvm commentariis Clavdii Minois ... : &amp; notis Lavrentii Pignorii Patavini : nouissima hac editione in continuam vnius commentarij seriem congestis, in certas quasdam quasi classes dispositis, &amp; plusquam dimidia parte auctis / opera et vigiliis Ioannis Thvilii ... accesserunt in fine Federici Morelli ... Corollaria &amp; monita, ad eadem emblemata ... cum indice triplici.</title>
+                  <respStmt>
+                     <persName>Alciati, Andrea, 1492-1550</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Latin</textLang>
+                  <imprint>
+                     <publisher>Patauij : Apud Petrum Paulum Tozzium</publisher>
+                     <date>1621</date>
+                  </imprint>
+                  <extent>LXXX, 1003, [1] pages</extent>
+               </monogr>
+               <relatedItem type="manifest"
+                            target="https://media.getty.edu/iiif/manifest/18059cb4-b9c3-47fd-ad87-04969381e382"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Emblems.</term>
+               <term>Emblems</term>
+               <term>N7740 .A35 1621</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json"
+             url="https://media.getty.edu/iiif/manifest/18059cb4-b9c3-47fd-ad87-04969381e382">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>

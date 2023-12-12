@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:dcterms="http://purl.org/dc/terms/"
+     xmlns:gettyterms="http://portal.getty.edu/terms/gri/"
+     xmlns:local="http://library.princeton.edu"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Memorie enciclopediche romane sulle belle arti antichitá etc [microform]</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Guattani, Giuseppe Antonio, 1748-1830.</authority>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985302833506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/qx8378</idno>
+            <idno type="cico">1324</idno>
+            <idno type="dcl">k2f</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Memorie enciclopediche romane sulle belle arti antichitá etc [microform]</title>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>Roma : Pel Salomoni</publisher>
+                     <pubPlace>Italy</pubPlace>
+                     <pubPlace>Rome (Italy)</pubPlace>
+                     <date>1806-[1811?]</date>
+                     <date>1806</date>
+                  </imprint>
+                  <extent>5 v.</extent>
+                  <extent>24 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest"
+                            target="https://figgy.princeton.edu/concern/scanned_resources/f95e93cd-cb33-429e-af8f-626c1f078897/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Art -- Italy -- Rome.</term>
+               <term>Rome (Italy) -- Antiquities.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json"
+             url="https://figgy.princeton.edu/concern/scanned_resources/f95e93cd-cb33-429e-af8f-626c1f078897/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>

@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:dcterms="http://purl.org/dc/terms/"
+     xmlns:gettyterms="http://portal.getty.edu/terms/gri/"
+     xmlns:local="http://library.princeton.edu"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Roma subterranea novissima : in qva post Antonivm Bosivm antesignanvm, Jo. Severanum congreg. oratorii presbyterum, et celebres alios scriptores : antiqvua Christianorum et praecipue martyrum cœmeteria, tituli, monimenta, epitaphia, inscriptiones ac nobiliora sanctorum sepulchra : sex libris distincta illustrantur et quamplurimæ res ecclesiasticæ iconibus graphice describuntur, ac multiplici tum sacra, tum profana eruditione declarantur : cum duplici indice, capitum &amp; rerum locupletissimo : opera et studio / Pauli Aringhi Romani congreg. ejusdem presbyteri.</title>
+            <respStmt>
+               <orgName>Getty Research Institute</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Bosio, Antonio, 1575-1629. Roma sotterranea.</authority>
+            <idno type="URI">http://portal.getty.edu/books/gri_9924819620001551</idno>
+            <idno type="URI">http://portal.getty.edu/api/f80676</idno>
+            <idno>(OCoLC)77311889</idno>
+            <idno type="cico">3586bis</idno>
+            <idno type="dcl">9gn</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Roma subterranea novissima : in qva post Antonivm Bosivm antesignanvm, Jo. Severanum congreg. oratorii presbyterum, et celebres alios scriptores : antiqvua Christianorum et praecipue martyrum cœmeteria, tituli, monimenta, epitaphia, inscriptiones ac nobiliora sanctorum sepulchra : sex libris distincta illustrantur et quamplurimæ res ecclesiasticæ iconibus graphice describuntur, ac multiplici tum sacra, tum profana eruditione declarantur : cum duplici indice, capitum &amp; rerum locupletissimo : opera et studio / Pauli Aringhi Romani congreg. ejusdem presbyteri.</title>
+                  <respStmt>
+                     <persName>Aringhi, Paolo, 1600-1676</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Latin</textLang>
+                  <imprint>
+                     <publisher>Coloniæ [Cologne] &amp; veneunt Lvtetiæ Parisiorvm : [Apud Fredericum Leonard]</publisher>
+                     <pubPlace>Italy</pubPlace>
+                     <date>MDCLIX [1659]</date>
+                     <date>1659</date>
+                  </imprint>
+                  <extent>2 volumes</extent>
+               </monogr>
+               <relatedItem type="manifest"
+                            target="https://media.getty.edu/iiif/manifest/091ab980-48f2-499f-86b3-46e12d4e2f8b"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Christian antiquities -- Italy -- Rome.</term>
+               <term>Cemeteries -- Italy -- Rome.</term>
+               <term>Catacombs -- Italy -- Rome.</term>
+               <term>Catacombs.</term>
+               <term>Cemeteries.</term>
+               <term>Christian antiquities.</term>
+               <term>Italy -- Rome.</term>
+               <term>N6920.2 .A71 1659</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json"
+             url="https://media.getty.edu/iiif/manifest/091ab980-48f2-499f-86b3-46e12d4e2f8b">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>

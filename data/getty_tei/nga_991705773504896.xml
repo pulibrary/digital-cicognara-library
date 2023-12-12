@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:dcterms="http://purl.org/dc/terms/"
+     xmlns:gettyterms="http://portal.getty.edu/terms/gri/"
+     xmlns:local="http://library.princeton.edu"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Monumentorum sveo-gothicorum : liber primus : Uplandiae partem primariam thiundiam : continens cum antiquitatibus ac inscriptionibus quae Cippis &amp; Rupibus, vel Tumbis incisae passim reperiuntur : justa delineatione, brevique commentario illustratae / opera Johannis PeringskioldI.</title>
+            <respStmt>
+               <orgName>National Gallery of Art Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <idno type="URI">http://portal.getty.edu/books/nga_991705773504896</idno>
+            <idno type="URI">http://portal.getty.edu/api/nz1204</idno>
+            <idno>(OCoLC)09144628</idno>
+            <idno type="cico">4063</idno>
+            <idno type="dcl">w2h</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Monumentorum sveo-gothicorum : liber primus : Uplandiae partem primariam thiundiam : continens cum antiquitatibus ac inscriptionibus quae Cippis &amp; Rupibus, vel Tumbis incisae passim reperiuntur : justa delineatione, brevique commentario illustratae / opera Johannis PeringskioldI.</title>
+                  <respStmt>
+                     <persName>Peringskiöld, Johan, 1654-1720.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Latin</textLang>
+                  <textLang>Swedish</textLang>
+                  <imprint>
+                     <publisher>Stockholmiae : Sumtibus Regiis impressit Olavus Enaeus, Regii antiquitatum archivi typographus</publisher>
+                     <pubPlace>Sweden</pubPlace>
+                     <pubPlace>Uppland (Sweden)</pubPlace>
+                     <date>1710</date>
+                  </imprint>
+                  <extent>[8], 306 p., [9] leaves of plates (5 folding)</extent>
+               </monogr>
+               <relatedItem type="manifest"
+                            target="https://libraryimage.nga.gov/manifest/mms/991705773504896.json"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Inscriptions, Swedish -- Early works to 1800.</term>
+               <term>Inscriptions, Latin -- Sweden -- Upland -- Early works to 1800.</term>
+               <term>Uppland (Sweden) -- History.</term>
+               <term>Uppland (Sweden) -- Antiquities -- Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json"
+             url="https://libraryimage.nga.gov/manifest/mms/991705773504896.json">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>

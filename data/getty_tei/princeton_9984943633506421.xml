@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:dcterms="http://purl.org/dc/terms/"
+     xmlns:gettyterms="http://portal.getty.edu/terms/gri/"
+     xmlns:local="http://library.princeton.edu"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Sentimens des plus habiles peintres sur la pratique de la peinture et sculpture [microform] : mis en tables de preceptes, avec plusieurs discours academiques, ou conferences tenuës en l'Académie royale desdits arts ... / par Henry Testelin ...</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9984943633506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/3v3r4r</idno>
+            <idno type="cico">360</idno>
+            <idno type="dcl">8vt</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Sentimens des plus habiles peintres sur la pratique de la peinture et sculpture [microform] : mis en tables de preceptes, avec plusieurs discours academiques, ou conferences tenuës en l'Académie royale desdits arts ... / par Henry Testelin ...</title>
+                  <respStmt>
+                     <persName>Testelin, Henri, 1616-1695.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>French</textLang>
+                  <imprint>
+                     <publisher>Paris : Veuve Mabre-Cramoisy</publisher>
+                     <date>1696</date>
+                  </imprint>
+                  <extent>40 p.</extent>
+                  <extent>2 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest"
+                            target="https://figgy.princeton.edu/concern/scanned_resources/ae7bc4b0-d544-4780-a967-936a9600b3dc/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Painting -- Early works to 1800.</term>
+               <term>Sculpture -- Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json"
+             url="https://figgy.princeton.edu/concern/scanned_resources/ae7bc4b0-d544-4780-a967-936a9600b3dc/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:dcterms="http://purl.org/dc/terms/"
+     xmlns:gettyterms="http://portal.getty.edu/terms/gri/"
+     xmlns:local="http://library.princeton.edu"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Le pompe dell' Accademia del disegno solennemente celebrate nel Campidoglio il dì 25. febraro MDCCII. / descritte da Giuseppe Ghezzi pittore, e segretario di essa.</title>
+            <respStmt>
+               <orgName>Getty Research Institute</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Zappi, Giovanni Battista Felice, 1667-1710</authority>
+            <authority>Buagni, Giovanni Francesco</authority>
+            <authority>Accademia di San Luca</authority>
+            <idno type="URI">http://portal.getty.edu/books/gri_9925837430001551</idno>
+            <idno type="URI">http://portal.getty.edu/api/0w4d0d</idno>
+            <idno>(OCoLC)214299027</idno>
+            <idno type="cico">1307B</idno>
+            <idno type="dcl">dzn</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Le pompe dell' Accademia del disegno solennemente celebrate nel Campidoglio il dì 25. febraro MDCCII. / descritte da Giuseppe Ghezzi pittore, e segretario di essa.</title>
+                  <respStmt>
+                     <persName>Ghezzi, Giuseppe, 1634-1721</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>In Roma : Per Gio. Francesco Buagni</publisher>
+                     <pubPlace>Italy Rome.</pubPlace>
+                     <date>1702</date>
+                  </imprint>
+                  <extent>[16], 50, [22] p.</extent>
+               </monogr>
+               <relatedItem type="manifest"
+                            target="https://media.getty.edu/iiif/manifest/f747012b-3bd6-493e-8ee7-d0b8d0f6c25a"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Accademia di San Luca.</term>
+               <term>Accademia di San Luca</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json"
+             url="https://media.getty.edu/iiif/manifest/f747012b-3bd6-493e-8ee7-d0b8d0f6c25a">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
