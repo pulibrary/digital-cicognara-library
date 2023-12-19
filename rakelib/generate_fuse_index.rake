@@ -30,6 +30,6 @@ task :generate_fuse_index do
                keywords: keywords,
  }
   end
-  File.open(Settings[:tmp] + Pathname.new("fuseindex.json"), "w") {
+  File.open(Settings[:data] + Pathname.new("fuseindex.json"), "w") {
     |f| f.write(index.to_json)}
 end

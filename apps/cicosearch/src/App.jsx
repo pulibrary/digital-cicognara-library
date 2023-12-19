@@ -1,6 +1,6 @@
 import { useState } from 'react';
 import Fuse from "fuse.js";
-import cicoData from "./fuseindex.json";
+import cicoData from "../../../data/fuseindex.json";
 
 
 function App() {
