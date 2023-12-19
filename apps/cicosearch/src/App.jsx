@@ -44,7 +44,7 @@ function App() {
             <h1>Items</h1>
             <input
                 type="text"
-                placeholder="Search by author, title, date, publisher, contributor, or language"
+                placeholder=""
                 onChange={handleSearch}
             />
 
@@ -55,7 +55,7 @@ function App() {
                             <h4>{ item.ciconum.join(", ") }</h4>
                             <dl class="compact">
                                 <dt>title</dt>
-                                <dd>{ item.title[0] }</dd>
+                                <dd><a href={ item.filename}>{ item.title[0] }</a></dd>
                             </dl>
                         </div>
                     </li>
