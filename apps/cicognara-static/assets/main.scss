@@ -1,0 +1,349 @@
+---
+---
+
+@import "minima";
+
+@media screen {
+  .site-nav {
+    text-transform: uppercase;
+    font-family: "Playfair Display", Georgia, serif;
+    font-size: 15px;
+    color: #221e1d;
+  }
+  .site-header {
+    background: #e6e8db;
+    border-color: #efefef;
+  }
+
+  .site-title {
+    padding: 0;
+    text-transform: uppercase;
+    font-weight: bold;
+    font-size: 24px;
+  }
+
+  .site-nav {
+    float: right !important;
+    margin-right: -15px;
+  }
+
+  .wrapper {
+    max-width: calc(1200px - (30px * 2));
+    h1 {
+      font-family: "Playfair Display", Georgia, serif;
+      font-size: 30px;
+      font-weight: 700;
+      text-align: center;
+      margin: 0.5em auto 1.5em;
+    }
+  }
+
+  a {
+    color: #971c06;
+    text-decoration: none;
+    font-family: "Playfair Display", Georgia, serif;
+
+    &:hover {
+      box-shadow: none;
+      color: #221e1d;
+      text-decoration: underline;
+    }
+
+    &:visited {
+      color: #971c06;
+    }
+  }
+  .page-content.index {
+    background: linear-gradient(to bottom, #e6e8db 0%, #fdfdfd 100%);
+    width: 100%;
+    height: 100%;
+    margin-top: auto;
+  }  
+  
+  .page-content {
+    color: #221e1d;
+    font-family: "Playfair Display", Georgia, serif;
+    font-size: 18px;
+    line-height: 1.5em;
+    margin: 1.5em auto;
+    h2 {
+      font-family: "Playfair Display", Georgia, serif;
+      font-size: 24px;
+      font-weight: 700;
+      text-align: left;
+      margin: 1.5em auto 0.5em;
+    }
+    h3 {
+      font-family: "Playfair Display", Georgia, serif;
+      font-size: 14px;
+      font-weight: 700;
+      text-align: left;
+      padding-top: 1em;
+    }
+
+    table.partners { border: none; }
+    .partners {
+      h1 {
+        text-align: left;
+      }
+      h2 {
+        font-family: "Playfair Display", Georgia, serif;
+        font-size: 18px;
+        font-weight: bold;
+        text-align: left;
+      }
+      h3 {
+        font-family: "Playfair Display", Georgia, serif;
+        font-size: 16px;
+        text-align: left;
+      }
+      img.logo {
+        max-width: 100px;
+        max-height: 60px;
+      }
+      td.logo {
+        text-align: center;
+      }
+      td {
+        border: none;
+        background: #fdfdfd;
+      }
+    }
+    img {
+      display: inline-block;
+      margin: 0.5em 1.5em;
+    }
+
+    .right {
+      float: right;
+      width: 425px;
+    }
+
+    .left {
+      float: left;
+      width: 425px;
+    }
+
+    figure figcaption {
+      font-family: "Playfair Display", Georgia, serif;
+      font-size: 0.75em;
+      padding: 0.5em 1.9em 0.55em;
+      width: 350px;
+      margin: 0 auto;
+    } 
+
+    img.community-logo {
+      float: left;
+      max-width: 200px;
+    }
+
+    .home-catalogo-buttons {
+      display: flex;
+      justify-content: center;
+    }
+
+    .browse-catalogo-button {
+      color: #fff;
+      background-color: #221E1D;
+      border-color: #141211;
+      font-weight: normal;
+      text-align: center;
+      white-space: nowrap;
+      vertical-align: middle;
+      touch-action: manipulation;
+      cursor: pointer;
+      background-image: none;
+      border: 1px solid transparent;
+      padding: 6px 12px;
+      font-size: 14px;
+      line-height: 1.428571429;
+      border-radius: 4px;
+      -webkit-user-select: none;
+      -moz-user-select: none;
+      -ms-user-select: none;
+      user-select: none;
+      display: inline-block;
+      margin-bottom: 0;
+    }
+
+    .browse-catalogo-list {
+      display: flex;
+      list-style: none;
+    }
+
+    .browse-catalogo-list li {
+      margin: 0 10px;
+    }
+
+  }
+
+  .home {
+    h1 {
+      display: none;
+    }
+    h2 {
+      font-family: "Playfair Display", Georgia, serif;
+      font-size: 30px;
+      font-weight: bold;
+      margin: 0 0 0.75em;
+      text-align: left;
+    }
+
+    .post-meta {
+      color: #221e1d;
+      font-family: "Playfair Display", Georgia, serif;
+      font-size: 20px;
+      line-height: 1.5em;
+      margin: 1.5em auto;
+    }
+  }
+
+  .contact {
+    h1 {
+      display: block !important;
+      font-family: "Playfair Display", Georgia, serif;
+      font-size: 30px;
+      font-weight: 700;
+      text-align: center;
+      margin: 0.5em auto 1.5em;
+    }
+    width: 1024px;
+    form {
+      margin-bottom: 50px;
+      background: #efefef;
+      border: 1px solid #efefef;
+      padding: 2em;
+    }
+
+    input,
+    textarea {
+      -webkit-appearance: none;
+      border-radius: 0;
+      font-size: 16px;
+    }
+
+    input,
+    select,
+    textarea {
+      display: block;
+      color: #221e1d;
+      background-color: #ffffff;
+      border: 3px solid #e6e8db;
+      font-family: "Playfair Display", Georgia, serif;
+      padding: 1em;
+      margin-bottom: 1em;
+      width: 95%;
+
+      &:focus {
+        background: #ffffff;
+        box-shadow: 0;
+        border: 3px solid #adab9d;
+        color: #221e1d;
+        outline: none;
+        padding: 1em;
+        transition: border 0.5s ease-in;
+      }
+
+      &[type="submit"] {
+        background: #adab9d;
+        font-weight: 900;
+        text-transform: uppercase;
+        border-color: #adab9d;
+
+        &:hover {
+          background: #ffffff;
+          transition: background 1s ease-in;
+        }
+      }
+    }
+
+    textarea {
+      resize: vertical;
+      min-height: 200px;
+    }
+  }
+
+  .site-post {
+    margin-bottom: 2em;
+    border-bottom: 1px solid #000000;
+
+    h2 {
+      font-family: "Playfair Display", Georgia, serif;
+      font-size: 25px;
+      font-weight: bold;
+      margin: 0.75em 0 0.75em;
+      text-align: left;
+    }
+  }
+
+  div.intro {
+    padding-top: 3em;
+    padding-bottom: 3em;
+  }
+  .intro h1 {
+    font-family: "Playfair Display", Georgia, serif;
+    font-size: 36px;
+    font-weight: 700;
+    letter-spacing: .06em;
+    margin: 0;
+    padding: 0.5em;
+    text-align: center;
+    text-transform: uppercase;
+  }
+
+  .intro .small {
+    font-family: "Playfair Display", Georgia, serif;
+    font-size: 12px;
+    font-weight: 400;
+    letter-spacing: .06em;
+    margin: 0;
+    padding: 0.5em;
+    text-align: center;
+    text-transform: uppercase; 
+  }
+  .intro .italic {
+    font-style: italic;
+    letter-spacing: 0;
+    text-transform: none;
+  }
+}
+
+.site-footer {
+
+  padding: 0px;
+
+  section {
+    width: 100%;
+    display: block;
+    position: relative;
+    padding: 5px 10px;
+  } 
+  .partners {
+      text-align: center;
+      margin-left: 0px;
+  }
+  .partners ul {
+    list-style: none;
+    padding: 0;
+    text-align: center;
+  }
+  .partners ul li {
+    display: inline-block;
+    max-height: 45px;
+    padding: 0.5rem;
+    position: relative;
+    text-align: center;
+  }
+  .partners ul li img {
+    width: auto;
+    max-height: 60px;
+    display: block;
+    margin: 0 auto;
+  }
+
+  .footer-bottom {
+    font-family: "Playfair Display", Georgia, serif;
+    font-size: 13px;
+  }
+  
+}
