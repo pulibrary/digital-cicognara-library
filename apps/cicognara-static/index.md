@@ -7,8 +7,9 @@ layout: index
 </div>
 <div class="home-catalogo-buttons">
   <ul class="browse-catalogo-list">
-    <li><a class="browse-catalogo-button" href="/catalogo">Browse full Catalogo</a></li>
+    <li><a class="browse-catalogo-button" href="/catalogo">TEI-encoded Catalogo</a></li>
     <li><a class="browse-catalogo-button" href="https://digi.vatlib.it/view/STP_Riserva.IV.169(1)">Vatican Annotated Catalogo (Vol. 1)</a></li>
     <li><a class="browse-catalogo-button" href="https://digi.vatlib.it/view/STP_Riserva.IV.169(2)">Vatican Annotated Catalogo (Vol. 2)</a></li>
+    <li><a class="browse-catalogo-button" href="/search">Search</a></li>
   </ul>
 </div>
