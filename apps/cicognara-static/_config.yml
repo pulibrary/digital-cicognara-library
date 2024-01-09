@@ -16,6 +16,7 @@ plugins:
   - jekyll-feed
 header_pages:
   - about.md
+  - virtual_collection.md
   - partners.md
   - research.md
   - contributor.md
