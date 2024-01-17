@@ -20,7 +20,16 @@ title: Search
     var i, item;
 
     const fuseOptions = {
-      keys: [ "title", "filename" ]
+            keys: ["filename",
+               "ciconum",
+               "title",
+               "people",
+               "orgs",
+               "languages",
+               "dates",
+               "places",
+               "keywords",
+              ],
     };
 
     // Clear the previous results
@@ -43,16 +52,37 @@ title: Search
 
     // Loop throught results and add them to the page
     for(i = 0; i < results.length; i++) {
-      var resultEl = document.createElement("p");
+    // var resultEl = document.createElement("p");
       var result = results[i].item;
 
       var linkEl = document.createElement("a");
       linkEl.href = `/catalogo/${result.filename}`;
-      linkEl.text = result.title;
+      linkEl.text = result.title[1];
 
-      var resultEl = document.createElement("p");
-      resultEl.appendChild(linkEl);
-      searchResultsDiv.appendChild(resultEl);
+      // var resultEl = document.createElement("p");
+      
+      var resultDl = document.createElement("dl");
+      resultDl.classList.add("compact");
+      searchResultsDiv.appendChild(resultDl);
+
+      var resultDt = document.createElement("dt");
+      resultDt.appendChild(document.createTextNode('ciconum'));
+      resultDl.appendChild(resultDt);
+      
+      var resultDd = document.createElement("dd");
+      resultDd.appendChild(document.createTextNode(result.ciconum));
+      resultDl.appendChild(resultDd);
+
+      var resultDt = document.createElement("dt");
+      resultDt.appendChild(document.createTextNode('title'));
+      resultDl.appendChild(resultDt);
+      
+      var resultDd = document.createElement("dd");
+      resultDd.appendChild(linkEl);
+      resultDl.appendChild(resultDd);
+
+      // resultEl.appendChild(linkEl);
+      // searchResultsDiv.appendChild(resultEl);
     }
   }
 

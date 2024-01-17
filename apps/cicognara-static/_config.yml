@@ -17,6 +17,7 @@ plugins:
 header_pages:
   - about.md
   - virtual_collection.md
+  - search.md
   - partners.md
   - research.md
   - contributor.md
