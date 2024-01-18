@@ -13,6 +13,7 @@ task :generate_fuse_index do
     ciconum = Set.new()
     teiHeader.xpath("//xmlns:idno[@type='cico']").each { |e| ciconum << e.text }
     title = teiHeader.xpath("//xmlns:sourceDesc//xmlns:title").collect { |e| e.text }
+    author = teiHeader.xpath("//xmlns:sourceDesc//xmlns:author").collect { |e| e.text }
     orgs = doc.xpath("//xmlns:orgName").collect { |e| e.text }
     people = doc.xpath("//xmlns:persName").collect { |e| e.text }
     langs = doc.xpath("//xmlns:textLang").collect { |e| e.text }
@@ -22,6 +23,7 @@ task :generate_fuse_index do
     index << { filename: html_file,
                ciconum: ciconum.to_a,
                title: title,
+               author: author,
                people: people,
                orgs: orgs,
                languages: langs,

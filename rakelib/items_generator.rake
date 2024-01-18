@@ -33,7 +33,7 @@ task :generate_item_files do
 <teiHeader>
     <fileDesc>
                 <titleStmt>
-            <title>Catalogo Cicognara Number {$ciconum}</title>
+            <title>Catalogo Cicognara Number <%= n %></title>
         </titleStmt>
         <publicationStmt>
             <publisher>
