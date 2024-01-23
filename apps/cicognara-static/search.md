@@ -22,6 +22,7 @@ title: Search
     const fuseOptions = {
             keys: ["filename",
                "ciconum",
+               "author",
                "title",
                "people",
                "orgs",
@@ -72,7 +73,15 @@ title: Search
       var resultDd = document.createElement("dd");
       resultDd.appendChild(document.createTextNode(result.ciconum));
       resultDl.appendChild(resultDd);
-
+      
+      var resultDt = document.createElement("dt");
+      resultDt.appendChild(document.createTextNode('author'));
+      resultDl.appendChild(resultDt);
+      
+      var resultDd = document.createElement("dd");
+      resultDd.appendChild(document.createTextNode(result.author));
+      resultDl.appendChild(resultDd);
+      
       var resultDt = document.createElement("dt");
       resultDt.appendChild(document.createTextNode('title'));
       resultDl.appendChild(resultDt);
