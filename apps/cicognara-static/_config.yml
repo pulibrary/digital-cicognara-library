@@ -16,13 +16,12 @@ plugins:
   - jekyll-feed
 header_pages:
   - about.md
-  - virtual_collection.md
-  - search.md
   - partners.md
   - research.md
   - contributor.md
   - contact.md
   - news.md
+  - search.md
 minima:
   date_format: "%d %B %Y"
 

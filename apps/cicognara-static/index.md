@@ -10,6 +10,6 @@ layout: index
     <li><a class="browse-catalogo-button" href="/catalogo">TEI-encoded Catalogo</a></li>
     <li><a class="browse-catalogo-button" href="https://digi.vatlib.it/view/STP_Riserva.IV.169(1)">Vatican Annotated Catalogo (Vol. 1)</a></li>
     <li><a class="browse-catalogo-button" href="https://digi.vatlib.it/view/STP_Riserva.IV.169(2)">Vatican Annotated Catalogo (Vol. 2)</a></li>
-    <li><a class="browse-catalogo-button" href="/search">Search</a></li>
+    <li><a class="browse-catalogo-button" href="https://portal.getty.edu/search?from=0&size=25&sort=relevance&virtual_collection=Cicognara%20Collection">Getty Virtual Collection</a></li>
   </ul>
 </div>

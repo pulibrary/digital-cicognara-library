@@ -290,4 +290,12 @@ table td { border: 1px solid #e8e8e8; }
 
 .site-footer .footer-bottom { font-family: "Playfair Display", Georgia, serif; font-size: 13px; }
 
+dl.compact { display: grid; grid-template: auto / auto auto; width: fit-content; column-gap: 1em; }
+
+dl.compact dt { grid-column-start: 1; }
+
+dl.compact dd { grid-column-start: 2; margin: 0; }
+
+ul { list-style: none; }
+
 /*# sourceMappingURL=main.css.map */
