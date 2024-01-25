@@ -1,20 +1,3 @@
-<footer class="site-footer">
-    <section class="partners" id="partners">
-      <ul>
-        <li><a href="https://www.vaticanlibrary.va/home.php" target="_blank"><img src="/assets/images/vatican.png" alt="Biblioteca Apostolica Vaticana" title="Biblioteca Apostolica Vaticana" /></a></li>
-        <li><a href="http://library.columbia.edu/" target="_blank"><img src="/assets/images/columbia.png" alt="Columbia University Library" title="Columbia University Library" /></a></li>
-        <li><a href="http://www.frick.org/research/library" target="_blank"><img src="/assets/images/frick.png" alt="Frick Art Reference Library" title="Frick Art Reference Library" /></a></li>
-        <li><a href="https://www.getty.edu/research/" target="_blank"><img src="/assets/images/getty.png" alt="Getty Research Institute" title="Getty Research Institute" /></a></li>
-        <li><a href="http://library.harvard.edu/" target="_blank"><img src="/assets/images/harvard.png" alt="Harvard University Library" title="Harvard University Library" /></a></li>
-        <li><a href="http://www.ub.uni-heidelberg.de/" target="_blank"><img src="/assets/images/heidelberg.png" alt="Heidelberg University Library" title="Heidelberg University Library" /></a></li>
-        <li><a href="https://library.nga.gov/" target="_blank"><img src="/assets/images/national_gallery_of_art.png" alt="National Gallery of Art Library" title="National Gallery of Art Library" /></a></li>
-        <li><a href="http://library.princeton.edu/" target="_blank"><img src="/assets/images/princeton.png" alt="Princeton University Library" title="Princeton University Library" /></a></li>
-        <li><a href="http://www.library.illinois.edu/" target="_blank"><img src="/assets/images/illinois.png" alt="University of Illinois at Urbana-Champaign Library" title="University of Illinois at Urbana-Champaign Library" /></a></li>
-      </ul>
-      <span class="footer-bottom">&copy; {{ 'now' | date: "%Y" }} The Trustees of Princeton University. All rights reserved.</span>
-    </section>
-</footer>
-
 // <script src="https://cdn.jsdelivr.net/npm/fuse.js@7.0.0"></script>
 <script src="/assets/fuseindex.js"></script>
 
@@ -57,45 +40,52 @@
 
     // Loop throught results and add them to the page
     for(i = 0; i < results.length; i++) {
-    // var resultEl = document.createElement("p");
       var result = results[i].item;
+      var section = document.createElement("section");
+      section.setAttribute("class", "catalogo-item");
+      searchResultsDiv.appendChild(section);
 
-      var linkEl = document.createElement("a");
-      linkEl.href = `/catalogo/${result.filename}`;
-      linkEl.text = result.title[1];
+      var ciconum = document.createElement("span");
+      ciconum.setAttribute("class", "catalogo-item-label");
+      ciconum.appendChild(document.createTextNode(result.ciconum[0] + ". "));
+      section.appendChild(ciconum);
 
-      // var resultEl = document.createElement("p");
-      
-      var resultDl = document.createElement("dl");
-      resultDl.classList.add("compact");
-      searchResultsDiv.appendChild(resultDl);
+      var bibl = document.createElement("span");
+      bibl.setAttribute("class","catalogo-bibl");
+      section.appendChild(bibl);
 
-      var resultDt = document.createElement("dt");
-      resultDt.appendChild(document.createTextNode('ciconum'));
-      resultDl.appendChild(resultDt);
-      
-      var resultDd = document.createElement("dd");
-      resultDd.appendChild(document.createTextNode(result.ciconum));
-      resultDl.appendChild(resultDd);
-      
-      var resultDt = document.createElement("dt");
-      resultDt.appendChild(document.createTextNode('author'));
-      resultDl.appendChild(resultDt);
-      
-      var resultDd = document.createElement("dd");
-      resultDd.appendChild(document.createTextNode(result.author));
-      resultDl.appendChild(resultDd);
-      
-      var resultDt = document.createElement("dt");
-      resultDt.appendChild(document.createTextNode('title'));
-      resultDl.appendChild(resultDt);
-      
-      var resultDd = document.createElement("dd");
-      resultDd.appendChild(linkEl);
-      resultDl.appendChild(resultDd);
+      if(result.author[0]) {
+        var author = document.createElement("span");
+        author.setAttribute("class", "catalogo-author");
+        author.appendChild(document.createTextNode(result.author[0]));
+        bibl.appendChild(author);
+        bibl.appendChild(document.createTextNode(", "));
+      }
 
-      // resultEl.appendChild(linkEl);
-      // searchResultsDiv.appendChild(resultEl);
+      var title = document.createElement("span");
+      title.setAttribute("class", "catalogo-title");
+      var titleLink = document.createElement("a");
+      titleLink.href = `/catalogo/${result.filename}`;
+      titleLink.text = result.title[0];
+      title.appendChild(titleLink);
+      if(!result.title[0].endsWith(",")) {
+        title.appendChild(document.createTextNode(","));
+      }
+      title.appendChild(document.createTextNode(" "));
+      bibl.appendChild(title);
+
+      if (result.places[0]) {
+        var place = document.createElement("span");
+        place.setAttribute("class", "catalogo-pubPlace");
+        place.appendChild(document.createTextNode(result.places[0]));
+        bibl.appendChild(place);
+        bibl.appendChild(document.createTextNode(" "));
+      }
+
+      var date = document.createElement("span");
+      date.setAttribute("class", "catalogo-date");
+      date.appendChild(document.createTextNode(result.dates[0]));
+      bibl.appendChild(date);
     }
   }
 
@@ -114,4 +104,12 @@
 
   // Give the focus to the search box
   document.getElementById("searchTerms").focus();
+
+  // Execute search if there is a querystring
+  const searchQuery = new URLSearchParams(window.location.search).get('q');
+  if (searchQuery != "") {
+    document.getElementById("searchTerms").value = searchQuery;
+    runSearch();
+  }
+
 </script>
