@@ -1,0 +1,179 @@
+<!DOCTYPE html>
+<html lang="en"><head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1"><!-- Begin Jekyll SEO tag v2.8.0 -->
+<title>Search | The Digital Cicognara Library</title>
+<meta name="generator" content="Jekyll v4.2.2" />
+<meta property="og:title" content="Search" />
+<meta property="og:locale" content="en_US" />
+<meta name="description" content="The Digital Cicognara Library is an international initiative to recreate in digital form the remarkable private book collection of Count Leopoldo Cicognara (1767–1834). Though assembled in the Romantic era, Cicognara’s collection of some five thousand early imprints stands as an important scholarly resource for the literature of art and archaeology." />
+<meta property="og:description" content="The Digital Cicognara Library is an international initiative to recreate in digital form the remarkable private book collection of Count Leopoldo Cicognara (1767–1834). Though assembled in the Romantic era, Cicognara’s collection of some five thousand early imprints stands as an important scholarly resource for the literature of art and archaeology." />
+<link rel="canonical" href="http://localhost:4000/search.html" />
+<meta property="og:url" content="http://localhost:4000/search.html" />
+<meta property="og:site_name" content="The Digital Cicognara Library" />
+<meta property="og:type" content="website" />
+<meta name="twitter:card" content="summary" />
+<meta property="twitter:title" content="Search" />
+<script type="application/ld+json">
+{"@context":"https://schema.org","@type":"WebPage","description":"The Digital Cicognara Library is an international initiative to recreate in digital form the remarkable private book collection of Count Leopoldo Cicognara (1767–1834). Though assembled in the Romantic era, Cicognara’s collection of some five thousand early imprints stands as an important scholarly resource for the literature of art and archaeology.","headline":"Search","url":"http://localhost:4000/search.html"}</script>
+<!-- End Jekyll SEO tag -->
+<link rel="stylesheet" href="/assets/main.css"><link type="application/atom+xml" rel="alternate" href="http://localhost:4000/feed.xml" title="The Digital Cicognara Library" /></head>
+<body><header class="site-header" role="banner">
+
+  <div class="wrapper"><a class="site-title" rel="author" href="/">The Digital Cicognara Library</a><nav class="site-nav">
+        <input type="checkbox" id="nav-trigger" class="nav-trigger" />
+        <label for="nav-trigger">
+          <span class="menu-icon">
+            <svg viewBox="0 0 18 15" width="18px" height="15px">
+              <path d="M18,1.484c0,0.82-0.665,1.484-1.484,1.484H1.484C0.665,2.969,0,2.304,0,1.484l0,0C0,0.665,0.665,0,1.484,0 h15.032C17.335,0,18,0.665,18,1.484L18,1.484z M18,7.516C18,8.335,17.335,9,16.516,9H1.484C0.665,9,0,8.335,0,7.516l0,0 c0-0.82,0.665-1.484,1.484-1.484h15.032C17.335,6.031,18,6.696,18,7.516L18,7.516z M18,13.516C18,14.335,17.335,15,16.516,15H1.484 C0.665,15,0,14.335,0,13.516l0,0c0-0.82,0.665-1.483,1.484-1.483h15.032C17.335,12.031,18,12.695,18,13.516L18,13.516z"/>
+            </svg>
+          </span>
+        </label>
+
+        <div class="trigger"><a class="page-link" href="/about.html">About</a><a class="page-link" href="/partners.html">Partners</a><a class="page-link" href="/research.html">Research</a><a class="page-link" href="/contributor.html">Contribute</a><a class="page-link" href="/contact.html">Contact</a><a class="page-link" href="/news.html">News</a><a class="page-link" href="/search.html">Search</a></div>
+      </nav></div>
+</header>
+<main class="page-content index" aria-label="Content">
+      <div class="wrapper">
+        <h1>Search Bibliographic Records</h1>
+
+<p><input type="text" id="searchTerms" placeholder="text to search" />
+<button id="searchButton">Search</button></p>
+<div id="searchResults"> </div>
+
+      </div>
+    </main><footer class="site-footer">
+    <section class="partners" id="partners">
+      <ul>
+        <li><a href="https://www.vaticanlibrary.va/home.php" target="_blank"><img src="/assets/images/vatican.png" alt="Biblioteca Apostolica Vaticana" title="Biblioteca Apostolica Vaticana" /></a></li>
+        <li><a href="http://library.columbia.edu/" target="_blank"><img src="/assets/images/columbia.png" alt="Columbia University Library" title="Columbia University Library" /></a></li>
+        <li><a href="http://www.frick.org/research/library" target="_blank"><img src="/assets/images/frick.png" alt="Frick Art Reference Library" title="Frick Art Reference Library" /></a></li>
+        <li><a href="https://www.getty.edu/research/" target="_blank"><img src="/assets/images/getty.png" alt="Getty Research Institute" title="Getty Research Institute" /></a></li>
+        <li><a href="http://library.harvard.edu/" target="_blank"><img src="/assets/images/harvard.png" alt="Harvard University Library" title="Harvard University Library" /></a></li>
+        <li><a href="http://www.ub.uni-heidelberg.de/" target="_blank"><img src="/assets/images/heidelberg.png" alt="Heidelberg University Library" title="Heidelberg University Library" /></a></li>
+        <li><a href="https://library.nga.gov/" target="_blank"><img src="/assets/images/national_gallery_of_art.png" alt="National Gallery of Art Library" title="National Gallery of Art Library" /></a></li>
+        <li><a href="http://library.princeton.edu/" target="_blank"><img src="/assets/images/princeton.png" alt="Princeton University Library" title="Princeton University Library" /></a></li>
+        <li><a href="http://www.library.illinois.edu/" target="_blank"><img src="/assets/images/illinois.png" alt="University of Illinois at Urbana-Champaign Library" title="University of Illinois at Urbana-Champaign Library" /></a></li>
+      </ul>
+      <span class="footer-bottom">&copy; 2024 The Trustees of Princeton University. All rights reserved.</span>
+    </section>
+</footer>
+// <script src="https://cdn.jsdelivr.net/npm/fuse.js@7.0.0"></script>
+<script src="/assets/fuseindex.js"></script>
+
+<script>
+  // Adapted from https://www.fusejs.io/demo.html
+  var runSearch = function() {
+    var i, item;
+
+    const fuseOptions = {
+            keys: ["filename",
+               "ciconum",
+               "author",
+               "title",
+               "people",
+               "orgs",
+               "languages",
+               "dates",
+               "places",
+               "keywords",
+              ],
+    };
+
+    // Clear the previous results
+    var searchResultsDiv = document.getElementById("searchResults");
+    searchResultsDiv.innerHTML = "";
+
+    // Run the search
+    const fuse = new Fuse(searchIndex, fuseOptions);
+    const searchTerms = document.getElementById("searchTerms").value;
+    const results = fuse.search(searchTerms);
+    if (results.length == 0) {
+      searchResultsDiv.innerHTML = `<p>No results were found for ${searchTerms}</p>`;
+      return;
+    }
+
+    // Display the total number of results found
+    var totalsEl = document.createElement("p");
+    totalsEl.textContent = `${results.length} results were found`;
+    searchResultsDiv.appendChild(totalsEl);
+
+    // Loop throught results and add them to the page
+    for(i = 0; i < results.length; i++) {
+      var result = results[i].item;
+      var section = document.createElement("section");
+      section.setAttribute("class", "catalogo-item");
+      searchResultsDiv.appendChild(section);
+
+      var ciconum = document.createElement("span");
+      ciconum.setAttribute("class", "catalogo-item-label");
+      ciconum.appendChild(document.createTextNode(result.ciconum[0] + ". "));
+      section.appendChild(ciconum);
+
+      var bibl = document.createElement("span");
+      bibl.setAttribute("class","catalogo-bibl");
+      section.appendChild(bibl);
+
+      if(result.author[0]) {
+        var author = document.createElement("span");
+        author.setAttribute("class", "catalogo-author");
+        author.appendChild(document.createTextNode(result.author[0]));
+        bibl.appendChild(author);
+        bibl.appendChild(document.createTextNode(", "));
+      }
+
+      var title = document.createElement("span");
+      title.setAttribute("class", "catalogo-title");
+      var titleLink = document.createElement("a");
+      titleLink.href = `/catalogo/${result.filename}`;
+      titleLink.text = result.title[0];
+      title.appendChild(titleLink);
+      if(!result.title[0].endsWith(",")) {
+        title.appendChild(document.createTextNode(","));
+      }
+      title.appendChild(document.createTextNode(" "));
+      bibl.appendChild(title);
+
+      if (result.places[0]) {
+        var place = document.createElement("span");
+        place.setAttribute("class", "catalogo-pubPlace");
+        place.appendChild(document.createTextNode(result.places[0]));
+        bibl.appendChild(place);
+        bibl.appendChild(document.createTextNode(" "));
+      }
+
+      var date = document.createElement("span");
+      date.setAttribute("class", "catalogo-date");
+      date.appendChild(document.createTextNode(result.dates[0]));
+      bibl.appendChild(date);
+    }
+  }
+
+  // Wire the search button to run the serch
+  document.getElementById("searchButton").addEventListener("click", (event) => {
+    runSearch();
+  });
+
+  // Wire the enter key on the search textbox to run the search
+  // Source https://stackoverflow.com/a/46063448/446681
+  document.getElementById("searchTerms").addEventListener("keyup", (event) => {
+    if (event.key === "Enter") {
+      runSearch();
+    }
+  });
+
+  // Give the focus to the search box
+  document.getElementById("searchTerms").focus();
+
+  // Execute search if there is a querystring
+  const searchQuery = new URLSearchParams(window.location.search).get('q');
+  if (searchQuery != "") {
+    document.getElementById("searchTerms").value = searchQuery;
+    runSearch();
+  }
+
+</script>
+</body>
+
+</html>

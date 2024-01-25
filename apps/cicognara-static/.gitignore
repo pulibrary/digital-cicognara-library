@@ -5,5 +5,4 @@ vendor
 .DS_Store
 *.*~
 _tmp/
-_site
 
