@@ -21,7 +21,6 @@ header_pages:
   - contributor.md
   - contact.md
   - news.md
-  - search.md
 minima:
   date_format: "%d %B %Y"
 
