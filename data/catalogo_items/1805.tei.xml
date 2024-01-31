@@ -62,7 +62,7 @@
                   <extent>[24], 397, [28] p.</extent>
                   <extent>13 microfiche : positive.</extent>
                </monogr>
-               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/71f7da00-8729-42cc-b976-be44c8876e2a/manifest"/>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/5682e924-98e6-4174-8d02-8d68140a0718/manifest"/>
             </biblStruct>
          </sourceDesc>
       </fileDesc>
@@ -77,7 +77,7 @@
       </profileDesc>
    </teiHeader>
    <facsimile>
-      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/71f7da00-8729-42cc-b976-be44c8876e2a/manifest">
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/5682e924-98e6-4174-8d02-8d68140a0718/manifest">
          <desc>IIIF Manifest</desc>
       </media>
    </facsimile>

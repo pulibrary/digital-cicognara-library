@@ -20,5 +20,60 @@
         </sourceDesc>
     </fileDesc>
 </teiHeader>
-        
+        <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:local="http://library.princeton.edu" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Descrizione della festa celebrata in Venezia il giorno 15 agosto 1811 per la solenne inaugurazione della statua colossale di S.M. L'Iimperatore e Re : [microform] fatta erigere dalla camera di commercio, avviso al pubblico della stessa camera e discorsi pronunziati in tal memorabile circostanza.</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <authority>Leopoldo Cicognara Program (University of Illinois at Urbana-Champaign)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985456763506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/15977f</idno>
+            <idno type="cico">1538</idno>
+            <idno type="dcl">p2b</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Descrizione della festa celebrata in Venezia il giorno 15 agosto 1811 per la solenne inaugurazione della statua colossale di S.M. L'Iimperatore e Re : [microform] fatta erigere dalla camera di commercio, avviso al pubblico della stessa camera e discorsi pronunziati in tal memorabile circostanza.</title>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>In Venezia : Impressa da Giuseppe Molinari</publisher>
+                     <pubPlace>Italy</pubPlace>
+                     <date>[1811]</date>
+                     <date>1811</date>
+                  </imprint>
+                  <extent>xvi p.</extent>
+                  <extent>1 microfiche : positive ; 11 x 15 cm.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/113fb27d-5126-4281-93d4-0c0b9cf3644c/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Napoleon I, Emperor of the French, 1769-1821 -- Statues.</term>
+               <term>Festivals -- Italy -- Venice -- History -- 19th century.</term>
+               <term>Statues -- Italy -- Venice.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/113fb27d-5126-4281-93d4-0c0b9cf3644c/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
 </teiCorpus>

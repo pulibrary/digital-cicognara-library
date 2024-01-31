@@ -23,5 +23,59 @@
         </sourceDesc>
     </fileDesc>
 </teiHeader>
-        
+        <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:local="http://library.princeton.edu" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Provisione novissima del le dote et dello ornato delle donne reformata al tempo del reverendiss. sign. M. Bernardo de Rossi Governatore pres. et vicel. di Bologna et di tutta ro [microform].</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <authority>Leopoldo Cicognara Program (University of Illinois at Urbana-Champaign)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985462733506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/dm1n41</idno>
+            <idno type="cico">1770</idno>
+            <idno type="dcl">pjt</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Provisione novissima del le dote et dello ornato delle donne reformata al tempo del reverendiss. sign. M. Bernardo de Rossi Governatore pres. et vicel. di Bologna et di tutta ro [microform].</title>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>[Bologna : s.n]</publisher>
+                     <pubPlace>Italy</pubPlace>
+                     <date>[1521]</date>
+                     <date>1521</date>
+                  </imprint>
+                  <extent>[24] p.</extent>
+                  <extent>1 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/08ecc4df-ce6c-4e35-92ff-642e7e313b25/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Dowry -- Italy -- Bologna -- Early works to 1800.</term>
+               <term>Sumptuary laws -- Italy -- Bologna -- Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/08ecc4df-ce6c-4e35-92ff-642e7e313b25/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
 </teiCorpus>

@@ -21,5 +21,64 @@ portici, altri monumenti ec. in 57 tavole.</note>
         </sourceDesc>
     </fileDesc>
 </teiHeader>
-        
+        <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:local="http://library.princeton.edu" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Le antichit'a romane [microform] : opera di Giambatista Piranesi architetto Veneziano, divisa in quattro tomi nel primo de' quali si contengono gli avanzi degli antichi edifizi di Roma ... Nel secondo, e nel terzo ali avanzi de' monumenti sepolcrali esistenti in Roma, e nell'Agro Romano ... Nel quarto I Ponti antichi di Roma che inoggi sono in essere, colle Vestigia dell'antica Tiberina ...</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Piranesi, Francesco, 1756-1810.</authority>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <authority>Leopoldo Cicognara Program (University of Illinois at Urbana-Champaign)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985435903506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/4s471p</idno>
+            <idno type="cico">3828</idno>
+            <idno type="dcl">pk1</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Le antichit'a romane [microform] : opera di Giambatista Piranesi architetto Veneziano, divisa in quattro tomi nel primo de' quali si contengono gli avanzi degli antichi edifizi di Roma ... Nel secondo, e nel terzo ali avanzi de' monumenti sepolcrali esistenti in Roma, e nell'Agro Romano ... Nel quarto I Ponti antichi di Roma che inoggi sono in essere, colle Vestigia dell'antica Tiberina ...</title>
+                  <respStmt>
+                     <persName>Piranesi, Giovanni Battista, 1720-1778.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>In Roma : Nella stamperia di Angelo Rotilj ... si vendono in Roma dai Signori Bouchard, e Gravier Mercanti Libraj al Corso Presso San Marcello</publisher>
+                     <pubPlace>Rome (Italy)</pubPlace>
+                     <date>1756</date>
+                  </imprint>
+                  <extent>4 v.</extent>
+                  <extent>25 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/fa221804-e5fc-4329-becc-538ea120d1e7/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Architecture -- Rome -- Early works to 1800.</term>
+               <term>Sculpture -- Rome -- Early works to 1800.</term>
+               <term>Rome (Italy) -- Antiquities -- Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/fa221804-e5fc-4329-becc-538ea120d1e7/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
 </teiCorpus>

@@ -84,4 +84,58 @@
       </media>
    </facsimile>
 </TEI>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:local="http://library.princeton.edu" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Relacion de las exequias que a la magestad del rey catolico d. Fernando VI. se hicieron en la Real yglesia de Santiago de los españoles de Roma siendo ministro encargado de los reales negocios di S.M. ... señor fr. d. Joachim Portocarrero, cardenal obispo sabinense ... [microform].</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985303383506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/v70v15</idno>
+            <idno type="cico">1520</idno>
+            <idno type="dcl">fw0</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Relacion de las exequias que a la magestad del rey catolico d. Fernando VI. se hicieron en la Real yglesia de Santiago de los españoles de Roma siendo ministro encargado de los reales negocios di S.M. ... señor fr. d. Joachim Portocarrero, cardenal obispo sabinense ... [microform].</title>
+                  <textLang>Spanish; Castilian</textLang>
+                  <textLang>Latin</textLang>
+                  <imprint>
+                     <publisher>En Roma : En la imprenta de los hermanos Joachin, y Juan Josè Salvioni</publisher>
+                     <pubPlace>Italy</pubPlace>
+                     <date>1760</date>
+                  </imprint>
+                  <extent>XLV p.</extent>
+                  <extent>1 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/f6e7190e-fcb5-4fd1-a5a1-c3122590b7a4/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Ferdinand VI, King of Spain, 1713-1759.</term>
+               <term>Funeral rites and ceremonies -- Italy -- Rome -- Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/f6e7190e-fcb5-4fd1-a5a1-c3122590b7a4/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
 </teiCorpus>

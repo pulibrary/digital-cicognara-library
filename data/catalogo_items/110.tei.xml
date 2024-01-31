@@ -184,7 +184,7 @@
                   <extent>60 numb. leaves.</extent>
                   <extent>2 microfiche : positive.</extent>
                </monogr>
-               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/8a5b9e4f-1374-445a-8fcc-35fc1d3b4701/manifest"/>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/f992ca41-5198-47bd-ba33-1d643c93dadd/manifest"/>
             </biblStruct>
          </sourceDesc>
       </fileDesc>
@@ -197,7 +197,7 @@
       </profileDesc>
    </teiHeader>
    <facsimile>
-      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/8a5b9e4f-1374-445a-8fcc-35fc1d3b4701/manifest">
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/f992ca41-5198-47bd-ba33-1d643c93dadd/manifest">
          <desc>IIIF Manifest</desc>
       </media>
    </facsimile>
