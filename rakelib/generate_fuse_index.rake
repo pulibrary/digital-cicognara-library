@@ -32,6 +32,7 @@ task :generate_fuse_index do
                keywords: keywords,
  }
   end
-  File.open(Settings[:data] + Pathname.new("fuseindex.json"), "w") {
-    |f| f.write(index.to_json)}
+  File.open(Settings[:static_app_assets] + Pathname.new("fuseindex1111.js"), "w") { |f|
+    f.write("var searchIndex = ")
+    f.write(index.to_json)}
 end
