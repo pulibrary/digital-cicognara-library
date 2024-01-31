@@ -19,5 +19,65 @@
         </sourceDesc>
     </fileDesc>
 </teiHeader>
-        
+        <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:local="http://library.princeton.edu" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Cion, Paphlagonicus sive Columna in gloriam D. Alypii Cionitae erecta [microform] : oratio habita eiusdem die festo in templo D. Georgii Graecorum, ... et in Onomatoclyto Antenoris Athenaeo plusioris Musagetibus moderatoribusq[ue] Vigilantisimis / iisdemque dicata ab Angelo Summachio Zacynthio.</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <authority>Leopoldo Cicognara Program (University of Illinois at Urbana-Champaign)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985455163506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/dr6c4t</idno>
+            <idno type="cico">3348</idno>
+            <idno type="dcl">82w</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Cion, Paphlagonicus sive Columna in gloriam D. Alypii Cionitae erecta [microform] : oratio habita eiusdem die festo in templo D. Georgii Graecorum, ... et in Onomatoclyto Antenoris Athenaeo plusioris Musagetibus moderatoribusq[ue] Vigilantisimis / iisdemque dicata ab Angelo Summachio Zacynthio.</title>
+                  <respStmt>
+                     <persName>Summachio, Angelo.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Latin</textLang>
+                  <imprint>
+                     <publisher>Venetiis : Ex typographia Iuliana</publisher>
+                     <pubPlace>Cion (Extinct city)</pubPlace>
+                     <pubPlace>Columns</pubPlace>
+                     <pubPlace>Paphlagonia</pubPlace>
+                     <date>1667</date>
+                  </imprint>
+                  <extent>23 p.</extent>
+                  <extent>1 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/74a6375b-378a-405a-b6f1-4184f95dd92c/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Cion (Extinct city) -- Antiquities -- Early works to 1800.</term>
+               <term>Columns -- Cion (Extinct city) -- Early works to 1800.</term>
+               <term>Paphlagonia -- Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/74a6375b-378a-405a-b6f1-4184f95dd92c/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
 </teiCorpus>

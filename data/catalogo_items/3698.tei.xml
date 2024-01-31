@@ -143,7 +143,7 @@
                   <extent>4 v.</extent>
                   <extent>19 microfiche : positive.</extent>
                </monogr>
-               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/b07f1b82-1002-4516-acec-3b2db3acad90/manifest"/>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/ffb1e761-d9d7-482a-b0a9-c73da9d4e5ec/manifest"/>
             </biblStruct>
          </sourceDesc>
       </fileDesc>
@@ -158,7 +158,7 @@
       </profileDesc>
    </teiHeader>
    <facsimile>
-      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/b07f1b82-1002-4516-acec-3b2db3acad90/manifest">
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/ffb1e761-d9d7-482a-b0a9-c73da9d4e5ec/manifest">
          <desc>IIIF Manifest</desc>
       </media>
    </facsimile>
