@@ -6,18 +6,21 @@
   var runSearch = function() {
     var i, item;
 
-    const fuseOptions = {
-            keys: ["filename",
-               "ciconum",
-               "author",
-               "title",
-               "people",
-               "orgs",
-               "languages",
-               "dates",
-               "places",
-               "keywords",
-              ],
+      const fuseOptions = {
+          ignoreLocation: true,
+          threshold: 0.1,
+          keys: [
+              "filename",
+              "ciconum",
+              "author",
+              "title",
+              "people",
+              "orgs",
+              "languages",
+              "dates",
+              "places",
+              "keywords",
+          ],
     };
 
     // Clear the previous results
@@ -38,7 +41,7 @@
     totalsEl.textContent = `${results.length} results were found`;
     searchResultsDiv.appendChild(totalsEl);
 
-    // Loop throught results and add them to the page
+    // Loop through results and add them to the page
     for(i = 0; i < results.length; i++) {
       var result = results[i].item;
       var section = document.createElement("section");
