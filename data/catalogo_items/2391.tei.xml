@@ -123,7 +123,7 @@
             <idno type="URI">http://portal.getty.edu/api/v79f8g</idno>
             <idno type="URI">http://portal.getty.edu/api/hr327f</idno>
             <idno type="URI">http://portal.getty.edu/api/hd9597</idno>
-            <idno type="URI">http://portal.getty.edu/api/mk8h3w</idno>
+            <idno type="URI">http://portal.getty.edu/api/j20080</idno>
             <idno>(OCoLC)174965317</idno>
             <idno type="cico">2391</idno>
             <idno type="dcl">m88</idno>
@@ -145,7 +145,7 @@
                   <extent>3 pts. in 3 v.</extent>
                   <extent>25 microfiche : positive.</extent>
                </monogr>
-               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/c391eac5-73e3-48b7-90d7-2e0328843f67/manifest"/>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/60788e1e-0fa4-4d46-9d5c-269580a366dd/manifest"/>
             </biblStruct>
          </sourceDesc>
       </fileDesc>
@@ -159,7 +159,7 @@
       </profileDesc>
    </teiHeader>
    <facsimile>
-      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/c391eac5-73e3-48b7-90d7-2e0328843f67/manifest">
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/60788e1e-0fa4-4d46-9d5c-269580a366dd/manifest">
          <desc>IIIF Manifest</desc>
       </media>
    </facsimile>
