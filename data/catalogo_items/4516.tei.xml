@@ -18,5 +18,115 @@
         </sourceDesc>
     </fileDesc>
 </teiHeader>
-        
+        <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:local="http://library.princeton.edu" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Catalogue de tableaux des écoles d'Italie, de Flandres, et de France</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <authority>Leopoldo Cicognara Program (University of Illinois at Urbana-Champaign)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9984940213506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/qq0k71</idno>
+            <idno>(OCoLC)225865184</idno>
+            <idno type="cico">4516</idno>
+            <idno type="dcl">wvm</idno>
+            <idno type="dcl">596</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Catalogue de tableaux des écoles d'Italie, de Flandres, et de France</title>
+                  <respStmt>
+                     <persName>Le Brun, Jean-Baptiste-Pierre, 1748-1813.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>French</textLang>
+                  <imprint>
+                     <publisher>Paris : Chez M. Le Brun</publisher>
+                     <date>1786</date>
+                  </imprint>
+                  <extent>30, 6 p.</extent>
+                  <extent>3 microfiche : positive ; 11 x 15 cm.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/c02adb22-b0b3-4165-9701-34bd3a120cfb/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords/>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/c02adb22-b0b3-4165-9701-34bd3a120cfb/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:local="http://library.princeton.edu" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Catalogue d'une très-belle collection de tableaux, d'Italie, de Flandres, de Hollande, et de France [microform]: Dessins montés des trois écoles, d'autres en feuilles, figures de marbre &amp; de bronze, vases ... porcelaines coloriée du Japon ... bleu-céleste de la Chine ... pierres antiques ... d'une collection Boëtes en cailloux, émaux du célèbre Petitot, miniatures de la Rosalba ... laque du Japon ... provenans du cabinet de M. *** [de Vendreuil] / par m. Le Brun</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <authority>Leopoldo Cicognara Program (University of Illinois at Urbana-Champaign)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9984938723506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/9t5804</idno>
+            <idno>(OCoLC)175247111</idno>
+            <idno type="cico">4528</idno>
+            <idno type="dcl">0wg</idno>
+            <idno type="dcl">h36</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Catalogue d'une très-belle collection de tableaux, d'Italie, de Flandres, de Hollande, et de France [microform]: Dessins montés des trois écoles, d'autres en feuilles, figures de marbre &amp; de bronze, vases ... porcelaines coloriée du Japon ... bleu-céleste de la Chine ... pierres antiques ... d'une collection Boëtes en cailloux, émaux du célèbre Petitot, miniatures de la Rosalba ... laque du Japon ... provenans du cabinet de M. *** [de Vendreuil] / par m. Le Brun</title>
+                  <respStmt>
+                     <persName>Le Brun, Jean-Baptiste-Pierre, 1748-1813.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>French</textLang>
+                  <imprint>
+                     <publisher>Paris : Chez M. Le Brun</publisher>
+                     <date>1787</date>
+                  </imprint>
+                  <extent>2 microfiche : positive ; 11 x 15 cm.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/bdd9eae3-b4ac-4703-9496-614c6bf80e3e/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords/>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/bdd9eae3-b4ac-4703-9496-614c6bf80e3e/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
 </teiCorpus>

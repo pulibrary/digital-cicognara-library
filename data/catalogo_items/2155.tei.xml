@@ -21,5 +21,307 @@
         </sourceDesc>
     </fileDesc>
 </teiHeader>
-        
+        <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:local="http://library.princeton.edu" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Dictionnaire des monogrammes, chiffres, lettres initiales, logogryphes, rébus, &amp;c [microform] : sous lesquels les plus célébres peintres, graveurs &amp; dessinateurs ont dessiné leurs noms / traduit de l'allemand de M. Christ &amp; augmenté de plusiers supplémens par M**.</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Sellius, Gottfried, d. 1767.</authority>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985342983506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/177q8x</idno>
+            <idno type="cico">2155</idno>
+            <idno type="dcl">j5d</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Dictionnaire des monogrammes, chiffres, lettres initiales, logogryphes, rébus, &amp;c [microform] : sous lesquels les plus célébres peintres, graveurs &amp; dessinateurs ont dessiné leurs noms / traduit de l'allemand de M. Christ &amp; augmenté de plusiers supplémens par M**.</title>
+                  <respStmt>
+                     <persName>Christ, Johann Friedrich, 1700-1756.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>French</textLang>
+                  <imprint>
+                     <publisher>A Paris : Chez Guillyn</publisher>
+                     <date>1762</date>
+                  </imprint>
+                  <extent>xxiv, lv, 378, [35] p., 6 folded leaves of plates</extent>
+                  <extent>8 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/7221872d-5d58-47ea-b08a-415ba4a0198a/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Artists' marks -- Early works to 1800.</term>
+               <term>Monograms -- Dictionaries -- Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/7221872d-5d58-47ea-b08a-415ba4a0198a/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:local="http://library.princeton.edu" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Dictionnaire des monogrammes, chiffres, lettres initiales, logogryphes, rébus, &amp;c. sous lesquels les plus célébres peintres, graveurs &amp; dessinateurs ont dessiné leurs noms. Tr. de l'allemand de M. Christ &amp; augm. de plusieurs supplémens. Par M * * . de l'Acad. imp.</title>
+            <respStmt>
+               <orgName>Getty Research Institute</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Sellius, Godefroy, translator.</authority>
+            <authority>Aveline, Pierre-Alexandre, approximately 1710-1760, engraver.</authority>
+            <authority>Lattré, Jean, engraver.</authority>
+            <authority>Jorry, Sébastien, 1702?-1774, printer.</authority>
+            <idno type="URI">http://portal.getty.edu/books/gri_9922021100001551</idno>
+            <idno type="URI">http://portal.getty.edu/api/s44507</idno>
+            <idno>(OCoLC)3325555</idno>
+            <idno type="cico">2155</idno>
+            <idno type="dcl">kk5</idno>
+            <idno type="dcl">dck</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Dictionnaire des monogrammes, chiffres, lettres initiales, logogryphes, rébus, &amp;c. sous lesquels les plus célébres peintres, graveurs &amp; dessinateurs ont dessiné leurs noms. Tr. de l'allemand de M. Christ &amp; augm. de plusieurs supplémens. Par M * * . de l'Acad. imp.</title>
+                  <respStmt>
+                     <persName>Christ, Johann Friedrich, 1700-1756</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>French</textLang>
+                  <imprint>
+                     <publisher>Paris, S. Jorry</publisher>
+                     <pubPlace>France Paris.</pubPlace>
+                     <date>1750</date>
+                  </imprint>
+                  <extent>xxiv, iv, [1], 378, [35] pages</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://media.getty.edu/iiif/manifest/307ac20c-782d-48bd-a757-1d9870028f19"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Monograms.</term>
+               <term>Artists' marks.</term>
+               <term>Artists' marks.</term>
+               <term>Monograms.</term>
+               <term>N45 .C55</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://media.getty.edu/iiif/manifest/307ac20c-782d-48bd-a757-1d9870028f19">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:local="http://library.princeton.edu" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Dictionnaire des monogrammes, chiffres, lettres initiales, logogryphes, rébus &amp;c [microform] : sous lesquels les plus célébres peintres, graveurs &amp; dessinateurs ont dessiné leurs noms / traduit de l'Allemand de M. Christ ... &amp; augmenté de plusiers supplémens. Par M** ...</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Sellius, Gottfried, d. 1767.</authority>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985342953506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/261z7z</idno>
+            <idno type="URI">http://portal.getty.edu/api/71771d</idno>
+            <idno type="cico">2155</idno>
+            <idno type="dcl">dck</idno>
+            <idno type="dcl">kk5</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Dictionnaire des monogrammes, chiffres, lettres initiales, logogryphes, rébus &amp;c [microform] : sous lesquels les plus célébres peintres, graveurs &amp; dessinateurs ont dessiné leurs noms / traduit de l'Allemand de M. Christ ... &amp; augmenté de plusiers supplémens. Par M** ...</title>
+                  <respStmt>
+                     <persName>Christ, Johann Friedrich, 1700-1756.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>French</textLang>
+                  <imprint>
+                     <publisher>A Paris : Chez Sebastien Jorry</publisher>
+                     <date>1750</date>
+                  </imprint>
+                  <extent>xlix, lv, 378, [35] p.</extent>
+                  <extent>8 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/6e81aec1-06f7-45a7-ab9b-47efd46d142d/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Artists' marks -- Early works to 1800.</term>
+               <term>Monograms -- Dictionaries -- Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/6e81aec1-06f7-45a7-ab9b-47efd46d142d/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:local="http://library.princeton.edu" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Dictionnaire des monogrammes, chiffres, lettres initiales, logogryphes, rébus, &amp;c. sous lesquels les plus célébres peintres, graveurs &amp; dessinateurs ont dessiné leurs noms. Tr. de l'allemand de M. Christ &amp; augm. de plusieurs supplémens. Par M * * . de l'Acad. imp.</title>
+            <respStmt>
+               <orgName>Getty Research Institute</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Sellius, Godefroy, translator.</authority>
+            <authority>Aveline, Pierre-Alexandre, approximately 1710-1760, engraver.</authority>
+            <authority>Lattré, Jean, engraver.</authority>
+            <authority>Jorry, Sébastien, 1702?-1774, printer.</authority>
+            <idno type="URI">http://portal.getty.edu/books/gri_9922021100001551</idno>
+            <idno type="URI">http://portal.getty.edu/api/s44507</idno>
+            <idno>(OCoLC)3325555</idno>
+            <idno type="cico">2155</idno>
+            <idno type="dcl">kk5</idno>
+            <idno type="dcl">dck</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Dictionnaire des monogrammes, chiffres, lettres initiales, logogryphes, rébus, &amp;c. sous lesquels les plus célébres peintres, graveurs &amp; dessinateurs ont dessiné leurs noms. Tr. de l'allemand de M. Christ &amp; augm. de plusieurs supplémens. Par M * * . de l'Acad. imp.</title>
+                  <respStmt>
+                     <persName>Christ, Johann Friedrich, 1700-1756</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>French</textLang>
+                  <imprint>
+                     <publisher>Paris, S. Jorry</publisher>
+                     <pubPlace>France Paris.</pubPlace>
+                     <date>1750</date>
+                  </imprint>
+                  <extent>xxiv, iv, [1], 378, [35] pages</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://media.getty.edu/iiif/manifest/307ac20c-782d-48bd-a757-1d9870028f19"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Monograms.</term>
+               <term>Artists' marks.</term>
+               <term>Artists' marks.</term>
+               <term>Monograms.</term>
+               <term>N45 .C55</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://media.getty.edu/iiif/manifest/307ac20c-782d-48bd-a757-1d9870028f19">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:local="http://library.princeton.edu" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Dictionnaire des monogrammes, chiffres, lettres initiales, logogryphes, rébus &amp;c [microform] : sous lesquels les plus célébres peintres, graveurs &amp; dessinateurs ont dessiné leurs noms / traduit de l'Allemand de M. Christ ... &amp; augmenté de plusiers supplémens. Par M** ...</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Sellius, Gottfried, d. 1767.</authority>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985342953506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/261z7z</idno>
+            <idno type="URI">http://portal.getty.edu/api/71771d</idno>
+            <idno type="cico">2155</idno>
+            <idno type="dcl">dck</idno>
+            <idno type="dcl">kk5</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Dictionnaire des monogrammes, chiffres, lettres initiales, logogryphes, rébus &amp;c [microform] : sous lesquels les plus célébres peintres, graveurs &amp; dessinateurs ont dessiné leurs noms / traduit de l'Allemand de M. Christ ... &amp; augmenté de plusiers supplémens. Par M** ...</title>
+                  <respStmt>
+                     <persName>Christ, Johann Friedrich, 1700-1756.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>French</textLang>
+                  <imprint>
+                     <publisher>A Paris : Chez Sebastien Jorry</publisher>
+                     <date>1750</date>
+                  </imprint>
+                  <extent>xlix, lv, 378, [35] p.</extent>
+                  <extent>8 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/6e81aec1-06f7-45a7-ab9b-47efd46d142d/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Artists' marks -- Early works to 1800.</term>
+               <term>Monograms -- Dictionaries -- Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/6e81aec1-06f7-45a7-ab9b-47efd46d142d/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
 </teiCorpus>

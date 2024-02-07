@@ -19,5 +19,144 @@ vol. 22.
         </sourceDesc>
     </fileDesc>
 </teiHeader>
-        
+        <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:local="http://library.princeton.edu" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Annales du Musée et de l'école moderne des beaux-arts [microform] : recueil de gravures au trait, d'après les principaux ouvrages de peinture, sculpture, ou projets d'architecture, qui, chaque année, ont remporté le prix, soit aux écoles spéciales, soit aux concours nationaux; les productions des artistes en tous genres, qui, aux différentes expositions, ont été cités avec éloges : les morceaux les plus estimés ou inédits de la galerie de peinture : la suite complète de celle des antiques : édifices anciens et modernes, etc. / rédigé par C. P. Landon.</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <authority>Leopoldo Cicognara Program (University of Illinois at Urbana-Champaign)</authority>
+            <authority>Musée du Louvre.</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985440773506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/xs4140</idno>
+            <idno type="URI">http://portal.getty.edu/api/xr9d8t</idno>
+            <idno type="URI">http://portal.getty.edu/api/cv9n85</idno>
+            <idno type="URI">http://portal.getty.edu/api/ts957b</idno>
+            <idno type="URI">http://portal.getty.edu/api/fz739v</idno>
+            <idno type="URI">http://portal.getty.edu/api/45251f</idno>
+            <idno type="URI">http://portal.getty.edu/api/kx427h</idno>
+            <idno type="URI">http://portal.getty.edu/api/w5750c</idno>
+            <idno type="URI">http://portal.getty.edu/api/dw4f21</idno>
+            <idno type="URI">http://portal.getty.edu/api/cp2k33</idno>
+            <idno type="URI">http://portal.getty.edu/api/tn8p5k</idno>
+            <idno type="URI">http://portal.getty.edu/api/964p50</idno>
+            <idno type="URI">http://portal.getty.edu/api/6r667v</idno>
+            <idno type="URI">http://portal.getty.edu/api/jv1x4c</idno>
+            <idno type="URI">http://portal.getty.edu/api/bx6h5d</idno>
+            <idno type="URI">http://portal.getty.edu/api/783v2g</idno>
+            <idno type="URI">http://portal.getty.edu/api/5j2s4t</idno>
+            <idno type="URI">http://portal.getty.edu/api/kg1f8n</idno>
+            <idno type="URI">http://portal.getty.edu/api/6j297r</idno>
+            <idno type="cico">3401</idno>
+            <idno type="dcl">m8d</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Annales du Musée et de l'école moderne des beaux-arts [microform] : recueil de gravures au trait, d'après les principaux ouvrages de peinture, sculpture, ou projets d'architecture, qui, chaque année, ont remporté le prix, soit aux écoles spéciales, soit aux concours nationaux; les productions des artistes en tous genres, qui, aux différentes expositions, ont été cités avec éloges : les morceaux les plus estimés ou inédits de la galerie de peinture : la suite complète de celle des antiques : édifices anciens et modernes, etc. / rédigé par C. P. Landon.</title>
+                  <respStmt>
+                     <persName>Landon, C. P. (Charles Paul), 1760-1826.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>French</textLang>
+                  <imprint>
+                     <publisher>Paris : L'Imprimerie des annales du musée</publisher>
+                     <pubPlace>France.</pubPlace>
+                     <date>1801-1809</date>
+                     <date>1801</date>
+                  </imprint>
+                  <extent>20 v.</extent>
+                  <extent>77 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/4dc23931-75cd-4c0b-870f-28d7e08e2a66/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Painting -- France.</term>
+               <term>Sculpture -- France.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/4dc23931-75cd-4c0b-870f-28d7e08e2a66/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:local="http://library.princeton.edu" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Annales du Musée et de l'école moderne des beaux-arts [microform] : recueil de gravures au trait, contenant la collection des peintures et sculptures du Musée Napoléon ; les objets les plus curieux du Musée des monumens français et de celui de Versailles ; la Galerie du Senat ; les principaux ouvrages des artistes vivans, etc., avec des notices historiques et critiques / par C. P. Landon.</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <authority>Leopoldo Cicognara Program (University of Illinois at Urbana-Champaign)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985440753506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/qt3p4j</idno>
+            <idno type="cico">3401</idno>
+            <idno type="dcl">dg7</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Annales du Musée et de l'école moderne des beaux-arts [microform] : recueil de gravures au trait, contenant la collection des peintures et sculptures du Musée Napoléon ; les objets les plus curieux du Musée des monumens français et de celui de Versailles ; la Galerie du Senat ; les principaux ouvrages des artistes vivans, etc., avec des notices historiques et critiques / par C. P. Landon.</title>
+                  <respStmt>
+                     <persName>Landon, C. P. (Charles Paul), 1760-1826.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>French</textLang>
+                  <imprint>
+                     <publisher>Paris : L'Imprimerie de Chaignieau aîné</publisher>
+                     <pubPlace>France.</pubPlace>
+                     <date>1810-1833</date>
+                     <date>1810</date>
+                  </imprint>
+                  <extent>19 v.</extent>
+                  <extent>8 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/9bd2b9fe-0fff-42e6-8b2b-49fc730a1f37/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Musée Napoléon.</term>
+               <term>Musée national de Versailles.</term>
+               <term>Salon (Exhibition : Paris, France)</term>
+               <term>Painting -- France.</term>
+               <term>Sculpture -- France.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/9bd2b9fe-0fff-42e6-8b2b-49fc730a1f37/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
 </teiCorpus>
