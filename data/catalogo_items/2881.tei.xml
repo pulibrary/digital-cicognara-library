@@ -22,5 +22,122 @@ numismatica, aventi gran pregio nella lindura dell’esecuzione e compreso il lo
         </sourceDesc>
     </fileDesc>
 </teiHeader>
-        
+        <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:local="http://library.princeton.edu" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Oeuvre du chevalier Hedlinger, ou, Recueil des medailles de ce celebre artiste [microform] : gravées en taille douce, accompagnées d'une explication historique et critique, et précédées de la vie de l'auteur ... / par Chretien de Mechel ...</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <authority>Leopoldo Cicognara Program (University of Illinois at Urbana-Champaign)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985409303506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/z5789c</idno>
+            <idno type="cico">2881</idno>
+            <idno type="dcl">5w9</idno>
+            <idno type="dcl">8sh</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Oeuvre du chevalier Hedlinger, ou, Recueil des medailles de ce celebre artiste [microform] : gravées en taille douce, accompagnées d'une explication historique et critique, et précédées de la vie de l'auteur ... / par Chretien de Mechel ...</title>
+                  <respStmt>
+                     <persName>Mechel, Christian von, 1737-1817.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>French</textLang>
+                  <imprint>
+                     <publisher>à Basle : [s.n.]</publisher>
+                     <pubPlace>Sweden</pubPlace>
+                     <date>1776</date>
+                  </imprint>
+                  <extent>xxxiv, 64 p.</extent>
+                  <extent>3 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/e55cbf05-6c63-45f6-a951-797251f82ff2/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Hedlinger, Johann Carl, 1691-1771.</term>
+               <term>Medals -- Sweden -- Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/e55cbf05-6c63-45f6-a951-797251f82ff2/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:local="http://library.princeton.edu" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Oeuvre du chevalier Hedlinger, ou, Recueil des medailles de ce celebre artiste [microform] : gravées en taille douce, accompagnées d'une explication historique et critique, et précédées de la vie de l'auteur ... / par Chretien de Mechel ...</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <authority>Leopoldo Cicognara Program (University of Illinois at Urbana-Champaign)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985409303506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/z5789c</idno>
+            <idno type="cico">2881</idno>
+            <idno type="dcl">5w9</idno>
+            <idno type="dcl">8sh</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Oeuvre du chevalier Hedlinger, ou, Recueil des medailles de ce celebre artiste [microform] : gravées en taille douce, accompagnées d'une explication historique et critique, et précédées de la vie de l'auteur ... / par Chretien de Mechel ...</title>
+                  <respStmt>
+                     <persName>Mechel, Christian von, 1737-1817.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>French</textLang>
+                  <imprint>
+                     <publisher>à Basle : [s.n.]</publisher>
+                     <pubPlace>Sweden</pubPlace>
+                     <date>1776</date>
+                  </imprint>
+                  <extent>xxxiv, 64 p.</extent>
+                  <extent>3 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/e55cbf05-6c63-45f6-a951-797251f82ff2/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Hedlinger, Johann Carl, 1691-1771.</term>
+               <term>Medals -- Sweden -- Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/e55cbf05-6c63-45f6-a951-797251f82ff2/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
 </teiCorpus>

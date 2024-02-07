@@ -8,10 +8,14 @@ task :generate_ciconum_index do
 
   index = {}
   items.each do |item|
-    n = item.xpath("@n")
-    index[n] = [] unless index.has_key? n
-    dclnums = item.xpath("@corresp")
-    dclnums.each { |dcl| index[n] << dcl }
+    n = item.xpath("@n").text
+    dclnums = item.xpath("@corresp").text
+    unless n.empty?
+      unless dclnums.empty?
+        index[n] = [] unless index.has_key? n
+        dclnums.split(' ').each { |dcl| index[n] << dcl.strip }
+      end
+    end
   end
 
   File.open(Settings[:tmp] + "cicoindex.json", "w") { |f| f.write(index.to_json) }

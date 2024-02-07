@@ -16,6 +16,7 @@ require "pathname"
 require "json"
 require 'erb'
 require 'fileutils'
+require 'pry'
 
 desc "Generate the TEI corpus files for the Catalogo items."
 task :generate_item_files do
@@ -76,7 +77,9 @@ EOF
     # representations to the array.
     getty_docarray = []
 
-    dclnums = item.xpath("@corresp").collect { |x| x.text.split(":")[1] }
+    corresps = item.xpath("@corresp").text
+    c2 = corresps.split(' ')
+    dclnums = c2.collect { |x| x.split(":")[1]}
     dclnums.each do |dclnum|
       files = dcl_index[dclnum]
       if files

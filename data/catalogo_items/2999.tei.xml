@@ -19,5 +19,230 @@
         </sourceDesc>
     </fileDesc>
 </teiHeader>
-        
+        <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:local="http://library.princeton.edu" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Selecta numismata antiqua ex museo Petri Seguini .. [microform] : eiusdem observationibus illustrata.</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Séguin, Pierre, fl. 1660.</authority>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <authority>Leopoldo Cicognara Program (University of Illinois at Urbana-Champaign)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985409673506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/73905c</idno>
+            <idno type="cico">2999</idno>
+            <idno type="dcl">wfr</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Selecta numismata antiqua ex museo Petri Seguini .. [microform] : eiusdem observationibus illustrata.</title>
+                  <textLang>Latin</textLang>
+                  <imprint>
+                     <publisher>Lutetiae Parisiorum : Apud Sebastianum Mabre-Cramoisy</publisher>
+                     <pubPlace>France</pubPlace>
+                     <date>1666</date>
+                  </imprint>
+                  <extent>[8], 226, [6] p.</extent>
+                  <extent>4 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/022c7d08-2e8c-4848-b39d-d6ca786a9e80/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Seguin, Pierre, fl. 1660 -- Coin collections.</term>
+               <term>Numismatics, Ancient.</term>
+               <term>Private collection -- France -- Paris -- Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/022c7d08-2e8c-4848-b39d-d6ca786a9e80/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:local="http://library.princeton.edu" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Selecta numismata antiqua ex museo Petri Seguini .. [microform] : eiusdem observationibus illustrata.</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Séguin, Pierre, fl. 1660.</authority>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <authority>Leopoldo Cicognara Program (University of Illinois at Urbana-Champaign)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985409723506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/908p1v</idno>
+            <idno type="cico">2999</idno>
+            <idno type="dcl">f8g</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Selecta numismata antiqua ex museo Petri Seguini .. [microform] : eiusdem observationibus illustrata.</title>
+                  <textLang>Latin</textLang>
+                  <imprint>
+                     <publisher>Lutetiae Parisiorum : E typographia Edmundi Martini</publisher>
+                     <pubPlace>France</pubPlace>
+                     <date>1665</date>
+                  </imprint>
+                  <extent>[8], 226 p.</extent>
+                  <extent>4 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/75d882c4-9455-4460-b17c-76b7cf900482/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Seguin, Pierre, fl. 1660 -- Coin collections.</term>
+               <term>Coins, Ancient.</term>
+               <term>Numismatics -- Early works to 1800.</term>
+               <term>Private collections -- France -- Paris -- Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/75d882c4-9455-4460-b17c-76b7cf900482/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:local="http://library.princeton.edu" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Petri Seguini Ad Octauium Falconerium nummus regius [microform].</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <authority>Leopoldo Cicognara Program (University of Illinois at Urbana-Champaign)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985409713506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/7t5x7g</idno>
+            <idno type="cico">2999</idno>
+            <idno type="dcl">pcc</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Petri Seguini Ad Octauium Falconerium nummus regius [microform].</title>
+                  <respStmt>
+                     <persName>Séguin, Pierre, fl. 1660.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Latin</textLang>
+                  <imprint>
+                     <publisher>Parisiis : Apud Edmundum Martinum</publisher>
+                     <date>1668</date>
+                  </imprint>
+                  <extent>29 p.</extent>
+                  <extent>7 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/394df930-718b-4359-9c93-507dec85ade9/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Coins, Ancient.</term>
+               <term>Numismatics, Roman -- Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/394df930-718b-4359-9c93-507dec85ade9/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:local="http://library.princeton.edu" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Selecta numismata antiqua ex museo Petri Seguini .. [microform] : ejusdem observationibus illustrata.</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Séguin, Pierre, fl. 1660.</authority>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <authority>Leopoldo Cicognara Program (University of Illinois at Urbana-Champaign)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985409683506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/gz737s</idno>
+            <idno type="cico">2999</idno>
+            <idno type="dcl">391</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Selecta numismata antiqua ex museo Petri Seguini .. [microform] : ejusdem observationibus illustrata.</title>
+                  <textLang>Latin</textLang>
+                  <imprint>
+                     <publisher>Lutetiae Parisiorum : Sumptibus Joannis Jombert</publisher>
+                     <pubPlace>France</pubPlace>
+                     <date>1684</date>
+                  </imprint>
+                  <extent>[8], 419, [5] p.</extent>
+                  <extent>7 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/4f0274eb-d1df-4c9f-a908-24ab2753c296/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Seguin, Pierre, fl. 1660 -- Coin collections.</term>
+               <term>Coins, Ancient.</term>
+               <term>Private collections -- France -- Paris -- Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/4f0274eb-d1df-4c9f-a908-24ab2753c296/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
 </teiCorpus>

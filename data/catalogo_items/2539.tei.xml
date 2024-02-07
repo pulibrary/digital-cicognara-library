@@ -18,5 +18,126 @@
         </sourceDesc>
     </fileDesc>
 </teiHeader>
-        
+        <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:local="http://library.princeton.edu" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Description de l'Arabie [microform] / faite sur des observations propres et des avis recueillis dans les lieux mèmes par Carsten Niebuhr.</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Mourier, F. L. (Ferdinand Louis), active 1773.</authority>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985404123506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/z34j9b</idno>
+            <idno type="cico">2539</idno>
+            <idno type="dcl">3gg</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Description de l'Arabie [microform] / faite sur des observations propres et des avis recueillis dans les lieux mèmes par Carsten Niebuhr.</title>
+                  <respStmt>
+                     <persName>Niebuhr, Carsten, 1733-1815.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>French</textLang>
+                  <imprint>
+                     <publisher>À Amsterdam : Chez S. J. Baalde ;</publisher>
+                     <pubPlace>Arabian Peninsula</pubPlace>
+                     <pubPlace>Iran</pubPlace>
+                     <pubPlace>Middle East</pubPlace>
+                     <date>1774</date>
+                  </imprint>
+                  <extent>XLII, 372 p.</extent>
+                  <extent>8 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/ec218e21-1fc3-4b95-a9fa-d512efc7ef88/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Arabian Peninsula -- Description and travel -- Early works to 1800.</term>
+               <term>Iran -- Description and travel -- Early works to 1800.</term>
+               <term>Middle East -- Description and travel -- Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/ec218e21-1fc3-4b95-a9fa-d512efc7ef88/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:local="http://library.princeton.edu" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Description de l'Arabie [microform] : d'apres les observations et recherches faites dans le pays meme / par Mr. Niebuhr ...</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Mourier, F. L. (Ferdinand Louis), active 1773.</authority>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985404113506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/cr6203</idno>
+            <idno type="cico">2539</idno>
+            <idno type="dcl">hvw</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Description de l'Arabie [microform] : d'apres les observations et recherches faites dans le pays meme / par Mr. Niebuhr ...</title>
+                  <respStmt>
+                     <persName>Niebuhr, Carsten, 1733-1815.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>French</textLang>
+                  <imprint>
+                     <publisher>A Copenhague : Chez Nicolas Möller, imprimeur</publisher>
+                     <pubPlace>Arabian Peninsula</pubPlace>
+                     <pubPlace>Iran</pubPlace>
+                     <pubPlace>Middle East</pubPlace>
+                     <date>1773</date>
+                  </imprint>
+                  <extent>XLIII, 372 p.</extent>
+                  <extent>8 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/6c7bba56-ea25-42ac-9660-2dccf3d1f562/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Arabian Peninsula -- Description and travel -- Early works to 1800.</term>
+               <term>Iran -- Description and travel -- Early works to 1800.</term>
+               <term>Middle East -- Description and travel -- Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/6c7bba56-ea25-42ac-9660-2dccf3d1f562/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
 </teiCorpus>

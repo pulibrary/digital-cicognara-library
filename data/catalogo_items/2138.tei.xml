@@ -21,5 +21,61 @@
         </sourceDesc>
     </fileDesc>
 </teiHeader>
-        
+        <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:local="http://library.princeton.edu" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Speculum &amp; exemplar Christicolarum [microform] : vita beatissimi patris Benedicti, monacho[rum] patriarch[a]e sanctissimi / per R.P.D. Angelum Sangrinum abbatem congregationis Casine[n]sis Carmine conscripta.</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985342463506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/sw154q</idno>
+            <idno type="cico">2138</idno>
+            <idno type="dcl">dg5</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Speculum &amp; exemplar Christicolarum [microform] : vita beatissimi patris Benedicti, monacho[rum] patriarch[a]e sanctissimi / per R.P.D. Angelum Sangrinum abbatem congregationis Casine[n]sis Carmine conscripta.</title>
+                  <respStmt>
+                     <persName>Sangrinus, Angelus, d. 1593.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Latin</textLang>
+                  <imprint>
+                     <publisher>Romae : [Ex typographia Bartholomaei Bonfadini]</publisher>
+                     <pubPlace>Italy</pubPlace>
+                     <date>1587</date>
+                  </imprint>
+                  <extent>246 p.</extent>
+                  <extent>4 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/ab6b36d2-cb2e-4bca-b652-523ca53b74da/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Benedict, Saint, Abbot of Monte Cassino -- Art.</term>
+               <term>Christian saints -- Italy -- Biography -- Portraits.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/ab6b36d2-cb2e-4bca-b652-523ca53b74da/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
 </teiCorpus>

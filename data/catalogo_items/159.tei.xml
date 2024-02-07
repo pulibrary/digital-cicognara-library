@@ -24,5 +24,118 @@
         </sourceDesc>
     </fileDesc>
 </teiHeader>
-        
+        <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:local="http://library.princeton.edu" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Trattato dell'arte de la pittura [microform] / di Gio. Paolo Lomazzo ... diuiso in sette libri ; ne' quali si contiene tutta la theorica, &amp; la prattica d'essa pittura.</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9984941133506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/26031b</idno>
+            <idno type="cico">159</idno>
+            <idno type="dcl">w23</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Trattato dell'arte de la pittura [microform] / di Gio. Paolo Lomazzo ... diuiso in sette libri ; ne' quali si contiene tutta la theorica, &amp; la prattica d'essa pittura.</title>
+                  <respStmt>
+                     <persName>Lomazzo, Giovanni Paolo, 1538-1600.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>In Milano : Appresso Paolo Gottardo Pontio</publisher>
+                     <date>l'anno 1584</date>
+                     <date>1584</date>
+                  </imprint>
+                  <extent>700, [5] p.</extent>
+                  <extent>11 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/8ce21cc1-9e3a-4ec5-9122-434c7b37cc01/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Art -- Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/8ce21cc1-9e3a-4ec5-9122-434c7b37cc01/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:local="http://library.princeton.edu" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Trattato dell'arte de la pittura : diuiso in sette libri, ne' quali si contiene tutta la theorica, &amp; la prattica d'essa pittura / di Gio. Paolo Lomazzo, milanese pittore.</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9920680943506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/fg8w2k</idno>
+            <idno>(OCoLC)20342814</idno>
+            <idno type="cico">159</idno>
+            <idno type="dcl">fvs</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Trattato dell'arte de la pittura : diuiso in sette libri, ne' quali si contiene tutta la theorica, &amp; la prattica d'essa pittura / di Gio. Paolo Lomazzo, milanese pittore.</title>
+                  <respStmt>
+                     <persName>Lomazzo, Giovanni Paolo, 1538-1600.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>In Milano : Appresso Paolo Gottardo Pontio</publisher>
+                     <date>1584</date>
+                  </imprint>
+                  <extent>[40], 700 [i.e. 698], [2] p.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/04559c30-dff0-4cc8-81f5-11f9aed2a18b/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Proportion (Art) -- Early works to 1800.</term>
+               <term>Color -- Early works to 1800.</term>
+               <term>Painting -- Early works to 1800.</term>
+               <term>Art -- Early works to 1800.</term>
+               <term>N7420</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/04559c30-dff0-4cc8-81f5-11f9aed2a18b/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
 </teiCorpus>

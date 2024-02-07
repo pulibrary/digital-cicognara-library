@@ -19,5 +19,154 @@ singolari iscrizioni.</note>
         </sourceDesc>
     </fileDesc>
 </teiHeader>
-        
+        <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:local="http://library.princeton.edu" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Gli atti e monumenti de' fratelli Arvali : scolpiti già in tavole di marmo ed ora raccolti, diciferati e comentati.</title>
+            <respStmt>
+               <orgName>Getty Research Institute</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Marini, Gaetano, 1742-1815</authority>
+            <authority>Fulgoni, Antonio.</authority>
+            <idno type="URI">http://portal.getty.edu/books/gri_9926944370001551</idno>
+            <idno type="URI">http://portal.getty.edu/api/319c8m</idno>
+            <idno type="URI">http://portal.getty.edu/api/bc8q62</idno>
+            <idno>(OCoLC)78834688</idno>
+            <idno type="cico">3776</idno>
+            <idno type="dcl">fgc</idno>
+            <idno type="dcl">gw1</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Gli atti e monumenti de' fratelli Arvali : scolpiti già in tavole di marmo ed ora raccolti, diciferati e comentati.</title>
+                  <respStmt>
+                     <persName>Fratres Arvales</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>In Roma : Presso Antonio Fulgoni</publisher>
+                     <pubPlace>Italy</pubPlace>
+                     <pubPlace>Rome</pubPlace>
+                     <pubPlace>Rome (Empire)</pubPlace>
+                     <pubPlace>Italy Rome.</pubPlace>
+                     <date>MDCCXCV [1795]</date>
+                     <date>1795</date>
+                  </imprint>
+                  <extent>2 v. (CLXXX, 832 pages)</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://media.getty.edu/iiif/manifest/51aa810d-b9f9-470b-b7ac-a44db73aedeehttps://media.getty.edu/iiif/manifest/8c5ce646-6b42-40dd-86cc-4ce2ed470220"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Fratres Arvales.</term>
+               <term>Inscriptions, Latin -- Italy -- Rome -- Early works to 1800.</term>
+               <term>Rome -- Religion -- Early works to 1800.</term>
+               <term>Fratres Arvales.</term>
+               <term>Inscriptions, Latin.</term>
+               <term>Religion.</term>
+               <term>Italy -- Rome.</term>
+               <term>Rome (Empire)</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://media.getty.edu/iiif/manifest/51aa810d-b9f9-470b-b7ac-a44db73aedee">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+   <facsimile>
+      <media mimeType="application/json" url="https://media.getty.edu/iiif/manifest/8c5ce646-6b42-40dd-86cc-4ce2ed470220">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:local="http://library.princeton.edu" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Gli atti e monumenti de' fratelli Arvali : scolpiti già in tavole di marmo ed ora raccolti, diciferati e comentati.</title>
+            <respStmt>
+               <orgName>Getty Research Institute</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Marini, Gaetano, 1742-1815</authority>
+            <authority>Fulgoni, Antonio.</authority>
+            <idno type="URI">http://portal.getty.edu/books/gri_9926944370001551</idno>
+            <idno type="URI">http://portal.getty.edu/api/319c8m</idno>
+            <idno type="URI">http://portal.getty.edu/api/bc8q62</idno>
+            <idno>(OCoLC)78834688</idno>
+            <idno type="cico">3776</idno>
+            <idno type="dcl">fgc</idno>
+            <idno type="dcl">gw1</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Gli atti e monumenti de' fratelli Arvali : scolpiti già in tavole di marmo ed ora raccolti, diciferati e comentati.</title>
+                  <respStmt>
+                     <persName>Fratres Arvales</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>In Roma : Presso Antonio Fulgoni</publisher>
+                     <pubPlace>Italy</pubPlace>
+                     <pubPlace>Rome</pubPlace>
+                     <pubPlace>Rome (Empire)</pubPlace>
+                     <pubPlace>Italy Rome.</pubPlace>
+                     <date>MDCCXCV [1795]</date>
+                     <date>1795</date>
+                  </imprint>
+                  <extent>2 v. (CLXXX, 832 pages)</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://media.getty.edu/iiif/manifest/51aa810d-b9f9-470b-b7ac-a44db73aedeehttps://media.getty.edu/iiif/manifest/8c5ce646-6b42-40dd-86cc-4ce2ed470220"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Fratres Arvales.</term>
+               <term>Inscriptions, Latin -- Italy -- Rome -- Early works to 1800.</term>
+               <term>Rome -- Religion -- Early works to 1800.</term>
+               <term>Fratres Arvales.</term>
+               <term>Inscriptions, Latin.</term>
+               <term>Religion.</term>
+               <term>Italy -- Rome.</term>
+               <term>Rome (Empire)</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://media.getty.edu/iiif/manifest/51aa810d-b9f9-470b-b7ac-a44db73aedee">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+   <facsimile>
+      <media mimeType="application/json" url="https://media.getty.edu/iiif/manifest/8c5ce646-6b42-40dd-86cc-4ce2ed470220">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
 </teiCorpus>
