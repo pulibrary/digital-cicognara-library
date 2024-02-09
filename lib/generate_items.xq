@@ -6,9 +6,9 @@ declare namespace dc = "http://purl.org/dc/elements/1.1/";
 declare namespace dcterms="http://purl.org/dc/terms/";
 declare namespace gettyterms="http://portal.getty.edu/terms/gri/";
 
+
 declare function local:docs-from-dclnum($dclnum) {
-    let $hits := collection('/Users/cwulfman/repos/github/pulibrary/cicognara-catalogo/tmp/cicorecords  ')//tei:idno[@type= 'dcl'][.=$dclnum]
-    for $hit in $hits return $hit/ancestor::tei:TEI
+        collection('/db/data/cicognara')/tei:TEI[.//tei:idno[@type= 'dcl'] = $dclnum]
 };
 
 (: Rename this to the local tmp directory of the project:)
