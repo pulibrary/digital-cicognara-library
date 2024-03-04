@@ -17725,7 +17725,7 @@ septem etc.</title> apud <publisher>Nicolaum Mutium</publisher>, <date>1596</dat
     sulla religione relativo alla prima figura.
 </note>    
     </bibl></item>
-               <item xml:id="c1d1e26719" n="1650" corresp="dcl:5s3 dcl:s5c">
+               <item xml:id="c1d1e26719" n="1650" corresp="dcl:5s3">
                   <label>1650.</label> <bibl><author>FIALETTI Odoardo</author>, <title>Briefve (sic) histoire de l’institution de toutes les religions avec leurs
     habits</title>, à <pubPlace>Paris</pubPlace> <date>1658</date>, in 4.
     <note>Questa è una versione o illustrazione del testo fatta da Du Fresne ove sono riprodotte le tavole originali nelle
@@ -20683,7 +20683,7 @@ septem etc.</title> apud <publisher>Nicolaum Mutium</publisher>, <date>1596</dat
   </bibl></item>
                <item xml:id="c1d1e29485"
                      n="2043"
-                     corresp="dcl:z4x dcl:rrn dcl:pfv dcl:jnx">
+                     corresp="dcl:z4x dcl:rrn dcl:pfv dcl:jnx dcl:vcc">
                   <label>2043.</label> <bibl><author>HOLBEIN</author>. <title>Imagines Mortis: his accesserunt epigratnmata e gallico idiomate in latinum
   traslata</title>, <pubPlace>Coloniae</pubPlace> <date>1557</date>, in 12. figur.
  <note> Questa è un’edizione originale colle stesse 53 tavole, clic pretendonsi intagliate da Holbein medesimo: ma non
@@ -20993,7 +20993,7 @@ septem etc.</title> apud <publisher>Nicolaum Mutium</publisher>, <date>1596</dat
   suo pregio.</note>
   
   </bibl></item>
-               <item xml:id="c1d1e29718" n="2075">
+               <item xml:id="c1d1e29718" n="2075" corresp="dcl:2wp">
                   <label>2075.</label> <bibl><author>ORTELIO Abrahamo</author>, <title>Theatro del Mondo</title>.<bibl>Vedi tra le <title>Guide e Illustrazioni</title></bibl>.
   </bibl></item>
                <item xml:id="c1d1e29724" n="2076" corresp="dcl:ccc">
@@ -36143,7 +36143,7 @@ materie e le tradizioni, ma incontransi molte ottime notizie miste a non poche i
 svédois</title>. Par l’auteur du livre intitule Londres, <pubPlace>Amsterdam</pubPlace> <date>1774</date>, vol. 4, in 12.
 </bibl></item>
 
-                  <item xml:id="c2d1e12449" n="4147">
+                  <item xml:id="c2d1e12449" n="4147" corresp="dcl:6kj">
                      <label>4147.</label> <bibl><author>ORTELIO Abrahamo</author>, <title>Theatro del mondo da lui poco innanzi la sua morte riveduto, e di tavole nuove et commenti
 adorno et arricchito con la vita dell’autore, traslato in lingua toscana dal signor Filippo Pigafetta</title>, <pubPlace>Anversa</pubPlace>, nella
 <publisher>Plantiniana</publisher>, <date>1612</date>, in fol., fig.
@@ -39360,7 +39360,7 @@ Stosch</title>, <pubPlace>Florentiae</pubPlace> <date>1759</date>, in 8.
                      <label>4635.</label> <bibl> <title>BIBLIOTHECA Smithiana, seu catalogus librorum Josephi Smithii</title>, <pubPlace>Venetiis</pubPlace> <date>1755</date>, in 4.
 </bibl></item>
 
-                  <item xml:id="c2d1e16869" n="4636">
+                  <item xml:id="c2d1e16869" n="4636" corresp="dcl:1df">
                      <label>4636.</label> <bibl><author>BONICELLI Joannis</author>, <title>Bibliotheca Pisanorum Veneta, adnotationibus nonnullis illustrata</title>, tomi 3, 
                         <pubPlace>Venetiis</pubPlace> <date>1807</date>, in
 5.
@@ -40099,7 +40099,7 @@ simulacri</title>, <pubPlace>Faenza</pubPlace> <date>1788</date>, in 8.
                      <label>4753.</label> <bibl><author>TRITONII Antonii</author>, <title>Mythologia ubi epitome in Ovidii Metamorph. lib. ec.</title>, <pubPlace>Bononiae</pubPlace> <date>1560</date>, in 8, M. 63 e 44.
 </bibl></item>
 
-                  <item xml:id="c2d1e17683" n="4754">
+                  <item xml:id="c2d1e17683" n="4754" corresp="dcl:f90">
                      <label>4754.</label> <bibl><author>VARO fra Francesco</author>, <title>Estratto del trattato circa il <pb type="cico" n="328"/> culto, offerte, riti, e ceremonie che praticano i chinesi
 ec.</title>, in <pubPlace>Colonia</pubPlace> <date>1700</date>, in 12.
 </bibl></item>
