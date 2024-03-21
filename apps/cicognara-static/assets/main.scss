@@ -53,7 +53,7 @@ $content-width: 100%;
     margin-top: auto;
     input[type="text"] {
       background-color: #FFFFFF !important;
-      font-size: 25px;
+      height: 34px;
       width: 80%;
     }
 
@@ -501,3 +501,13 @@ span.catalogo-item-label {
   }
 }
 
+.search-btn {
+  color: #fff;
+  background-color: #221E1D;
+  border-color: #141211;
+  height: 34px;
+  height: 40px;
+  width: 50px;
+  margin-left: -6px;
+  padding: 5px;
+}
