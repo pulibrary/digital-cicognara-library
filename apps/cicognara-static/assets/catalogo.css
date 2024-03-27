@@ -1,9 +1,17 @@
 @import url(https://fonts.googleapis.com/css?family=Gentium+Basic:400,400italic);
 @import url(https://fonts.googleapis.com/css?family=Tangerine);
+@import url(https://fonts.googleapis.com/css2?family=Cardo:ital,wght@0,400;0,700;1,400&display=swap);
 @import url(/assets/main.css);
 
 html {
   overflow: auto;
+}
+
+.catalogo-item-header {
+  width: 100%;
+  display: block;
+  position: relative;
+  padding: 10px 20px;
 }
 
 iframe {
@@ -20,11 +28,11 @@ body {
   grid-template-columns: 1fr 2fr;
   grid-template-rows: auto;
     grid-template-areas:
-    "header header"
-    "side main"
-    "footer footer";
+    "header"
+    "main"
+    "footer";
   color: #333;
-  font-family: "Playfair Display", Georgia, serif;
+  font-family: "Cardo", Georgia, serif;
   font-size: 16px;
   line-height: 18px;
 }
@@ -32,7 +40,7 @@ body {
 a {
   color: #971c06;
   text-decoration: none;
-  font-family: "Playfair Display", Georgia, serif;
+  font-family: "Cardo", Georgia, serif;
 }
 
 a:hover {
@@ -43,6 +51,28 @@ a:hover {
 
 a:visited {
   color: #971c06;
+}
+
+.container {
+  padding-right: 15px;
+  padding-left: 15px;
+  margin-right: auto;
+  margin-left: auto;
+}
+@media (min-width: 768px) {
+  .container {
+    width: 750px;
+  }
+}
+@media (min-width: 992px) {
+  .container {
+    width: 970px;
+  }
+}
+@media (min-width: 1200px) {
+  .container {
+    width: 1170px;
+  }
 }
 
 summary {
@@ -153,28 +183,25 @@ ol.catalog {
 
 ol.catalog li {
   margin: 0 0 6px 0;
+  border-bottom: 1px dotted #ddd;
+  margin: 0 0 16px;
+  padding: 0 0 10px;
+
+  &:last-child {
+    border: 0;
+  }
 }
+
 span.ciconum {
   font-weight: bold;
   padding-right: 5px;
 }
 h1,
-h2 {
-  font-family: "Playfair Display", Georgia, serif;
-}
+
 .pageBreak {
-  margin: 10px 0 0 0;
-  padding: 10px 0;
-  border-top: 1px dotted #c5c5c5;
-  text-align: right;
+  display: none;
 }
 
-header h2 {
-  font-family: "Playfair Display", Georgia, serif;
-  font-size: 20px;
-  font-weight: bold;
-  margin: 0 0 0.75em;
-}
 
 header .site-title {
   padding: 0;
@@ -262,4 +289,64 @@ footer {
   user-select: none;
   display: inline-block;
   margin-bottom: 0;
+}
+
+#main {
+  header h2 {
+    font-family: Helvetica, sans-serif;
+    font-size: 30px;
+    font-weight: bold;
+    margin: 0 0 0.75em;
+  }
+
+  .note {
+    font-family: Helvetica, sans-serif;
+    font-size: 14px;
+    line-height: 1.5em;
+    padding: 0 15px;
+    margin: 10px 0 5px;
+  }
+
+  .bibl {
+    color: #333;
+    font-family: "Cardo", Georgia, serif;
+    font-size: 18px;
+    line-height: 1.5em;
+  }
+  
+}
+
+span.title {
+  font-style: italic;
+}
+
+span.item-label {
+  font-size: 18px;
+  font-weight: bold;
+  padding-right: 5px;
+}
+
+.bibl .bibl {
+  padding-left: 1em;
+  clear: both;
+  display: block;
+}
+
+#metadata {
+  font-family: Helvetica, sans-serif !important;
+  font-style: italic;
+  border: 1px solid #efefef;
+  background: #fafafa;
+  margin: 1em;
+  padding: 1.5em;
+  clear: both;
+  ul {
+    margin-left: 0;
+    li {
+      line-height: 1.5em;
+    }
+  }
+  a {
+    font-family: Helvetica, sans-serif !important;
+  }
 }
