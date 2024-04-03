@@ -60,13 +60,21 @@ $content-width: 100%;
     .glyphicon-search:before {
       content: "\e003";
     }
-  }  
+  } 
 
   .search {
     background-color: #FFFFFF !important;
     width: 100%;
     height: 100%;
     margin-top: auto;
+  }
+
+  .home-search-input {
+    display: inline-block;
+    float: left;
+    width: calc(100% - 10px);
+    padding-left: 3em;
+
   }
   
   .page-content {
@@ -180,7 +188,8 @@ $content-width: 100%;
     .browse-catalogo-list {
       display: inline-block;
       float: left;
-      width: calc(100% - 186px);
+      width: calc(100% - 0px);
+      padding-left: 1em;
     }
 
     .browse-catalogo-list ul {
@@ -491,11 +500,9 @@ span.catalogo-item-label {
 }
 
 .catalogo-item {
-  margin: 0 0 6px 0;
+  margin: 40px;
   border-bottom: 1px dotted #ddd;
-  margin: 0 0 16px;
-  padding: 0 0 10px;
-
+  padding-bottom: 20px;
   &:last-child {
     border: 0;
   }

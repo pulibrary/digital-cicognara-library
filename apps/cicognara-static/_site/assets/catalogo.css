@@ -37,6 +37,16 @@ body {
   line-height: 18px;
 }
 
+.catalogo-page-display {
+  display: grid;
+  grid-template-columns: 1fr 4fr;
+  grid-template-rows: auto;
+    grid-template-areas:
+    "header header"
+    "side main"
+    "footer footer";
+}
+
 a {
   color: #971c06;
   text-decoration: none;
