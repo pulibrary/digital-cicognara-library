@@ -71,11 +71,10 @@ EOF
   ##
 
   sections.each do |section|
-
     section_number = section.xpath("@n")
 
-    section.xpath("//xmlns:list[@type='catalog']//xmlns:item").each do |item|
 
+    section.xpath("xmlns:list[@type='catalog']/xmlns:item").each do |item|
       n = item.xpath("@n")
       bibl = item.xpath("xmlns:bibl")
 
@@ -105,6 +104,7 @@ EOF
       getty_docs = getty_docarray.join("\n")
       corpus_doc = corpus.result(binding)
       item_path = Settings[:catalogo_items_dir] + Pathname("#{n}.tei.xml")
+      
       File.open(item_path, "w") { |f| f.write corpus_doc }
     end 
   end 
