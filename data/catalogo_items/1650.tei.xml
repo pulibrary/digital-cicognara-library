@@ -22,6 +22,7 @@
         </sourceDesc>
     </fileDesc>
 </teiHeader>
+<<<<<<< HEAD
         <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:local="http://library.princeton.edu" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
    <teiHeader>
       <fileDesc>
@@ -78,4 +79,7 @@
       </media>
    </facsimile>
 </TEI>
+=======
+        
+>>>>>>> main
 </teiCorpus>

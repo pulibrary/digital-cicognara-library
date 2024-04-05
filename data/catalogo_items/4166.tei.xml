@@ -9,6 +9,7 @@
                <orgName>Digital Cicognara Library</orgName>
                <ref>https://cicognara.org</ref>
             </publisher>
+            <sectionNumber>2.19</sectionNumber>
             <idno type="cico">4166</idno>
         </publicationStmt>
         <sourceDesc>
@@ -18,61 +19,5 @@
         </sourceDesc>
     </fileDesc>
 </teiHeader>
-        <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:local="http://library.princeton.edu" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>Guide de Berlin, de Potsdam et des environs [microform] : ou, Description abrégée des choses remarquables qui s'y trouvent / traduit de l'allemand ; avec un plan de Berlin.</title>
-            <respStmt>
-               <orgName>Princeton University Library</orgName>
-               <resp>contributor</resp>
-            </respStmt>
-         </titleStmt>
-         <publicationStmt>
-            <publisher>
-               <orgName>Digital Cicognara Library</orgName>
-               <ref>https://cicognara.org/</ref>
-            </publisher>
-            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
-            <authority>Leopoldo Cicognara Program (University of Illinois at Urbana-Champaign)</authority>
-            <idno type="URI">http://portal.getty.edu/books/princeton_9985428353506421</idno>
-            <idno type="URI">http://portal.getty.edu/api/xr7f8w</idno>
-            <idno type="cico">5166</idno>
-            <idno type="dcl">dp9</idno>
-         </publicationStmt>
-         <sourceDesc>
-            <biblStruct>
-               <monogr>
-                  <title>Guide de Berlin, de Potsdam et des environs [microform] : ou, Description abrégée des choses remarquables qui s'y trouvent / traduit de l'allemand ; avec un plan de Berlin.</title>
-                  <textLang>French</textLang>
-                  <imprint>
-                     <publisher>A Berlin : Chez Frédéric Nicolai</publisher>
-                     <pubPlace>Berlin (Germany)</pubPlace>
-                     <pubPlace>Potsdam (Germany)</pubPlace>
-                     <date>1813</date>
-                  </imprint>
-                  <extent>xxii, 340 p.</extent>
-                  <extent>6 microfiche : positive.</extent>
-               </monogr>
-               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/e88bd808-b4a4-4697-8c61-6bc3873852b1/manifest"/>
-            </biblStruct>
-         </sourceDesc>
-      </fileDesc>
-      <profileDesc>
-         <textClass>
-            <keywords>
-               <term>Berlin (Germany) -- Guidebooks -- Early works to 1800.</term>
-               <term>Berlin (Germany) -- Description and travel -- Early works to 1800.</term>
-               <term>Potsdam (Germany) -- Guidebooks -- Early works to 1800.</term>
-               <term>Potsdam (Germany) -- Description and travel -- Early works to 1800.</term>
-            </keywords>
-         </textClass>
-      </profileDesc>
-   </teiHeader>
-   <facsimile>
-      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/e88bd808-b4a4-4697-8c61-6bc3873852b1/manifest">
-         <desc>IIIF Manifest</desc>
-      </media>
-   </facsimile>
-</TEI>
+        
 </teiCorpus>
