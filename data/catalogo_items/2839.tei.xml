@@ -9,6 +9,7 @@
                <orgName>Digital Cicognara Library</orgName>
                <ref>https://cicognara.org</ref>
             </publisher>
+            <sectionNumber>2.5</sectionNumber>
             <idno type="cico">2839</idno>
         </publicationStmt>
         <sourceDesc>
@@ -19,62 +20,5 @@ reperta, omnia collecta, et illustrata a Nicolao Galetti</title>, <pubPlace>Roma
         </sourceDesc>
     </fileDesc>
 </teiHeader>
-        <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:local="http://library.princeton.edu" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>Francisci Ficoronii Reg. Lond. Acad. Socii Gemmae antiquae litteratae, aliaequae rariores [microform] : accesserunt vetera monumenta ejusdem aetate reperta quorum ipse is suis commentariis mentioemt facit : omnia collecta adnotationibus et declarationibus / illustrata a p. Nicolao Galeotti ...</title>
-            <respStmt>
-               <orgName>Princeton University Library</orgName>
-               <resp>contributor</resp>
-            </respStmt>
-         </titleStmt>
-         <publicationStmt>
-            <publisher>
-               <orgName>Digital Cicognara Library</orgName>
-               <ref>https://cicognara.org/</ref>
-            </publisher>
-            <authority>Galeotti, Niccolò, 1692-1758.</authority>
-            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
-            <authority>Leopoldo Cicognara Program (University of Illinois at Urbana-Champaign)</authority>
-            <idno type="URI">http://portal.getty.edu/books/princeton_9985408703506421</idno>
-            <idno type="URI">http://portal.getty.edu/api/tm647n</idno>
-            <idno type="cico">2839</idno>
-            <idno type="dcl">wfq</idno>
-         </publicationStmt>
-         <sourceDesc>
-            <biblStruct>
-               <monogr>
-                  <title>Francisci Ficoronii Reg. Lond. Acad. Socii Gemmae antiquae litteratae, aliaequae rariores [microform] : accesserunt vetera monumenta ejusdem aetate reperta quorum ipse is suis commentariis mentioemt facit : omnia collecta adnotationibus et declarationibus / illustrata a p. Nicolao Galeotti ...</title>
-                  <respStmt>
-                     <persName>Ficoroni, Francesco, 1664-1747.</persName>
-                     <resp>creator</resp>
-                  </respStmt>
-                  <textLang>Latin</textLang>
-                  <imprint>
-                     <publisher>Romae : Sumptibus Venantii Monaldini ... :</publisher>
-                     <date>1757</date>
-                  </imprint>
-                  <extent>xii, 160 p.</extent>
-                  <extent>4 microfiche : positive.</extent>
-               </monogr>
-               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/470fe65b-703c-4205-b499-5e8d0508dfcc/manifest"/>
-            </biblStruct>
-         </sourceDesc>
-      </fileDesc>
-      <profileDesc>
-         <textClass>
-            <keywords>
-               <term>Gems -- Early works to 1800.</term>
-               <term>Glyptics -- Early works to 1800.</term>
-            </keywords>
-         </textClass>
-      </profileDesc>
-   </teiHeader>
-   <facsimile>
-      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/470fe65b-703c-4205-b499-5e8d0508dfcc/manifest">
-         <desc>IIIF Manifest</desc>
-      </media>
-   </facsimile>
-</TEI>
+        
 </teiCorpus>

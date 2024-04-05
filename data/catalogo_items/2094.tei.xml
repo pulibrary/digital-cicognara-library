@@ -9,6 +9,7 @@
                <orgName>Digital Cicognara Library</orgName>
                <ref>https://cicognara.org</ref>
             </publisher>
+            <sectionNumber>1.23</sectionNumber>
             <idno type="cico">2094</idno>
         </publicationStmt>
         <sourceDesc>
@@ -20,63 +21,5 @@
         </sourceDesc>
     </fileDesc>
 </teiHeader>
-        <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:local="http://library.princeton.edu" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>Francisco Comiti Algarotto eruditismu viro .. [microform] : hasce XXIV tabulas olim a Marco Ricci, Bellunensi colorib : expressas, quae extant in aedibus Joseph Smith et Antonii Mariae Zanetti, / D.A.F. qui eas del. incid. et in lucem edit.</title>
-            <respStmt>
-               <orgName>Princeton University Library</orgName>
-               <resp>contributor</resp>
-            </respStmt>
-         </titleStmt>
-         <publicationStmt>
-            <publisher>
-               <orgName>Digital Cicognara Library</orgName>
-               <ref>https://cicognara.org/</ref>
-            </publisher>
-            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
-            <authority>Leopoldo Cicognara Program (University of Illinois at Urbana-Champaign)</authority>
-            <idno type="URI">http://portal.getty.edu/books/princeton_9985463943506421</idno>
-            <idno type="URI">http://portal.getty.edu/api/nh2s4q</idno>
-            <idno type="cico">2094</idno>
-            <idno type="dcl">s7x</idno>
-         </publicationStmt>
-         <sourceDesc>
-            <biblStruct>
-               <monogr>
-                  <title>Francisco Comiti Algarotto eruditismu viro .. [microform] : hasce XXIV tabulas olim a Marco Ricci, Bellunensi colorib : expressas, quae extant in aedibus Joseph Smith et Antonii Mariae Zanetti, / D.A.F. qui eas del. incid. et in lucem edit.</title>
-                  <respStmt>
-                     <persName>D. A. F. (Davide Antonio Fossati), 1708-1780.</persName>
-                     <resp>creator</resp>
-                  </respStmt>
-                  <textLang>Latin</textLang>
-                  <imprint>
-                     <publisher>[Venetiis : s.n]</publisher>
-                     <date>[1743]</date>
-                     <date>1743</date>
-                  </imprint>
-                  <extent>XXIV leaves</extent>
-                  <extent>3 microfiche : positive ; 11 x 15 cm.</extent>
-               </monogr>
-               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/d7b11cc4-c72f-4604-bc2a-c2fc4cc011a0/manifest"/>
-            </biblStruct>
-         </sourceDesc>
-      </fileDesc>
-      <profileDesc>
-         <textClass>
-            <keywords>
-               <term>Ricci, Marco, 1676-1729.</term>
-               <term>Engraving, Italian -- 18th century.</term>
-               <term>Landscape painting, Italian -- 17th century.</term>
-            </keywords>
-         </textClass>
-      </profileDesc>
-   </teiHeader>
-   <facsimile>
-      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/d7b11cc4-c72f-4604-bc2a-c2fc4cc011a0/manifest">
-         <desc>IIIF Manifest</desc>
-      </media>
-   </facsimile>
-</TEI>
+        
 </teiCorpus>

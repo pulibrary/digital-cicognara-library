@@ -9,6 +9,7 @@
                <orgName>Digital Cicognara Library</orgName>
                <ref>https://cicognara.org</ref>
             </publisher>
+            <sectionNumber>2.4</sectionNumber>
             <idno type="cico">2667</idno>
         </publicationStmt>
         <sourceDesc>
@@ -19,61 +20,5 @@
         </sourceDesc>
     </fileDesc>
 </teiHeader>
-        <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:local="http://library.princeton.edu" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>Heinr. Matth. Aug. Cramers, Adiunctus ... Nachrichten zur Geschichte der herculanischen Entdeckungen [microform] / mit einer Vorrede begleitet von Johann Jacob Rambach ....</title>
-            <respStmt>
-               <orgName>Princeton University Library</orgName>
-               <resp>contributor</resp>
-            </respStmt>
-         </titleStmt>
-         <publicationStmt>
-            <publisher>
-               <orgName>Digital Cicognara Library</orgName>
-               <ref>https://cicognara.org/</ref>
-            </publisher>
-            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
-            <authority>Leopoldo Cicognara Program (University of Illinois at Urbana-Champaign)</authority>
-            <idno type="URI">http://portal.getty.edu/books/princeton_9985407813506421</idno>
-            <idno type="URI">http://portal.getty.edu/api/v36p7m</idno>
-            <idno type="cico">2667</idno>
-            <idno type="dcl">q8c</idno>
-         </publicationStmt>
-         <sourceDesc>
-            <biblStruct>
-               <monogr>
-                  <title>Heinr. Matth. Aug. Cramers, Adiunctus ... Nachrichten zur Geschichte der herculanischen Entdeckungen [microform] / mit einer Vorrede begleitet von Johann Jacob Rambach ....</title>
-                  <respStmt>
-                     <persName>Cramer, Heinrich Matthias August, 1745-1801.</persName>
-                     <resp>creator</resp>
-                  </respStmt>
-                  <textLang>German</textLang>
-                  <imprint>
-                     <publisher>Halle : Bey J.J. Gebauers Wittwe und Joh. Jacob Gebauer</publisher>
-                     <pubPlace>Herculaneum (Extinct city)</pubPlace>
-                     <date>1773</date>
-                  </imprint>
-                  <extent>207, [1] p.</extent>
-                  <extent>4 microfiche : positive.</extent>
-               </monogr>
-               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/b35dca1a-401f-4961-a5a3-1fa3fb9299cf/manifest"/>
-            </biblStruct>
-         </sourceDesc>
-      </fileDesc>
-      <profileDesc>
-         <textClass>
-            <keywords>
-               <term>Herculaneum (Extinct city) -- Discovery and exploration -- Early works to 1800.</term>
-            </keywords>
-         </textClass>
-      </profileDesc>
-   </teiHeader>
-   <facsimile>
-      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/b35dca1a-401f-4961-a5a3-1fa3fb9299cf/manifest">
-         <desc>IIIF Manifest</desc>
-      </media>
-   </facsimile>
-</TEI>
+        
 </teiCorpus>

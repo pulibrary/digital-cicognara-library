@@ -9,6 +9,7 @@
                <orgName>Digital Cicognara Library</orgName>
                <ref>https://cicognara.org</ref>
             </publisher>
+            <sectionNumber>1.23</sectionNumber>
             <idno type="cico">1991</idno>
         </publicationStmt>
         <sourceDesc>
@@ -30,60 +31,5 @@
         </sourceDesc>
     </fileDesc>
 </teiHeader>
-        <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:local="http://library.princeton.edu" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>Neuwe Biblische Figuren, dess Alten vnd Neuwen Testaments [microform] / geordnet vnd gestellt durch den fürtrefflichen vnd kunstreichen Johan Bockspergern von Salzburg, den jüngern vnd nachgerissen mit sonderin fleiss durch den Kunstverstendigen vnd wolerfarnen Joss Amman von Zürych ...</title>
-            <respStmt>
-               <orgName>Princeton University Library</orgName>
-               <resp>contributor</resp>
-            </respStmt>
-         </titleStmt>
-         <publicationStmt>
-            <publisher>
-               <orgName>Digital Cicognara Library</orgName>
-               <ref>https://cicognara.org/</ref>
-            </publisher>
-            <authority>Amman, Jost, 1539-1591.</authority>
-            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
-            <idno type="URI">http://portal.getty.edu/books/princeton_9985341613506421</idno>
-            <idno type="URI">http://portal.getty.edu/api/q61v6f</idno>
-            <idno type="cico">1991</idno>
-            <idno type="dcl">2sb</idno>
-         </publicationStmt>
-         <sourceDesc>
-            <biblStruct>
-               <monogr>
-                  <title>Neuwe Biblische Figuren, dess Alten vnd Neuwen Testaments [microform] / geordnet vnd gestellt durch den fürtrefflichen vnd kunstreichen Johan Bockspergern von Salzburg, den jüngern vnd nachgerissen mit sonderin fleiss durch den Kunstverstendigen vnd wolerfarnen Joss Amman von Zürych ...</title>
-                  <respStmt>
-                     <persName>Bocksberger, Johann Melchior, -1587.</persName>
-                     <resp>creator</resp>
-                  </respStmt>
-                  <textLang>German</textLang>
-                  <imprint>
-                     <publisher>Getruckt zu Franckfurt am Mayn : [s.n.]</publisher>
-                     <date>1564</date>
-                  </imprint>
-                  <extent>1 v. (unpaged)</extent>
-                  <extent>5 microfiche : positive.</extent>
-               </monogr>
-               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/6f2f1004-4743-4adc-b33a-f01498620dce/manifest"/>
-            </biblStruct>
-         </sourceDesc>
-      </fileDesc>
-      <profileDesc>
-         <textClass>
-            <keywords>
-               <term>Bible -- Illustrations -- Early works to 1800.</term>
-            </keywords>
-         </textClass>
-      </profileDesc>
-   </teiHeader>
-   <facsimile>
-      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/6f2f1004-4743-4adc-b33a-f01498620dce/manifest">
-         <desc>IIIF Manifest</desc>
-      </media>
-   </facsimile>
-</TEI>
+        
 </teiCorpus>

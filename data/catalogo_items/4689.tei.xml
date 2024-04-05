@@ -9,6 +9,7 @@
                <orgName>Digital Cicognara Library</orgName>
                <ref>https://cicognara.org</ref>
             </publisher>
+            <sectionNumber>2.18</sectionNumber>
             <idno type="cico">4689</idno>
         </publicationStmt>
         <sourceDesc>
@@ -18,71 +19,5 @@
         </sourceDesc>
     </fileDesc>
 </teiHeader>
-        <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:local="http://library.princeton.edu" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>Joh. Baptistae Casalii romani De profanis et sacris veteribus ritibus opus tripartitum De profanis et sacris veteribus ritibus opus tripartitum [microform] : cujus prima pars agit de profanis Aegyptiorum ritibus ... ; secunda pars agit de profanis Romanorum ritibus ... ; tertia pars agit de sacris Christianorum ritibus ... ; accedunt indices capitum, rerum item &amp; verborum copiosissimi, &amp; accuratissimi.</title>
-            <respStmt>
-               <orgName>Princeton University Library</orgName>
-               <resp>contributor</resp>
-            </respStmt>
-         </titleStmt>
-         <publicationStmt>
-            <publisher>
-               <orgName>Digital Cicognara Library</orgName>
-               <ref>https://cicognara.org/</ref>
-            </publisher>
-            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
-            <authority>Leopoldo Cicognara Program (University of Illinois at Urbana-Champaign)</authority>
-            <idno type="URI">http://portal.getty.edu/books/princeton_9985431293506421</idno>
-            <idno type="URI">http://portal.getty.edu/api/g34n8s</idno>
-            <idno type="cico">4689</idno>
-            <idno type="dcl">805</idno>
-         </publicationStmt>
-         <sourceDesc>
-            <biblStruct>
-               <monogr>
-                  <title>Joh. Baptistae Casalii romani De profanis et sacris veteribus ritibus opus tripartitum De profanis et sacris veteribus ritibus opus tripartitum [microform] : cujus prima pars agit de profanis Aegyptiorum ritibus ... ; secunda pars agit de profanis Romanorum ritibus ... ; tertia pars agit de sacris Christianorum ritibus ... ; accedunt indices capitum, rerum item &amp; verborum copiosissimi, &amp; accuratissimi.</title>
-                  <respStmt>
-                     <persName>Casali, Giovanni Battista, 1578-1648.</persName>
-                     <resp>creator</resp>
-                  </respStmt>
-                  <textLang>Latin</textLang>
-                  <imprint>
-                     <publisher>Francofurti ; Sumptibus Thomae Henrici Hauensteinii</publisher>
-                     <pubPlace>Egypt.</pubPlace>
-                     <pubPlace>Rome.</pubPlace>
-                     <pubPlace>Egypt</pubPlace>
-                     <pubPlace>Rome</pubPlace>
-                     <date>Anno 1681</date>
-                     <date>1681</date>
-                  </imprint>
-                  <extent>3 pts. in 1</extent>
-                  <extent>13 microfiche : positive.</extent>
-               </monogr>
-               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/a62814cf-4fdc-4bfb-a5dd-0196c3a6ac0c/manifest"/>
-            </biblStruct>
-         </sourceDesc>
-      </fileDesc>
-      <profileDesc>
-         <textClass>
-            <keywords>
-               <term>Catholic Church -- Customs and practices.</term>
-               <term>Coptic Church -- Liturgy.</term>
-               <term>Liturgies, Early Christian.</term>
-               <term>Rites and ceremonies -- Egypt.</term>
-               <term>Rites and ceremonies -- Rome.</term>
-               <term>Egypt -- Religion.</term>
-               <term>Rome -- Religion.</term>
-            </keywords>
-         </textClass>
-      </profileDesc>
-   </teiHeader>
-   <facsimile>
-      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/a62814cf-4fdc-4bfb-a5dd-0196c3a6ac0c/manifest">
-         <desc>IIIF Manifest</desc>
-      </media>
-   </facsimile>
-</TEI>
+        
 </teiCorpus>

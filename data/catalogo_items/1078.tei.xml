@@ -9,6 +9,7 @@
                <orgName>Digital Cicognara Library</orgName>
                <ref>https://cicognara.org</ref>
             </publisher>
+            <sectionNumber>1.13</sectionNumber>
             <idno type="cico">1078</idno>
         </publicationStmt>
         <sourceDesc>
@@ -22,61 +23,5 @@
         </sourceDesc>
     </fileDesc>
 </teiHeader>
-        <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:local="http://library.princeton.edu" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>Le metamorfosi di Ovidio [microform] / ridotte da m. Gio. Andrea dall'Anguillara in ottaua rima, al christianissimo rè di Francia, Henrico secondo ; nuouamente di bellissime &amp; vaghe figure adornate, &amp; diligentemente corrette ; con l'annotationi di m. Gioseppe Horologgi, et con nuoue postille, &amp; argomenti à ciascun libro, di m. Francesco Turchi ...</title>
-            <respStmt>
-               <orgName>Princeton University Library</orgName>
-               <resp>contributor</resp>
-            </respStmt>
-         </titleStmt>
-         <publicationStmt>
-            <publisher>
-               <orgName>Digital Cicognara Library</orgName>
-               <ref>https://cicognara.org/</ref>
-            </publisher>
-            <authority>Orologi, Giuseppe, 1520-1576.</authority>
-            <authority>Turchi, Francesco, active 16th century.</authority>
-            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
-            <authority>Leopoldo Cicognara Program (University of Illinois at Urbana-Champaign)</authority>
-            <idno type="URI">http://portal.getty.edu/books/princeton_9985300363506421</idno>
-            <idno type="URI">http://portal.getty.edu/api/wk8n09</idno>
-            <idno type="cico">1078</idno>
-            <idno type="dcl">m56</idno>
-         </publicationStmt>
-         <sourceDesc>
-            <biblStruct>
-               <monogr>
-                  <title>Le metamorfosi di Ovidio [microform] / ridotte da m. Gio. Andrea dall'Anguillara in ottaua rima, al christianissimo rè di Francia, Henrico secondo ; nuouamente di bellissime &amp; vaghe figure adornate, &amp; diligentemente corrette ; con l'annotationi di m. Gioseppe Horologgi, et con nuoue postille, &amp; argomenti à ciascun libro, di m. Francesco Turchi ...</title>
-                  <respStmt>
-                     <persName>Ovid, 43 B.C.-17 A.D. or 18 A.D.</persName>
-                     <resp>creator</resp>
-                  </respStmt>
-                  <textLang>Italian</textLang>
-                  <textLang>French</textLang>
-                  <imprint>
-                     <publisher>In Venetia : Appresso Bernardo Giunti</publisher>
-                     <date>1592</date>
-                  </imprint>
-                  <extent>539 (i.e. 547) p.</extent>
-                  <extent>9 microfiche : positive.</extent>
-               </monogr>
-               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/c85fb3f0-0982-4c46-b272-af9edf3129ef/manifest"/>
-            </biblStruct>
-         </sourceDesc>
-      </fileDesc>
-      <profileDesc>
-         <textClass>
-            <keywords/>
-         </textClass>
-      </profileDesc>
-   </teiHeader>
-   <facsimile>
-      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/c85fb3f0-0982-4c46-b272-af9edf3129ef/manifest">
-         <desc>IIIF Manifest</desc>
-      </media>
-   </facsimile>
-</TEI>
+        
 </teiCorpus>

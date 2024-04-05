@@ -9,6 +9,7 @@
                <orgName>Digital Cicognara Library</orgName>
                <ref>https://cicognara.org</ref>
             </publisher>
+            <sectionNumber>2.5</sectionNumber>
             <idno type="cico">2994</idno>
         </publicationStmt>
         <sourceDesc>
@@ -20,63 +21,5 @@ massima dell’originale. Opuscolo raro.</note>
         </sourceDesc>
     </fileDesc>
 </teiHeader>
-        <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:local="http://library.princeton.edu" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>Constantini Imp. Byzantini numismatis argentai expositio duplex [microform] / Iosephi Scaligeri [et] Marquardi Frehari.</title>
-            <respStmt>
-               <orgName>Princeton University Library</orgName>
-               <resp>contributor</resp>
-            </respStmt>
-         </titleStmt>
-         <publicationStmt>
-            <publisher>
-               <orgName>Digital Cicognara Library</orgName>
-               <ref>https://cicognara.org/</ref>
-            </publisher>
-            <authority>Freher, Marquard, 1565-1614.</authority>
-            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
-            <authority>Leopoldo Cicognara Program (University of Illinois at Urbana-Champaign)</authority>
-            <idno type="URI">http://portal.getty.edu/books/princeton_9985459673506421</idno>
-            <idno type="URI">http://portal.getty.edu/api/rk1z5h</idno>
-            <idno type="cico">2994</idno>
-            <idno type="dcl">4sk</idno>
-         </publicationStmt>
-         <sourceDesc>
-            <biblStruct>
-               <monogr>
-                  <title>Constantini Imp. Byzantini numismatis argentai expositio duplex [microform] / Iosephi Scaligeri [et] Marquardi Frehari.</title>
-                  <respStmt>
-                     <persName>Scaliger, Joseph Juste, 1540-1609.</persName>
-                     <resp>creator</resp>
-                  </respStmt>
-                  <textLang>Latin</textLang>
-                  <imprint>
-                     <publisher>[S.l. : s.n]</publisher>
-                     <pubPlace>Byzantine Empire</pubPlace>
-                     <date>[1604]</date>
-                     <date>1604</date>
-                  </imprint>
-                  <extent>[16] p.</extent>
-                  <extent>1 microfiche : positive ; 11 x 15 cm.</extent>
-               </monogr>
-               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/931a6c20-2426-4de3-b33f-789aedf7a32f/manifest"/>
-            </biblStruct>
-         </sourceDesc>
-      </fileDesc>
-      <profileDesc>
-         <textClass>
-            <keywords>
-               <term>Numismatics -- Byzantine Empire -- Early works to 1800.</term>
-            </keywords>
-         </textClass>
-      </profileDesc>
-   </teiHeader>
-   <facsimile>
-      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/931a6c20-2426-4de3-b33f-789aedf7a32f/manifest">
-         <desc>IIIF Manifest</desc>
-      </media>
-   </facsimile>
-</TEI>
+        
 </teiCorpus>

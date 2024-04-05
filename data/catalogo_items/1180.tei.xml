@@ -9,6 +9,7 @@
                <orgName>Digital Cicognara Library</orgName>
                <ref>https://cicognara.org</ref>
             </publisher>
+            <sectionNumber>1.15</sectionNumber>
             <idno type="cico">1180</idno>
         </publicationStmt>
         <sourceDesc>
@@ -22,61 +23,5 @@
         </sourceDesc>
     </fileDesc>
 </teiHeader>
-        <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:local="http://library.princeton.edu" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>Dissertazioni, lettere ed altre operette del chiarissimo padre Antonmaria Lupi .. [microform] : per la maggior parte non più stampare, ora ordinate, a luogo a luogo illustrate con giunte, e annotazioni e poste in luce da Francescantonio Zaccaria.</title>
-            <respStmt>
-               <orgName>Princeton University Library</orgName>
-               <resp>contributor</resp>
-            </respStmt>
-         </titleStmt>
-         <publicationStmt>
-            <publisher>
-               <orgName>Digital Cicognara Library</orgName>
-               <ref>https://cicognara.org/</ref>
-            </publisher>
-            <authority>Zaccaria, Francescantonio, 1714-1795.</authority>
-            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
-            <authority>Leopoldo Cicognara Program (University of Illinois at Urbana-Champaign)</authority>
-            <idno type="URI">http://portal.getty.edu/books/princeton_9985300523506421</idno>
-            <idno type="URI">http://portal.getty.edu/api/w18b89</idno>
-            <idno type="cico">1180</idno>
-            <idno type="dcl">sbz</idno>
-         </publicationStmt>
-         <sourceDesc>
-            <biblStruct>
-               <monogr>
-                  <title>Dissertazioni, lettere ed altre operette del chiarissimo padre Antonmaria Lupi .. [microform] : per la maggior parte non più stampare, ora ordinate, a luogo a luogo illustrate con giunte, e annotazioni e poste in luce da Francescantonio Zaccaria.</title>
-                  <respStmt>
-                     <persName>Lupi, Antonio Maria, 1695-1737.</persName>
-                     <resp>creator</resp>
-                  </respStmt>
-                  <textLang>Italian</textLang>
-                  <imprint>
-                     <publisher>In Faenza : Nella stamperia di Gioseffantonio Archi</publisher>
-                     <date>1785</date>
-                  </imprint>
-                  <extent>2 v.</extent>
-                  <extent>9 microfiche : positive.</extent>
-               </monogr>
-               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/1663612d-dee7-4fd5-90df-b5c8a978bd83/manifest"/>
-            </biblStruct>
-         </sourceDesc>
-      </fileDesc>
-      <profileDesc>
-         <textClass>
-            <keywords>
-               <term>Christian antiquities.</term>
-            </keywords>
-         </textClass>
-      </profileDesc>
-   </teiHeader>
-   <facsimile>
-      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/1663612d-dee7-4fd5-90df-b5c8a978bd83/manifest">
-         <desc>IIIF Manifest</desc>
-      </media>
-   </facsimile>
-</TEI>
+        
 </teiCorpus>

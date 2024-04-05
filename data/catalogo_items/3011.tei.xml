@@ -9,6 +9,7 @@
                <orgName>Digital Cicognara Library</orgName>
                <ref>https://cicognara.org</ref>
             </publisher>
+            <sectionNumber>2.5</sectionNumber>
             <idno type="cico">3011</idno>
         </publicationStmt>
         <sourceDesc>
@@ -21,66 +22,5 @@ rappresentare e le rende presso che tutte uniformi e sfigurate.</note>
         </sourceDesc>
     </fileDesc>
 </teiHeader>
-        <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:local="http://library.princeton.edu" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>A collection of fifty prints from antique gems [microform] : in the collections of the Right Honourable Earl Percy, the Honourable C.F. Greville and T.M. Slade, Esquire / engraved by Mr. John Spilsbury.</title>
-            <respStmt>
-               <orgName>Princeton University Library</orgName>
-               <resp>contributor</resp>
-            </respStmt>
-         </titleStmt>
-         <publicationStmt>
-            <publisher>
-               <orgName>Digital Cicognara Library</orgName>
-               <ref>https://cicognara.org/</ref>
-            </publisher>
-            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
-            <authority>Leopoldo Cicognara Program (University of Illinois at Urbana-Champaign)</authority>
-            <idno type="URI">http://portal.getty.edu/books/princeton_9985411223506421</idno>
-            <idno type="URI">http://portal.getty.edu/api/dc642m</idno>
-            <idno type="cico">3011</idno>
-            <idno type="dcl">gzr</idno>
-         </publicationStmt>
-         <sourceDesc>
-            <biblStruct>
-               <monogr>
-                  <title>A collection of fifty prints from antique gems [microform] : in the collections of the Right Honourable Earl Percy, the Honourable C.F. Greville and T.M. Slade, Esquire / engraved by Mr. John Spilsbury.</title>
-                  <respStmt>
-                     <persName>Spilsbury, John, 1730?-1795?</persName>
-                     <resp>creator</resp>
-                  </respStmt>
-                  <textLang>English</textLang>
-                  <imprint>
-                     <publisher>London : Published ... by John Boydell</publisher>
-                     <pubPlace>England</pubPlace>
-                     <date>January 1st, 1785</date>
-                     <date>1785</date>
-                  </imprint>
-                  <extent>[50] leaves</extent>
-                  <extent>2 microfiche : positive.</extent>
-               </monogr>
-               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/c5482917-1980-4cb7-a7de-e056ce797a5b/manifest"/>
-            </biblStruct>
-         </sourceDesc>
-      </fileDesc>
-      <profileDesc>
-         <textClass>
-            <keywords>
-               <term>Greville, C. F. -- Art collections -- Early works to 1800.</term>
-               <term>Percy, Earl -- Art collections -- Early works to 1800.</term>
-               <term>Slade, T. M. -- Art collections -- Early works to 1800.</term>
-               <term>Gems, Ancient.</term>
-               <term>Private collections -- England -- London -- Early works to 1800.</term>
-            </keywords>
-         </textClass>
-      </profileDesc>
-   </teiHeader>
-   <facsimile>
-      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/c5482917-1980-4cb7-a7de-e056ce797a5b/manifest">
-         <desc>IIIF Manifest</desc>
-      </media>
-   </facsimile>
-</TEI>
+        
 </teiCorpus>

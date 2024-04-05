@@ -9,6 +9,7 @@
                <orgName>Digital Cicognara Library</orgName>
                <ref>https://cicognara.org</ref>
             </publisher>
+            <sectionNumber>2.5</sectionNumber>
             <idno type="cico">2993</idno>
         </publicationStmt>
         <sourceDesc>
@@ -19,60 +20,5 @@ e del pregio in cui tengonsi attualmente le più antiche.</note>
         </sourceDesc>
     </fileDesc>
 </teiHeader>
-        <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:local="http://library.princeton.edu" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>Discours sur les medalles antiques [microform] : divise en quatre parties : esquelles il est traicté si les medalles antiques estoient monnoyes ... / par m. Louis Savoy ...</title>
-            <respStmt>
-               <orgName>Princeton University Library</orgName>
-               <resp>contributor</resp>
-            </respStmt>
-         </titleStmt>
-         <publicationStmt>
-            <publisher>
-               <orgName>Digital Cicognara Library</orgName>
-               <ref>https://cicognara.org/</ref>
-            </publisher>
-            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
-            <authority>Leopoldo Cicognara Program (University of Illinois at Urbana-Champaign)</authority>
-            <idno type="URI">http://portal.getty.edu/books/princeton_9985409563506421</idno>
-            <idno type="URI">http://portal.getty.edu/api/s6548x</idno>
-            <idno type="cico">2993</idno>
-            <idno type="dcl">xnm</idno>
-         </publicationStmt>
-         <sourceDesc>
-            <biblStruct>
-               <monogr>
-                  <title>Discours sur les medalles antiques [microform] : divise en quatre parties : esquelles il est traicté si les medalles antiques estoient monnoyes ... / par m. Louis Savoy ...</title>
-                  <respStmt>
-                     <persName>Savot, Louis, 1579-1640.</persName>
-                     <resp>creator</resp>
-                  </respStmt>
-                  <textLang>French</textLang>
-                  <imprint>
-                     <publisher>A Paris : Chez Sebastien Cramoisy</publisher>
-                     <date>1627</date>
-                  </imprint>
-                  <extent>399 p.</extent>
-                  <extent>8 microfiche : positive.</extent>
-               </monogr>
-               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/ec47a638-274b-48d5-9f3b-aad1a50da54c/manifest"/>
-            </biblStruct>
-         </sourceDesc>
-      </fileDesc>
-      <profileDesc>
-         <textClass>
-            <keywords>
-               <term>Medals, Ancient.</term>
-            </keywords>
-         </textClass>
-      </profileDesc>
-   </teiHeader>
-   <facsimile>
-      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/ec47a638-274b-48d5-9f3b-aad1a50da54c/manifest">
-         <desc>IIIF Manifest</desc>
-      </media>
-   </facsimile>
-</TEI>
+        
 </teiCorpus>

@@ -9,6 +9,7 @@
                <orgName>Digital Cicognara Library</orgName>
                <ref>https://cicognara.org</ref>
             </publisher>
+            <sectionNumber>1.18</sectionNumber>
             <idno type="cico">1413</idno>
         </publicationStmt>
         <sourceDesc>
@@ -22,62 +23,5 @@
         </sourceDesc>
     </fileDesc>
 </teiHeader>
-        <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:local="http://library.princeton.edu" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>Esequie d'Arrigo Quarto Christianissimo Re di Francia e di Navarra [microform] : celebrate in Firenze dal Serenissimo Don Cosimo II, Grauduca di Toscana / descritte da Giuliano Giraldi.</title>
-            <respStmt>
-               <orgName>Princeton University Library</orgName>
-               <resp>contributor</resp>
-            </respStmt>
-         </titleStmt>
-         <publicationStmt>
-            <publisher>
-               <orgName>Digital Cicognara Library</orgName>
-               <ref>https://cicognara.org/</ref>
-            </publisher>
-            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
-            <idno type="URI">http://portal.getty.edu/books/princeton_9985302793506421</idno>
-            <idno type="URI">http://portal.getty.edu/api/53965q</idno>
-            <idno type="cico">1413</idno>
-            <idno type="dcl">7k6</idno>
-         </publicationStmt>
-         <sourceDesc>
-            <biblStruct>
-               <monogr>
-                  <title>Esequie d'Arrigo Quarto Christianissimo Re di Francia e di Navarra [microform] : celebrate in Firenze dal Serenissimo Don Cosimo II, Grauduca di Toscana / descritte da Giuliano Giraldi.</title>
-                  <respStmt>
-                     <persName>Giraldi, Giuliano.</persName>
-                     <resp>creator</resp>
-                  </respStmt>
-                  <textLang>Italian</textLang>
-                  <imprint>
-                     <publisher>In Firenze : Nella Stamperia di Bartolommeo Sermartelli e fratelli</publisher>
-                     <pubPlace>Italy</pubPlace>
-                     <date>1610</date>
-                  </imprint>
-                  <extent>51 p.</extent>
-                  <extent>1 microfiche : positive.</extent>
-               </monogr>
-               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/9a45a58d-f79c-45ec-aa32-42d5c753641d/manifest"/>
-            </biblStruct>
-         </sourceDesc>
-      </fileDesc>
-      <profileDesc>
-         <textClass>
-            <keywords>
-               <term>Cosimo II, Grand Duke of Tuscany, 1590-1621.</term>
-               <term>Henry IV, King of France, 1553-1610.</term>
-               <term>Funeral rites and ceremonies -- Italy -- Florence -- History -- 17th century.</term>
-            </keywords>
-         </textClass>
-      </profileDesc>
-   </teiHeader>
-   <facsimile>
-      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/9a45a58d-f79c-45ec-aa32-42d5c753641d/manifest">
-         <desc>IIIF Manifest</desc>
-      </media>
-   </facsimile>
-</TEI>
+        
 </teiCorpus>

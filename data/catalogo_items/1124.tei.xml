@@ -9,6 +9,7 @@
                <orgName>Digital Cicognara Library</orgName>
                <ref>https://cicognara.org</ref>
             </publisher>
+            <sectionNumber>1.14</sectionNumber>
             <idno type="cico">1124</idno>
         </publicationStmt>
         <sourceDesc>
@@ -23,62 +24,5 @@
         </sourceDesc>
     </fileDesc>
 </teiHeader>
-        <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:local="http://library.princeton.edu" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>Gabrielis Faerni Cremonensis Fabulae centum [microform] : ex antiquis auctoribus delectae, carminibus explicatae, novisque aere incisis iconibus adornatae ; quid accesserit praeterea patet ex indice editoris londinensis praefationi subjecto.</title>
-            <respStmt>
-               <orgName>Princeton University Library</orgName>
-               <resp>contributor</resp>
-            </respStmt>
-         </titleStmt>
-         <publicationStmt>
-            <publisher>
-               <orgName>Digital Cicognara Library</orgName>
-               <ref>https://cicognara.org/</ref>
-            </publisher>
-            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
-            <authority>Leopoldo Cicognara Program (University of Illinois at Urbana-Champaign)</authority>
-            <idno type="URI">http://portal.getty.edu/books/princeton_9985246713506421</idno>
-            <idno type="URI">http://portal.getty.edu/api/5q912r</idno>
-            <idno type="cico">1124</idno>
-            <idno type="dcl">5p8</idno>
-         </publicationStmt>
-         <sourceDesc>
-            <biblStruct>
-               <monogr>
-                  <title>Gabrielis Faerni Cremonensis Fabulae centum [microform] : ex antiquis auctoribus delectae, carminibus explicatae, novisque aere incisis iconibus adornatae ; quid accesserit praeterea patet ex indice editoris londinensis praefationi subjecto.</title>
-                  <respStmt>
-                     <persName>Faerno, Gabriello, 1511-1561.</persName>
-                     <resp>creator</resp>
-                  </respStmt>
-                  <textLang>English</textLang>
-                  <textLang>French</textLang>
-                  <textLang>Latin</textLang>
-                  <imprint>
-                     <publisher>Londini : Apud Guill Darres, &amp; Claude Du Bosc</publisher>
-                     <date>1743</date>
-                  </imprint>
-                  <extent>ii, [1], 45, [18], 238, [2] p.</extent>
-                  <extent>5 microfiche : positive.</extent>
-               </monogr>
-               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/cddaa4fd-18ba-4ac2-87de-c64042aa3cef/manifest"/>
-            </biblStruct>
-         </sourceDesc>
-      </fileDesc>
-      <profileDesc>
-         <textClass>
-            <keywords>
-               <term>Fables.</term>
-            </keywords>
-         </textClass>
-      </profileDesc>
-   </teiHeader>
-   <facsimile>
-      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/cddaa4fd-18ba-4ac2-87de-c64042aa3cef/manifest">
-         <desc>IIIF Manifest</desc>
-      </media>
-   </facsimile>
-</TEI>
+        
 </teiCorpus>

@@ -9,6 +9,7 @@
                <orgName>Digital Cicognara Library</orgName>
                <ref>https://cicognara.org</ref>
             </publisher>
+            <sectionNumber>2.11</sectionNumber>
             <idno type="cico">3950</idno>
         </publicationStmt>
         <sourceDesc>
@@ -20,67 +21,5 @@ poetica.</note>
         </sourceDesc>
     </fileDesc>
 </teiHeader>
-        <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:local="http://library.princeton.edu" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>Vues pittoresques de la Jamaïque [microform] : avec une description détaillée de ses productions, sur-tout des cannes à sucre, des travaux, du traitement et des moeurs des nègres, etc. / traduit del'anglais de M.W. Beckfort ; par J.S.P.</title>
-            <respStmt>
-               <orgName>Princeton University Library</orgName>
-               <resp>contributor</resp>
-            </respStmt>
-         </titleStmt>
-         <publicationStmt>
-            <publisher>
-               <orgName>Digital Cicognara Library</orgName>
-               <ref>https://cicognara.org/</ref>
-            </publisher>
-            <authority>Pons, J. S. (Jacques Samuel)</authority>
-            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
-            <authority>Leopoldo Cicognara Program (University of Illinois at Urbana-Champaign)</authority>
-            <idno type="URI">http://portal.getty.edu/books/princeton_9985422643506421</idno>
-            <idno type="URI">http://portal.getty.edu/api/98772t</idno>
-            <idno type="cico">3950</idno>
-            <idno type="dcl">6gm</idno>
-         </publicationStmt>
-         <sourceDesc>
-            <biblStruct>
-               <monogr>
-                  <title>Vues pittoresques de la Jamaïque [microform] : avec une description détaillée de ses productions, sur-tout des cannes à sucre, des travaux, du traitement et des moeurs des nègres, etc. / traduit del'anglais de M.W. Beckfort ; par J.S.P.</title>
-                  <respStmt>
-                     <persName>Beckford, William, -1799.</persName>
-                     <resp>creator</resp>
-                  </respStmt>
-                  <textLang>French</textLang>
-                  <imprint>
-                     <publisher>A Lausanne : Chez Durand l'ainé et compe</publisher>
-                     <pubPlace>Jamaica</pubPlace>
-                     <pubPlace>Jamaica.</pubPlace>
-                     <date>1793</date>
-                     <date>1792</date>
-                  </imprint>
-                  <extent>2 v.</extent>
-                  <extent>7 microfiche : positive.</extent>
-               </monogr>
-               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/53f74fdb-b2a7-4514-b9d0-8c5634b4c28b/manifest"/>
-            </biblStruct>
-         </sourceDesc>
-      </fileDesc>
-      <profileDesc>
-         <textClass>
-            <keywords>
-               <term>Agriculture -- Jamaica -- Early works to 1800.</term>
-               <term>Slavery -- Jamaica -- Early works to 1800.</term>
-               <term>Sugar growing -- Jamaica.</term>
-               <term>Jamaica -- Description and travel -- Early works to 1800.</term>
-            </keywords>
-         </textClass>
-      </profileDesc>
-   </teiHeader>
-   <facsimile>
-      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/53f74fdb-b2a7-4514-b9d0-8c5634b4c28b/manifest">
-         <desc>IIIF Manifest</desc>
-      </media>
-   </facsimile>
-</TEI>
+        
 </teiCorpus>

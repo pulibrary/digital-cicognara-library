@@ -9,6 +9,7 @@
                <orgName>Digital Cicognara Library</orgName>
                <ref>https://cicognara.org</ref>
             </publisher>
+            <sectionNumber>1.10</sectionNumber>
             <idno type="cico">958</idno>
         </publicationStmt>
         <sourceDesc>
@@ -20,59 +21,5 @@
         </sourceDesc>
     </fileDesc>
 </teiHeader>
-        <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:local="http://library.princeton.edu" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>Scuola mecanico-speculativo-pratica [microform] : in cui si esamina la proporzione che hà la potenza alla resistenza del corpo grave, e la causa per la quale le suddetta potenza si estenda a maggior' attività mediante la machina : opera vtile all' uso civile, e militare necessaria ad ogni matematico, ingegniero, architetto, machinista, e bombardiere / autore Carlo Cesare Scaletti ...</title>
-            <respStmt>
-               <orgName>Princeton University Library</orgName>
-               <resp>contributor</resp>
-            </respStmt>
-         </titleStmt>
-         <publicationStmt>
-            <publisher>
-               <orgName>Digital Cicognara Library</orgName>
-               <ref>https://cicognara.org/</ref>
-            </publisher>
-            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
-            <idno type="URI">http://portal.getty.edu/books/princeton_9985245293506421</idno>
-            <idno type="URI">http://portal.getty.edu/api/zp3b5v</idno>
-            <idno type="cico">958</idno>
-            <idno type="dcl">ms3</idno>
-         </publicationStmt>
-         <sourceDesc>
-            <biblStruct>
-               <monogr>
-                  <title>Scuola mecanico-speculativo-pratica [microform] : in cui si esamina la proporzione che hà la potenza alla resistenza del corpo grave, e la causa per la quale le suddetta potenza si estenda a maggior' attività mediante la machina : opera vtile all' uso civile, e militare necessaria ad ogni matematico, ingegniero, architetto, machinista, e bombardiere / autore Carlo Cesare Scaletti ...</title>
-                  <respStmt>
-                     <persName>Scaletta, Carlo Cesare.</persName>
-                     <resp>creator</resp>
-                  </respStmt>
-                  <textLang>Italian</textLang>
-                  <imprint>
-                     <publisher>In Bologna : Per Costantino Pisarri</publisher>
-                     <date>1711</date>
-                  </imprint>
-                  <extent>188 p.</extent>
-                  <extent>4 microfiche : positive.</extent>
-               </monogr>
-               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/3870a1ae-3b80-4aeb-8710-baedb3a21491/manifest"/>
-            </biblStruct>
-         </sourceDesc>
-      </fileDesc>
-      <profileDesc>
-         <textClass>
-            <keywords>
-               <term>Mecahnics -- Early works to 1800.</term>
-            </keywords>
-         </textClass>
-      </profileDesc>
-   </teiHeader>
-   <facsimile>
-      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/3870a1ae-3b80-4aeb-8710-baedb3a21491/manifest">
-         <desc>IIIF Manifest</desc>
-      </media>
-   </facsimile>
-</TEI>
+        
 </teiCorpus>

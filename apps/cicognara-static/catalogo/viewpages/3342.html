@@ -10,7 +10,14 @@
     <body>
           <div id="the-viewer"/>
     
-    <p>No digital editions are available.</p>
+
+      <script type="text/javascript">
+        const mirador = Mirador.viewer({
+               "id": "the-viewer",
+               "windows": [{"manifestId":"https://figgy.princeton.edu/concern/scanned_resources/220440da-d469-4ad3-9f4a-5f755ac92cc4/manifest"},{"manifestId":"https://figgy.princeton.edu/concern/scanned_resources/220440da-d469-4ad3-9f4a-5f755ac92cc4/manifest"}],
+               "catalog": [{"manifestId":"https://figgy.princeton.edu/concern/scanned_resources/220440da-d469-4ad3-9f4a-5f755ac92cc4/manifest","provider":"Princeton University Library"},{"manifestId":"https://figgy.princeton.edu/concern/scanned_resources/220440da-d469-4ad3-9f4a-5f755ac92cc4/manifest","provider":"Princeton University Library"}]
+                });
+      </script>
     
         </body>
 </html>

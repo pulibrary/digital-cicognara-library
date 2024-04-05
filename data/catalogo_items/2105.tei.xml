@@ -9,6 +9,7 @@
                <orgName>Digital Cicognara Library</orgName>
                <ref>https://cicognara.org</ref>
             </publisher>
+            <sectionNumber>1.23</sectionNumber>
             <idno type="cico">2105</idno>
         </publicationStmt>
         <sourceDesc>
@@ -20,60 +21,5 @@
         </sourceDesc>
     </fileDesc>
 </teiHeader>
-        <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:local="http://library.princeton.edu" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>Histoires sacreés du Vieux et du Nouveau Testament [microform] / graveés en taille douce par Jean Rodolphe Schellenberg.</title>
-            <respStmt>
-               <orgName>Princeton University Library</orgName>
-               <resp>contributor</resp>
-            </respStmt>
-         </titleStmt>
-         <publicationStmt>
-            <publisher>
-               <orgName>Digital Cicognara Library</orgName>
-               <ref>https://cicognara.org/</ref>
-            </publisher>
-            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
-            <idno type="URI">http://portal.getty.edu/books/princeton_9985342853506421</idno>
-            <idno type="URI">http://portal.getty.edu/api/m15g19</idno>
-            <idno type="cico">2105</idno>
-            <idno type="dcl">3pb</idno>
-         </publicationStmt>
-         <sourceDesc>
-            <biblStruct>
-               <monogr>
-                  <title>Histoires sacreés du Vieux et du Nouveau Testament [microform] / graveés en taille douce par Jean Rodolphe Schellenberg.</title>
-                  <respStmt>
-                     <persName>Schellenberg, Johann Rudolf, 1740-1806.</persName>
-                     <resp>creator</resp>
-                  </respStmt>
-                  <textLang>French</textLang>
-                  <imprint>
-                     <publisher>Se trouve ... à Vinterthour : Chez Henry Steiner et Comp</publisher>
-                     <date>1774-79</date>
-                     <date>1774</date>
-                  </imprint>
-                  <extent>2 v.</extent>
-                  <extent>4 microfiche : positive.</extent>
-               </monogr>
-               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/1bd45108-b01d-4ba9-96c3-e7c866cd624e/manifest"/>
-            </biblStruct>
-         </sourceDesc>
-      </fileDesc>
-      <profileDesc>
-         <textClass>
-            <keywords>
-               <term>Bible -- Illustrations -- Early works to 1800.</term>
-            </keywords>
-         </textClass>
-      </profileDesc>
-   </teiHeader>
-   <facsimile>
-      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/1bd45108-b01d-4ba9-96c3-e7c866cd624e/manifest">
-         <desc>IIIF Manifest</desc>
-      </media>
-   </facsimile>
-</TEI>
+        
 </teiCorpus>

@@ -9,6 +9,7 @@
                <orgName>Digital Cicognara Library</orgName>
                <ref>https://cicognara.org</ref>
             </publisher>
+            <sectionNumber>1.25</sectionNumber>
             <idno type="cico">2221</idno>
         </publicationStmt>
         <sourceDesc>
@@ -19,63 +20,5 @@
         </sourceDesc>
     </fileDesc>
 </teiHeader>
-        <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:local="http://library.princeton.edu" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>Minerualia Bonon. ciuium anademata, seu, Bibliotheca Bononiensis [microform] : cui accessit antiquiorum pictorum, &amp; sculptorum Bonon. breuis catalogus / collectore Io. Antonio Bumaldo.</title>
-            <respStmt>
-               <orgName>Princeton University Library</orgName>
-               <resp>contributor</resp>
-            </respStmt>
-         </titleStmt>
-         <publicationStmt>
-            <publisher>
-               <orgName>Digital Cicognara Library</orgName>
-               <ref>https://cicognara.org/</ref>
-            </publisher>
-            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
-            <idno type="URI">http://portal.getty.edu/books/princeton_9985343723506421</idno>
-            <idno type="URI">http://portal.getty.edu/api/sg415n</idno>
-            <idno type="cico">2221</idno>
-            <idno type="dcl">n55</idno>
-         </publicationStmt>
-         <sourceDesc>
-            <biblStruct>
-               <monogr>
-                  <title>Minerualia Bonon. ciuium anademata, seu, Bibliotheca Bononiensis [microform] : cui accessit antiquiorum pictorum, &amp; sculptorum Bonon. breuis catalogus / collectore Io. Antonio Bumaldo.</title>
-                  <respStmt>
-                     <persName>Montalbani, Ovidio, 1601-1671.</persName>
-                     <resp>creator</resp>
-                  </respStmt>
-                  <textLang>Latin</textLang>
-                  <imprint>
-                     <publisher>Bononiae : Typis Haeredis Victorij Benatij</publisher>
-                     <pubPlace>Italy</pubPlace>
-                     <pubPlace>Bologna (Italy)</pubPlace>
-                     <date>1641</date>
-                  </imprint>
-                  <extent>264 p.</extent>
-                  <extent>4 microfiche : positive.</extent>
-               </monogr>
-               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/30face4a-f558-4dd1-a2f1-eaa07b002dcf/manifest"/>
-            </biblStruct>
-         </sourceDesc>
-      </fileDesc>
-      <profileDesc>
-         <textClass>
-            <keywords>
-               <term>Painters -- Italy -- Bologna -- Biography -- Early works to 1800.</term>
-               <term>Sculptors -- Italy -- Bologna -- Biography -- Early works to 1800.</term>
-               <term>Bologna (Italy) -- Biography -- Early works to 1800.</term>
-            </keywords>
-         </textClass>
-      </profileDesc>
-   </teiHeader>
-   <facsimile>
-      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/30face4a-f558-4dd1-a2f1-eaa07b002dcf/manifest">
-         <desc>IIIF Manifest</desc>
-      </media>
-   </facsimile>
-</TEI>
+        
 </teiCorpus>

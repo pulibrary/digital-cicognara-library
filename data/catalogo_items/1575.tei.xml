@@ -9,6 +9,7 @@
                <orgName>Digital Cicognara Library</orgName>
                <ref>https://cicognara.org</ref>
             </publisher>
+            <sectionNumber>1.20</sectionNumber>
             <idno type="cico">1575</idno>
         </publicationStmt>
         <sourceDesc>
@@ -21,68 +22,5 @@
         </sourceDesc>
     </fileDesc>
 </teiHeader>
-        <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:local="http://library.princeton.edu" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>Thomae Bartholini De armillis veterum schedion [microform] : accessit Olai Wormii De aureo cornu Danico ad Licetum responsio.</title>
-            <respStmt>
-               <orgName>Princeton University Library</orgName>
-               <resp>contributor</resp>
-            </respStmt>
-         </titleStmt>
-         <publicationStmt>
-            <publisher>
-               <orgName>Digital Cicognara Library</orgName>
-               <ref>https://cicognara.org/</ref>
-            </publisher>
-            <authority>Bartholin, Caspar, 1655-1738.</authority>
-            <authority>Worm, Ole, 1588-1654. De aureo cornu Danico ad Licetum responsio.</authority>
-            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
-            <idno type="URI">http://portal.getty.edu/books/princeton_9985304523506421</idno>
-            <idno type="URI">http://portal.getty.edu/api/1d9m6b</idno>
-            <idno type="cico">1575</idno>
-            <idno type="dcl">sft</idno>
-         </publicationStmt>
-         <sourceDesc>
-            <biblStruct>
-               <monogr>
-                  <title>Thomae Bartholini De armillis veterum schedion [microform] : accessit Olai Wormii De aureo cornu Danico ad Licetum responsio.</title>
-                  <respStmt>
-                     <persName>Bartholin, Thomas, 1616-1680.</persName>
-                     <resp>creator</resp>
-                  </respStmt>
-                  <textLang>Latin</textLang>
-                  <imprint>
-                     <publisher>Amstelodami : Sumptibus JHenrici Wetstenii</publisher>
-                     <pubPlace>Costume</pubPlace>
-                     <pubPlace>Denmark</pubPlace>
-                     <date>1676</date>
-                  </imprint>
-                  <extent>114, [14], 40 p.</extent>
-                  <extent>3 microfiche : positive.</extent>
-               </monogr>
-               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/7e57084d-a4b7-416d-86fa-1a6979b3493e/manifest"/>
-            </biblStruct>
-         </sourceDesc>
-      </fileDesc>
-      <profileDesc>
-         <textClass>
-            <keywords>
-               <term>Liceti, Fortunio, 1577-1653.</term>
-               <term>Bracelets -- Early works to 1800.</term>
-               <term>Decoration and ornament, Ancient -- Early works to 1800.</term>
-               <term>Decoration and ornament, Germanic -- Early works to 1800.</term>
-               <term>Costume -- Italy -- Rome -- Early works to 1800.</term>
-               <term>Denmark -- Antiquities -- Early works to 1800.</term>
-            </keywords>
-         </textClass>
-      </profileDesc>
-   </teiHeader>
-   <facsimile>
-      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/7e57084d-a4b7-416d-86fa-1a6979b3493e/manifest">
-         <desc>IIIF Manifest</desc>
-      </media>
-   </facsimile>
-</TEI>
+        
 </teiCorpus>

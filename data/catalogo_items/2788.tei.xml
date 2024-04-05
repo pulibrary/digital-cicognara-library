@@ -9,6 +9,7 @@
                <orgName>Digital Cicognara Library</orgName>
                <ref>https://cicognara.org</ref>
             </publisher>
+            <sectionNumber>2.5</sectionNumber>
             <idno type="cico">2788</idno>
         </publicationStmt>
         <sourceDesc>
@@ -18,62 +19,5 @@
         </sourceDesc>
     </fileDesc>
 </teiHeader>
-        <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:local="http://library.princeton.edu" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>Monete tre estensi [microform] / lettera di Gio: Brunaccj al sig. Nicoletto Venezze ...</title>
-            <respStmt>
-               <orgName>Princeton University Library</orgName>
-               <resp>contributor</resp>
-            </respStmt>
-         </titleStmt>
-         <publicationStmt>
-            <publisher>
-               <orgName>Digital Cicognara Library</orgName>
-               <ref>https://cicognara.org/</ref>
-            </publisher>
-            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
-            <authority>Leopoldo Cicognara Program (University of Illinois at Urbana-Champaign)</authority>
-            <idno type="URI">http://portal.getty.edu/books/princeton_9985459553506421</idno>
-            <idno type="URI">http://portal.getty.edu/api/nx0p23</idno>
-            <idno type="cico">2788</idno>
-            <idno type="dcl">6gh</idno>
-         </publicationStmt>
-         <sourceDesc>
-            <biblStruct>
-               <monogr>
-                  <title>Monete tre estensi [microform] / lettera di Gio: Brunaccj al sig. Nicoletto Venezze ...</title>
-                  <respStmt>
-                     <persName>Brunacci, Giovanni, 1711-1772.</persName>
-                     <resp>creator</resp>
-                  </respStmt>
-                  <textLang>Italian</textLang>
-                  <imprint>
-                     <publisher>[Padova : s.n]</publisher>
-                     <pubPlace>Italy</pubPlace>
-                     <date>[1763]</date>
-                     <date>1763</date>
-                  </imprint>
-                  <extent>16 colums</extent>
-                  <extent>1 microfiche : positive ; 11 x 15 cm.</extent>
-               </monogr>
-               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/4f82e3f4-57eb-4046-990a-5b9fd6d7508d/manifest"/>
-            </biblStruct>
-         </sourceDesc>
-      </fileDesc>
-      <profileDesc>
-         <textClass>
-            <keywords>
-               <term>Money -- Italy -- Este -- Early works to 1800.</term>
-            </keywords>
-         </textClass>
-      </profileDesc>
-   </teiHeader>
-   <facsimile>
-      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/4f82e3f4-57eb-4046-990a-5b9fd6d7508d/manifest">
-         <desc>IIIF Manifest</desc>
-      </media>
-   </facsimile>
-</TEI>
+        
 </teiCorpus>

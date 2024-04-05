@@ -9,6 +9,7 @@
                <orgName>Digital Cicognara Library</orgName>
                <ref>https://cicognara.org</ref>
             </publisher>
+            <sectionNumber>2.7</sectionNumber>
             <idno type="cico">3302</idno>
         </publicationStmt>
         <sourceDesc>
@@ -21,122 +22,5 @@ avori.</note>
         </sourceDesc>
     </fileDesc>
 </teiHeader>
-        <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:local="http://library.princeton.edu" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>Io. Baptistae PasserI pisaurensis nobilis ... In monumenta sacra eburnea a clarissimo Antonio Francisco Gorio ad quartam huius operis partem reservata expositiones [microform] : adcedit eiusdem epistola de artophorio eburneo pisaurensi.</title>
-            <respStmt>
-               <orgName>Princeton University Library</orgName>
-               <resp>contributor</resp>
-            </respStmt>
-         </titleStmt>
-         <publicationStmt>
-            <publisher>
-               <orgName>Digital Cicognara Library</orgName>
-               <ref>https://cicognara.org/</ref>
-            </publisher>
-            <authority>Gori, Antonio Francesco, 1691-1757. Thesaurus veterum diptychorum.</authority>
-            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
-            <authority>Leopoldo Cicognara Program (University of Illinois at Urbana-Champaign)</authority>
-            <idno type="URI">http://portal.getty.edu/books/princeton_9985418693506421</idno>
-            <idno type="URI">http://portal.getty.edu/api/xn4d3s</idno>
-            <idno type="cico">3302</idno>
-            <idno type="dcl">4kp</idno>
-         </publicationStmt>
-         <sourceDesc>
-            <biblStruct>
-               <monogr>
-                  <title>Io. Baptistae PasserI pisaurensis nobilis ... In monumenta sacra eburnea a clarissimo Antonio Francisco Gorio ad quartam huius operis partem reservata expositiones [microform] : adcedit eiusdem epistola de artophorio eburneo pisaurensi.</title>
-                  <respStmt>
-                     <persName>Passeri, Giovanni Battista, approximately 1610-1679.</persName>
-                     <resp>creator</resp>
-                  </respStmt>
-                  <textLang>Latin</textLang>
-                  <imprint>
-                     <publisher>Florentiae : Ex typographia Caietani Albizzini</publisher>
-                     <pubPlace>Italy</pubPlace>
-                     <date>Anno 1759</date>
-                     <date>1759</date>
-                  </imprint>
-                  <extent>XII, 77 p.</extent>
-                  <extent>3 microfiche : positive.</extent>
-               </monogr>
-               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/84f612d3-dd30-47bd-bd16-5038588331cf/manifest"/>
-            </biblStruct>
-         </sourceDesc>
-      </fileDesc>
-      <profileDesc>
-         <textClass>
-            <keywords>
-               <term>Ivories -- Italy -- Pesaro -- Early works to 1800.</term>
-            </keywords>
-         </textClass>
-      </profileDesc>
-   </teiHeader>
-   <facsimile>
-      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/84f612d3-dd30-47bd-bd16-5038588331cf/manifest">
-         <desc>IIIF Manifest</desc>
-      </media>
-   </facsimile>
-</TEI>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:local="http://library.princeton.edu" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>De veteri euchologio eugubino nunc san-severinate eburneis, et argenteis tecumentis adornato [microform] / Io. Baptistae PasserI ad clariss. et nobilis. virum Io. Baptistam Leonardium ... Epistola.</title>
-            <respStmt>
-               <orgName>Princeton University Library</orgName>
-               <resp>contributor</resp>
-            </respStmt>
-         </titleStmt>
-         <publicationStmt>
-            <publisher>
-               <orgName>Digital Cicognara Library</orgName>
-               <ref>https://cicognara.org/</ref>
-            </publisher>
-            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
-            <authority>Leopoldo Cicognara Program (University of Illinois at Urbana-Champaign)</authority>
-            <idno type="URI">http://portal.getty.edu/books/princeton_9985418953506421</idno>
-            <idno type="URI">http://portal.getty.edu/api/904c4c</idno>
-            <idno type="cico">3302</idno>
-            <idno type="dcl">bs8</idno>
-         </publicationStmt>
-         <sourceDesc>
-            <biblStruct>
-               <monogr>
-                  <title>De veteri euchologio eugubino nunc san-severinate eburneis, et argenteis tecumentis adornato [microform] / Io. Baptistae PasserI ad clariss. et nobilis. virum Io. Baptistam Leonardium ... Epistola.</title>
-                  <respStmt>
-                     <persName>Passeri, Giovanni Battista, 1694-1780.</persName>
-                     <resp>creator</resp>
-                  </respStmt>
-                  <textLang>Latin</textLang>
-                  <imprint>
-                     <publisher>[Pesaro : s.n]</publisher>
-                     <pubPlace>Italy</pubPlace>
-                     <date>[1759]</date>
-                     <date>1759</date>
-                  </imprint>
-                  <extent>p. [1]-8, 79-84, [28] leaves of plates</extent>
-                  <extent>3 microfiche : positive.</extent>
-               </monogr>
-               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/6923830b-3772-4ad1-b261-3b7b184e76d9/manifest"/>
-            </biblStruct>
-         </sourceDesc>
-      </fileDesc>
-      <profileDesc>
-         <textClass>
-            <keywords>
-               <term>Christian art and symbolism -- Early works to 1800.</term>
-               <term>Ivories -- Italy -- Pesaro -- Early works to 1800.</term>
-            </keywords>
-         </textClass>
-      </profileDesc>
-   </teiHeader>
-   <facsimile>
-      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/6923830b-3772-4ad1-b261-3b7b184e76d9/manifest">
-         <desc>IIIF Manifest</desc>
-      </media>
-   </facsimile>
-</TEI>
+        
 </teiCorpus>

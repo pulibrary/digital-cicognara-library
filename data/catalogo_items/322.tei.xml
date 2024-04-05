@@ -9,6 +9,7 @@
                <orgName>Digital Cicognara Library</orgName>
                <ref>https://cicognara.org</ref>
             </publisher>
+            <sectionNumber>1.5</sectionNumber>
             <idno type="cico">322</idno>
         </publicationStmt>
         <sourceDesc>
@@ -24,60 +25,5 @@
         </sourceDesc>
     </fileDesc>
 </teiHeader>
-        <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:local="http://library.princeton.edu" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>Tabulae anatomicae clarissimi viri Bartholomaei Eustachii .. [microform] / praefatione, notisque illustravit ... Joh. Maria Lancisius ... accedunt epistolae Joannis Baptistae Morgagni atque aliorum praestantissimorum authorum ; praeterea vitae compendium ... Bartholomaei Eustachii ...</title>
-            <respStmt>
-               <orgName>Princeton University Library</orgName>
-               <resp>contributor</resp>
-            </respStmt>
-         </titleStmt>
-         <publicationStmt>
-            <publisher>
-               <orgName>Digital Cicognara Library</orgName>
-               <ref>https://cicognara.org/</ref>
-            </publisher>
-            <authority>Lancisi, Giovanni Maria, 1654-1720.</authority>
-            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
-            <idno type="URI">http://portal.getty.edu/books/princeton_9984943393506421</idno>
-            <idno type="URI">http://portal.getty.edu/api/5c687p</idno>
-            <idno type="cico">322</idno>
-            <idno type="dcl">jnr</idno>
-         </publicationStmt>
-         <sourceDesc>
-            <biblStruct>
-               <monogr>
-                  <title>Tabulae anatomicae clarissimi viri Bartholomaei Eustachii .. [microform] / praefatione, notisque illustravit ... Joh. Maria Lancisius ... accedunt epistolae Joannis Baptistae Morgagni atque aliorum praestantissimorum authorum ; praeterea vitae compendium ... Bartholomaei Eustachii ...</title>
-                  <respStmt>
-                     <persName>Eustachi, Bartolomeo, -1574.</persName>
-                     <resp>creator</resp>
-                  </respStmt>
-                  <textLang>Italian</textLang>
-                  <imprint>
-                     <publisher>Venetiis : Typis Bartholomaei Locatelli</publisher>
-                     <date>1769</date>
-                  </imprint>
-                  <extent>xvi, 34 p.</extent>
-                  <extent>5 microfiche : positive.</extent>
-               </monogr>
-               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/09120f9f-162c-475e-b4d9-f53162b4636e/manifest"/>
-            </biblStruct>
-         </sourceDesc>
-      </fileDesc>
-      <profileDesc>
-         <textClass>
-            <keywords>
-               <term>Human anatomy -- Early works to 1800.</term>
-            </keywords>
-         </textClass>
-      </profileDesc>
-   </teiHeader>
-   <facsimile>
-      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/09120f9f-162c-475e-b4d9-f53162b4636e/manifest">
-         <desc>IIIF Manifest</desc>
-      </media>
-   </facsimile>
-</TEI>
+        
 </teiCorpus>

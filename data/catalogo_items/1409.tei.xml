@@ -9,6 +9,7 @@
                <orgName>Digital Cicognara Library</orgName>
                <ref>https://cicognara.org</ref>
             </publisher>
+            <sectionNumber>1.18</sectionNumber>
             <idno type="cico">1409</idno>
         </publicationStmt>
         <sourceDesc>
@@ -24,125 +25,5 @@
         </sourceDesc>
     </fileDesc>
 </teiHeader>
-        <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:local="http://library.princeton.edu" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>Il funerale d'Agostin Carraccio : fatto in Bologna sua patria da gl'Incaminati academici del disegno.</title>
-            <respStmt>
-               <orgName>Getty Research Institute</orgName>
-               <resp>contributor</resp>
-            </respStmt>
-         </titleStmt>
-         <publicationStmt>
-            <publisher>
-               <orgName>Digital Cicognara Library</orgName>
-               <ref>https://cicognara.org/</ref>
-            </publisher>
-            <authority>Faberio, Lucio.</authority>
-            <authority>Brizio, Francesco, approximately 1574-1623.</authority>
-            <authority>Reni, Guido, 1575-1642</authority>
-            <idno type="URI">http://portal.getty.edu/books/gri_9926282350001551</idno>
-            <idno type="URI">http://portal.getty.edu/api/b69k87</idno>
-            <idno>(OCoLC)79740264</idno>
-            <idno type="cico">1409</idno>
-            <idno type="dcl">s53</idno>
-         </publicationStmt>
-         <sourceDesc>
-            <biblStruct>
-               <monogr>
-                  <title>Il funerale d'Agostin Carraccio : fatto in Bologna sua patria da gl'Incaminati academici del disegno.</title>
-                  <respStmt>
-                     <persName>Morello, Benedetto</persName>
-                     <resp>creator</resp>
-                  </respStmt>
-                  <textLang>Italian</textLang>
-                  <imprint>
-                     <publisher>In Bologna : Presso Vittorio Benacci</publisher>
-                     <pubPlace>Italy</pubPlace>
-                     <date>1603</date>
-                  </imprint>
-                  <extent>52 p., [1] folded leaf of plates</extent>
-               </monogr>
-               <relatedItem type="manifest" target="https://media.getty.edu/iiif/manifest/756d24b3-51c6-4495-aadb-b229c0209b21"/>
-            </biblStruct>
-         </sourceDesc>
-      </fileDesc>
-      <profileDesc>
-         <textClass>
-            <keywords>
-               <term>Carracci, Agostino, 1557-1602 -- Death and burial.</term>
-               <term>Funeral rites and ceremonies -- Italy -- Bologna -- Early works to 1800.</term>
-               <term>Carracci, Agostino, 1557-1602</term>
-               <term>Funeral rites and ceremonies</term>
-               <term>Italy -- Bologna</term>
-               <term>ND623.C39 M6</term>
-            </keywords>
-         </textClass>
-      </profileDesc>
-   </teiHeader>
-   <facsimile>
-      <media mimeType="application/json" url="https://media.getty.edu/iiif/manifest/756d24b3-51c6-4495-aadb-b229c0209b21">
-         <desc>IIIF Manifest</desc>
-      </media>
-   </facsimile>
-</TEI>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:local="http://library.princeton.edu" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>Il funerale d'Agostin Carraccio [microform] : fatto in Bologna sua patria da gl'Incaminati Academici del Disegno ...</title>
-            <respStmt>
-               <orgName>Princeton University Library</orgName>
-               <resp>contributor</resp>
-            </respStmt>
-         </titleStmt>
-         <publicationStmt>
-            <publisher>
-               <orgName>Digital Cicognara Library</orgName>
-               <ref>https://cicognara.org/</ref>
-            </publisher>
-            <authority>Faberi, Lucio, -1610.</authority>
-            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
-            <idno type="URI">http://portal.getty.edu/books/princeton_9985302883506421</idno>
-            <idno type="URI">http://portal.getty.edu/api/cv1810</idno>
-            <idno type="cico">1409.</idno>
-            <idno type="dcl">s53</idno>
-         </publicationStmt>
-         <sourceDesc>
-            <biblStruct>
-               <monogr>
-                  <title>Il funerale d'Agostin Carraccio [microform] : fatto in Bologna sua patria da gl'Incaminati Academici del Disegno ...</title>
-                  <respStmt>
-                     <persName>Morello, Benedetto.</persName>
-                     <resp>creator</resp>
-                  </respStmt>
-                  <textLang>Italian</textLang>
-                  <imprint>
-                     <publisher>In Bologna : Presso Vittorio Benacci</publisher>
-                     <pubPlace>Italy</pubPlace>
-                     <date>1603</date>
-                  </imprint>
-                  <extent>52 p.</extent>
-                  <extent>1 microfiche : positive.</extent>
-               </monogr>
-               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/b7fecd5c-be98-4001-8296-659360b721e0/manifest"/>
-            </biblStruct>
-         </sourceDesc>
-      </fileDesc>
-      <profileDesc>
-         <textClass>
-            <keywords>
-               <term>Carracci, Agostino, 1557-1602.</term>
-               <term>Funeral rites and ceremonies -- Italy -- Early works to 1800.</term>
-            </keywords>
-         </textClass>
-      </profileDesc>
-   </teiHeader>
-   <facsimile>
-      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/b7fecd5c-be98-4001-8296-659360b721e0/manifest">
-         <desc>IIIF Manifest</desc>
-      </media>
-   </facsimile>
-</TEI>
+        
 </teiCorpus>

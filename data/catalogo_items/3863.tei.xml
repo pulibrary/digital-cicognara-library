@@ -9,6 +9,7 @@
                <orgName>Digital Cicognara Library</orgName>
                <ref>https://cicognara.org</ref>
             </publisher>
+            <sectionNumber>2.10</sectionNumber>
             <idno type="cico">3863</idno>
         </publicationStmt>
         <sourceDesc>
@@ -26,66 +27,5 @@ una precisa idea dei luoghi e delle cose rappresentate.</note>
         </sourceDesc>
     </fileDesc>
 </teiHeader>
-        <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:local="http://library.princeton.edu" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>Le fontane di Roma nelle piazze e luoghi publici della città [microform] : con li loro prospetti, come sono al presente / disegnata et intagliate da Gio: Battista Falda ; date in luce con direttione e cura da Gio: Giacomo de Rossi ...</title>
-            <respStmt>
-               <orgName>Princeton University Library</orgName>
-               <resp>contributor</resp>
-            </respStmt>
-         </titleStmt>
-         <publicationStmt>
-            <publisher>
-               <orgName>Digital Cicognara Library</orgName>
-               <ref>https://cicognara.org/</ref>
-            </publisher>
-            <authority>Rossi, Giovanni Giacomo de, 1627-1691.</authority>
-            <authority>Venturini, Giovanni Francesco, 1650-</authority>
-            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
-            <authority>Leopoldo Cicognara Program (University of Illinois at Urbana-Champaign)</authority>
-            <idno type="URI">http://portal.getty.edu/books/princeton_9985421213506421</idno>
-            <idno type="URI">http://portal.getty.edu/api/p12t8f</idno>
-            <idno type="cico">3863</idno>
-            <idno type="dcl">1pk</idno>
-         </publicationStmt>
-         <sourceDesc>
-            <biblStruct>
-               <monogr>
-                  <title>Le fontane di Roma nelle piazze e luoghi publici della città [microform] : con li loro prospetti, come sono al presente / disegnata et intagliate da Gio: Battista Falda ; date in luce con direttione e cura da Gio: Giacomo de Rossi ...</title>
-                  <respStmt>
-                     <persName>Falda, Giovanni Battista, approximately 1640-1678.</persName>
-                     <resp>creator</resp>
-                  </respStmt>
-                  <textLang>Italian</textLang>
-                  <imprint>
-                     <publisher>In Roma : [Gio: Giacomo de Rossi dalle sue stampe</publisher>
-                     <pubPlace>Italy</pubPlace>
-                     <pubPlace>Rome (Italy)</pubPlace>
-                     <date>[1675-1691]</date>
-                     <date>1675</date>
-                  </imprint>
-                  <extent>4 pts.</extent>
-                  <extent>3 microfiche : positive.</extent>
-               </monogr>
-               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/2fd05cb9-ea7a-4a29-9dac-c4198e466063/manifest"/>
-            </biblStruct>
-         </sourceDesc>
-      </fileDesc>
-      <profileDesc>
-         <textClass>
-            <keywords>
-               <term>Fountains -- Italy -- Rome -- Early works to 1800.</term>
-               <term>Rome (Italy) -- Buildings, structures, etc. -- Early works to 1800.</term>
-            </keywords>
-         </textClass>
-      </profileDesc>
-   </teiHeader>
-   <facsimile>
-      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/2fd05cb9-ea7a-4a29-9dac-c4198e466063/manifest">
-         <desc>IIIF Manifest</desc>
-      </media>
-   </facsimile>
-</TEI>
+        
 </teiCorpus>

@@ -9,6 +9,7 @@
                <orgName>Digital Cicognara Library</orgName>
                <ref>https://cicognara.org</ref>
             </publisher>
+            <sectionNumber>1.23</sectionNumber>
             <idno type="cico">2106</idno>
         </publicationStmt>
         <sourceDesc>
@@ -22,63 +23,5 @@
         </sourceDesc>
     </fileDesc>
 </teiHeader>
-        <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:local="http://library.princeton.edu" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>Physica sacra [microform] / Johannis Jacobi Scheuchzeri ... iconibus Aeneis illustrata procurante &amp; sumtus suppeditante Johanne Andrea Pfeffel ...</title>
-            <respStmt>
-               <orgName>Princeton University Library</orgName>
-               <resp>contributor</resp>
-            </respStmt>
-         </titleStmt>
-         <publicationStmt>
-            <publisher>
-               <orgName>Digital Cicognara Library</orgName>
-               <ref>https://cicognara.org/</ref>
-            </publisher>
-            <authority>Pfeffel, Johann Andreas, 1674-1748.</authority>
-            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
-            <idno type="URI">http://portal.getty.edu/books/princeton_9985342873506421</idno>
-            <idno type="URI">http://portal.getty.edu/api/w72s8m</idno>
-            <idno type="cico">2106</idno>
-            <idno type="dcl">sfz</idno>
-         </publicationStmt>
-         <sourceDesc>
-            <biblStruct>
-               <monogr>
-                  <title>Physica sacra [microform] / Johannis Jacobi Scheuchzeri ... iconibus Aeneis illustrata procurante &amp; sumtus suppeditante Johanne Andrea Pfeffel ...</title>
-                  <respStmt>
-                     <persName>Scheuchzer, Johann Jakob, 1672-1733.</persName>
-                     <resp>creator</resp>
-                  </respStmt>
-                  <textLang>Latin</textLang>
-                  <imprint>
-                     <publisher>Augustae Vindelicorum &amp; Ulmae : [s.n.]</publisher>
-                     <date>1731-1735</date>
-                     <date>1731</date>
-                  </imprint>
-                  <extent>4 v.</extent>
-                  <extent>44 microfiche : positive.</extent>
-               </monogr>
-               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/bdd823e7-3751-434f-8663-07755a94639b/manifest"/>
-            </biblStruct>
-         </sourceDesc>
-      </fileDesc>
-      <profileDesc>
-         <textClass>
-            <keywords>
-               <term>Bbile -- Criticism, interpretation, etc. -- Early works to 1800.</term>
-               <term>Bible -- Illustrations -- Early works to 1800.</term>
-               <term>Nature in the Bible -- Early works to 1800.</term>
-            </keywords>
-         </textClass>
-      </profileDesc>
-   </teiHeader>
-   <facsimile>
-      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/bdd823e7-3751-434f-8663-07755a94639b/manifest">
-         <desc>IIIF Manifest</desc>
-      </media>
-   </facsimile>
-</TEI>
+        
 </teiCorpus>

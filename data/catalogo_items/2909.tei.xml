@@ -9,6 +9,7 @@
                <orgName>Digital Cicognara Library</orgName>
                <ref>https://cicognara.org</ref>
             </publisher>
+            <sectionNumber>2.5</sectionNumber>
             <idno type="cico">2909</idno>
         </publicationStmt>
         <sourceDesc>
@@ -22,65 +23,5 @@ illustrati e presi la più parte dalle medaglie. Opera mediocre.</note>
         </sourceDesc>
     </fileDesc>
 </teiHeader>
-        <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:local="http://library.princeton.edu" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>Historia augusta imperatorum Romanorum a C. Julio Caesare usque ad Josephum, imperatorem augustissimum [microform] / ex Joannis Petri Lotichii Tetrastichis mnemonicis, et Joannis Jacobi Hofmanni Tetrastichis, et ejusdem in haec enarrationibus historicis ; adduntur singulorum imperatorum effigies aere scalpto expressae ex nummis Christinae Suecorum reginae ; additamenta necessaria &amp; integra omissorum supplementa adjecit Henricus Christianus Henninius.</title>
-            <respStmt>
-               <orgName>Princeton University Library</orgName>
-               <resp>contributor</resp>
-            </respStmt>
-         </titleStmt>
-         <publicationStmt>
-            <publisher>
-               <orgName>Digital Cicognara Library</orgName>
-               <ref>https://cicognara.org/</ref>
-            </publisher>
-            <authority>Hamelow, Henricus.</authority>
-            <authority>Hennin, Heinrich Christian de, approximately 1655-1703.</authority>
-            <authority>Hoffmann, Johann Jacob.</authority>
-            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
-            <authority>Leopoldo Cicognara Program (University of Illinois at Urbana-Champaign)</authority>
-            <idno type="URI">http://portal.getty.edu/books/princeton_9985410033506421</idno>
-            <idno type="URI">http://portal.getty.edu/api/hh0k82</idno>
-            <idno type="cico">2909</idno>
-            <idno type="dcl">g5q</idno>
-         </publicationStmt>
-         <sourceDesc>
-            <biblStruct>
-               <monogr>
-                  <title>Historia augusta imperatorum Romanorum a C. Julio Caesare usque ad Josephum, imperatorem augustissimum [microform] / ex Joannis Petri Lotichii Tetrastichis mnemonicis, et Joannis Jacobi Hofmanni Tetrastichis, et ejusdem in haec enarrationibus historicis ; adduntur singulorum imperatorum effigies aere scalpto expressae ex nummis Christinae Suecorum reginae ; additamenta necessaria &amp; integra omissorum supplementa adjecit Henricus Christianus Henninius.</title>
-                  <respStmt>
-                     <persName>Lotichius, Johann Peter, 1598-1669.</persName>
-                     <resp>creator</resp>
-                  </respStmt>
-                  <textLang>Latin</textLang>
-                  <imprint>
-                     <publisher>Amstelaedami : Apud Stephanum Roger [etc.]</publisher>
-                     <pubPlace>Rome</pubPlace>
-                     <date>1710</date>
-                  </imprint>
-                  <extent>292 p.</extent>
-                  <extent>7 microfiche : positive.</extent>
-               </monogr>
-               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/5857b469-5ada-48b0-bd7a-3e02c38361b4/manifest"/>
-            </biblStruct>
-         </sourceDesc>
-      </fileDesc>
-      <profileDesc>
-         <textClass>
-            <keywords>
-               <term>Emperors -- Rome -- Portraits -- Early works to 1800.</term>
-               <term>Emperors -- Rome -- Biography -- Early works to 1800.</term>
-            </keywords>
-         </textClass>
-      </profileDesc>
-   </teiHeader>
-   <facsimile>
-      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/5857b469-5ada-48b0-bd7a-3e02c38361b4/manifest">
-         <desc>IIIF Manifest</desc>
-      </media>
-   </facsimile>
-</TEI>
+        
 </teiCorpus>

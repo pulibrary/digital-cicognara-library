@@ -9,6 +9,7 @@
                <orgName>Digital Cicognara Library</orgName>
                <ref>https://cicognara.org</ref>
             </publisher>
+            <sectionNumber>2.3</sectionNumber>
             <idno type="cico">2627</idno>
         </publicationStmt>
         <sourceDesc>
@@ -19,61 +20,5 @@ Montana (Ripa Transona)</title>, <pubPlace>Pisauri</pubPlace> <date>1748</date>,
         </sourceDesc>
     </fileDesc>
 </teiHeader>
-        <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:local="http://library.princeton.edu" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>De antiqua Picentum civitate Cupra Montana [microform] / Mauri Sartii ... epistola ad v.c. Johannem Felicem Garatonum in Romana Curia advocatum ...</title>
-            <respStmt>
-               <orgName>Princeton University Library</orgName>
-               <resp>contributor</resp>
-            </respStmt>
-         </titleStmt>
-         <publicationStmt>
-            <publisher>
-               <orgName>Digital Cicognara Library</orgName>
-               <ref>https://cicognara.org/</ref>
-            </publisher>
-            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
-            <authority>Leopoldo Cicognara Program (University of Illinois at Urbana-Champaign)</authority>
-            <idno type="URI">http://portal.getty.edu/books/princeton_9985408373506421</idno>
-            <idno type="URI">http://portal.getty.edu/api/35154f</idno>
-            <idno type="cico">2627</idno>
-            <idno type="dcl">qc4</idno>
-         </publicationStmt>
-         <sourceDesc>
-            <biblStruct>
-               <monogr>
-                  <title>De antiqua Picentum civitate Cupra Montana [microform] / Mauri Sartii ... epistola ad v.c. Johannem Felicem Garatonum in Romana Curia advocatum ...</title>
-                  <respStmt>
-                     <persName>Sarti, Mauro, 1709-1766.</persName>
-                     <resp>creator</resp>
-                  </respStmt>
-                  <textLang>Latin</textLang>
-                  <imprint>
-                     <publisher>Pisauri : E typographia Nicolai Gavelli</publisher>
-                     <pubPlace>Cupramontana (Italy)</pubPlace>
-                     <date>1748</date>
-                  </imprint>
-                  <extent>108 p.</extent>
-                  <extent>2 microfiche : positive.</extent>
-               </monogr>
-               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/f85c10b5-61b6-408a-b800-6174d349fb61/manifest"/>
-            </biblStruct>
-         </sourceDesc>
-      </fileDesc>
-      <profileDesc>
-         <textClass>
-            <keywords>
-               <term>Cupramontana (Italy) -- History.</term>
-            </keywords>
-         </textClass>
-      </profileDesc>
-   </teiHeader>
-   <facsimile>
-      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/f85c10b5-61b6-408a-b800-6174d349fb61/manifest">
-         <desc>IIIF Manifest</desc>
-      </media>
-   </facsimile>
-</TEI>
+        
 </teiCorpus>

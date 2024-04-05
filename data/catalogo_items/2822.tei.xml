@@ -9,6 +9,7 @@
                <orgName>Digital Cicognara Library</orgName>
                <ref>https://cicognara.org</ref>
             </publisher>
+            <sectionNumber>2.5</sectionNumber>
             <idno type="cico">2822</idno>
         </publicationStmt>
         <sourceDesc>
@@ -26,61 +27,5 @@ pubblicò anche questa esposizione.</note>
         </sourceDesc>
     </fileDesc>
 </teiHeader>
-        <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:local="http://library.princeton.edu" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>Sopra l'effigie di Cesare, fatta per M. Enea Vico da Parma [microform] / dichiaratione del Doni.</title>
-            <respStmt>
-               <orgName>Princeton University Library</orgName>
-               <resp>contributor</resp>
-            </respStmt>
-         </titleStmt>
-         <publicationStmt>
-            <publisher>
-               <orgName>Digital Cicognara Library</orgName>
-               <ref>https://cicognara.org/</ref>
-            </publisher>
-            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
-            <authority>Leopoldo Cicognara Program (University of Illinois at Urbana-Champaign)</authority>
-            <idno type="URI">http://portal.getty.edu/books/princeton_9985449983506421</idno>
-            <idno type="URI">http://portal.getty.edu/api/qg833v</idno>
-            <idno type="cico">2822</idno>
-            <idno type="dcl">5s8</idno>
-         </publicationStmt>
-         <sourceDesc>
-            <biblStruct>
-               <monogr>
-                  <title>Sopra l'effigie di Cesare, fatta per M. Enea Vico da Parma [microform] / dichiaratione del Doni.</title>
-                  <respStmt>
-                     <persName>Doni, Anton Francesco, 1513-1574.</persName>
-                     <resp>creator</resp>
-                  </respStmt>
-                  <textLang>Italian</textLang>
-                  <imprint>
-                     <publisher>In Vinegia : [s.n.]</publisher>
-                     <date>1550</date>
-                  </imprint>
-                  <extent>[8] p.</extent>
-                  <extent>1 microfiche : positive.</extent>
-               </monogr>
-               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/dce6f55a-00f5-4b29-9582-e5153b691642/manifest"/>
-            </biblStruct>
-         </sourceDesc>
-      </fileDesc>
-      <profileDesc>
-         <textClass>
-            <keywords>
-               <term>Charles V, Holy Roman Emperor, 1500-1558 -- Portraits.</term>
-               <term>Vico, Enea, 1523-1567.</term>
-            </keywords>
-         </textClass>
-      </profileDesc>
-   </teiHeader>
-   <facsimile>
-      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/dce6f55a-00f5-4b29-9582-e5153b691642/manifest">
-         <desc>IIIF Manifest</desc>
-      </media>
-   </facsimile>
-</TEI>
+        
 </teiCorpus>

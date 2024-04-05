@@ -9,6 +9,7 @@
                <orgName>Digital Cicognara Library</orgName>
                <ref>https://cicognara.org</ref>
             </publisher>
+            <sectionNumber>2.12</sectionNumber>
             <idno type="cico">4138</idno>
         </publicationStmt>
         <sourceDesc>
@@ -22,65 +23,5 @@ Opera di 406 pagine non compresa la dedica al doge e senato veneziano.</note>
         </sourceDesc>
     </fileDesc>
 </teiHeader>
-        <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:local="http://library.princeton.edu" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>Nova et accurata Italiae hodiernae descriptio [microform] :in qua omnium eius regionem, vrbium, pagorum, dominiorum, castellorum, montium, fluviorum, fontium, lacuum, et portuum, historia exhibetur : Geographicis tabulis et vrbium precipuarum iconibus / illustrata a Iudoco Hondio ; addita est Siciliae, Sardiniae, Corsicae, et itinerariorum per Italiam brevis delineatio.</title>
-            <respStmt>
-               <orgName>Princeton University Library</orgName>
-               <resp>contributor</resp>
-            </respStmt>
-         </titleStmt>
-         <publicationStmt>
-            <publisher>
-               <orgName>Digital Cicognara Library</orgName>
-               <ref>https://cicognara.org/</ref>
-            </publisher>
-            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
-            <authority>Leopoldo Cicognara Program (University of Illinois at Urbana-Champaign)</authority>
-            <idno type="URI">http://portal.getty.edu/books/princeton_9985431683506421</idno>
-            <idno type="URI">http://portal.getty.edu/api/x9154z</idno>
-            <idno type="cico">4138</idno>
-            <idno type="dcl">0dc</idno>
-         </publicationStmt>
-         <sourceDesc>
-            <biblStruct>
-               <monogr>
-                  <title>Nova et accurata Italiae hodiernae descriptio [microform] :in qua omnium eius regionem, vrbium, pagorum, dominiorum, castellorum, montium, fluviorum, fontium, lacuum, et portuum, historia exhibetur : Geographicis tabulis et vrbium precipuarum iconibus / illustrata a Iudoco Hondio ; addita est Siciliae, Sardiniae, Corsicae, et itinerariorum per Italiam brevis delineatio.</title>
-                  <respStmt>
-                     <persName>Hondius, Jodocus, 1563-1612.</persName>
-                     <resp>creator</resp>
-                  </respStmt>
-                  <textLang>Latin</textLang>
-                  <imprint>
-                     <publisher>Lugduni Batavorum : Apud Bonavonturam et Abrahanium Elsevir</publisher>
-                     <pubPlace>Corsica (France)</pubPlace>
-                     <pubPlace>Italy</pubPlace>
-                     <pubPlace>Sicily (Italy)</pubPlace>
-                     <date>1627</date>
-                  </imprint>
-                  <extent>406 p.</extent>
-                  <extent>12 microfiche : positive.</extent>
-               </monogr>
-               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/223d623d-2342-4d12-8d6c-5772df2892de/manifest"/>
-            </biblStruct>
-         </sourceDesc>
-      </fileDesc>
-      <profileDesc>
-         <textClass>
-            <keywords>
-               <term>Corsica (France) -- Description and travel -- Early works to 1800.</term>
-               <term>Italy -- Description and travel -- Early works to 1800.</term>
-               <term>Sicily (Italy) -- Description and travel -- Early works to 1800.</term>
-            </keywords>
-         </textClass>
-      </profileDesc>
-   </teiHeader>
-   <facsimile>
-      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/223d623d-2342-4d12-8d6c-5772df2892de/manifest">
-         <desc>IIIF Manifest</desc>
-      </media>
-   </facsimile>
-</TEI>
+        
 </teiCorpus>

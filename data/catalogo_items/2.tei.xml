@@ -9,11 +9,23 @@
                <orgName>Digital Cicognara Library</orgName>
                <ref>https://cicognara.org</ref>
             </publisher>
+            <sectionNumber>1.1</sectionNumber>
             <idno type="cico">2</idno>
         </publicationStmt>
         <sourceDesc>
-            <bibl>Seguirono le pitture antiche d’Ercolano a contorni, incise con qualche spiegazione. Vol. I 1757.
-</bibl>
+            <bibl>
+		 <author>Agrippae Henrici Corn.</author>, <title>De
+		 incertitude et vanitate scientiarum, declamatio invectiva, ex
+		 postrema
+		 <fw type="foot"/>
+	         <pb type="memofonte"/>
+	         <fw type="head"/>
+		 
+		 auctoris recognitione</title>,
+		 <pubPlace>Coloniæ</pubPlace> 
+		 <date>1584</date>, <extent>in
+		 16</extent>.
+	       </bibl>
         </sourceDesc>
     </fileDesc>
 </teiHeader>

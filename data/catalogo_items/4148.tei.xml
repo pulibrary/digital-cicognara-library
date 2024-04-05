@@ -9,6 +9,7 @@
                <orgName>Digital Cicognara Library</orgName>
                <ref>https://cicognara.org</ref>
             </publisher>
+            <sectionNumber>2.12</sectionNumber>
             <idno type="cico">4148</idno>
         </publicationStmt>
         <sourceDesc>
@@ -21,63 +22,5 @@ molte nozioni da Biondo Flavio. Non è libro comune.</note>
         </sourceDesc>
     </fileDesc>
 </teiHeader>
-        <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:local="http://library.princeton.edu" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>Liber aliquot itinerum ex Augusta Vindelicorum egredientium .. [microform] / authore Mathia Quado, sculptore.</title>
-            <respStmt>
-               <orgName>Princeton University Library</orgName>
-               <resp>contributor</resp>
-            </respStmt>
-         </titleStmt>
-         <publicationStmt>
-            <publisher>
-               <orgName>Digital Cicognara Library</orgName>
-               <ref>https://cicognara.org/</ref>
-            </publisher>
-            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
-            <authority>Leopoldo Cicognara Program (University of Illinois at Urbana-Champaign)</authority>
-            <idno type="URI">http://portal.getty.edu/books/princeton_9985429253506421</idno>
-            <idno type="URI">http://portal.getty.edu/api/r03v3n</idno>
-            <idno type="cico">4148</idno>
-            <idno type="dcl">jk8</idno>
-         </publicationStmt>
-         <sourceDesc>
-            <biblStruct>
-               <monogr>
-                  <title>Liber aliquot itinerum ex Augusta Vindelicorum egredientium .. [microform] / authore Mathia Quado, sculptore.</title>
-                  <respStmt>
-                     <persName>Quad, Matthias, 1557-1613.</persName>
-                     <resp>creator</resp>
-                  </respStmt>
-                  <textLang>Latin</textLang>
-                  <imprint>
-                     <publisher>Vrsellis [Oberursel, Germany] : Ex Officina typographica Cornelij Sutorij</publisher>
-                     <pubPlace>Europe</pubPlace>
-                     <date>Anno 1602</date>
-                     <date>1602</date>
-                  </imprint>
-                  <extent>174 p.</extent>
-                  <extent>5 microfiche : positive.</extent>
-               </monogr>
-               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/38ed0091-c119-4e88-8a61-b0c967cabad3/manifest"/>
-            </biblStruct>
-         </sourceDesc>
-      </fileDesc>
-      <profileDesc>
-         <textClass>
-            <keywords>
-               <term>Europe -- Description and travel -- Maps.</term>
-               <term>Europe -- Description and travel.</term>
-            </keywords>
-         </textClass>
-      </profileDesc>
-   </teiHeader>
-   <facsimile>
-      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/38ed0091-c119-4e88-8a61-b0c967cabad3/manifest">
-         <desc>IIIF Manifest</desc>
-      </media>
-   </facsimile>
-</TEI>
+        
 </teiCorpus>

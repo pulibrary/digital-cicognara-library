@@ -9,6 +9,7 @@
                <orgName>Digital Cicognara Library</orgName>
                <ref>https://cicognara.org</ref>
             </publisher>
+            <sectionNumber>1.23</sectionNumber>
             <idno type="cico">2114</idno>
         </publicationStmt>
         <sourceDesc>
@@ -24,62 +25,5 @@
         </sourceDesc>
     </fileDesc>
 </teiHeader>
-        <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:local="http://library.princeton.edu" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>Francisci Tertii Bergomatis Sereniss. Ferdinandi archiducis Austriae ducis Burgundiae comitis Tirolis etc pictoris aulici ad Inuictiss Caesarem Maximilianum II Romanorum Imp. Semper Augustum. Austriacae gentis imaginum .. [microform] / Gaspar ab auibus Citadelensis incisor et formis.</title>
-            <respStmt>
-               <orgName>Princeton University Library</orgName>
-               <resp>contributor</resp>
-            </respStmt>
-         </titleStmt>
-         <publicationStmt>
-            <publisher>
-               <orgName>Digital Cicognara Library</orgName>
-               <ref>https://cicognara.org/</ref>
-            </publisher>
-            <authority>Terzi, Francesco, approximately 1523-approximately 1591.</authority>
-            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
-            <idno type="URI">http://portal.getty.edu/books/princeton_9985401543506421</idno>
-            <idno type="URI">http://portal.getty.edu/api/fx9f6h</idno>
-            <idno type="cico">2114</idno>
-            <idno type="dcl">2p9</idno>
-         </publicationStmt>
-         <sourceDesc>
-            <biblStruct>
-               <monogr>
-                  <title>Francisci Tertii Bergomatis Sereniss. Ferdinandi archiducis Austriae ducis Burgundiae comitis Tirolis etc pictoris aulici ad Inuictiss Caesarem Maximilianum II Romanorum Imp. Semper Augustum. Austriacae gentis imaginum .. [microform] / Gaspar ab auibus Citadelensis incisor et formis.</title>
-                  <respStmt>
-                     <persName>Oselli, Gaspare, approximately 1536-approximately 1590.</persName>
-                     <resp>creator</resp>
-                  </respStmt>
-                  <textLang>Latin</textLang>
-                  <imprint>
-                     <publisher>Oeniponti : [s.n.]</publisher>
-                     <pubPlace>Austria</pubPlace>
-                     <date>1569</date>
-                  </imprint>
-                  <extent>5 pts. in 1</extent>
-                  <extent>2 microfiche : positive.</extent>
-               </monogr>
-               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/757f3c9d-5aa9-4062-9baa-afd2f6b50e97/manifest"/>
-            </biblStruct>
-         </sourceDesc>
-      </fileDesc>
-      <profileDesc>
-         <textClass>
-            <keywords>
-               <term>Habsburg, House of -- Portraits -- Early works to 1800.</term>
-               <term>Austria -- Kings and rulers -- Portraits -- Early works to 1800.</term>
-            </keywords>
-         </textClass>
-      </profileDesc>
-   </teiHeader>
-   <facsimile>
-      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/757f3c9d-5aa9-4062-9baa-afd2f6b50e97/manifest">
-         <desc>IIIF Manifest</desc>
-      </media>
-   </facsimile>
-</TEI>
+        
 </teiCorpus>

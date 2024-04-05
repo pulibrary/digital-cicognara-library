@@ -9,6 +9,7 @@
                <orgName>Digital Cicognara Library</orgName>
                <ref>https://cicognara.org</ref>
             </publisher>
+            <sectionNumber>1.7</sectionNumber>
             <idno type="cico">769</idno>
         </publicationStmt>
         <sourceDesc>
@@ -19,61 +20,5 @@
         </sourceDesc>
     </fileDesc>
 </teiHeader>
-        <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:local="http://library.princeton.edu" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>Alcune idee sulla risonanza del teatro [microform] / dell'architetto cav. Antonio Niccolini.</title>
-            <respStmt>
-               <orgName>Princeton University Library</orgName>
-               <resp>contributor</resp>
-            </respStmt>
-         </titleStmt>
-         <publicationStmt>
-            <publisher>
-               <orgName>Digital Cicognara Library</orgName>
-               <ref>https://cicognara.org/</ref>
-            </publisher>
-            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
-            <idno type="URI">http://portal.getty.edu/books/princeton_9985455743506421</idno>
-            <idno type="URI">http://portal.getty.edu/api/pf0m9v</idno>
-            <idno type="cico">769</idno>
-            <idno type="dcl">7d4</idno>
-         </publicationStmt>
-         <sourceDesc>
-            <biblStruct>
-               <monogr>
-                  <title>Alcune idee sulla risonanza del teatro [microform] / dell'architetto cav. Antonio Niccolini.</title>
-                  <respStmt>
-                     <persName>Niccolini, Antonio, 1772-1850.</persName>
-                     <resp>creator</resp>
-                  </respStmt>
-                  <textLang>Italian</textLang>
-                  <imprint>
-                     <publisher>Napoli : Dalla tipografia Masi</publisher>
-                     <date>1816</date>
-                     <date>1805</date>
-                  </imprint>
-                  <extent>27 p.</extent>
-                  <extent>1 microfiche : positive ; 11 x 15 cm.</extent>
-               </monogr>
-               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/fb7d309e-75c5-4495-a361-d3378b094d1d/manifest"/>
-            </biblStruct>
-         </sourceDesc>
-      </fileDesc>
-      <profileDesc>
-         <textClass>
-            <keywords>
-               <term>Architectural acoustics.</term>
-               <term>Theaters.</term>
-            </keywords>
-         </textClass>
-      </profileDesc>
-   </teiHeader>
-   <facsimile>
-      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/fb7d309e-75c5-4495-a361-d3378b094d1d/manifest">
-         <desc>IIIF Manifest</desc>
-      </media>
-   </facsimile>
-</TEI>
+        
 </teiCorpus>

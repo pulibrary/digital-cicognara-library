@@ -9,6 +9,7 @@
                <orgName>Digital Cicognara Library</orgName>
                <ref>https://cicognara.org</ref>
             </publisher>
+            <sectionNumber>2.10</sectionNumber>
             <idno type="cico">3646</idno>
         </publicationStmt>
         <sourceDesc>
@@ -18,65 +19,5 @@ Dante</title>, <pubPlace>Roma</pubPlace> <date>1814</date>, in 12.
         </sourceDesc>
     </fileDesc>
 </teiHeader>
-        <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:local="http://library.princeton.edu" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>Osservazioni intorno alla questione promossa dal Vannozzi, dal Mazzocchi, dal Bottari, especialmente dal p. abate D. Giuseppe Giustino di Costanzo [microform] : sopra l'originalità della Divina commedia di Dante; appoggiata alla storia della Visione del monaco casinese Alberico / ora per la prima volta pubblicata e tradotta dal latino in italiano da Francesco Cancellieri.</title>
-            <respStmt>
-               <orgName>Princeton University Library</orgName>
-               <resp>contributor</resp>
-            </respStmt>
-         </titleStmt>
-         <publicationStmt>
-            <publisher>
-               <orgName>Digital Cicognara Library</orgName>
-               <ref>https://cicognara.org/</ref>
-            </publisher>
-            <authority>Albericus, monk of Monte Casino, 12th cent. Epistola de visione sua.</authority>
-            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
-            <authority>Leopoldo Cicognara Program (University of Illinois at Urbana-Champaign)</authority>
-            <idno type="URI">http://portal.getty.edu/books/princeton_9985454253506421</idno>
-            <idno type="URI">http://portal.getty.edu/api/qn2d9h</idno>
-            <idno type="cico">3646</idno>
-            <idno type="dcl">znj</idno>
-         </publicationStmt>
-         <sourceDesc>
-            <biblStruct>
-               <monogr>
-                  <title>Osservazioni intorno alla questione promossa dal Vannozzi, dal Mazzocchi, dal Bottari, especialmente dal p. abate D. Giuseppe Giustino di Costanzo [microform] : sopra l'originalità della Divina commedia di Dante; appoggiata alla storia della Visione del monaco casinese Alberico / ora per la prima volta pubblicata e tradotta dal latino in italiano da Francesco Cancellieri.</title>
-                  <respStmt>
-                     <persName>Cancellieri, Francesco, 1751-1826.</persName>
-                     <resp>creator</resp>
-                  </respStmt>
-                  <textLang>Italian</textLang>
-                  <imprint>
-                     <publisher>Roma, Presso F. Bourlie</publisher>
-                     <date>1814</date>
-                  </imprint>
-                  <extent>xii, 263 p., [1] folded leaf of plates</extent>
-                  <extent>5 microfiche : positive.</extent>
-               </monogr>
-               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/1bb59096-dcf9-4005-8624-9d512fdeb470/manifest"/>
-            </biblStruct>
-         </sourceDesc>
-      </fileDesc>
-      <profileDesc>
-         <textClass>
-            <keywords>
-               <term>Dante Alighieri, 1265-1321 -- Sources.</term>
-               <term>Bottari, Giovanni Gaetano, 1689-1775.</term>
-               <term>Di Costanzo, Giuseppe Giustino, 1738-1813.</term>
-               <term>Mazzocchi, Alessio Simmaco, 1684-1771.</term>
-               <term>Vannozzi, Bonifazio, 1551-1627.</term>
-            </keywords>
-         </textClass>
-      </profileDesc>
-   </teiHeader>
-   <facsimile>
-      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/1bb59096-dcf9-4005-8624-9d512fdeb470/manifest">
-         <desc>IIIF Manifest</desc>
-      </media>
-   </facsimile>
-</TEI>
+        
 </teiCorpus>

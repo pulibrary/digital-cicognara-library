@@ -9,6 +9,7 @@
                <orgName>Digital Cicognara Library</orgName>
                <ref>https://cicognara.org</ref>
             </publisher>
+            <sectionNumber>2.8</sectionNumber>
             <idno type="cico">3450</idno>
         </publicationStmt>
         <sourceDesc>
@@ -24,64 +25,5 @@ Sotto ciascuna tavola è incisa una stanza divisa in due cartelle.</note>
         </sourceDesc>
     </fileDesc>
 </teiHeader>
-        <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:local="http://library.princeton.edu" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>La favola di Psiche [microform] / disegnata da Raffaelle Sanzio da Urbino e intagliata a bulino in trentadue mezzi fogli reali da intagliatori antichi colla spiegazione in ottava rima sotto di ciascuna stampa.</title>
-            <respStmt>
-               <orgName>Princeton University Library</orgName>
-               <resp>contributor</resp>
-            </respStmt>
-         </titleStmt>
-         <publicationStmt>
-            <publisher>
-               <orgName>Digital Cicognara Library</orgName>
-               <ref>https://cicognara.org/</ref>
-            </publisher>
-            <authority>Agostino Veneziano, active 1509-1536.</authority>
-            <authority>Maestro del Dado, active 16th century.</authority>
-            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
-            <authority>Leopoldo Cicognara Program (University of Illinois at Urbana-Champaign)</authority>
-            <idno type="URI">http://portal.getty.edu/books/princeton_9985424263506421</idno>
-            <idno type="URI">http://portal.getty.edu/api/pf3p1x</idno>
-            <idno type="cico">3450</idno>
-            <idno type="dcl">tg4</idno>
-         </publicationStmt>
-         <sourceDesc>
-            <biblStruct>
-               <monogr>
-                  <title>La favola di Psiche [microform] / disegnata da Raffaelle Sanzio da Urbino e intagliata a bulino in trentadue mezzi fogli reali da intagliatori antichi colla spiegazione in ottava rima sotto di ciascuna stampa.</title>
-                  <textLang>Italian</textLang>
-                  <imprint>
-                     <publisher>[Rome? : s.n]</publisher>
-                     <pubPlace>ItalyRome</pubPlace>
-                     <pubPlace>Italy</pubPlace>
-                     <date>[177-?]</date>
-                     <date>1770</date>
-                  </imprint>
-                  <extent>32 leaves</extent>
-                  <extent>1 microfiche : positive.</extent>
-               </monogr>
-               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/745c17f7-e538-4de6-a46a-b47907179785/manifest"/>
-            </biblStruct>
-         </sourceDesc>
-      </fileDesc>
-      <profileDesc>
-         <textClass>
-            <keywords>
-               <term>Loggia di Psiche (Villa della Farnesina)</term>
-               <term>Cupid and Psyche (Tale) in art.</term>
-               <term>Engraving, Italian -- ItalyRome -- 16th century.</term>
-               <term>Engraving, Renaissance -- Italy -- Rome.</term>
-            </keywords>
-         </textClass>
-      </profileDesc>
-   </teiHeader>
-   <facsimile>
-      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/745c17f7-e538-4de6-a46a-b47907179785/manifest">
-         <desc>IIIF Manifest</desc>
-      </media>
-   </facsimile>
-</TEI>
+        
 </teiCorpus>

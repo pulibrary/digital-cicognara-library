@@ -9,6 +9,7 @@
                <orgName>Digital Cicognara Library</orgName>
                <ref>https://cicognara.org</ref>
             </publisher>
+            <sectionNumber>1.7</sectionNumber>
             <idno type="cico">774</idno>
         </publicationStmt>
         <sourceDesc>
@@ -25,62 +26,5 @@
         </sourceDesc>
     </fileDesc>
 </teiHeader>
-        <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:local="http://library.princeton.edu" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>Théatre de l'Hermitage de Sa Majesté l'Imperatrice de toutes les Russies [microform]</title>
-            <respStmt>
-               <orgName>Princeton University Library</orgName>
-               <resp>contributor</resp>
-            </respStmt>
-         </titleStmt>
-         <publicationStmt>
-            <publisher>
-               <orgName>Digital Cicognara Library</orgName>
-               <ref>https://cicognara.org/</ref>
-            </publisher>
-            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
-            <idno type="URI">http://portal.getty.edu/books/princeton_9985207303506421</idno>
-            <idno type="URI">http://portal.getty.edu/api/r07k0s</idno>
-            <idno type="cico">774</idno>
-            <idno type="dcl">738</idno>
-         </publicationStmt>
-         <sourceDesc>
-            <biblStruct>
-               <monogr>
-                  <title>Théatre de l'Hermitage de Sa Majesté l'Imperatrice de toutes les Russies [microform]</title>
-                  <respStmt>
-                     <persName>Quarenghi, Giacomo, 1744-1817.</persName>
-                     <resp>creator</resp>
-                  </respStmt>
-                  <textLang>French</textLang>
-                  <imprint>
-                     <publisher>St. Petersbourg : De la Imprimerie de l'Academie des Sciences</publisher>
-                     <pubPlace>Russia (Federation)</pubPlace>
-                     <date>1787</date>
-                  </imprint>
-                  <extent>[6] p., [7] leaves of plates</extent>
-                  <extent>1 microfiche : positive.</extent>
-               </monogr>
-               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/910bdf22-1184-49c7-91ec-0b8a64e95dac/manifest"/>
-            </biblStruct>
-         </sourceDesc>
-      </fileDesc>
-      <profileDesc>
-         <textClass>
-            <keywords>
-               <term>Gosudarstvennyĭ Ėrmitazh (Russia). Teatr</term>
-               <term>Gosudarstvennyĭ Ėrmitazh (Russia)</term>
-               <term>Theaters -- Russia (Federation) -- Saint Petersburg -- Designs and plans.</term>
-            </keywords>
-         </textClass>
-      </profileDesc>
-   </teiHeader>
-   <facsimile>
-      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/910bdf22-1184-49c7-91ec-0b8a64e95dac/manifest">
-         <desc>IIIF Manifest</desc>
-      </media>
-   </facsimile>
-</TEI>
+        
 </teiCorpus>
