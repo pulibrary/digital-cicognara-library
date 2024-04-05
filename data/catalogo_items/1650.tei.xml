@@ -22,5 +22,64 @@
         </sourceDesc>
     </fileDesc>
 </teiHeader>
+<<<<<<< HEAD
+        <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:local="http://library.princeton.edu" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Briefue histoire de l'institution des ordres religieux [microform] : avec les figures de leurs habits / gravées fur le cuiure par Odoart Fialetti.</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fialetti, Odoardo, 1573-1638.</authority>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985334313506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/bt0535</idno>
+            <idno type="cico">1650</idno>
+            <idno type="dcl">5s3</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Briefue histoire de l'institution des ordres religieux [microform] : avec les figures de leurs habits / gravées fur le cuiure par Odoart Fialetti.</title>
+                  <respStmt>
+                     <persName>Trichet du Fresne, Raphael, 1611-1661.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>French</textLang>
+                  <imprint>
+                     <publisher>A Paris : Adrien Menier</publisher>
+                     <date>1658</date>
+                  </imprint>
+                  <extent>45 p., 72 pages of plates</extent>
+                  <extent>3 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/005365d4-5667-4d29-837a-848c65f69dcf/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Monasticism and religious orders -- History.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/005365d4-5667-4d29-837a-848c65f69dcf/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+=======
         
+>>>>>>> main
 </teiCorpus>

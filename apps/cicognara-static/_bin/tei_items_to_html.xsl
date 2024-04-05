@@ -63,15 +63,18 @@
                     <xsl:call-template name="createSiteMastHead"/>
 
                     <main id="main">
-                        <h1>
-                            <xsl:apply-templates select="tei:teiHeader/tei:fileDesc/tei:sourceDesc/tei:bibl" />
-                        </h1>
+                        <div class="container">
+                        <section class="catalogo-item-header">
+                            <h1>
+                              <xsl:apply-templates select="tei:teiHeader/tei:fileDesc/tei:sourceDesc/tei:bibl" />
+                            </h1>
+                        </section>
                         <iframe allowfullscreen="true" src="{$viewpages}/{$ciconum}.html"/>
+                        <section id="metadata">
+                            <xsl:apply-templates select="tei:TEI/tei:teiHeader"/>
+                        </section>
+                        </div>
                     </main>
-                    <section id="side">
-                        <xsl:apply-templates select="tei:TEI/tei:teiHeader"/>
-                    </section>
-                    
                     <xsl:call-template name="createSiteFooter"/>
                 </body>
             </html>
