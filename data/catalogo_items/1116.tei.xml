@@ -9,6 +9,7 @@
                <orgName>Digital Cicognara Library</orgName>
                <ref>https://cicognara.org</ref>
             </publisher>
+            <sectionNumber>1.13</sectionNumber>
             <idno type="cico">1116</idno>
         </publicationStmt>
         <sourceDesc>
@@ -61,60 +62,5 @@
         </sourceDesc>
     </fileDesc>
 </teiHeader>
-        <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:local="http://library.princeton.edu" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>Die Geuerlicheiten vnd eins Teils der Geschichten des loblichen Streytparen vnd hochberümbten Helds vnd Ritters herr Tewrdannckhs [microform]. [microform].</title>
-            <respStmt>
-               <orgName>Princeton University Library</orgName>
-               <resp>contributor</resp>
-            </respStmt>
-         </titleStmt>
-         <publicationStmt>
-            <publisher>
-               <orgName>Digital Cicognara Library</orgName>
-               <ref>https://cicognara.org/</ref>
-            </publisher>
-            <authority>Pfinzing, Melchior, 1481-1535.</authority>
-            <authority>Schaeufelein, Hans Leonhard, d. 1540?</authority>
-            <authority>Treitz-Saurwein, Marx, -1527.</authority>
-            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
-            <authority>Leopoldo Cicognara Program (University of Illinois at Urbana-Champaign)</authority>
-            <idno type="URI">http://portal.getty.edu/books/princeton_9985246643506421</idno>
-            <idno type="URI">http://portal.getty.edu/api/q57r83</idno>
-            <idno type="cico">1116</idno>
-            <idno type="dcl">xv6</idno>
-         </publicationStmt>
-         <sourceDesc>
-            <biblStruct>
-               <monogr>
-                  <title>Die Geuerlicheiten vnd eins Teils der Geschichten des loblichen Streytparen vnd hochberümbten Helds vnd Ritters herr Tewrdannckhs [microform]. [microform].</title>
-                  <textLang>German</textLang>
-                  <imprint>
-                     <publisher>[Gedruckt in der kayserlichen Stat Nürnberg : durch den eltern Hannsen Schönsperger Burger zu Augspurg]</publisher>
-                     <date>[1517]]</date>
-                     <date>1517</date>
-                  </imprint>
-                  <extent>[580] p.</extent>
-                  <extent>9 microfiche : positive.</extent>
-               </monogr>
-               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/26d43411-ba8c-4627-9c43-d402a86350eb/manifest"/>
-            </biblStruct>
-         </sourceDesc>
-      </fileDesc>
-      <profileDesc>
-         <textClass>
-            <keywords>
-               <term>Maximilian I, Holy Roman Emperor, 1459-1519.</term>
-            </keywords>
-         </textClass>
-      </profileDesc>
-   </teiHeader>
-   <facsimile>
-      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/26d43411-ba8c-4627-9c43-d402a86350eb/manifest">
-         <desc>IIIF Manifest</desc>
-      </media>
-   </facsimile>
-</TEI>
+        
 </teiCorpus>

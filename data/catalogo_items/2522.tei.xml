@@ -9,6 +9,7 @@
                <orgName>Digital Cicognara Library</orgName>
                <ref>https://cicognara.org</ref>
             </publisher>
+            <sectionNumber>2.2</sectionNumber>
             <idno type="cico">2522</idno>
         </publicationStmt>
         <sourceDesc>
@@ -19,116 +20,5 @@ note nel 1676 al 78 in due volumetti in 8.</note>
         </sourceDesc>
     </fileDesc>
 </teiHeader>
-        <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:local="http://library.princeton.edu" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>Curiositez inouyes sur la sculpture talismanique des Persans, horoscope des patriarches, et lecture des estoilles [microform] / par M. I. Gaffarel.</title>
-            <respStmt>
-               <orgName>Princeton University Library</orgName>
-               <resp>contributor</resp>
-            </respStmt>
-         </titleStmt>
-         <publicationStmt>
-            <publisher>
-               <orgName>Digital Cicognara Library</orgName>
-               <ref>https://cicognara.org/</ref>
-            </publisher>
-            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
-            <idno type="URI">http://portal.getty.edu/books/princeton_9985405133506421</idno>
-            <idno type="URI">http://portal.getty.edu/api/k9334t</idno>
-            <idno type="cico">2522</idno>
-            <idno type="dcl">j5h</idno>
-         </publicationStmt>
-         <sourceDesc>
-            <biblStruct>
-               <monogr>
-                  <title>Curiositez inouyes sur la sculpture talismanique des Persans, horoscope des patriarches, et lecture des estoilles [microform] / par M. I. Gaffarel.</title>
-                  <respStmt>
-                     <persName>Gaffarel, Jacques, 1601-1681.</persName>
-                     <resp>creator</resp>
-                  </respStmt>
-                  <textLang>French</textLang>
-                  <imprint>
-                     <publisher>A Paris : Chez Hervé du Mesnil</publisher>
-                     <date>1629</date>
-                  </imprint>
-                  <extent>644 p.</extent>
-                  <extent>11 microfiche : positive.</extent>
-               </monogr>
-               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/254b4106-ff72-48fa-8311-c7e656dd3bd4/manifest"/>
-            </biblStruct>
-         </sourceDesc>
-      </fileDesc>
-      <profileDesc>
-         <textClass>
-            <keywords>
-               <term>Astrology -- Early works to 1800.</term>
-               <term>Talismans -- Early works to 1800.</term>
-            </keywords>
-         </textClass>
-      </profileDesc>
-   </teiHeader>
-   <facsimile>
-      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/254b4106-ff72-48fa-8311-c7e656dd3bd4/manifest">
-         <desc>IIIF Manifest</desc>
-      </media>
-   </facsimile>
-</TEI>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:local="http://library.princeton.edu" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>Curiositez inouyes sur la sculpture talismanique des Persans, horoscope des patriarches, et lecture des estoilles [microform] / par M. I. Gaffarel.</title>
-            <respStmt>
-               <orgName>Princeton University Library</orgName>
-               <resp>contributor</resp>
-            </respStmt>
-         </titleStmt>
-         <publicationStmt>
-            <publisher>
-               <orgName>Digital Cicognara Library</orgName>
-               <ref>https://cicognara.org/</ref>
-            </publisher>
-            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
-            <idno type="URI">http://portal.getty.edu/books/princeton_9985405153506421</idno>
-            <idno type="URI">http://portal.getty.edu/api/ts081c</idno>
-            <idno type="cico">2522</idno>
-            <idno type="dcl">qzc</idno>
-         </publicationStmt>
-         <sourceDesc>
-            <biblStruct>
-               <monogr>
-                  <title>Curiositez inouyes sur la sculpture talismanique des Persans, horoscope des patriarches, et lecture des estoilles [microform] / par M. I. Gaffarel.</title>
-                  <respStmt>
-                     <persName>Gaffarel, Jacques, 1601-1681.</persName>
-                     <resp>creator</resp>
-                  </respStmt>
-                  <textLang>French</textLang>
-                  <imprint>
-                     <publisher>[S.l. : s.n.]</publisher>
-                     <date>1650</date>
-                  </imprint>
-                  <extent>644 p.</extent>
-                  <extent>5 microfiche : positive.</extent>
-               </monogr>
-               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/9bbb5685-eff3-4cd8-9011-7e4bc7d0bdda/manifest"/>
-            </biblStruct>
-         </sourceDesc>
-      </fileDesc>
-      <profileDesc>
-         <textClass>
-            <keywords>
-               <term>Astrology -- Early works to 1800.</term>
-               <term>Talismans -- Early works to 1800.</term>
-            </keywords>
-         </textClass>
-      </profileDesc>
-   </teiHeader>
-   <facsimile>
-      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/9bbb5685-eff3-4cd8-9011-7e4bc7d0bdda/manifest">
-         <desc>IIIF Manifest</desc>
-      </media>
-   </facsimile>
-</TEI>
+        
 </teiCorpus>

@@ -9,6 +9,7 @@
                <orgName>Digital Cicognara Library</orgName>
                <ref>https://cicognara.org</ref>
             </publisher>
+            <sectionNumber>2.8</sectionNumber>
             <idno type="cico">3441</idno>
         </publicationStmt>
         <sourceDesc>
@@ -23,62 +24,5 @@ trovarono migliore speculazione nei modi facili e nei prezzi minori.</note>
         </sourceDesc>
     </fileDesc>
 </teiHeader>
-        <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:local="http://library.princeton.edu" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>Pitture del salone imperiale del palazzo di Firenze [microform] : si aggiungono le pitture del salone e cortile delle imperiali ville della Petraia e del Poggio a Caiano opere di vari celebri pittori fiorentini in tavole XXVI date ora la prima volta in luce.</title>
-            <respStmt>
-               <orgName>Princeton University Library</orgName>
-               <resp>contributor</resp>
-            </respStmt>
-         </titleStmt>
-         <publicationStmt>
-            <publisher>
-               <orgName>Digital Cicognara Library</orgName>
-               <ref>https://cicognara.org/</ref>
-            </publisher>
-            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
-            <authority>Leopoldo Cicognara Program (University of Illinois at Urbana-Champaign)</authority>
-            <idno type="URI">http://portal.getty.edu/books/princeton_9985436253506421</idno>
-            <idno type="URI">http://portal.getty.edu/api/f9023m</idno>
-            <idno type="cico">3441</idno>
-            <idno type="dcl">ds8</idno>
-         </publicationStmt>
-         <sourceDesc>
-            <biblStruct>
-               <monogr>
-                  <title>Pitture del salone imperiale del palazzo di Firenze [microform] : si aggiungono le pitture del salone e cortile delle imperiali ville della Petraia e del Poggio a Caiano opere di vari celebri pittori fiorentini in tavole XXVI date ora la prima volta in luce.</title>
-                  <textLang>Italian</textLang>
-                  <imprint>
-                     <publisher>In Firenze : Appresso Giusseppe Bouchard</publisher>
-                     <pubPlace>Italy</pubPlace>
-                     <date>Anno 1766</date>
-                     <date>1766</date>
-                  </imprint>
-                  <extent>[29] leaves</extent>
-                  <extent>3 microfiche : positive.</extent>
-               </monogr>
-               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/af0d1736-ae78-4652-98cb-563922029bea/manifest"/>
-            </biblStruct>
-         </sourceDesc>
-      </fileDesc>
-      <profileDesc>
-         <textClass>
-            <keywords>
-               <term>Villa della Petraia (Florence, Italy)</term>
-               <term>Villa medicea (Poggio a Caiano, Italy)</term>
-               <term>Painting -- Italy -- Florence -- Early works to 1800.</term>
-               <term>Painting, Italian -- Early works to 1800.</term>
-               <term>Palazzo Pitti.</term>
-            </keywords>
-         </textClass>
-      </profileDesc>
-   </teiHeader>
-   <facsimile>
-      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/af0d1736-ae78-4652-98cb-563922029bea/manifest">
-         <desc>IIIF Manifest</desc>
-      </media>
-   </facsimile>
-</TEI>
+        
 </teiCorpus>

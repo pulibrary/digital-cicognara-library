@@ -9,6 +9,7 @@
                <orgName>Digital Cicognara Library</orgName>
                <ref>https://cicognara.org</ref>
             </publisher>
+            <sectionNumber>2.17</sectionNumber>
             <idno type="cico">4665</idno>
         </publicationStmt>
         <sourceDesc>
@@ -17,63 +18,5 @@
         </sourceDesc>
     </fileDesc>
 </teiHeader>
-        <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:local="http://library.princeton.edu" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>De librariis et bibliopolis antiquorum disputabunt d. 19. martii, 1710 [microform] / ... m. Christianus Schoettgenius ... et Christianus Thalmannus ...</title>
-            <respStmt>
-               <orgName>Princeton University Library</orgName>
-               <resp>contributor</resp>
-            </respStmt>
-         </titleStmt>
-         <publicationStmt>
-            <publisher>
-               <orgName>Digital Cicognara Library</orgName>
-               <ref>https://cicognara.org/</ref>
-            </publisher>
-            <authority>Thalmann, Christian. De librariis et bibliopolis antiquorum disputabunt.</authority>
-            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
-            <authority>Leopoldo Cicognara Program (University of Illinois at Urbana-Champaign)</authority>
-            <idno type="URI">http://portal.getty.edu/books/princeton_9985454903506421</idno>
-            <idno type="URI">http://portal.getty.edu/api/hg478m</idno>
-            <idno type="cico">4665</idno>
-            <idno type="dcl">2sj</idno>
-         </publicationStmt>
-         <sourceDesc>
-            <biblStruct>
-               <monogr>
-                  <title>De librariis et bibliopolis antiquorum disputabunt d. 19. martii, 1710 [microform] / ... m. Christianus Schoettgenius ... et Christianus Thalmannus ...</title>
-                  <respStmt>
-                     <persName>Schöttgen, Christian, 1687-1751.</persName>
-                     <resp>creator</resp>
-                  </respStmt>
-                  <textLang>Latin</textLang>
-                  <imprint>
-                     <publisher>Lipsiae : In bibliopolio Frommanniano</publisher>
-                     <date>[1710]</date>
-                     <date>1710</date>
-                  </imprint>
-                  <extent>[ca. 22] p.</extent>
-                  <extent>1 microfiche : positive.</extent>
-               </monogr>
-               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/ea348706-fb5f-4f2f-90ae-035251e19081/manifest"/>
-            </biblStruct>
-         </sourceDesc>
-      </fileDesc>
-      <profileDesc>
-         <textClass>
-            <keywords>
-               <term>Booksellers and bookselling -- History -- Early works to 1800.</term>
-               <term>Libraries -- History -- To 400.</term>
-            </keywords>
-         </textClass>
-      </profileDesc>
-   </teiHeader>
-   <facsimile>
-      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/ea348706-fb5f-4f2f-90ae-035251e19081/manifest">
-         <desc>IIIF Manifest</desc>
-      </media>
-   </facsimile>
-</TEI>
+        
 </teiCorpus>

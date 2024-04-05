@@ -9,6 +9,7 @@
                <orgName>Digital Cicognara Library</orgName>
                <ref>https://cicognara.org</ref>
             </publisher>
+            <sectionNumber>1.25</sectionNumber>
             <idno type="cico">2297</idno>
         </publicationStmt>
         <sourceDesc>
@@ -20,57 +21,5 @@
         </sourceDesc>
     </fileDesc>
 </teiHeader>
-        <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:local="http://library.princeton.edu" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>Le giustissime lagrime della poesia e della pitura publicate ne sontuosissimi apparati funebri alzati dalla sempre memore &amp; immortal pietà de primi virtuosi della gran citta di Pauia [microform] : nella chiesa di S. Gioseppe l'anno 1680 adi 27. nouembre ne funerali del ... Luigi Scaramuccia, Perugino ...</title>
-            <respStmt>
-               <orgName>Princeton University Library</orgName>
-               <resp>contributor</resp>
-            </respStmt>
-         </titleStmt>
-         <publicationStmt>
-            <publisher>
-               <orgName>Digital Cicognara Library</orgName>
-               <ref>https://cicognara.org/</ref>
-            </publisher>
-            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
-            <idno type="URI">http://portal.getty.edu/books/princeton_9985304643506421</idno>
-            <idno type="URI">http://portal.getty.edu/api/ss5w3s</idno>
-            <idno type="cico">1475</idno>
-            <idno type="dcl">frx</idno>
-         </publicationStmt>
-         <sourceDesc>
-            <biblStruct>
-               <monogr>
-                  <title>Le giustissime lagrime della poesia e della pitura publicate ne sontuosissimi apparati funebri alzati dalla sempre memore &amp; immortal pietà de primi virtuosi della gran citta di Pauia [microform] : nella chiesa di S. Gioseppe l'anno 1680 adi 27. nouembre ne funerali del ... Luigi Scaramuccia, Perugino ...</title>
-                  <textLang>Italian</textLang>
-                  <imprint>
-                     <publisher>In Milano : Per Il Ramelsati</publisher>
-                     <pubPlace>Italy</pubPlace>
-                     <date>1681</date>
-                  </imprint>
-                  <extent>61 p.</extent>
-                  <extent>1 microfiche : positive.</extent>
-               </monogr>
-               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/fe2d478b-38c3-4b27-9c1f-1af72e499b02/manifest"/>
-            </biblStruct>
-         </sourceDesc>
-      </fileDesc>
-      <profileDesc>
-         <textClass>
-            <keywords>
-               <term>Scaramuccia, Luigi Pellegrino, 1616-1680 -- Death and burial.</term>
-               <term>Memorial rites and ceremonies -- Italy -- Pavia -- Early works to 1800.</term>
-            </keywords>
-         </textClass>
-      </profileDesc>
-   </teiHeader>
-   <facsimile>
-      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/fe2d478b-38c3-4b27-9c1f-1af72e499b02/manifest">
-         <desc>IIIF Manifest</desc>
-      </media>
-   </facsimile>
-</TEI>
+        
 </teiCorpus>

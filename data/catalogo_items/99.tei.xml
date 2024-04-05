@@ -9,6 +9,7 @@
                <orgName>Digital Cicognara Library</orgName>
                <ref>https://cicognara.org</ref>
             </publisher>
+            <sectionNumber>1.2</sectionNumber>
             <idno type="cico">99</idno>
         </publicationStmt>
         <sourceDesc>
@@ -23,62 +24,5 @@
         </sourceDesc>
     </fileDesc>
 </teiHeader>
-        <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:local="http://library.princeton.edu" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>Discorso sopra gl'antichi e varj monumenti loro per uso degl'alunni dell'elettoral elettoral'Accademia delle bell'arti di Dresda [microform] / di G. Casanova ..</title>
-            <respStmt>
-               <orgName>Princeton University Library</orgName>
-               <resp>contributor</resp>
-            </respStmt>
-         </titleStmt>
-         <publicationStmt>
-            <publisher>
-               <orgName>Digital Cicognara Library</orgName>
-               <ref>https://cicognara.org/</ref>
-            </publisher>
-            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
-            <idno type="URI">http://portal.getty.edu/books/princeton_9984940843506421</idno>
-            <idno type="URI">http://portal.getty.edu/api/fm9q95</idno>
-            <idno type="cico">99</idno>
-            <idno type="dcl">v4x</idno>
-         </publicationStmt>
-         <sourceDesc>
-            <biblStruct>
-               <monogr>
-                  <title>Discorso sopra gl'antichi e varj monumenti loro per uso degl'alunni dell'elettoral elettoral'Accademia delle bell'arti di Dresda [microform] / di G. Casanova ..</title>
-                  <respStmt>
-                     <persName>Casanova, Giovanni Battista, 1728 or 1730-1795.</persName>
-                     <resp>creator</resp>
-                  </respStmt>
-                  <textLang>Italian</textLang>
-                  <imprint>
-                     <publisher>In Lipsia : Alle spese della Vedova Dyck</publisher>
-                     <pubPlace>Germany</pubPlace>
-                     <date>1770</date>
-                  </imprint>
-                  <extent>LXX p.</extent>
-                  <extent>2 microfiche : positive.</extent>
-               </monogr>
-               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/8e1a863f-f7b6-48e5-bfda-4cff9d0ac6dc/manifest"/>
-            </biblStruct>
-         </sourceDesc>
-      </fileDesc>
-      <profileDesc>
-         <textClass>
-            <keywords>
-               <term>Staatliche Kunstsammlungen Dresden. Skulpturensammlung</term>
-               <term>Classical antiquities.</term>
-               <term>Sculpture, Classical -- Germany -- Dresden.</term>
-            </keywords>
-         </textClass>
-      </profileDesc>
-   </teiHeader>
-   <facsimile>
-      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/8e1a863f-f7b6-48e5-bfda-4cff9d0ac6dc/manifest">
-         <desc>IIIF Manifest</desc>
-      </media>
-   </facsimile>
-</TEI>
+        
 </teiCorpus>

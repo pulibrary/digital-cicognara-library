@@ -9,6 +9,7 @@
                <orgName>Digital Cicognara Library</orgName>
                <ref>https://cicognara.org</ref>
             </publisher>
+            <sectionNumber>1.6</sectionNumber>
             <idno type="cico">714</idno>
         </publicationStmt>
         <sourceDesc>
@@ -25,60 +26,5 @@
         </sourceDesc>
     </fileDesc>
 </teiHeader>
-        <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:local="http://library.princeton.edu" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>In M. Vitruuium De architectura annotationes Guilielmi Philandri [microform] / com pluribus, iisq[ue] nouis, et non minus utilibus quàm necessariis figuris exornatae ; cum indicibus Graeco &amp; Latino locupletissimis.</title>
-            <respStmt>
-               <orgName>Princeton University Library</orgName>
-               <resp>contributor</resp>
-            </respStmt>
-         </titleStmt>
-         <publicationStmt>
-            <publisher>
-               <orgName>Digital Cicognara Library</orgName>
-               <ref>https://cicognara.org/</ref>
-            </publisher>
-            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
-            <idno type="URI">http://portal.getty.edu/books/princeton_9985178253506421</idno>
-            <idno type="URI">http://portal.getty.edu/api/f2758k</idno>
-            <idno type="cico">714</idno>
-            <idno type="dcl">kvn</idno>
-         </publicationStmt>
-         <sourceDesc>
-            <biblStruct>
-               <monogr>
-                  <title>In M. Vitruuium De architectura annotationes Guilielmi Philandri [microform] / com pluribus, iisq[ue] nouis, et non minus utilibus quàm necessariis figuris exornatae ; cum indicibus Graeco &amp; Latino locupletissimis.</title>
-                  <respStmt>
-                     <persName>Philandrier, Guillaume, 1505-1565.</persName>
-                     <resp>creator</resp>
-                  </respStmt>
-                  <textLang>Italian</textLang>
-                  <imprint>
-                     <publisher>Venetiis : Ex Officina Stellae</publisher>
-                     <date>1557</date>
-                  </imprint>
-                  <extent>369, [39] p.</extent>
-                  <extent>7 microfiche : positive.</extent>
-               </monogr>
-               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/7c464909-c751-4865-a578-09b679e7a767/manifest"/>
-            </biblStruct>
-         </sourceDesc>
-      </fileDesc>
-      <profileDesc>
-         <textClass>
-            <keywords>
-               <term>Vitruvius Pollio. De architectura.</term>
-               <term>Architecture -- Early works to 1800.</term>
-            </keywords>
-         </textClass>
-      </profileDesc>
-   </teiHeader>
-   <facsimile>
-      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/7c464909-c751-4865-a578-09b679e7a767/manifest">
-         <desc>IIIF Manifest</desc>
-      </media>
-   </facsimile>
-</TEI>
+        
 </teiCorpus>

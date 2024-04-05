@@ -9,6 +9,7 @@
                <orgName>Digital Cicognara Library</orgName>
                <ref>https://cicognara.org</ref>
             </publisher>
+            <sectionNumber>1.6</sectionNumber>
             <idno type="cico">432</idno>
         </publicationStmt>
         <sourceDesc>
@@ -27,66 +28,5 @@
         </sourceDesc>
     </fileDesc>
 </teiHeader>
-        <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:local="http://library.princeton.edu" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>Direzioni à giovani studenti nel disegno dell'architettura civile, nell'Accademia Clementina dell'Instituto delle scienze [microform] / unite da Ferdinando Galli Bibiena ...</title>
-            <respStmt>
-               <orgName>Princeton University Library</orgName>
-               <resp>contributor</resp>
-            </respStmt>
-         </titleStmt>
-         <publicationStmt>
-            <publisher>
-               <orgName>Digital Cicognara Library</orgName>
-               <ref>https://cicognara.org/</ref>
-            </publisher>
-            <authority>Galli Bibiena, Ferdinando, 1657-1743. Architettura civile.</authority>
-            <authority>Accademia clementina.</authority>
-            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
-            <idno type="URI">http://portal.getty.edu/books/princeton_9985295343506421</idno>
-            <idno type="URI">http://portal.getty.edu/api/fq8c4d</idno>
-            <idno type="cico">432</idno>
-            <idno type="dcl">6s1</idno>
-         </publicationStmt>
-         <sourceDesc>
-            <biblStruct>
-               <monogr>
-                  <title>Direzioni à giovani studenti nel disegno dell'architettura civile, nell'Accademia Clementina dell'Instituto delle scienze [microform] / unite da Ferdinando Galli Bibiena ...</title>
-                  <respStmt>
-                     <persName>Bibiena, Ferdinando Galli, 1657-1743.</persName>
-                     <resp>creator</resp>
-                  </respStmt>
-                  <textLang>Italian</textLang>
-                  <imprint>
-                     <publisher>In Bologna : Nella stamperia di Lelio dalla Volpe</publisher>
-                     <date>1731-1732</date>
-                     <date>1731</date>
-                  </imprint>
-                  <extent>2 v.</extent>
-                  <extent>10 microfiche : positive.</extent>
-               </monogr>
-               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/ac382657-1eee-4600-8197-1055694cd130/manifest"/>
-            </biblStruct>
-         </sourceDesc>
-      </fileDesc>
-      <profileDesc>
-         <textClass>
-            <keywords>
-               <term>Architectural drawing -- Early works to 1800.</term>
-               <term>Architecture -- Early works to 1800.</term>
-               <term>Architecture -- Orders -- Early works to 1800.</term>
-               <term>Geometry -- Early works to 1800.</term>
-               <term>Perspective -- Early works to 1800.</term>
-            </keywords>
-         </textClass>
-      </profileDesc>
-   </teiHeader>
-   <facsimile>
-      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/ac382657-1eee-4600-8197-1055694cd130/manifest">
-         <desc>IIIF Manifest</desc>
-      </media>
-   </facsimile>
-</TEI>
+        
 </teiCorpus>

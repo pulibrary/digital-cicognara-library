@@ -9,6 +9,7 @@
                <orgName>Digital Cicognara Library</orgName>
                <ref>https://cicognara.org</ref>
             </publisher>
+            <sectionNumber>1.17</sectionNumber>
             <idno type="cico">1325</idno>
         </publicationStmt>
         <sourceDesc>
@@ -18,114 +19,5 @@
         </sourceDesc>
     </fileDesc>
 </teiHeader>
-        <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:local="http://library.princeton.edu" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>Dissertazione sopra l'arte della pittura letta nell'Accademia Pesarese : l'anno 1753 / dal canonico Gio: Andrea Lazzarini.</title>
-            <respStmt>
-               <orgName>National Gallery of Art Library</orgName>
-               <resp>contributor</resp>
-            </respStmt>
-         </titleStmt>
-         <publicationStmt>
-            <publisher>
-               <orgName>Digital Cicognara Library</orgName>
-               <ref>https://cicognara.org/</ref>
-            </publisher>
-            <idno type="URI">http://portal.getty.edu/books/nga_991122483504896</idno>
-            <idno type="URI">http://portal.getty.edu/api/cm3973</idno>
-            <idno>(OCoLC)77821890</idno>
-            <idno type="cico">1325</idno>
-            <idno type="dcl">7cp</idno>
-         </publicationStmt>
-         <sourceDesc>
-            <biblStruct>
-               <monogr>
-                  <title>Dissertazione sopra l'arte della pittura letta nell'Accademia Pesarese : l'anno 1753 / dal canonico Gio: Andrea Lazzarini.</title>
-                  <respStmt>
-                     <persName>Lazzarini, Giovanni Andrea, 1710-1801.</persName>
-                     <resp>creator</resp>
-                  </respStmt>
-                  <textLang>Italian</textLang>
-                  <imprint>
-                     <publisher>Vicenza : Turra</publisher>
-                     <date>1782</date>
-                  </imprint>
-                  <extent>61 p.</extent>
-               </monogr>
-               <relatedItem type="manifest" target="https://libraryimage.nga.gov/manifest/mms/991122483504896.json"/>
-            </biblStruct>
-         </sourceDesc>
-      </fileDesc>
-      <profileDesc>
-         <textClass>
-            <keywords>
-               <term>Painting -- Early works to 1800.</term>
-            </keywords>
-         </textClass>
-      </profileDesc>
-   </teiHeader>
-   <facsimile>
-      <media mimeType="application/json" url="https://libraryimage.nga.gov/manifest/mms/991122483504896.json">
-         <desc>IIIF Manifest</desc>
-      </media>
-   </facsimile>
-</TEI>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:local="http://library.princeton.edu" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>Dissertazione sopra l'arte della pittura letta nell'Accademia Pesarese l'anno 1753 [microform] / dal canonico Gio: Andrea Lazzarini.</title>
-            <respStmt>
-               <orgName>Princeton University Library</orgName>
-               <resp>contributor</resp>
-            </respStmt>
-         </titleStmt>
-         <publicationStmt>
-            <publisher>
-               <orgName>Digital Cicognara Library</orgName>
-               <ref>https://cicognara.org/</ref>
-            </publisher>
-            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
-            <authority>Leopoldo Cicognara Program (University of Illinois at Urbana-Champaign)</authority>
-            <idno type="URI">http://portal.getty.edu/books/princeton_9985449113506421</idno>
-            <idno type="URI">http://portal.getty.edu/api/vf5f31</idno>
-            <idno type="cico">1325</idno>
-            <idno type="dcl">7cp</idno>
-         </publicationStmt>
-         <sourceDesc>
-            <biblStruct>
-               <monogr>
-                  <title>Dissertazione sopra l'arte della pittura letta nell'Accademia Pesarese l'anno 1753 [microform] / dal canonico Gio: Andrea Lazzarini.</title>
-                  <respStmt>
-                     <persName>Lazzarini, Giovanni Andrea, 1710-1801.</persName>
-                     <resp>creator</resp>
-                  </respStmt>
-                  <textLang>Italian</textLang>
-                  <imprint>
-                     <publisher>In Vicenza : Nella stamperia Turra</publisher>
-                     <date>1782</date>
-                  </imprint>
-                  <extent>61 p.</extent>
-                  <extent>1 microfiche : positive.</extent>
-               </monogr>
-               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/7d3aff33-7001-41bf-b598-252207de1806/manifest"/>
-            </biblStruct>
-         </sourceDesc>
-      </fileDesc>
-      <profileDesc>
-         <textClass>
-            <keywords>
-               <term>Painting -- Early works to 1800.</term>
-            </keywords>
-         </textClass>
-      </profileDesc>
-   </teiHeader>
-   <facsimile>
-      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/7d3aff33-7001-41bf-b598-252207de1806/manifest">
-         <desc>IIIF Manifest</desc>
-      </media>
-   </facsimile>
-</TEI>
+        
 </teiCorpus>

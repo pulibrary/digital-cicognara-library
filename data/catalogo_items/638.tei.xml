@@ -9,6 +9,7 @@
                <orgName>Digital Cicognara Library</orgName>
                <ref>https://cicognara.org</ref>
             </publisher>
+            <sectionNumber>1.6</sectionNumber>
             <idno type="cico">638</idno>
         </publicationStmt>
         <sourceDesc>
@@ -24,60 +25,5 @@
         </sourceDesc>
     </fileDesc>
 </teiHeader>
-        <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:local="http://library.princeton.edu" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>Traité de la coupe des pierres, ou, Méthode facile et abrégée, pour se perfectionner en cette science [microform] / par J.B. De La Rue ...</title>
-            <respStmt>
-               <orgName>Princeton University Library</orgName>
-               <resp>contributor</resp>
-            </respStmt>
-         </titleStmt>
-         <publicationStmt>
-            <publisher>
-               <orgName>Digital Cicognara Library</orgName>
-               <ref>https://cicognara.org/</ref>
-            </publisher>
-            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
-            <idno type="URI">http://portal.getty.edu/books/princeton_9985151023506421</idno>
-            <idno type="URI">http://portal.getty.edu/api/b80h98</idno>
-            <idno type="cico">638</idno>
-            <idno type="dcl">6s0</idno>
-         </publicationStmt>
-         <sourceDesc>
-            <biblStruct>
-               <monogr>
-                  <title>Traité de la coupe des pierres, ou, Méthode facile et abrégée, pour se perfectionner en cette science [microform] / par J.B. De La Rue ...</title>
-                  <respStmt>
-                     <persName>La Rue, Jean Baptiste de.</persName>
-                     <resp>creator</resp>
-                  </respStmt>
-                  <textLang>French</textLang>
-                  <imprint>
-                     <publisher>A Paris : Chez Charles-Antoine Jombert pere</publisher>
-                     <date>1764</date>
-                  </imprint>
-                  <extent>xiv, 183 p.</extent>
-                  <extent>17 microfiche : positive.</extent>
-               </monogr>
-               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/d4cbc1bf-8e1d-4732-a6dd-2bdbbd12757f/manifest"/>
-            </biblStruct>
-         </sourceDesc>
-      </fileDesc>
-      <profileDesc>
-         <textClass>
-            <keywords>
-               <term>Architecture -- Details -- Early works to 1800.</term>
-               <term>Stone-cutting.</term>
-            </keywords>
-         </textClass>
-      </profileDesc>
-   </teiHeader>
-   <facsimile>
-      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/d4cbc1bf-8e1d-4732-a6dd-2bdbbd12757f/manifest">
-         <desc>IIIF Manifest</desc>
-      </media>
-   </facsimile>
-</TEI>
+        
 </teiCorpus>

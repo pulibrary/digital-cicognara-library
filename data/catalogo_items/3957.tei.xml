@@ -9,6 +9,7 @@
                <orgName>Digital Cicognara Library</orgName>
                <ref>https://cicognara.org</ref>
             </publisher>
+            <sectionNumber>2.11</sectionNumber>
             <idno type="cico">3957</idno>
         </publicationStmt>
         <sourceDesc>
@@ -18,116 +19,5 @@
         </sourceDesc>
     </fileDesc>
 </teiHeader>
-        <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:local="http://library.princeton.edu" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>Ragionamento sopra il Cathaio; luogo dello ill. S. Pio Enea Obizzi.</title>
-            <respStmt>
-               <orgName>Princeton University Library</orgName>
-               <resp>contributor</resp>
-            </respStmt>
-         </titleStmt>
-         <publicationStmt>
-            <publisher>
-               <orgName>Digital Cicognara Library</orgName>
-               <ref>https://cicognara.org/</ref>
-            </publisher>
-            <idno type="URI">http://portal.getty.edu/books/princeton_9920739903506421</idno>
-            <idno type="URI">http://portal.getty.edu/api/f8795g</idno>
-            <idno>(OCoLC)1008196573</idno>
-            <idno type="cico">3957</idno>
-            <idno type="dcl">bcf</idno>
-         </publicationStmt>
-         <sourceDesc>
-            <biblStruct>
-               <monogr>
-                  <title>Ragionamento sopra il Cathaio; luogo dello ill. S. Pio Enea Obizzi.</title>
-                  <respStmt>
-                     <persName>Betussi, Giuseppe, active 16th century.</persName>
-                     <resp>creator</resp>
-                  </respStmt>
-                  <textLang>Italian</textLang>
-                  <imprint>
-                     <publisher>Padova</publisher>
-                     <pubPlace>Italy</pubPlace>
-                     <date>1573</date>
-                  </imprint>
-                  <extent>[1 v.]</extent>
-               </monogr>
-               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/aae09729-7fbe-4d4e-ac5c-eddf544dfc67/manifest"/>
-            </biblStruct>
-         </sourceDesc>
-      </fileDesc>
-      <profileDesc>
-         <textClass>
-            <keywords>
-               <term>Architecture, Domestic -- Italy -- early works to 1800.</term>
-               <term>N6921.B25</term>
-            </keywords>
-         </textClass>
-      </profileDesc>
-   </teiHeader>
-   <facsimile>
-      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/aae09729-7fbe-4d4e-ac5c-eddf544dfc67/manifest">
-         <desc>IIIF Manifest</desc>
-      </media>
-   </facsimile>
-</TEI>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:local="http://library.princeton.edu" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>Ragionamento di M. Giuseppe Betussi sopra il Cathaio, luogo dello ill. S. Pio Enea Obizzi [microform].</title>
-            <respStmt>
-               <orgName>Princeton University Library</orgName>
-               <resp>contributor</resp>
-            </respStmt>
-         </titleStmt>
-         <publicationStmt>
-            <publisher>
-               <orgName>Digital Cicognara Library</orgName>
-               <ref>https://cicognara.org/</ref>
-            </publisher>
-            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
-            <authority>Leopoldo Cicognara Program (University of Illinois at Urbana-Champaign)</authority>
-            <idno type="URI">http://portal.getty.edu/books/princeton_9985427213506421</idno>
-            <idno type="URI">http://portal.getty.edu/api/729p7q</idno>
-            <idno type="cico">3957</idno>
-            <idno type="dcl">kk2</idno>
-         </publicationStmt>
-         <sourceDesc>
-            <biblStruct>
-               <monogr>
-                  <title>Ragionamento di M. Giuseppe Betussi sopra il Cathaio, luogo dello ill. S. Pio Enea Obizzi [microform].</title>
-                  <respStmt>
-                     <persName>Betussi, Giuseppe, active 16th century.</persName>
-                     <resp>creator</resp>
-                  </respStmt>
-                  <textLang>Italian</textLang>
-                  <imprint>
-                     <publisher>In Padova : Per Lorenzo Pasquati</publisher>
-                     <date>1573</date>
-                  </imprint>
-                  <extent>clxxxiiii leaves</extent>
-                  <extent>6 microfiche : positive.</extent>
-               </monogr>
-               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/8c8d3fba-9eed-467e-8e88-2c902fedd19b/manifest"/>
-            </biblStruct>
-         </sourceDesc>
-      </fileDesc>
-      <profileDesc>
-         <textClass>
-            <keywords>
-               <term>Obizzi, Pio Enea degli, 1525-1588.</term>
-            </keywords>
-         </textClass>
-      </profileDesc>
-   </teiHeader>
-   <facsimile>
-      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/8c8d3fba-9eed-467e-8e88-2c902fedd19b/manifest">
-         <desc>IIIF Manifest</desc>
-      </media>
-   </facsimile>
-</TEI>
+        
 </teiCorpus>

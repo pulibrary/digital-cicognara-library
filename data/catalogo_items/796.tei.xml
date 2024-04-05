@@ -9,6 +9,7 @@
                <orgName>Digital Cicognara Library</orgName>
                <ref>https://cicognara.org</ref>
             </publisher>
+            <sectionNumber>1.8</sectionNumber>
             <idno type="cico">796</idno>
         </publicationStmt>
         <sourceDesc>
@@ -20,128 +21,5 @@
         </sourceDesc>
     </fileDesc>
 </teiHeader>
-        <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:local="http://library.princeton.edu" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>Disertacion sobre el teatro y circo de Sagunto [microform] : ahora villa de Murviedro / compuesta por Don Enrique Palos y Navarro ...</title>
-            <respStmt>
-               <orgName>Princeton University Library</orgName>
-               <resp>contributor</resp>
-            </respStmt>
-         </titleStmt>
-         <publicationStmt>
-            <publisher>
-               <orgName>Digital Cicognara Library</orgName>
-               <ref>https://cicognara.org/</ref>
-            </publisher>
-            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
-            <authority>Leopoldo Cicognara Program (University of Illinois at Urbana-Champaign)</authority>
-            <idno type="URI">http://portal.getty.edu/books/princeton_9985447023506421</idno>
-            <idno type="URI">http://portal.getty.edu/api/ns7q35</idno>
-            <idno type="cico">796</idno>
-            <idno type="dcl">3kr</idno>
-            <idno type="dcl">j8r</idno>
-         </publicationStmt>
-         <sourceDesc>
-            <biblStruct>
-               <monogr>
-                  <title>Disertacion sobre el teatro y circo de Sagunto [microform] : ahora villa de Murviedro / compuesta por Don Enrique Palos y Navarro ...</title>
-                  <respStmt>
-                     <persName>Palos y Navarro, Enrique, 1749-1814.</persName>
-                     <resp>creator</resp>
-                  </respStmt>
-                  <textLang>Spanish; Castilian</textLang>
-                  <imprint>
-                     <publisher>En Valencia : Y Oficina de Salvador Faulí</publisher>
-                     <pubPlace>Spain</pubPlace>
-                     <pubPlace>Sagunto (Spain)</pubPlace>
-                     <date>1793</date>
-                  </imprint>
-                  <extent>[8], 52 p., [1] folded leaf of plates</extent>
-                  <extent>1 microfiche : positive.</extent>
-               </monogr>
-               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/7bf0a821-3462-4ada-96e7-9e89909f4b70/manifest"/>
-            </biblStruct>
-         </sourceDesc>
-      </fileDesc>
-      <profileDesc>
-         <textClass>
-            <keywords>
-               <term>Roman Circus (Sagunto, Spain)</term>
-               <term>Roman Theater (Sagunto, Spain)</term>
-               <term>Architecture, Roman -- Spain -- Sagunto -- Early works to 1800.</term>
-               <term>Sagunto (Spain) -- Antiquities, Roman.</term>
-            </keywords>
-         </textClass>
-      </profileDesc>
-   </teiHeader>
-   <facsimile>
-      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/7bf0a821-3462-4ada-96e7-9e89909f4b70/manifest">
-         <desc>IIIF Manifest</desc>
-      </media>
-   </facsimile>
-</TEI>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:local="http://library.princeton.edu" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>Disertacion sobre el teatro y circo de Sagunto [microform] : ahora villa de Murviedro / compuesta por Don Enrique Palos y Navarro ...</title>
-            <respStmt>
-               <orgName>Princeton University Library</orgName>
-               <resp>contributor</resp>
-            </respStmt>
-         </titleStmt>
-         <publicationStmt>
-            <publisher>
-               <orgName>Digital Cicognara Library</orgName>
-               <ref>https://cicognara.org/</ref>
-            </publisher>
-            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
-            <authority>Leopoldo Cicognara Program (University of Illinois at Urbana-Champaign)</authority>
-            <idno type="URI">http://portal.getty.edu/books/princeton_9985447023506421</idno>
-            <idno type="URI">http://portal.getty.edu/api/ns7q35</idno>
-            <idno type="cico">796</idno>
-            <idno type="dcl">3kr</idno>
-            <idno type="dcl">j8r</idno>
-         </publicationStmt>
-         <sourceDesc>
-            <biblStruct>
-               <monogr>
-                  <title>Disertacion sobre el teatro y circo de Sagunto [microform] : ahora villa de Murviedro / compuesta por Don Enrique Palos y Navarro ...</title>
-                  <respStmt>
-                     <persName>Palos y Navarro, Enrique, 1749-1814.</persName>
-                     <resp>creator</resp>
-                  </respStmt>
-                  <textLang>Spanish; Castilian</textLang>
-                  <imprint>
-                     <publisher>En Valencia : Y Oficina de Salvador Faulí</publisher>
-                     <pubPlace>Spain</pubPlace>
-                     <pubPlace>Sagunto (Spain)</pubPlace>
-                     <date>1793</date>
-                  </imprint>
-                  <extent>[8], 52 p., [1] folded leaf of plates</extent>
-                  <extent>1 microfiche : positive.</extent>
-               </monogr>
-               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/7bf0a821-3462-4ada-96e7-9e89909f4b70/manifest"/>
-            </biblStruct>
-         </sourceDesc>
-      </fileDesc>
-      <profileDesc>
-         <textClass>
-            <keywords>
-               <term>Roman Circus (Sagunto, Spain)</term>
-               <term>Roman Theater (Sagunto, Spain)</term>
-               <term>Architecture, Roman -- Spain -- Sagunto -- Early works to 1800.</term>
-               <term>Sagunto (Spain) -- Antiquities, Roman.</term>
-            </keywords>
-         </textClass>
-      </profileDesc>
-   </teiHeader>
-   <facsimile>
-      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/7bf0a821-3462-4ada-96e7-9e89909f4b70/manifest">
-         <desc>IIIF Manifest</desc>
-      </media>
-   </facsimile>
-</TEI>
+        
 </teiCorpus>

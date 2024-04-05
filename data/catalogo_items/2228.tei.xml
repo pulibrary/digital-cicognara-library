@@ -9,6 +9,7 @@
                <orgName>Digital Cicognara Library</orgName>
                <ref>https://cicognara.org</ref>
             </publisher>
+            <sectionNumber>1.25</sectionNumber>
             <idno type="cico">2228</idno>
         </publicationStmt>
         <sourceDesc>
@@ -20,62 +21,5 @@
         </sourceDesc>
     </fileDesc>
 </teiHeader>
-        <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:local="http://library.princeton.edu" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>Diario degli anni MDCCXX e MDCCXXI [microform] / scritto di propria mano in Parigi da Rosalba Carriera, dipintrice famosa ; posseduto, illustrato e pubblicato dal signor dn Giovanni dr Vianelli ...</title>
-            <respStmt>
-               <orgName>Princeton University Library</orgName>
-               <resp>contributor</resp>
-            </respStmt>
-         </titleStmt>
-         <publicationStmt>
-            <publisher>
-               <orgName>Digital Cicognara Library</orgName>
-               <ref>https://cicognara.org/</ref>
-            </publisher>
-            <authority>Vianelli, Giovanni.</authority>
-            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
-            <idno type="URI">http://portal.getty.edu/books/princeton_9985343743506421</idno>
-            <idno type="URI">http://portal.getty.edu/api/x50c5h</idno>
-            <idno type="cico">2228</idno>
-            <idno type="dcl">jnz</idno>
-         </publicationStmt>
-         <sourceDesc>
-            <biblStruct>
-               <monogr>
-                  <title>Diario degli anni MDCCXX e MDCCXXI [microform] / scritto di propria mano in Parigi da Rosalba Carriera, dipintrice famosa ; posseduto, illustrato e pubblicato dal signor dn Giovanni dr Vianelli ...</title>
-                  <respStmt>
-                     <persName>Carriera, Rosalba, 1675-1757.</persName>
-                     <resp>creator</resp>
-                  </respStmt>
-                  <textLang>Italian</textLang>
-                  <imprint>
-                     <publisher>In Venezia : Nella stamperia Colete</publisher>
-                     <pubPlace>Paris (France)</pubPlace>
-                     <date>1793</date>
-                  </imprint>
-                  <extent>105 p.</extent>
-                  <extent>2 microfiche : positive.</extent>
-               </monogr>
-               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/4977d2e7-88f8-41c8-b229-a0e9ebdc0d61/manifest"/>
-            </biblStruct>
-         </sourceDesc>
-      </fileDesc>
-      <profileDesc>
-         <textClass>
-            <keywords>
-               <term>Carriera, Rosalba, 1675-1757.</term>
-               <term>Paris (France) -- Intellectual life -- 18th century.</term>
-            </keywords>
-         </textClass>
-      </profileDesc>
-   </teiHeader>
-   <facsimile>
-      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/4977d2e7-88f8-41c8-b229-a0e9ebdc0d61/manifest">
-         <desc>IIIF Manifest</desc>
-      </media>
-   </facsimile>
-</TEI>
+        
 </teiCorpus>

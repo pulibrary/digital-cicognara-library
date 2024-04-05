@@ -9,6 +9,7 @@
                <orgName>Digital Cicognara Library</orgName>
                <ref>https://cicognara.org</ref>
             </publisher>
+            <sectionNumber>1.23</sectionNumber>
             <idno type="cico">2031</idno>
         </publicationStmt>
         <sourceDesc>
@@ -22,60 +23,5 @@
         </sourceDesc>
     </fileDesc>
 </teiHeader>
-        <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:local="http://library.princeton.edu" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>Seminarii Romani Pallas Purpurata, sive, Eminentissimi S.R.E. Cardinales qui ad haec vsque tempora è seminario Romano prodiere imaginibus expressi epigrammatis [microform] / illustrati Hannibal Adamus Firmanus ...</title>
-            <respStmt>
-               <orgName>Princeton University Library</orgName>
-               <resp>contributor</resp>
-            </respStmt>
-         </titleStmt>
-         <publicationStmt>
-            <publisher>
-               <orgName>Digital Cicognara Library</orgName>
-               <ref>https://cicognara.org/</ref>
-            </publisher>
-            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
-            <idno type="URI">http://portal.getty.edu/books/princeton_9985342283506421</idno>
-            <idno type="URI">http://portal.getty.edu/api/1n1v84</idno>
-            <idno type="cico">2031</idno>
-            <idno type="dcl">3p8</idno>
-         </publicationStmt>
-         <sourceDesc>
-            <biblStruct>
-               <monogr>
-                  <title>Seminarii Romani Pallas Purpurata, sive, Eminentissimi S.R.E. Cardinales qui ad haec vsque tempora è seminario Romano prodiere imaginibus expressi epigrammatis [microform] / illustrati Hannibal Adamus Firmanus ...</title>
-                  <respStmt>
-                     <persName>Firmano, Hannibale, 1532-1595.</persName>
-                     <resp>creator</resp>
-                  </respStmt>
-                  <textLang>Latin</textLang>
-                  <imprint>
-                     <publisher>Romae : Typis Haeredum Corbelletti</publisher>
-                     <date>1659</date>
-                  </imprint>
-                  <extent>196 leaves</extent>
-                  <extent>4 microfiche : positive.</extent>
-               </monogr>
-               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/bcb90d0a-0d65-4791-9ea4-20e6ba5432cc/manifest"/>
-            </biblStruct>
-         </sourceDesc>
-      </fileDesc>
-      <profileDesc>
-         <textClass>
-            <keywords>
-               <term>Cardinals -- Early works to 1800.</term>
-               <term>Cardinals -- Portraits -- Early works to 1800.</term>
-            </keywords>
-         </textClass>
-      </profileDesc>
-   </teiHeader>
-   <facsimile>
-      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/bcb90d0a-0d65-4791-9ea4-20e6ba5432cc/manifest">
-         <desc>IIIF Manifest</desc>
-      </media>
-   </facsimile>
-</TEI>
+        
 </teiCorpus>

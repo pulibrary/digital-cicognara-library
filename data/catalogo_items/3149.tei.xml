@@ -9,6 +9,7 @@
                <orgName>Digital Cicognara Library</orgName>
                <ref>https://cicognara.org</ref>
             </publisher>
+            <sectionNumber>2.6</sectionNumber>
             <idno type="cico">3149</idno>
         </publicationStmt>
         <sourceDesc>
@@ -18,64 +19,5 @@ pubblicata nel <publisher>Giornale Letterario di Venezia</publisher>, in 4, M. 1
         </sourceDesc>
     </fileDesc>
 </teiHeader>
-        <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:local="http://library.princeton.edu" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>Sulle iscrizioni Cuneate di Persepoli [microform] : estratto di una dissertazione del signor Olao Gherardo Tychsen : inserito nel giornale di Venezia intitolato Memorie per servire alla storia letteraria e civile / dal sig. abate Simone Assemani ...</title>
-            <respStmt>
-               <orgName>Princeton University Library</orgName>
-               <resp>contributor</resp>
-            </respStmt>
-         </titleStmt>
-         <publicationStmt>
-            <publisher>
-               <orgName>Digital Cicognara Library</orgName>
-               <ref>https://cicognara.org/</ref>
-            </publisher>
-            <authority>Assemani, Simone, 1752-1821.</authority>
-            <authority>Tychsen, Oluf Gerhard, 1734-1815. De cuneatis inscriptionibus Persepolitanis lucubratio.</authority>
-            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
-            <authority>Leopoldo Cicognara Program (University of Illinois at Urbana-Champaign)</authority>
-            <idno type="URI">http://portal.getty.edu/books/princeton_9985458913506421</idno>
-            <idno type="URI">http://portal.getty.edu/api/w46f5w</idno>
-            <idno type="cico">3149</idno>
-            <idno type="dcl">w5d</idno>
-         </publicationStmt>
-         <sourceDesc>
-            <biblStruct>
-               <monogr>
-                  <title>Sulle iscrizioni Cuneate di Persepoli [microform] : estratto di una dissertazione del signor Olao Gherardo Tychsen : inserito nel giornale di Venezia intitolato Memorie per servire alla storia letteraria e civile / dal sig. abate Simone Assemani ...</title>
-                  <respStmt>
-                     <persName>Tychsen, Oluf Gerhard, 1734-1815.</persName>
-                     <resp>creator</resp>
-                  </respStmt>
-                  <textLang>Italian</textLang>
-                  <imprint>
-                     <publisher>[Venezia : s.n]</publisher>
-                     <date>[1799 or 1800?]</date>
-                     <date>1799</date>
-                  </imprint>
-                  <extent>16 p.</extent>
-                  <extent>microfiche : positive.</extent>
-               </monogr>
-               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/75e5ccfb-b1f3-4d18-a4ff-3a861abb2f4a/manifest"/>
-            </biblStruct>
-         </sourceDesc>
-      </fileDesc>
-      <profileDesc>
-         <textClass>
-            <keywords>
-               <term>Achaemenian inscriptions.</term>
-               <term>Old Persian inscriptions.</term>
-            </keywords>
-         </textClass>
-      </profileDesc>
-   </teiHeader>
-   <facsimile>
-      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/75e5ccfb-b1f3-4d18-a4ff-3a861abb2f4a/manifest">
-         <desc>IIIF Manifest</desc>
-      </media>
-   </facsimile>
-</TEI>
+        
 </teiCorpus>

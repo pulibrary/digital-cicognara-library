@@ -9,6 +9,7 @@
                <orgName>Digital Cicognara Library</orgName>
                <ref>https://cicognara.org</ref>
             </publisher>
+            <sectionNumber>2.5</sectionNumber>
             <idno type="cico">2919</idno>
         </publicationStmt>
         <sourceDesc>
@@ -32,63 +33,5 @@ d’alcuna illustrazione, fuorché un semplice elenco. Esemplare intonso di prim
         </sourceDesc>
     </fileDesc>
 </teiHeader>
-        <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:local="http://library.princeton.edu" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>Traité des pierres gravées [microform] / par P.J. Mariette.</title>
-            <respStmt>
-               <orgName>Princeton University Library</orgName>
-               <resp>contributor</resp>
-            </respStmt>
-         </titleStmt>
-         <publicationStmt>
-            <publisher>
-               <orgName>Digital Cicognara Library</orgName>
-               <ref>https://cicognara.org/</ref>
-            </publisher>
-            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
-            <authority>Leopoldo Cicognara Program (University of Illinois at Urbana-Champaign)</authority>
-            <idno type="URI">http://portal.getty.edu/books/princeton_9985408813506421</idno>
-            <idno type="URI">http://portal.getty.edu/api/dt8x6t</idno>
-            <idno type="cico">2919</idno>
-            <idno type="dcl">sg5</idno>
-         </publicationStmt>
-         <sourceDesc>
-            <biblStruct>
-               <monogr>
-                  <title>Traité des pierres gravées [microform] / par P.J. Mariette.</title>
-                  <respStmt>
-                     <persName>Mariette, Pierre-Jean, 1694-1774.</persName>
-                     <resp>creator</resp>
-                  </respStmt>
-                  <textLang>French</textLang>
-                  <imprint>
-                     <publisher>A Paris : De l'imprimerie de l'auteur</publisher>
-                     <pubPlace>France</pubPlace>
-                     <date>1750</date>
-                  </imprint>
-                  <extent>2 v.</extent>
-                  <extent>15 microfiche : positive.</extent>
-               </monogr>
-               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/1147b402-bb96-4c5c-a9bb-f14104bd7eae/manifest"/>
-            </biblStruct>
-         </sourceDesc>
-      </fileDesc>
-      <profileDesc>
-         <textClass>
-            <keywords>
-               <term>Louis XV, King of France, 1710-1774 -- Art collections.</term>
-               <term>Gems -- Early works to 1800.</term>
-               <term>Gems -- France -- Paris -- Early works to 1800.</term>
-            </keywords>
-         </textClass>
-      </profileDesc>
-   </teiHeader>
-   <facsimile>
-      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/1147b402-bb96-4c5c-a9bb-f14104bd7eae/manifest">
-         <desc>IIIF Manifest</desc>
-      </media>
-   </facsimile>
-</TEI>
+        
 </teiCorpus>

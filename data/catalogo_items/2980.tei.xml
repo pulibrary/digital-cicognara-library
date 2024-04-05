@@ -9,6 +9,7 @@
                <orgName>Digital Cicognara Library</orgName>
                <ref>https://cicognara.org</ref>
             </publisher>
+            <sectionNumber>2.5</sectionNumber>
             <idno type="cico">2980</idno>
         </publicationStmt>
         <sourceDesc>
@@ -21,62 +22,5 @@ monumenti dell’antichità.</note>
         </sourceDesc>
     </fileDesc>
 </teiHeader>
-        <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:local="http://library.princeton.edu" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>Recueil de pierres antiques gravées [microform] : concernant l'histoire, la mythologie, la fable, les cérémonies religieuses, les costumes des anciens peuples, et les plus fameux personnages de l'antiquité : avec leur description / par mr. l'abbé Ignace Marie Raponi.</title>
-            <respStmt>
-               <orgName>Princeton University Library</orgName>
-               <resp>contributor</resp>
-            </respStmt>
-         </titleStmt>
-         <publicationStmt>
-            <publisher>
-               <orgName>Digital Cicognara Library</orgName>
-               <ref>https://cicognara.org/</ref>
-            </publisher>
-            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
-            <authority>Leopoldo Cicognara Program (University of Illinois at Urbana-Champaign)</authority>
-            <idno type="URI">http://portal.getty.edu/books/princeton_9985409503506421</idno>
-            <idno type="URI">http://portal.getty.edu/api/3m5b9d</idno>
-            <idno type="cico">2980</idno>
-            <idno type="dcl">kc9</idno>
-         </publicationStmt>
-         <sourceDesc>
-            <biblStruct>
-               <monogr>
-                  <title>Recueil de pierres antiques gravées [microform] : concernant l'histoire, la mythologie, la fable, les cérémonies religieuses, les costumes des anciens peuples, et les plus fameux personnages de l'antiquité : avec leur description / par mr. l'abbé Ignace Marie Raponi.</title>
-                  <respStmt>
-                     <persName>Raponi, Ignazio Maria.</persName>
-                     <resp>creator</resp>
-                  </respStmt>
-                  <textLang>French</textLang>
-                  <imprint>
-                     <publisher>A Rome : Chez Bouchard et Gravier Libraires ... :</publisher>
-                     <date>1786</date>
-                  </imprint>
-                  <extent>X, 30 p., 88 leaves of plates</extent>
-                  <extent>10 microfiche : positive.</extent>
-               </monogr>
-               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/a754fbdf-bb19-4b08-8198-325f18379139/manifest"/>
-            </biblStruct>
-         </sourceDesc>
-      </fileDesc>
-      <profileDesc>
-         <textClass>
-            <keywords>
-               <term>Civilization, Ancient.</term>
-               <term>Gems -- Early works to 1800.</term>
-               <term>Gems, Ancient.</term>
-            </keywords>
-         </textClass>
-      </profileDesc>
-   </teiHeader>
-   <facsimile>
-      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/a754fbdf-bb19-4b08-8198-325f18379139/manifest">
-         <desc>IIIF Manifest</desc>
-      </media>
-   </facsimile>
-</TEI>
+        
 </teiCorpus>

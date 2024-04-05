@@ -9,6 +9,7 @@
                <orgName>Digital Cicognara Library</orgName>
                <ref>https://cicognara.org</ref>
             </publisher>
+            <sectionNumber>2.10</sectionNumber>
             <idno type="cico">3620</idno>
         </publicationStmt>
         <sourceDesc>
@@ -20,66 +21,5 @@ per <publisher>Michel Tramezzino</publisher>, <date>1542</date>, in 8.
         </sourceDesc>
     </fileDesc>
 </teiHeader>
-        <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:local="http://library.princeton.edu" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>Roma ristaurata, et Italia [microform] / illustrata di Biondo da Forli ; tradotte in buona lingua uolgare per Lucio Fauno.</title>
-            <respStmt>
-               <orgName>Princeton University Library</orgName>
-               <resp>contributor</resp>
-            </respStmt>
-         </titleStmt>
-         <publicationStmt>
-            <publisher>
-               <orgName>Digital Cicognara Library</orgName>
-               <ref>https://cicognara.org/</ref>
-            </publisher>
-            <authority>Fauno, Lucio, active 16th century.</authority>
-            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
-            <authority>Leopoldo Cicognara Program (University of Illinois at Urbana-Champaign)</authority>
-            <idno type="URI">http://portal.getty.edu/books/princeton_9985420173506421</idno>
-            <idno type="URI">http://portal.getty.edu/api/701h26</idno>
-            <idno type="cico">3620</idno>
-            <idno type="dcl">cp8</idno>
-         </publicationStmt>
-         <sourceDesc>
-            <biblStruct>
-               <monogr>
-                  <title>Roma ristaurata, et Italia [microform] / illustrata di Biondo da Forli ; tradotte in buona lingua uolgare per Lucio Fauno.</title>
-                  <respStmt>
-                     <persName>Biondo Flavio, 1392-1463.</persName>
-                     <resp>creator</resp>
-                  </respStmt>
-                  <textLang>Italian</textLang>
-                  <imprint>
-                     <publisher>In Venetia : Michele Tramezzino</publisher>
-                     <pubPlace>Italy</pubPlace>
-                     <pubPlace>Rome (Italy)</pubPlace>
-                     <date>1542</date>
-                  </imprint>
-                  <extent>[16], 341 [i.e. 241], [11] leaves</extent>
-                  <extent>8 microfiche : positive.</extent>
-               </monogr>
-               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/dd382aed-b58c-416e-a065-4ddd5c2cb27d/manifest"/>
-            </biblStruct>
-         </sourceDesc>
-      </fileDesc>
-      <profileDesc>
-         <textClass>
-            <keywords>
-               <term>Italy -- Description and travel -- Early works to 1800.</term>
-               <term>Italy -- History.</term>
-               <term>Rome (Italy) -- Antiquities -- Early works to 1800.</term>
-               <term>Rome (Italy) -- Description and travel -- Early works to 1800.</term>
-            </keywords>
-         </textClass>
-      </profileDesc>
-   </teiHeader>
-   <facsimile>
-      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/dd382aed-b58c-416e-a065-4ddd5c2cb27d/manifest">
-         <desc>IIIF Manifest</desc>
-      </media>
-   </facsimile>
-</TEI>
+        
 </teiCorpus>

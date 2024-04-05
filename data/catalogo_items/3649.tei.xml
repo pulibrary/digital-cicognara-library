@@ -9,6 +9,7 @@
                <orgName>Digital Cicognara Library</orgName>
                <ref>https://cicognara.org</ref>
             </publisher>
+            <sectionNumber>2.10</sectionNumber>
             <idno type="cico">3649</idno>
         </publicationStmt>
         <sourceDesc>
@@ -17,64 +18,5 @@
         </sourceDesc>
     </fileDesc>
 </teiHeader>
-        <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:local="http://library.princeton.edu" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>Descrizione delle carte cinesi che adornano il palazzo della Villa Valenti poi Sciarra presso Porta Pia [microform] / dedicata da Francesco Cancellieri ; agli ornatissimi sposi Perugini il Sig. Barone Fabrizio della Penna Crispolti e la Signora contessa Terdelinda Cesarei.</title>
-            <respStmt>
-               <orgName>Princeton University Library</orgName>
-               <resp>contributor</resp>
-            </respStmt>
-         </titleStmt>
-         <publicationStmt>
-            <publisher>
-               <orgName>Digital Cicognara Library</orgName>
-               <ref>https://cicognara.org/</ref>
-            </publisher>
-            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
-            <authority>Leopoldo Cicognara Program (University of Illinois at Urbana-Champaign)</authority>
-            <idno type="URI">http://portal.getty.edu/books/princeton_9985463303506421</idno>
-            <idno type="URI">http://portal.getty.edu/api/jz2c9t</idno>
-            <idno type="cico">3649</idno>
-            <idno type="dcl">5cn</idno>
-         </publicationStmt>
-         <sourceDesc>
-            <biblStruct>
-               <monogr>
-                  <title>Descrizione delle carte cinesi che adornano il palazzo della Villa Valenti poi Sciarra presso Porta Pia [microform] / dedicata da Francesco Cancellieri ; agli ornatissimi sposi Perugini il Sig. Barone Fabrizio della Penna Crispolti e la Signora contessa Terdelinda Cesarei.</title>
-                  <respStmt>
-                     <persName>Cancellieri, Francesco, 1751-1826.</persName>
-                     <resp>creator</resp>
-                  </respStmt>
-                  <textLang>Italian</textLang>
-                  <imprint>
-                     <publisher>Roma : Luigi Perego Salvioni</publisher>
-                     <pubPlace>China</pubPlace>
-                     <pubPlace>Painting, Chinese</pubPlace>
-                     <date>1813</date>
-                  </imprint>
-                  <extent>44 p.</extent>
-                  <extent>1 microfiches : positive.</extent>
-               </monogr>
-               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/6361ef4a-34e7-4f7e-aaaf-231a6688cd43/manifest"/>
-            </biblStruct>
-         </sourceDesc>
-      </fileDesc>
-      <profileDesc>
-         <textClass>
-            <keywords>
-               <term>Palazzo Sciarra (Rome, Italy)</term>
-               <term>China -- Maps.</term>
-               <term>Painting, Chinese -- Italy -- Rome.</term>
-            </keywords>
-         </textClass>
-      </profileDesc>
-   </teiHeader>
-   <facsimile>
-      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/6361ef4a-34e7-4f7e-aaaf-231a6688cd43/manifest">
-         <desc>IIIF Manifest</desc>
-      </media>
-   </facsimile>
-</TEI>
+        
 </teiCorpus>

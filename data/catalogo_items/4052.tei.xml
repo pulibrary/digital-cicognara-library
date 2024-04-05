@@ -9,6 +9,7 @@
                <orgName>Digital Cicognara Library</orgName>
                <ref>https://cicognara.org</ref>
             </publisher>
+            <sectionNumber>2.11</sectionNumber>
             <idno type="cico">4052</idno>
         </publicationStmt>
         <sourceDesc>
@@ -21,68 +22,5 @@ poco conosciuta. Esemplare leg. in vit.</note>
         </sourceDesc>
     </fileDesc>
 </teiHeader>
-        <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:local="http://library.princeton.edu" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>Antiquitates Britanno-Belgicae, praecipue Romanae [microform] : figuris illustratae, tribus voll, comprehensae ...</title>
-            <respStmt>
-               <orgName>Princeton University Library</orgName>
-               <resp>contributor</resp>
-            </respStmt>
-         </titleStmt>
-         <publicationStmt>
-            <publisher>
-               <orgName>Digital Cicognara Library</orgName>
-               <ref>https://cicognara.org/</ref>
-            </publisher>
-            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
-            <authority>Leopoldo Cicognara Program (University of Illinois at Urbana-Champaign)</authority>
-            <idno type="URI">http://portal.getty.edu/books/princeton_9985440553506421</idno>
-            <idno type="URI">http://portal.getty.edu/api/sw0536</idno>
-            <idno type="URI">http://portal.getty.edu/api/dc012q</idno>
-            <idno type="URI">http://portal.getty.edu/api/sg4c3j</idno>
-            <idno type="URI">http://portal.getty.edu/api/ps292x</idno>
-            <idno type="URI">http://portal.getty.edu/api/gw9p7q</idno>
-            <idno type="URI">http://portal.getty.edu/api/5d1403</idno>
-            <idno type="cico">4052</idno>
-            <idno type="dcl">6gn</idno>
-         </publicationStmt>
-         <sourceDesc>
-            <biblStruct>
-               <monogr>
-                  <title>Antiquitates Britanno-Belgicae, praecipue Romanae [microform] : figuris illustratae, tribus voll, comprehensae ...</title>
-                  <respStmt>
-                     <persName>Musgrave, William, 1655?-1721.</persName>
-                     <resp>creator</resp>
-                  </respStmt>
-                  <textLang>Latin</textLang>
-                  <imprint>
-                     <publisher>Iscae Dunmoniorum [Exeter] : Typis Geo. Bishop, prostant venales apud Joh. March ... Guil. Taylor &amp; Joh. Sprint</publisher>
-                     <pubPlace>Great Britain</pubPlace>
-                     <date>1711-1720</date>
-                     <date>1711</date>
-                  </imprint>
-                  <extent>4 v.</extent>
-                  <extent>16 microfiche : positive.</extent>
-               </monogr>
-               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/ea9cb1ce-b15e-4c38-a8bb-f844c83ce8ce/manifest"/>
-            </biblStruct>
-         </sourceDesc>
-      </fileDesc>
-      <profileDesc>
-         <textClass>
-            <keywords>
-               <term>Geta Lucius Septimius, Emperor of Rome, 189-212.</term>
-               <term>Great Britain -- Antiquities, Roman.</term>
-            </keywords>
-         </textClass>
-      </profileDesc>
-   </teiHeader>
-   <facsimile>
-      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/ea9cb1ce-b15e-4c38-a8bb-f844c83ce8ce/manifest">
-         <desc>IIIF Manifest</desc>
-      </media>
-   </facsimile>
-</TEI>
+        
 </teiCorpus>

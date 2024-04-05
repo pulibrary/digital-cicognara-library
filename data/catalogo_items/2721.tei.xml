@@ -9,6 +9,7 @@
                <orgName>Digital Cicognara Library</orgName>
                <ref>https://cicognara.org</ref>
             </publisher>
+            <sectionNumber>2.4</sectionNumber>
             <idno type="cico">2721</idno>
         </publicationStmt>
         <sourceDesc>
@@ -20,64 +21,5 @@ Galliani e non all’abate Zarilli come si credette da prima: sono legate separa
         </sourceDesc>
     </fileDesc>
 </teiHeader>
-        <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:local="http://library.princeton.edu" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>Considerazioni sopra la lettera dell'abate Winkelmann [microform].</title>
-            <respStmt>
-               <orgName>Princeton University Library</orgName>
-               <resp>contributor</resp>
-            </respStmt>
-         </titleStmt>
-         <publicationStmt>
-            <publisher>
-               <orgName>Digital Cicognara Library</orgName>
-               <ref>https://cicognara.org/</ref>
-            </publisher>
-            <authority>Winckelmann, Johann Joachim, 1717-1768. Sendschreiben von den Herculanischen Entdeckungen an den hochgelbohrnen Herrn, Herrn Heinrich Reichsgrafen von Brühl.</authority>
-            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
-            <authority>Leopoldo Cicognara Program (University of Illinois at Urbana-Champaign)</authority>
-            <idno type="URI">http://portal.getty.edu/books/princeton_9985407963506421</idno>
-            <idno type="URI">http://portal.getty.edu/api/8z7b15</idno>
-            <idno type="cico">2721</idno>
-            <idno type="dcl">r84</idno>
-         </publicationStmt>
-         <sourceDesc>
-            <biblStruct>
-               <monogr>
-                  <title>Considerazioni sopra la lettera dell'abate Winkelmann [microform].</title>
-                  <respStmt>
-                     <persName>Galiani, Berardo, marchese, 1724-1774.</persName>
-                     <resp>creator</resp>
-                  </respStmt>
-                  <textLang>Italian</textLang>
-                  <imprint>
-                     <publisher>[S.l. : s.n]</publisher>
-                     <pubPlace>Herculaneum (Extinct city)</pubPlace>
-                     <date>[177-?]</date>
-                     <date>1770</date>
-                  </imprint>
-                  <extent>[8] p.</extent>
-                  <extent>1 microfiche : positive.</extent>
-               </monogr>
-               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/9b5df742-d07e-4a69-8e01-141c9d258abf/manifest"/>
-            </biblStruct>
-         </sourceDesc>
-      </fileDesc>
-      <profileDesc>
-         <textClass>
-            <keywords>
-               <term>Winckelmann, Johann Joachim, 1717-1768. Sendschreiben von den Herculanischen Entdeckungen an den hochgelbohrnen Herrn, Herrn Heinrich Reichsgrafen von Brühl.</term>
-               <term>Herculaneum (Extinct city) -- Discovery and exploration -- Early works to 1800.</term>
-            </keywords>
-         </textClass>
-      </profileDesc>
-   </teiHeader>
-   <facsimile>
-      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/9b5df742-d07e-4a69-8e01-141c9d258abf/manifest">
-         <desc>IIIF Manifest</desc>
-      </media>
-   </facsimile>
-</TEI>
+        
 </teiCorpus>

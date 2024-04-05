@@ -9,6 +9,7 @@
                <orgName>Digital Cicognara Library</orgName>
                <ref>https://cicognara.org</ref>
             </publisher>
+            <sectionNumber>1.18</sectionNumber>
             <idno type="cico">1536</idno>
         </publicationStmt>
         <sourceDesc>
@@ -20,59 +21,5 @@
         </sourceDesc>
     </fileDesc>
 </teiHeader>
-        <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:local="http://library.princeton.edu" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>Festa del dipartimento del basso po per la inaugurazione della statua di S.M.I.R [microform].</title>
-            <respStmt>
-               <orgName>Princeton University Library</orgName>
-               <resp>contributor</resp>
-            </respStmt>
-         </titleStmt>
-         <publicationStmt>
-            <publisher>
-               <orgName>Digital Cicognara Library</orgName>
-               <ref>https://cicognara.org/</ref>
-            </publisher>
-            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
-            <authority>Leopoldo Cicognara Program (University of Illinois at Urbana-Champaign)</authority>
-            <idno type="URI">http://portal.getty.edu/books/princeton_9985460973506421</idno>
-            <idno type="URI">http://portal.getty.edu/api/3n699q</idno>
-            <idno type="cico">1536</idno>
-            <idno type="dcl">18q</idno>
-         </publicationStmt>
-         <sourceDesc>
-            <biblStruct>
-               <monogr>
-                  <title>Festa del dipartimento del basso po per la inaugurazione della statua di S.M.I.R [microform].</title>
-                  <textLang>Italian</textLang>
-                  <imprint>
-                     <publisher>Ferrara : Pe' Socj Bianchi e Negri</publisher>
-                     <pubPlace>Italy</pubPlace>
-                     <date>1810</date>
-                  </imprint>
-                  <extent>10, 13 p.</extent>
-                  <extent>1 microfiche : positive ; 11 x 15 cm.</extent>
-               </monogr>
-               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/910d897b-e74f-4215-9246-7cd330cf1a59/manifest"/>
-            </biblStruct>
-         </sourceDesc>
-      </fileDesc>
-      <profileDesc>
-         <textClass>
-            <keywords>
-               <term>Napoleon I, Emperor of the French, 1769-1821 -- Statues.</term>
-               <term>Festivals -- Italy -- Ferrara -- History -- 19th century.</term>
-               <term>Statues -- Italy -- Ferrara.</term>
-            </keywords>
-         </textClass>
-      </profileDesc>
-   </teiHeader>
-   <facsimile>
-      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/910d897b-e74f-4215-9246-7cd330cf1a59/manifest">
-         <desc>IIIF Manifest</desc>
-      </media>
-   </facsimile>
-</TEI>
+        
 </teiCorpus>

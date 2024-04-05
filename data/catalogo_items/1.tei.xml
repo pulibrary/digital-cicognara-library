@@ -9,13 +9,18 @@
                <orgName>Digital Cicognara Library</orgName>
                <ref>https://cicognara.org</ref>
             </publisher>
+            <sectionNumber>1.1</sectionNumber>
             <idno type="cico">1</idno>
         </publicationStmt>
         <sourceDesc>
-            <bibl>Cominciò l’edizione
-                         col Catalogo degli antichi monumenti composto
-                         da monsig. Bajardi, che escì alle stampe nel
-                         1755 ed occupa un vol. di 447 p.</bibl>
+            <bibl>
+	      <author>AGINCOURT (d’) Seroux</author>, <title>Histoire de l’Art
+	      par les Monumens depuis sa decadence au 4ᵐᵉ siecle, jusque à son
+	      renouvellement au 16.me pour servir de suite à l’histoire de
+	      l’art chez les Anciens.</title> <pubPlace>Paris</pubPlace>
+	      <date>1811</date> et <date>1820</date>, <extent>6
+	      vol. fol. fig. ornés de 325 pl. en 24 livraisons.</extent>
+	    </bibl>
         </sourceDesc>
     </fileDesc>
 </teiHeader>

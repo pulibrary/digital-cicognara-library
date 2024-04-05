@@ -9,6 +9,7 @@
                <orgName>Digital Cicognara Library</orgName>
                <ref>https://cicognara.org</ref>
             </publisher>
+            <sectionNumber>2.18</sectionNumber>
             <idno type="cico">4697</idno>
         </publicationStmt>
         <sourceDesc>
@@ -18,60 +19,5 @@
         </sourceDesc>
     </fileDesc>
 </teiHeader>
-        <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:local="http://library.princeton.edu" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>Connoissance de la mythologie, par demandes &amp; par résponses [microform] : augmentée des traits d'histoire qui ont servi de fondement à tout le systeme de la fable : avec une table très-commode.</title>
-            <respStmt>
-               <orgName>Princeton University Library</orgName>
-               <resp>contributor</resp>
-            </respStmt>
-         </titleStmt>
-         <publicationStmt>
-            <publisher>
-               <orgName>Digital Cicognara Library</orgName>
-               <ref>https://cicognara.org/</ref>
-            </publisher>
-            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
-            <authority>Leopoldo Cicognara Program (University of Illinois at Urbana-Champaign)</authority>
-            <idno type="URI">http://portal.getty.edu/books/princeton_9985430843506421</idno>
-            <idno type="URI">http://portal.getty.edu/api/6h9s3n</idno>
-            <idno type="cico">4697</idno>
-            <idno type="dcl">szp</idno>
-         </publicationStmt>
-         <sourceDesc>
-            <biblStruct>
-               <monogr>
-                  <title>Connoissance de la mythologie, par demandes &amp; par résponses [microform] : augmentée des traits d'histoire qui ont servi de fondement à tout le systeme de la fable : avec une table très-commode.</title>
-                  <respStmt>
-                     <persName>Rigord, François-Xavier, 1690-1739.</persName>
-                     <resp>creator</resp>
-                  </respStmt>
-                  <textLang>French</textLang>
-                  <imprint>
-                     <publisher>A Lyon : Chez les Freres Perisse</publisher>
-                     <date>1782</date>
-                  </imprint>
-                  <extent>xij, 396 p.</extent>
-                  <extent>7 microfiche : positive.</extent>
-               </monogr>
-               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/96763f1d-d372-463a-b1e5-8599bdc2a532/manifest"/>
-            </biblStruct>
-         </sourceDesc>
-      </fileDesc>
-      <profileDesc>
-         <textClass>
-            <keywords>
-               <term>Mythology, Classical -- Miscellanea.</term>
-            </keywords>
-         </textClass>
-      </profileDesc>
-   </teiHeader>
-   <facsimile>
-      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/96763f1d-d372-463a-b1e5-8599bdc2a532/manifest">
-         <desc>IIIF Manifest</desc>
-      </media>
-   </facsimile>
-</TEI>
+        
 </teiCorpus>

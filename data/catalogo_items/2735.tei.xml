@@ -9,6 +9,7 @@
                <orgName>Digital Cicognara Library</orgName>
                <ref>https://cicognara.org</ref>
             </publisher>
+            <sectionNumber>2.5</sectionNumber>
             <idno type="cico">2735</idno>
         </publicationStmt>
         <sourceDesc>
@@ -20,60 +21,5 @@ ogni nazione, con frontespizio figurato.</note>
         </sourceDesc>
     </fileDesc>
 </teiHeader>
-        <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:local="http://library.princeton.edu" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>Petr. Frid. Arpe De prodigiosis naturae et artis operibus talismanes et amuleta dictis [microform] : cum recensione scriptorum huius argumenti, liber singularis.</title>
-            <respStmt>
-               <orgName>Princeton University Library</orgName>
-               <resp>contributor</resp>
-            </respStmt>
-         </titleStmt>
-         <publicationStmt>
-            <publisher>
-               <orgName>Digital Cicognara Library</orgName>
-               <ref>https://cicognara.org/</ref>
-            </publisher>
-            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
-            <idno type="URI">http://portal.getty.edu/books/princeton_9985406473506421</idno>
-            <idno type="URI">http://portal.getty.edu/api/7h5m57</idno>
-            <idno type="cico">2735</idno>
-            <idno type="dcl">xvk</idno>
-         </publicationStmt>
-         <sourceDesc>
-            <biblStruct>
-               <monogr>
-                  <title>Petr. Frid. Arpe De prodigiosis naturae et artis operibus talismanes et amuleta dictis [microform] : cum recensione scriptorum huius argumenti, liber singularis.</title>
-                  <respStmt>
-                     <persName>Arpe, Peter Friedrich, 1682-1740.</persName>
-                     <resp>creator</resp>
-                  </respStmt>
-                  <textLang>Latin</textLang>
-                  <imprint>
-                     <publisher>Hamburgi : Apud Christian Liebezeit</publisher>
-                     <date>1717</date>
-                  </imprint>
-                  <extent>184 p.</extent>
-                  <extent>4 microfiche : positive.</extent>
-               </monogr>
-               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/75216c6c-e84b-4e78-85dc-4e68ea055bc4/manifest"/>
-            </biblStruct>
-         </sourceDesc>
-      </fileDesc>
-      <profileDesc>
-         <textClass>
-            <keywords>
-               <term>Amulets -- Early works to 1800.</term>
-               <term>Talismans -- Early works to 1800.</term>
-            </keywords>
-         </textClass>
-      </profileDesc>
-   </teiHeader>
-   <facsimile>
-      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/75216c6c-e84b-4e78-85dc-4e68ea055bc4/manifest">
-         <desc>IIIF Manifest</desc>
-      </media>
-   </facsimile>
-</TEI>
+        
 </teiCorpus>

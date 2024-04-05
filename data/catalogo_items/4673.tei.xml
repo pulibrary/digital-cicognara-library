@@ -9,6 +9,7 @@
                <orgName>Digital Cicognara Library</orgName>
                <ref>https://cicognara.org</ref>
             </publisher>
+            <sectionNumber>2.18</sectionNumber>
             <idno type="cico">4673</idno>
         </publicationStmt>
         <sourceDesc>
@@ -22,122 +23,5 @@ esemplare appartenne.</note>
         </sourceDesc>
     </fileDesc>
 </teiHeader>
-        <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:local="http://library.princeton.edu" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>Réponse a l'histoire des oracles de Mr. De Fontennelle de l'Academie Francoise [microform] : dans laquelle on réfute le Systéme de Mr. Van-Dale, sur les Auteurs des Oracles du Paganisme, sur la cause &amp; le temps de leur silence &amp; où l'on établit le sentiment des Peres de l'Eglise sur le même sujet.</title>
-            <respStmt>
-               <orgName>Princeton University Library</orgName>
-               <resp>contributor</resp>
-            </respStmt>
-         </titleStmt>
-         <publicationStmt>
-            <publisher>
-               <orgName>Digital Cicognara Library</orgName>
-               <ref>https://cicognara.org/</ref>
-            </publisher>
-            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
-            <authority>Leopoldo Cicognara Program (University of Illinois at Urbana-Champaign)</authority>
-            <idno type="URI">http://portal.getty.edu/books/princeton_9985428743506421</idno>
-            <idno type="URI">http://portal.getty.edu/api/4t2x42</idno>
-            <idno type="cico">4673</idno>
-            <idno type="dcl">k8f</idno>
-         </publicationStmt>
-         <sourceDesc>
-            <biblStruct>
-               <monogr>
-                  <title>Réponse a l'histoire des oracles de Mr. De Fontennelle de l'Academie Francoise [microform] : dans laquelle on réfute le Systéme de Mr. Van-Dale, sur les Auteurs des Oracles du Paganisme, sur la cause &amp; le temps de leur silence &amp; où l'on établit le sentiment des Peres de l'Eglise sur le même sujet.</title>
-                  <respStmt>
-                     <persName>Baltus, Jean François, 1667-1743.</persName>
-                     <resp>creator</resp>
-                  </respStmt>
-                  <textLang>French</textLang>
-                  <imprint>
-                     <publisher>A Strasbourg : Chez Jean Renauld Doulssecker</publisher>
-                     <date>1707</date>
-                  </imprint>
-                  <extent>374 p.</extent>
-                  <extent>7 microfiche : positive.</extent>
-               </monogr>
-               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/ae1bf246-83ad-49a7-9ccb-916aad15e0a7/manifest"/>
-            </biblStruct>
-         </sourceDesc>
-      </fileDesc>
-      <profileDesc>
-         <textClass>
-            <keywords>
-               <term>Dale, Antonius van, 1638-1708. De oraculis ethnicorum dissertationes duae.</term>
-               <term>Fontenelle, M. de (Bernard Le Bovier), 1657-1757. Histoire des oracles.</term>
-               <term>Catholic Church -- Doctrinal and controversial works -- Catholic authors.</term>
-               <term>Oracles.</term>
-            </keywords>
-         </textClass>
-      </profileDesc>
-   </teiHeader>
-   <facsimile>
-      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/ae1bf246-83ad-49a7-9ccb-916aad15e0a7/manifest">
-         <desc>IIIF Manifest</desc>
-      </media>
-   </facsimile>
-</TEI>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:local="http://library.princeton.edu" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>Suite de la Réponse a l'Histoire des oracles [microform] : dans laquelle on réfute les objections inferées dans le XIII tome de la Bibliotheque choisie ...</title>
-            <respStmt>
-               <orgName>Princeton University Library</orgName>
-               <resp>contributor</resp>
-            </respStmt>
-         </titleStmt>
-         <publicationStmt>
-            <publisher>
-               <orgName>Digital Cicognara Library</orgName>
-               <ref>https://cicognara.org/</ref>
-            </publisher>
-            <authority>Baltus, Jean François, 1667-1743. Réponse à l'Histoire des oracles.</authority>
-            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
-            <authority>Leopoldo Cicognara Program (University of Illinois at Urbana-Champaign)</authority>
-            <idno type="URI">http://portal.getty.edu/books/princeton_9985431663506421</idno>
-            <idno type="URI">http://portal.getty.edu/api/fx0x57</idno>
-            <idno type="cico">4673</idno>
-            <idno type="dcl">1d5</idno>
-         </publicationStmt>
-         <sourceDesc>
-            <biblStruct>
-               <monogr>
-                  <title>Suite de la Réponse a l'Histoire des oracles [microform] : dans laquelle on réfute les objections inferées dans le XIII tome de la Bibliotheque choisie ...</title>
-                  <respStmt>
-                     <persName>Baltus, Jean François, 1667-1743.</persName>
-                     <resp>creator</resp>
-                  </respStmt>
-                  <textLang>French</textLang>
-                  <imprint>
-                     <publisher>A Strasbourg : Jean Renauld Doulssecker</publisher>
-                     <date>1708</date>
-                  </imprint>
-                  <extent>459 p.</extent>
-                  <extent>8 microfiche : positive.</extent>
-               </monogr>
-               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/afe70512-34ae-4a9e-a33b-57f3a3d9feb9/manifest"/>
-            </biblStruct>
-         </sourceDesc>
-      </fileDesc>
-      <profileDesc>
-         <textClass>
-            <keywords>
-               <term>Fontenelle, M. de (Bernard Le Bovier), 1657-1757. Histoire des oracles.</term>
-               <term>Catholic Church -- Doctrinal and controversial works -- Catholic authors.</term>
-               <term>Oracles.</term>
-            </keywords>
-         </textClass>
-      </profileDesc>
-   </teiHeader>
-   <facsimile>
-      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/afe70512-34ae-4a9e-a33b-57f3a3d9feb9/manifest">
-         <desc>IIIF Manifest</desc>
-      </media>
-   </facsimile>
-</TEI>
+        
 </teiCorpus>

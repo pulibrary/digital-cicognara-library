@@ -9,6 +9,7 @@
                <orgName>Digital Cicognara Library</orgName>
                <ref>https://cicognara.org</ref>
             </publisher>
+            <sectionNumber>2.7</sectionNumber>
             <idno type="cico">3217</idno>
         </publicationStmt>
         <sourceDesc>
@@ -18,62 +19,5 @@ d’Holbein</title>, <pubPlace>Amsterdam</pubPlace> <date>1728</date>, in 8, fig
         </sourceDesc>
     </fileDesc>
 </teiHeader>
-        <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:local="http://library.princeton.edu" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>L'eloge de la folie [microform] / composé en forme de déclamation, par Erasme, et traduit par mr. Gueudeville ; avec les notes de Gerard Listre, et les belles figures de Holbein, le tout sur l'original de l'Académie de Basle.</title>
-            <respStmt>
-               <orgName>Princeton University Library</orgName>
-               <resp>contributor</resp>
-            </respStmt>
-         </titleStmt>
-         <publicationStmt>
-            <publisher>
-               <orgName>Digital Cicognara Library</orgName>
-               <ref>https://cicognara.org/</ref>
-            </publisher>
-            <authority>Holbein, Hans, 1497?-1543.</authority>
-            <authority>Listrius, Gerardus.</authority>
-            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
-            <authority>Leopoldo Cicognara Program (University of Illinois at Urbana-Champaign)</authority>
-            <idno type="URI">http://portal.getty.edu/books/princeton_9985412043506421</idno>
-            <idno type="URI">http://portal.getty.edu/api/9j3265</idno>
-            <idno type="cico">3217</idno>
-            <idno type="dcl">bvv</idno>
-         </publicationStmt>
-         <sourceDesc>
-            <biblStruct>
-               <monogr>
-                  <title>L'eloge de la folie [microform] / composé en forme de déclamation, par Erasme, et traduit par mr. Gueudeville ; avec les notes de Gerard Listre, et les belles figures de Holbein, le tout sur l'original de l'Académie de Basle.</title>
-                  <respStmt>
-                     <persName>Erasmus, Desiderius, -1536.</persName>
-                     <resp>creator</resp>
-                  </respStmt>
-                  <textLang>French</textLang>
-                  <imprint>
-                     <publisher>A Amsterdam : Chez François l'Honore</publisher>
-                     <date>1728</date>
-                  </imprint>
-                  <extent>234 p.</extent>
-                  <extent>5 microfiche : positive.</extent>
-               </monogr>
-               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/8bb19fca-e1b5-4d86-a238-4283a3541950/manifest"/>
-            </biblStruct>
-         </sourceDesc>
-      </fileDesc>
-      <profileDesc>
-         <textClass>
-            <keywords>
-               <term>Folly -- Religious aspects -- Christianity -- Early works to 1800.</term>
-            </keywords>
-         </textClass>
-      </profileDesc>
-   </teiHeader>
-   <facsimile>
-      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/8bb19fca-e1b5-4d86-a238-4283a3541950/manifest">
-         <desc>IIIF Manifest</desc>
-      </media>
-   </facsimile>
-</TEI>
+        
 </teiCorpus>

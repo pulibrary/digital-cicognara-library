@@ -9,6 +9,7 @@
                <orgName>Digital Cicognara Library</orgName>
                <ref>https://cicognara.org</ref>
             </publisher>
+            <sectionNumber>2.11</sectionNumber>
             <idno type="cico">3995</idno>
         </publicationStmt>
         <sourceDesc>
@@ -19,67 +20,5 @@ pregiatissima pel merito della dotta esposizione.</note>
         </sourceDesc>
     </fileDesc>
 </teiHeader>
-        <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:local="http://library.princeton.edu" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>Le forche caudine [microform] : illustrate con due appendici.</title>
-            <respStmt>
-               <orgName>Princeton University Library</orgName>
-               <resp>contributor</resp>
-            </respStmt>
-         </titleStmt>
-         <publicationStmt>
-            <publisher>
-               <orgName>Digital Cicognara Library</orgName>
-               <ref>https://cicognara.org/</ref>
-            </publisher>
-            <authority>Marliani, Bartolomeo, -1560.</authority>
-            <authority>Thomasius, Christian, 1655-1728.</authority>
-            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
-            <authority>Leopoldo Cicognara Program (University of Illinois at Urbana-Champaign)</authority>
-            <idno type="URI">http://portal.getty.edu/books/princeton_9985423263506421</idno>
-            <idno type="URI">http://portal.getty.edu/api/f59d4s</idno>
-            <idno type="URI">http://portal.getty.edu/api/6q859z</idno>
-            <idno type="URI">http://portal.getty.edu/api/dw3z2j</idno>
-            <idno type="URI">http://portal.getty.edu/api/zx8g7h</idno>
-            <idno type="cico">3995</idno>
-            <idno type="dcl">bvz</idno>
-         </publicationStmt>
-         <sourceDesc>
-            <biblStruct>
-               <monogr>
-                  <title>Le forche caudine [microform] : illustrate con due appendici.</title>
-                  <respStmt>
-                     <persName>Daniele, Francesco, 1740-1812.</persName>
-                     <resp>creator</resp>
-                  </respStmt>
-                  <textLang>Italian</textLang>
-                  <imprint>
-                     <publisher>In Napoli : Appresso Angelo Trani</publisher>
-                     <pubPlace>Forche Caudine Region (Italy)</pubPlace>
-                     <date>1811 [i.e. 1812]</date>
-                     <date>1811</date>
-                  </imprint>
-                  <extent>xiii, [3], 102, [6] p., [1] folded leaf of plates</extent>
-                  <extent>6 microfiche : positive.</extent>
-               </monogr>
-               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/19cf86af-68fd-4825-ab7a-15d6aeac9b9b/manifest"/>
-            </biblStruct>
-         </sourceDesc>
-      </fileDesc>
-      <profileDesc>
-         <textClass>
-            <keywords>
-               <term>Forche Caudine Region (Italy)</term>
-            </keywords>
-         </textClass>
-      </profileDesc>
-   </teiHeader>
-   <facsimile>
-      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/19cf86af-68fd-4825-ab7a-15d6aeac9b9b/manifest">
-         <desc>IIIF Manifest</desc>
-      </media>
-   </facsimile>
-</TEI>
+        
 </teiCorpus>

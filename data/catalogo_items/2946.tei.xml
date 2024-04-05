@@ -9,6 +9,7 @@
                <orgName>Digital Cicognara Library</orgName>
                <ref>https://cicognara.org</ref>
             </publisher>
+            <sectionNumber>2.5</sectionNumber>
             <idno type="cico">2946</idno>
         </publicationStmt>
         <sourceDesc>
@@ -21,60 +22,5 @@ degli esemplari in circolazione.</note>
         </sourceDesc>
     </fileDesc>
 </teiHeader>
-        <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:local="http://library.princeton.edu" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>Numismata aerea maximi moduli primique duodecim Augusti ex auro, dudum Romae in coenobio Carthusiae, nunc Viennae Austriae in gaza Caesarea [microform].</title>
-            <respStmt>
-               <orgName>Princeton University Library</orgName>
-               <resp>contributor</resp>
-            </respStmt>
-         </titleStmt>
-         <publicationStmt>
-            <publisher>
-               <orgName>Digital Cicognara Library</orgName>
-               <ref>https://cicognara.org/</ref>
-            </publisher>
-            <authority>Piccini, Gaetano.</authority>
-            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
-            <authority>Leopoldo Cicognara Program (University of Illinois at Urbana-Champaign)</authority>
-            <idno type="URI">http://portal.getty.edu/books/princeton_9985410803506421</idno>
-            <idno type="URI">http://portal.getty.edu/api/8q0918</idno>
-            <idno type="cico">2946</idno>
-            <idno type="dcl">g8f</idno>
-         </publicationStmt>
-         <sourceDesc>
-            <biblStruct>
-               <monogr>
-                  <title>Numismata aerea maximi moduli primique duodecim Augusti ex auro, dudum Romae in coenobio Carthusiae, nunc Viennae Austriae in gaza Caesarea [microform].</title>
-                  <textLang>Latin</textLang>
-                  <imprint>
-                     <publisher>[Vienna : s.n]</publisher>
-                     <pubPlace>Rome</pubPlace>
-                     <date>[1729]</date>
-                     <date>1729</date>
-                  </imprint>
-                  <extent>1 v. (unpaged)</extent>
-                  <extent>6 microfiche : positive.</extent>
-               </monogr>
-               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/e2004d12-2b85-447d-aa60-8fc93362d212/manifest"/>
-            </biblStruct>
-         </sourceDesc>
-      </fileDesc>
-      <profileDesc>
-         <textClass>
-            <keywords>
-               <term>Numismatics -- Early works to 1800.</term>
-               <term>Rome -- Kings and rulers -- Portraits -- Early works to 1800.</term>
-            </keywords>
-         </textClass>
-      </profileDesc>
-   </teiHeader>
-   <facsimile>
-      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/e2004d12-2b85-447d-aa60-8fc93362d212/manifest">
-         <desc>IIIF Manifest</desc>
-      </media>
-   </facsimile>
-</TEI>
+        
 </teiCorpus>

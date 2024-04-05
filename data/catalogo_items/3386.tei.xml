@@ -9,6 +9,7 @@
                <orgName>Digital Cicognara Library</orgName>
                <ref>https://cicognara.org</ref>
             </publisher>
+            <sectionNumber>2.8</sectionNumber>
             <idno type="cico">3386</idno>
         </publicationStmt>
         <sourceDesc>
@@ -30,54 +31,5 @@ perduto la loro freschezza.</note>
         </sourceDesc>
     </fileDesc>
 </teiHeader>
-        <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:local="http://library.princeton.edu" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>Errores Vlyssis, Advmbrati A S. Martino, vt in Regia Fontis-bellaquae spectantur : una cum argumento, &amp; interpretatione morali cuiuslibet fabulae / a Nicolao depicti ; et in aes incisi à Theodoro Van-Thvlden.</title>
-            <respStmt>
-               <orgName>Princeton University Library</orgName>
-               <resp>contributor</resp>
-            </respStmt>
-         </titleStmt>
-         <publicationStmt>
-            <publisher>
-               <orgName>Digital Cicognara Library</orgName>
-               <ref>https://cicognara.org/</ref>
-            </publisher>
-            <authority>Abate, Nicolò dell', 1509-1571.</authority>
-            <authority>Thulden, Theodoor van, 1606-1669.</authority>
-            <idno type="URI">http://portal.getty.edu/books/princeton_99100847873506421</idno>
-            <idno type="URI">http://portal.getty.edu/api/708524</idno>
-            <idno>(OCoLC)313542847</idno>
-            <idno type="cico">3386</idno>
-            <idno type="dcl">svv</idno>
-         </publicationStmt>
-         <sourceDesc>
-            <biblStruct>
-               <monogr>
-                  <title>Errores Vlyssis, Advmbrati A S. Martino, vt in Regia Fontis-bellaquae spectantur : una cum argumento, &amp; interpretatione morali cuiuslibet fabulae / a Nicolao depicti ; et in aes incisi à Theodoro Van-Thvlden.</title>
-                  <textLang>French</textLang>
-                  <imprint>
-                     <publisher>Parisiis : Tavernier</publisher>
-                     <date>1633</date>
-                  </imprint>
-                  <extent>2 Mikrofiches : 24x.</extent>
-               </monogr>
-               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/b620f6cc-9fa6-4bc3-b17d-dda0c9b74dba/manifest"/>
-            </biblStruct>
-         </sourceDesc>
-      </fileDesc>
-      <profileDesc>
-         <textClass>
-            <keywords/>
-         </textClass>
-      </profileDesc>
-   </teiHeader>
-   <facsimile>
-      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/b620f6cc-9fa6-4bc3-b17d-dda0c9b74dba/manifest">
-         <desc>IIIF Manifest</desc>
-      </media>
-   </facsimile>
-</TEI>
+        
 </teiCorpus>
