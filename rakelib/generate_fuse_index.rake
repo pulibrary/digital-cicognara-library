@@ -11,6 +11,7 @@ task :generate_fuse_index do
     doc = Nokogiri::XML(File.read(file))
     teiHeader = doc.xpath("/xmlns:teiCorpus/xmlns:teiHeader")
     ciconum = Set.new()
+    section_number = doc.xpath("//xmlns:sectionNumber").collect { |e| e.text }
     teiHeader.xpath("//xmlns:idno[@type='cico']").each { |e| ciconum << e.text }
     title = teiHeader.xpath("//xmlns:sourceDesc//xmlns:title").collect { |e| e.text }
     author = teiHeader.xpath("//xmlns:sourceDesc//xmlns:author").collect { |e| e.text }
@@ -22,6 +23,7 @@ task :generate_fuse_index do
     keywords = doc.xpath("//xmlns:term").collect { |e| e.text }
     index << { filename: html_file,
                ciconum: ciconum.to_a,
+               section_number: section_number,
                title: title,
                author: author,
                people: people,

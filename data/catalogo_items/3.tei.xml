@@ -9,12 +9,72 @@
                <orgName>Digital Cicognara Library</orgName>
                <ref>https://cicognara.org</ref>
             </publisher>
+            <sectionNumber>1.1</sectionNumber>
             <idno type="cico">3</idno>
         </publicationStmt>
         <sourceDesc>
-            <bibl>Le pitture Vol. II pubblicate nel 1760.</bibl>
+            <bibl>
+                 <author>ALGAROTTI C.Francesco</author>,
+                 <title>Opere</title>. Edizione novissima,
+                 <pubPlace>Venezia</pubPlace> <date>1791</date>,
+                 <extent>vol. 17, in 8</extent>.</bibl>
         </sourceDesc>
     </fileDesc>
 </teiHeader>
-        
+        <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:local="http://library.princeton.edu" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Opere [microform] / del conte Algarotti.</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Michelessi, Domenico, 1735-1773.</authority>
+            <authority>Morghen, Raffaello, 1761-1833.</authority>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <authority>Leopoldo Cicognara Program (University of Illinois at Urbana-Champaign)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985247223506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/992x4t</idno>
+            <idno type="cico">3</idno>
+            <idno type="dcl">mk2</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Opere [microform] / del conte Algarotti.</title>
+                  <respStmt>
+                     <persName>Algarotti, Francesco, conte, 1712-1764.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>In Venezia : Presso Carlo Palese</publisher>
+                     <date>1791</date>
+                  </imprint>
+                  <extent>17 v.</extent>
+                  <extent>114 microfiche : positive</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/a5aff0e8-76a7-4279-b45d-cca662e70352/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords/>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/a5aff0e8-76a7-4279-b45d-cca662e70352/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
 </teiCorpus>

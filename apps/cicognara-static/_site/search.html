@@ -74,6 +74,7 @@
           keys: [
               "filename",
               "ciconum",
+              "section_number", 
               "author",
               "title",
               "people",
@@ -151,6 +152,15 @@
       date.setAttribute("class", "catalogo-date");
       date.appendChild(document.createTextNode(result.dates[0]));
       bibl.appendChild(date);
+
+      var catalogoBrowseButton = document.createElement("div");
+      catalogoBrowseButton.setAttribute("class", "catalogo-browse-button");
+      var catalogoBrowseLink = document.createElement("a");
+      catalogoBrowseLink.href = `/catalogo/#section_${result.section_number[0]}_item_${result.ciconum[0]}`;
+      catalogoBrowseLink.text = "Browse full catalogo";
+      catalogoBrowseButton.appendChild(catalogoBrowseLink);
+      bibl.appendChild(catalogoBrowseButton);
+
     }
   }
 

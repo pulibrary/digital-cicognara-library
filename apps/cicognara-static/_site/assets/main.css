@@ -347,4 +347,6 @@ span.catalogo-item-label { font-size: 18px; font-weight: bold; padding-right: 5p
 
 .search-btn { color: #fff; background-color: #221E1D; border-color: #141211; height: 34px; height: 40px; width: 50px; margin-left: -6px; padding: 5px; }
 
+.catalogo-browse-button { padding: 1px 5px; font-size: 12px; line-height: 1.5; border-radius: 3px; margin: 1em 0.5em 1em 0; background: #f1f2eb; color: #333; border-color: #ccc; display: inline-block; font-weight: normal; text-align: center; white-space: nowrap; vertical-align: middle; touch-action: manipulation; cursor: pointer; border: 1px solid #ccc; }
+
 /*# sourceMappingURL=main.css.map */
