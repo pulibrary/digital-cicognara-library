@@ -153,7 +153,6 @@
       date.appendChild(document.createTextNode(result.dates[0]));
       bibl.appendChild(date);
 
-<<<<<<< HEAD
       var catalogoBrowseButton = document.createElement("div");
       catalogoBrowseButton.setAttribute("class", "catalogo-browse-button");
       var catalogoBrowseLink = document.createElement("a");
@@ -161,12 +160,6 @@
       catalogoBrowseLink.text = "Browse full catalogo";
       catalogoBrowseButton.appendChild(catalogoBrowseLink);
       bibl.appendChild(catalogoBrowseButton);
-=======
-      var catalogoBrowseLink = document.createElement("a");
-      catalogoBrowseLink.href = `/catalogo/#section_${result.section_number[0]}_item_${result.ciconum[0]}`;
-      catalogoBrowseLink.text = "Browse full catalogo";
-      bibl.appendChild(catalogoBrowseLink);
->>>>>>> main
 
     }
   }
@@ -194,7 +187,6 @@
     runSearch();
   }
 
-</script>
-</body>
+</script></body>
 
 </html>
