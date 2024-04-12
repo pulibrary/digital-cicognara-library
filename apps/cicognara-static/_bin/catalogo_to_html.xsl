@@ -265,7 +265,7 @@
     </xsl:template>
 
     <xsl:template match="tei:label">
-        <span class="ciconum">
+        <span class="ciconum" id="item_{../@n}">
             <xsl:apply-templates/>
         </span>
     </xsl:template>
