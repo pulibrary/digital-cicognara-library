@@ -3801,7 +3801,7 @@
 	  omissioni nella parte del testo. Le tavole sono le stesse ma tirate dopo l’edizione italiana.</note>	  
 	              </item>
 
-	              <item xml:id="c1d1e7011" n="232" corresp="dcl:h5n">
+	              <item xml:id="c1d1e7011" n="232">
                   <label>232.</label> 
                   <bibl>
                      <author>Da VINCI Lionardo</author>, 
@@ -8594,7 +8594,7 @@
 	                 <note>Con otto tavole in rame. Opera piena di critica approfonditissima e scritta con libertà di pensare e sapere sommo.</note>
 	
 	              </item>
-	              <item xml:id="c1d1e16391" n="567" corresp="dcl:xr7 dcl:269">
+	              <item xml:id="c1d1e16391" n="567" corresp="dcl:xr7">
                   <label>567.</label>
                   <bibl> 
                      <author>MILIZIA Francesco</author>, 
@@ -20297,7 +20297,7 @@ septem etc.</title> apud <publisher>Nicolaum Mutium</publisher>, <date>1596</dat
   tav. 430.</note>
   
   </bibl></item>
-               <item xml:id="c1d1e29165" n="1999">
+               <item xml:id="c1d1e29165" n="1999" corresp="dcl:t06">
                   <label>1999.</label> <bibl><author>BONARROTI Michel Angelo</author>, <title>Profeti, Sibille ed altre figure da lui disegnate</title>, incise da Adamo
   Mantovano, tav. 73, in 4.
   <note>Esemplare di prima nitidezza e freschezza. Oltre le tavole figurate vedesi nel frontespizio una Cartella intagliata
@@ -29309,7 +29309,7 @@ Eccellentissimo sig. Filippo Terzo ed è fra i meno comuni opuscoli di questo au
 
                   </bibl></item>
 
-                  <item xml:id="c2d1e5829" n="3215" corresp="dcl:fs3 dcl:jc5 dcl:092">
+                  <item xml:id="c2d1e5829" n="3215" corresp="dcl:fs3 dcl:jc5 dcl:78t">
                      <label>3215.</label> <bibl><author>DONATI Sebastiano</author>, <title>Dei dittici degli antichi, sacri e profani con un’appendice di alcuni necrologii e calendarii
 finora non pubblicati</title>. Libri tre, <pubPlace>Lucca</pubPlace> <date>1753</date>, in 4, fìg.
 Le tavole sono distribuite ai luoghi citati del testo.
@@ -29428,7 +29428,7 @@ questo curioso libretto egualmente a quella del Convito di Platone. Ved. Ficino 
 </bibl></item>
 
                   <item xml:id="c2d1e5952"
-                        n="3233" corresp="dcl:hgd dcl:bgr dcl:56f dcl:mzx dcl:vk1 dcl:v85 dcl:vc4 dcl:wvp dcl:3ks dcl:h03 dcl:13h dcl:hzw dcl:h38 dcl:n5q dcl:16b dcl:7zz dcl:x2d dcl:jp8 dcl:262 dcl:hk5 dcl:czw dcl:r5k dcl:xc1 dcl:2wb dcl:fzx dcl:f2r dcl:pjz dcl:p5h dcl:c04 dcl:32z">
+                        n="3233" corresp="dcl:hgd dcl:bgr dcl:56f dcl:mzx dcl:vk1 dcl:v85 dcl:vc4 dcl:wvp dcl:3ks dcl:h03 dcl:13h dcl:hzw dcl:h38 dcl:n5q dcl:16b dcl:7zz dcl:x2d dcl:jp8 dcl:262 dcl:hk5 dcl:czw dcl:r5k dcl:xc1 dcl:2wb dcl:fzx dcl:f2r dcl:pjz dcl:p5h dcl:c04 dcl:32z dcl:cvx">
                      <label>3233.</label> <bibl><author>GROPPO Antonio</author>, <title>Dissertazioni varie in materia d’antichità e di teatri</title>,<pubPlace> Venezia</pubPlace><date> 1769</date>, in 4.
 </bibl></item>
 
@@ -32201,13 +32201,13 @@ per <publisher>Michel Tramezzino</publisher>, <date>1542</date>, in 8.
 <note>Elegante edizione sebbene troppo voluminosa, in bei caratteri corsivi.</note>
 </bibl></item>
 
-                  <item xml:id="c2d1e8730" n="3622">
+                  <item xml:id="c2d1e8730" n="3622" corresp="dcl:5kj">
                      <label>3622.</label> <bibl><author>BIONDO da Forlì</author>,<title> Roma ristaurata, ed Italia illustrata, di Biondo da Forlì tradotte in buona lingua volgare per Lucio
 Fauno</title>, <pubPlace>Vinegia</pubPlace>, per <publisher>Michele Tramezzino</publisher>, <date>1548</date>, in 8.
 <pb type="cico" n="176"/>
                   </bibl></item>
 
-                  <item xml:id="c2d1e8738" n="3623" corresp="dcl:5kj">
+                  <item xml:id="c2d1e8738" n="3623" corresp="dcl:36b">
                      <label>3623.</label> <bibl><author>BIONDO</author>,<title> Roma ristaurata etc. etc. come sopra, da molti errori corretta, e ristampata</title>, 
                         <pubPlace>Venezia</pubPlace>, presso <publisher>Domenico
 Giglio</publisher>. <date>1558</date>, in 8.
@@ -34372,7 +34372,7 @@ Poniatowski</title>, <pubPlace>Roma</pubPlace> <date>1794</date>, M. 84.
                      <label>3915.</label> <bibl><author>VISCONTI Ennio Quirino</author>, <title>Monumenti degli Scipioni</title>. Vedi Piranesi.
 </bibl></item>
 
-                  <item xml:id="c2d1e10800" n="3916">
+                  <item xml:id="c2d1e10800" n="3916" corresp="dcl:mf5">
                      <label>3916.</label> <bibl><author>VISCONTI Ennio Quirino</author>, <title>Monumenti Galbinj della villa Pinciana descritti</title>, <pubPlace>Roma</pubPlace> <date>1797</date>, in 8, fig.
 </bibl></item>
 
@@ -39512,7 +39512,7 @@ ricercate edizioni</title>, <pubPlace>Venezia</pubPlace> <date>1816</date>, in 4
                      <label>4662.</label> <bibl><author>PANSA Muzio</author>, <title>Della Libreria Vaticana, ragionamenti</title>, <pubPlace>Roma</pubPlace> <date>1590</date>, in 4.
 </bibl></item>
 
-                  <item xml:id="c2d1e17047" n="4663">
+                  <item xml:id="c2d1e17047" n="4663" corresp="dcl:6gz">
                      <label>4663.</label> <bibl><author>PEIGNOT Gabriel</author>, <title>Dictionnaire raisonné de la Bibliologie</title>, <pubPlace>Paris</pubPlace> <date>1802</date>, 3 vol., in 8.
 </bibl></item>
 
