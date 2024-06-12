@@ -18,5 +18,62 @@
         </sourceDesc>
     </fileDesc>
 </teiHeader>
-        
+        <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:local="http://library.princeton.edu" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Vitellionis mathematici doctissimi Peri optikēs [microform] : id est de natura, ratione, &amp; proiectione radiorum uisus, luminum, colorum atq[ue] formarum, quam uulgo perspectiuam uocant, libri X ... / nunc primum opera mathematicor[um] praestantiss. dd. Georgij Tanstetter &amp; Petri Apiani in lucem aedita.</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Apian, Peter, 1495-1552.</authority>
+            <authority>Collimitius, Georgius, 1482-1535.</authority>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985244383506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/mh8r0f</idno>
+            <idno type="cico">873</idno>
+            <idno type="dcl">2cz</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Vitellionis mathematici doctissimi Peri optikēs [microform] : id est de natura, ratione, &amp; proiectione radiorum uisus, luminum, colorum atq[ue] formarum, quam uulgo perspectiuam uocant, libri X ... / nunc primum opera mathematicor[um] praestantiss. dd. Georgij Tanstetter &amp; Petri Apiani in lucem aedita.</title>
+                  <respStmt>
+                     <persName>Witelo, active 13th century.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Latin</textLang>
+                  <imprint>
+                     <publisher>Norimbergae : Apud Io. Petreium</publisher>
+                     <date>1535</date>
+                  </imprint>
+                  <extent>[4], 297 numb. leaves</extent>
+                  <extent>9 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/723f0323-bc28-40a2-b427-5ba7f2ccbbb8/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Optics -- Early works to 1800.</term>
+               <term>Perspective -- Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/723f0323-bc28-40a2-b427-5ba7f2ccbbb8/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
 </teiCorpus>

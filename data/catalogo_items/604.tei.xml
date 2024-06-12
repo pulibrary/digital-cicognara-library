@@ -24,5 +24,126 @@
         </sourceDesc>
     </fileDesc>
 </teiHeader>
-        
+        <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:local="http://library.princeton.edu" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Les oeuvres d'architecture d'Anthoine Le Pautre.</title>
+            <respStmt>
+               <orgName>Getty Research Institute</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Aviler, Augustin-Charles d', 1653-1701.</authority>
+            <idno type="URI">http://portal.getty.edu/books/gri_9921891760001551</idno>
+            <idno type="URI">http://portal.getty.edu/api/bj0120</idno>
+            <idno>(OCoLC)4747408</idno>
+            <idno type="cico">604</idno>
+            <idno type="dcl">bk2</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Les oeuvres d'architecture d'Anthoine Le Pautre.</title>
+                  <respStmt>
+                     <persName>Lepautre, Antoine, 1621-1679</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>French</textLang>
+                  <imprint>
+                     <publisher>Paris, Chez Jombert</publisher>
+                     <pubPlace>France</pubPlace>
+                     <pubPlace>France.</pubPlace>
+                     <date>[1652]</date>
+                     <date>1652</date>
+                  </imprint>
+                  <extent>38 [i.e. 36] pages</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://media.getty.edu/iiif/manifest/a5bf2196-38b6-4909-b44e-5a1db452c2ca"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Architecture -- Early works to 1800.</term>
+               <term>Architecture -- France -- 16th century.</term>
+               <term>Le Pautre, Antoine, 1614-1691.</term>
+               <term>Architecture -- Ouvrages avant 1800.</term>
+               <term>Architecture.</term>
+               <term>France.</term>
+               <term>NA1053.L46 A46 1652</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://media.getty.edu/iiif/manifest/a5bf2196-38b6-4909-b44e-5a1db452c2ca">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:local="http://library.princeton.edu" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Les oeuvres d'architecture d'Anthoine Le Pautre .. [microform]</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985132703506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/xj5r42</idno>
+            <idno type="cico">604</idno>
+            <idno type="dcl">bk2</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Les oeuvres d'architecture d'Anthoine Le Pautre .. [microform]</title>
+                  <respStmt>
+                     <persName>Lepautre, Antoine, 1621-1679.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>French</textLang>
+                  <imprint>
+                     <publisher>A Paris : Chez Jombert</publisher>
+                     <pubPlace>France</pubPlace>
+                     <date>[1652]</date>
+                     <date>1652</date>
+                  </imprint>
+                  <extent>[2], 38 p., [61] leaves of plates</extent>
+                  <extent>3 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/44cc8525-6d22-4214-88d4-8e38c8270426/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Architecture -- Early works to 1800.</term>
+               <term>Architecture -- France -- Paris.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/44cc8525-6d22-4214-88d4-8e38c8270426/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
 </teiCorpus>

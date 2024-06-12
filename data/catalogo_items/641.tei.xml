@@ -24,5 +24,64 @@
         </sourceDesc>
     </fileDesc>
 </teiHeader>
-        
+        <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:local="http://library.princeton.edu" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>I dieci libri d'architettvra / di Gio: Antonio Rvsconi, secondo i precetti di Vitruuio.</title>
+            <respStmt>
+               <orgName>Getty Research Institute</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Rusconi, Giovanni Antonio, 1520?-1587, translator.</authority>
+            <authority>Vitruvius Pollio. De architectura</authority>
+            <idno type="URI">http://portal.getty.edu/books/gri_9924519120001551</idno>
+            <idno type="URI">http://portal.getty.edu/api/td5z98</idno>
+            <idno>(OCoLC)3487673</idno>
+            <idno type="cico">641</idno>
+            <idno type="dcl">8sg</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>I dieci libri d'architettvra / di Gio: Antonio Rvsconi, secondo i precetti di Vitruuio.</title>
+                  <respStmt>
+                     <persName>Vitruvius Pollio</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>In Venetia : Appresso il Nicolini</publisher>
+                     <date>1660</date>
+                  </imprint>
+                  <extent>[12], 148 p.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://media.getty.edu/iiif/manifest/5736c2c0-aa88-4849-87be-f69610cd115d"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Vitruvius Pollio. De architectura -- Illustrations.</term>
+               <term>Architecture.</term>
+               <term>De architectura (Vitruvius Pollio)</term>
+               <term>Architecture</term>
+               <term>NA2515 .V85 1660</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://media.getty.edu/iiif/manifest/5736c2c0-aa88-4849-87be-f69610cd115d">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
 </teiCorpus>

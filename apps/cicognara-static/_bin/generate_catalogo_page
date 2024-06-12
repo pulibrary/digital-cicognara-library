@@ -1,7 +1,7 @@
 #!/bin/bash
 
 CUR=`dirname $0`
-INPUTDIR=$CUR/../tmp
+INPUTDIR=$CUR/../../../data
 TARGETDIR=$CUR/../catalogo
 SAXON=$CUR/saxon-he-10.5.jar
 XSL=$CUR/catalogo_to_html.xsl

@@ -26,5 +26,278 @@ talento la distribuzione, nel corso dell’opera.</note>
         </sourceDesc>
     </fileDesc>
 </teiHeader>
-        
+        <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:local="http://library.princeton.edu" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>La Sicilia di Filippo Paruta descritta con medaglie, e ristampata con aggiunta da Leonardo Agostini : hora in miglior ordine disposta da Marco Maier : arrichita d'una descrittione compendiosa di quella famosa isola, &amp; illustrata d'una succinta dichiaratione non più stampata intorno alle sue medaglie : con l'aggiunta della cronologia accomodata alla sudetta historia.</title>
+            <respStmt>
+               <orgName>Getty Research Institute</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Agostini, Leonardo, 1593-approximately 1670</authority>
+            <authority>Maier, Marc, -approximately 1700, editor.</authority>
+            <authority>Sibert, Marcellin, 1662-1721, printer.</authority>
+            <authority>Goltzius, Hubert, 1526-1583</authority>
+            <authority>Furck, Sebastian, 1589-1666, engraver.</authority>
+            <authority>Canini, Giovanni Angelo, 1609-1666, illustrator.</authority>
+            <authority>Bathurst, Charles, of Lydney Park, former owner.</authority>
+            <idno type="URI">http://portal.getty.edu/books/gri_9929059830001551</idno>
+            <idno type="URI">http://portal.getty.edu/api/wn809p</idno>
+            <idno>(OCoLC)6630348</idno>
+            <idno type="cico">2958</idno>
+            <idno type="dcl">svd</idno>
+            <idno type="dcl">h35</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>La Sicilia di Filippo Paruta descritta con medaglie, e ristampata con aggiunta da Leonardo Agostini : hora in miglior ordine disposta da Marco Maier : arrichita d'una descrittione compendiosa di quella famosa isola, &amp; illustrata d'una succinta dichiaratione non più stampata intorno alle sue medaglie : con l'aggiunta della cronologia accomodata alla sudetta historia.</title>
+                  <respStmt>
+                     <persName>Paruta, Filippo, 1550?-1629</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>In Lione : Appresso Marco Maier, en Bellecour</publisher>
+                     <pubPlace>Italy</pubPlace>
+                     <pubPlace>Sicily (Italy)</pubPlace>
+                     <pubPlace>France Lyon.</pubPlace>
+                     <date>MDCXCVII [1697]</date>
+                     <date>1697</date>
+                  </imprint>
+                  <extent>16 unnumbered pages, 100 pages, 153 unnumbered leaves of plates</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://media.getty.edu/iiif/manifest/1cfa589a-b6af-4701-92b8-e69007cd2bb2"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Sicily (Italy) -- History -- Early works to 1800.</term>
+               <term>Medals -- Italy -- Sicily -- Early works to 1800.</term>
+               <term>Coins -- Italy -- Sicily -- Early works to 1800.</term>
+               <term>Sicily (Italy) -- Antiquities -- Early works to 1800.</term>
+               <term>Antiquities</term>
+               <term>Coins.</term>
+               <term>Medals.</term>
+               <term>Italy -- Sicily.</term>
+               <term>CJ550 .P2</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://media.getty.edu/iiif/manifest/1cfa589a-b6af-4701-92b8-e69007cd2bb2">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:local="http://library.princeton.edu" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>La Sicilia [microform] / di Filippo Paruta ; descritta con medagliee ristampata con aggiunta da Leonardo Agostini ; hora in miglior ordine disposta da Marco Maier ; arrichita d'una descrittione compendiosa di quella famosa isola, &amp; illustrata d'una succinta dichiaratione non più stampata intorno alle sue medaglie ; con l'aggiunta della cronologia accommodata alla sudetta historia.</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Agostini, Leonardo, 1593-approximately 1670.</authority>
+            <authority>Goltzius, Hubert, 1526-1583.</authority>
+            <authority>Maier, Marc, -approximately 1700.</authority>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <authority>Leopoldo Cicognara Program (University of Illinois at Urbana-Champaign)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985410193506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/2x6n38</idno>
+            <idno type="cico">2958</idno>
+            <idno type="dcl">svd</idno>
+            <idno type="dcl">h35</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>La Sicilia [microform] / di Filippo Paruta ; descritta con medagliee ristampata con aggiunta da Leonardo Agostini ; hora in miglior ordine disposta da Marco Maier ; arrichita d'una descrittione compendiosa di quella famosa isola, &amp; illustrata d'una succinta dichiaratione non più stampata intorno alle sue medaglie ; con l'aggiunta della cronologia accommodata alla sudetta historia.</title>
+                  <respStmt>
+                     <persName>Paruta, Filippo, 1550?-1629.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>In Lione : Appresso Marco Maier</publisher>
+                     <pubPlace>Italy</pubPlace>
+                     <pubPlace>Sicily (Italy)</pubPlace>
+                     <date>1697</date>
+                  </imprint>
+                  <extent>100 p., [ca. 153] leaves of plates</extent>
+                  <extent>7 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/9570b3b6-6dc2-4738-a4a3-a82cdf94ee31/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Medals -- Italy -- Sicily -- Early works to 1800.</term>
+               <term>Sicily (Italy)</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/9570b3b6-6dc2-4738-a4a3-a82cdf94ee31/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:local="http://library.princeton.edu" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>La Sicilia di Filippo Paruta descritta con medaglie, e ristampata con aggiunta da Leonardo Agostini : hora in miglior ordine disposta da Marco Maier : arrichita d'una descrittione compendiosa di quella famosa isola, &amp; illustrata d'una succinta dichiaratione non più stampata intorno alle sue medaglie : con l'aggiunta della cronologia accomodata alla sudetta historia.</title>
+            <respStmt>
+               <orgName>Getty Research Institute</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Agostini, Leonardo, 1593-approximately 1670</authority>
+            <authority>Maier, Marc, -approximately 1700, editor.</authority>
+            <authority>Sibert, Marcellin, 1662-1721, printer.</authority>
+            <authority>Goltzius, Hubert, 1526-1583</authority>
+            <authority>Furck, Sebastian, 1589-1666, engraver.</authority>
+            <authority>Canini, Giovanni Angelo, 1609-1666, illustrator.</authority>
+            <authority>Bathurst, Charles, of Lydney Park, former owner.</authority>
+            <idno type="URI">http://portal.getty.edu/books/gri_9929059830001551</idno>
+            <idno type="URI">http://portal.getty.edu/api/wn809p</idno>
+            <idno>(OCoLC)6630348</idno>
+            <idno type="cico">2958</idno>
+            <idno type="dcl">svd</idno>
+            <idno type="dcl">h35</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>La Sicilia di Filippo Paruta descritta con medaglie, e ristampata con aggiunta da Leonardo Agostini : hora in miglior ordine disposta da Marco Maier : arrichita d'una descrittione compendiosa di quella famosa isola, &amp; illustrata d'una succinta dichiaratione non più stampata intorno alle sue medaglie : con l'aggiunta della cronologia accomodata alla sudetta historia.</title>
+                  <respStmt>
+                     <persName>Paruta, Filippo, 1550?-1629</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>In Lione : Appresso Marco Maier, en Bellecour</publisher>
+                     <pubPlace>Italy</pubPlace>
+                     <pubPlace>Sicily (Italy)</pubPlace>
+                     <pubPlace>France Lyon.</pubPlace>
+                     <date>MDCXCVII [1697]</date>
+                     <date>1697</date>
+                  </imprint>
+                  <extent>16 unnumbered pages, 100 pages, 153 unnumbered leaves of plates</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://media.getty.edu/iiif/manifest/1cfa589a-b6af-4701-92b8-e69007cd2bb2"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Sicily (Italy) -- History -- Early works to 1800.</term>
+               <term>Medals -- Italy -- Sicily -- Early works to 1800.</term>
+               <term>Coins -- Italy -- Sicily -- Early works to 1800.</term>
+               <term>Sicily (Italy) -- Antiquities -- Early works to 1800.</term>
+               <term>Antiquities</term>
+               <term>Coins.</term>
+               <term>Medals.</term>
+               <term>Italy -- Sicily.</term>
+               <term>CJ550 .P2</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://media.getty.edu/iiif/manifest/1cfa589a-b6af-4701-92b8-e69007cd2bb2">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:local="http://library.princeton.edu" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>La Sicilia [microform] / di Filippo Paruta ; descritta con medagliee ristampata con aggiunta da Leonardo Agostini ; hora in miglior ordine disposta da Marco Maier ; arrichita d'una descrittione compendiosa di quella famosa isola, &amp; illustrata d'una succinta dichiaratione non più stampata intorno alle sue medaglie ; con l'aggiunta della cronologia accommodata alla sudetta historia.</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Agostini, Leonardo, 1593-approximately 1670.</authority>
+            <authority>Goltzius, Hubert, 1526-1583.</authority>
+            <authority>Maier, Marc, -approximately 1700.</authority>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <authority>Leopoldo Cicognara Program (University of Illinois at Urbana-Champaign)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985410193506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/2x6n38</idno>
+            <idno type="cico">2958</idno>
+            <idno type="dcl">svd</idno>
+            <idno type="dcl">h35</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>La Sicilia [microform] / di Filippo Paruta ; descritta con medagliee ristampata con aggiunta da Leonardo Agostini ; hora in miglior ordine disposta da Marco Maier ; arrichita d'una descrittione compendiosa di quella famosa isola, &amp; illustrata d'una succinta dichiaratione non più stampata intorno alle sue medaglie ; con l'aggiunta della cronologia accommodata alla sudetta historia.</title>
+                  <respStmt>
+                     <persName>Paruta, Filippo, 1550?-1629.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>In Lione : Appresso Marco Maier</publisher>
+                     <pubPlace>Italy</pubPlace>
+                     <pubPlace>Sicily (Italy)</pubPlace>
+                     <date>1697</date>
+                  </imprint>
+                  <extent>100 p., [ca. 153] leaves of plates</extent>
+                  <extent>7 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/9570b3b6-6dc2-4738-a4a3-a82cdf94ee31/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Medals -- Italy -- Sicily -- Early works to 1800.</term>
+               <term>Sicily (Italy)</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/9570b3b6-6dc2-4738-a4a3-a82cdf94ee31/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
 </teiCorpus>

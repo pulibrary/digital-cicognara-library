@@ -22,5 +22,68 @@ gabinetto.</note>
         </sourceDesc>
     </fileDesc>
 </teiHeader>
-        
+        <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:local="http://library.princeton.edu" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Numismata Cimelii caesarei regii Austriaci Vindobonensis [microform] : quorum rariora iconismis cetera catalogis exhibita / jussu Mariae Theresiae, imperatricis et reginae augustae.</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Jamerey-Duval, Valentin, 1695-1775.</authority>
+            <authority>Frölich, Erasmus, 1700-1758.</authority>
+            <authority>Khell von Khellburg, Josef, 1714-1772.</authority>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <authority>Leopoldo Cicognara Program (University of Illinois at Urbana-Champaign)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985409433506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/jz2f1w</idno>
+            <idno type="cico">2947</idno>
+            <idno type="dcl">gk4</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Numismata Cimelii caesarei regii Austriaci Vindobonensis [microform] : quorum rariora iconismis cetera catalogis exhibita / jussu Mariae Theresiae, imperatricis et reginae augustae.</title>
+                  <respStmt>
+                     <persName>Kunsthistorisches Museum Wien. Münzkabinett.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Latin</textLang>
+                  <imprint>
+                     <publisher>Vindobonae : Typis et sumptibus Ioannis Thomae Trattner</publisher>
+                     <pubPlace>Austria.</pubPlace>
+                     <date>1754-1755</date>
+                     <date>1754</date>
+                  </imprint>
+                  <extent>2 pts.</extent>
+                  <extent>22 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/8a263efd-3921-45fa-b6ee-8ee3fb79a19f/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Coins -- Early works to 1800.</term>
+               <term>Medals -- Early works to 1800.</term>
+               <term>Numismatics, Ancient -- Catalogs.</term>
+               <term>Numismatics, Ancient -- Austria.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/8a263efd-3921-45fa-b6ee-8ee3fb79a19f/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
 </teiCorpus>

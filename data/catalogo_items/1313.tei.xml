@@ -19,5 +19,60 @@
         </sourceDesc>
     </fileDesc>
 </teiHeader>
-        
+        <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:local="http://library.princeton.edu" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Discorso intorno alle belle arti in Roma [microform] : recitato nell'adunanza degli arcadi il dì XIV. settembre ora presentato all'illustrissimo signor cavaliere Luigi Alvarez da Cunha e Figueredo incaricato d'affari di S.M. fedelissima presso la s. sede dall'auuocato d. Carlo Fea.</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985302023506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/sr7k23</idno>
+            <idno type="cico">1313</idno>
+            <idno type="dcl">s81</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Discorso intorno alle belle arti in Roma [microform] : recitato nell'adunanza degli arcadi il dì XIV. settembre ora presentato all'illustrissimo signor cavaliere Luigi Alvarez da Cunha e Figueredo incaricato d'affari di S.M. fedelissima presso la s. sede dall'auuocato d. Carlo Fea.</title>
+                  <respStmt>
+                     <persName>Fèa, Carlo, 1753-1836.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>In Roma : Nella stamperia Pagliarini</publisher>
+                     <pubPlace>Italy</pubPlace>
+                     <date>1797</date>
+                  </imprint>
+                  <extent>XXVI p.</extent>
+                  <extent>1 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/e16909fe-f70c-4d69-8ae3-ac794be4cefe/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Art -- Italy -- Rome -- Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/e16909fe-f70c-4d69-8ae3-ac794be4cefe/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
 </teiCorpus>

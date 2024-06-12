@@ -29,5 +29,128 @@ di Luigi XVIII.</note>
         </sourceDesc>
     </fileDesc>
 </teiHeader>
-        
+        <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:local="http://library.princeton.edu" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Iconographie grecque [microform] / par le chevalier E.Q. Visconti.</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <authority>Leopoldo Cicognara Program (University of Illinois at Urbana-Champaign)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985440743506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/p72882</idno>
+            <idno type="URI">http://portal.getty.edu/api/7c0f0v</idno>
+            <idno type="URI">http://portal.getty.edu/api/d44387</idno>
+            <idno type="URI">http://portal.getty.edu/api/cd7z7k</idno>
+            <idno type="URI">http://portal.getty.edu/api/zx7m7c</idno>
+            <idno type="cico">3917</idno>
+            <idno type="dcl">mzr</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Iconographie grecque [microform] / par le chevalier E.Q. Visconti.</title>
+                  <respStmt>
+                     <persName>Visconti, Ennio Quirino, 1751-1818.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>French</textLang>
+                  <imprint>
+                     <publisher>Paris : Impr. de P. Didot l'aîné</publisher>
+                     <pubPlace>Greece</pubPlace>
+                     <date>1808</date>
+                  </imprint>
+                  <extent>2 v.in 3</extent>
+                  <extent>37 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/df15528e-bfb9-44f4-ba0d-75f3dc9d792e/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Coins, Ancient.</term>
+               <term>Portraits, Greek.</term>
+               <term>Greece -- History -- Portraits.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/df15528e-bfb9-44f4-ba0d-75f3dc9d792e/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:local="http://library.princeton.edu" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Iconographie romaine [microform] / par le chevalier E.Q. Visconti.</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Mongez, 1747-1835.</authority>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <authority>Leopoldo Cicognara Program (University of Illinois at Urbana-Champaign)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985440733506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/7w9s76</idno>
+            <idno type="URI">http://portal.getty.edu/api/9c7g0p</idno>
+            <idno type="URI">http://portal.getty.edu/api/s3389t</idno>
+            <idno type="cico">3917</idno>
+            <idno type="dcl">xjw</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Iconographie romaine [microform] / par le chevalier E.Q. Visconti.</title>
+                  <respStmt>
+                     <persName>Visconti, Ennio Quirino, 1751-1818.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>French</textLang>
+                  <imprint>
+                     <publisher>Paris : Impr. de P. Didot l'aîné</publisher>
+                     <date>1817-1826</date>
+                     <date>1817</date>
+                  </imprint>
+                  <extent>4 v.</extent>
+                  <extent>26 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/4d88b002-5f5b-4244-a9d2-d78189d066ae/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Coins, Roman.</term>
+               <term>Portraits, Roman.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/4d88b002-5f5b-4244-a9d2-d78189d066ae/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
 </teiCorpus>

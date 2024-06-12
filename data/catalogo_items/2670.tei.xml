@@ -24,5 +24,64 @@ fig.
         </sourceDesc>
     </fileDesc>
 </teiHeader>
-        
+        <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:local="http://library.princeton.edu" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Des Ritters Wilhelm Hamilton Sr. ... Nachrichten von den neuesten Entdeckungen in der im J.C. 79 am 24 August durch den Ausbruch des Vesuvs verschütteten Stadt Pompeii [microform] / aus dem Englischen übersetzt und mit einigen Zusätzen begleitet von Christoph Gottlieb von Murr ...</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Murr, Christoph Gottlieb von, 1733-1811.</authority>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <authority>Leopoldo Cicognara Program (University of Illinois at Urbana-Champaign)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985407663506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/hg4q2n</idno>
+            <idno type="cico">2670</idno>
+            <idno type="dcl">6sb</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Des Ritters Wilhelm Hamilton Sr. ... Nachrichten von den neuesten Entdeckungen in der im J.C. 79 am 24 August durch den Ausbruch des Vesuvs verschütteten Stadt Pompeii [microform] / aus dem Englischen übersetzt und mit einigen Zusätzen begleitet von Christoph Gottlieb von Murr ...</title>
+                  <respStmt>
+                     <persName>Hamilton, William, Sir, 1730-1803.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>German</textLang>
+                  <imprint>
+                     <publisher>Nürnberg : Auf Kosten der Seeligmännischen Kunsthandlung</publisher>
+                     <pubPlace>Italy</pubPlace>
+                     <pubPlace>Pompeii (Extinct city)</pubPlace>
+                     <date>1780</date>
+                  </imprint>
+                  <extent>26 p.</extent>
+                  <extent>1 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/7d09572c-7ba5-4147-a741-94d1d8ae9cec/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Architecture, Roman -- Italy -- Pompeii (Extinct city).</term>
+               <term>Pompeii (Extinct city) -- Discovery and exploration.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/7d09572c-7ba5-4147-a741-94d1d8ae9cec/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
 </teiCorpus>

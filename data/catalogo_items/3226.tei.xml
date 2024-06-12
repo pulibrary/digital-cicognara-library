@@ -24,5 +24,124 @@ frontespizio istoriato di Romain de Hooghe.</note>
         </sourceDesc>
     </fileDesc>
 </teiHeader>
-        
+        <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:local="http://library.princeton.edu" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Servatii Gallæi Dissertationes de sibyllis, earumque oraculis, cum figuris æneis.</title>
+            <respStmt>
+               <orgName>Getty Research Institute</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Hooghe, Romeyn de, 1645-1708.</authority>
+            <idno type="URI">http://portal.getty.edu/books/gri_9925666990001551</idno>
+            <idno type="URI">http://portal.getty.edu/api/037k25</idno>
+            <idno>(OCoLC)3931045</idno>
+            <idno type="cico">3226</idno>
+            <idno type="dcl">vrg</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Servatii Gallæi Dissertationes de sibyllis, earumque oraculis, cum figuris æneis.</title>
+                  <respStmt>
+                     <persName>Gallé, Servatius, 1627?-1709</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Latin</textLang>
+                  <imprint>
+                     <publisher>Amstelodami, apud Henricum &amp; viduam Theodori Boom</publisher>
+                     <date>1688</date>
+                  </imprint>
+                  <extent>20 preliminary leaves, 658, [26] pages</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://media.getty.edu/iiif/manifest/02a01461-00ee-44b6-a63a-123b5f4628dd"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Oracula Sibyllina.</term>
+               <term>Sibyls -- Early works to 1800.</term>
+               <term>Oracles -- Early works to 1800.</term>
+               <term>Oracula Sibyllina.</term>
+               <term>Sibyls.</term>
+               <term>Oracles.</term>
+               <term>BF1761 .G2</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://media.getty.edu/iiif/manifest/02a01461-00ee-44b6-a63a-123b5f4628dd">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:local="http://library.princeton.edu" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Servatii Gallaei Dissertationes de sibyllis earumque oraculis [microform] : cum figuris aeneis.</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Hooghe, Romeyn de, 1645-1708.</authority>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <authority>Leopoldo Cicognara Program (University of Illinois at Urbana-Champaign)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985415353506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/f29c0n</idno>
+            <idno type="cico">3226</idno>
+            <idno type="dcl">vrg</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Servatii Gallaei Dissertationes de sibyllis earumque oraculis [microform] : cum figuris aeneis.</title>
+                  <respStmt>
+                     <persName>Gallé, Servatius, 1627?-1709.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Latin</textLang>
+                  <imprint>
+                     <publisher>Amstelodami : Apud Henricum &amp; Viduam Theodori Boom</publisher>
+                     <date>1688</date>
+                  </imprint>
+                  <extent>658 p.</extent>
+                  <extent>12 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/d1862fc2-bd2c-4b29-a31e-007f6eaf63b2/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Bible -- History.</term>
+               <term>Oracula sibyllina.</term>
+               <term>Sibyls.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/d1862fc2-bd2c-4b29-a31e-007f6eaf63b2/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
 </teiCorpus>

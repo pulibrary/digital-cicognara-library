@@ -22,5 +22,71 @@ di un’opera che deve ritenersi fra le migliori che illustrano i monumenti dell
         </sourceDesc>
     </fileDesc>
 </teiHeader>
-        
+        <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:local="http://library.princeton.edu" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Raccolta delle più insigni fabbriche di Roma antica e sue adjacenze [microform] : misurate nuovamente e dichiarate dall'architetto Giuseppe Valadier / illustrate con osservazioni antiquarie da Filippo Aurelio Visconti ed incise da Vincenzo Feoli ...</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Visconti, Filippo Aurelio, d. 1831.</authority>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <authority>Leopoldo Cicognara Program (University of Illinois at Urbana-Champaign)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985430143506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/jz1415</idno>
+            <idno type="URI">http://portal.getty.edu/api/gh7p3n</idno>
+            <idno type="URI">http://portal.getty.edu/api/344s39</idno>
+            <idno type="URI">http://portal.getty.edu/api/09432x</idno>
+            <idno type="URI">http://portal.getty.edu/api/q74h4x</idno>
+            <idno type="URI">http://portal.getty.edu/api/jv0x8g</idno>
+            <idno type="URI">http://portal.getty.edu/api/9f5v0r</idno>
+            <idno type="cico">3894</idno>
+            <idno type="dcl">236</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Raccolta delle più insigni fabbriche di Roma antica e sue adjacenze [microform] : misurate nuovamente e dichiarate dall'architetto Giuseppe Valadier / illustrate con osservazioni antiquarie da Filippo Aurelio Visconti ed incise da Vincenzo Feoli ...</title>
+                  <respStmt>
+                     <persName>Valadier, Giuseppe, 1762-1839.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>Roma : Dai torchi di M. de Romanis e figli</publisher>
+                     <pubPlace>Rome</pubPlace>
+                     <pubPlace>Rome (Italy)</pubPlace>
+                     <date>1810-26</date>
+                     <date>1810</date>
+                  </imprint>
+                  <extent>8 v.</extent>
+                  <extent>7 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/cc82bebe-282d-4280-83e3-df8c0eddf285/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Architecture -- Rome -- Early works to 1800.</term>
+               <term>Rome (Italy) -- Antiquities -- Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/cc82bebe-282d-4280-83e3-df8c0eddf285/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
 </teiCorpus>

@@ -37,5 +37,64 @@
         </sourceDesc>
     </fileDesc>
 </teiHeader>
-        
+        <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:local="http://library.princeton.edu" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>I dieci libri dell'architettura [microform] / di M. Vitruuio ; tradotti &amp; commentati da Daniel Barbaro ... da lui riueduti &amp; ampliati &amp; hora in piu commoda forma ridotti.</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Barbaro, Daniel, 1514-1570.</authority>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985179793506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/76772v</idno>
+            <idno type="URI">http://portal.getty.edu/api/b32508</idno>
+            <idno type="URI">http://portal.getty.edu/api/3s4c5r</idno>
+            <idno type="cico">717</idno>
+            <idno type="dcl">rg2</idno>
+            <idno type="dcl">nkb</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>I dieci libri dell'architettura [microform] / di M. Vitruuio ; tradotti &amp; commentati da Daniel Barbaro ... da lui riueduti &amp; ampliati &amp; hora in piu commoda forma ridotti.</title>
+                  <respStmt>
+                     <persName>Vitruvius Pollio.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>In Venetia : Apresso Francesco de' Franceschi senese, &amp; Giouanni Chrieger alemano compagni</publisher>
+                     <date>1567</date>
+                  </imprint>
+                  <extent>[8], 506 p.</extent>
+                  <extent>8 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/b7ef3ded-12cf-456e-8af5-aff02dc67069/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Architecture -- Early works to 1800.</term>
+               <term>Provenance -- Scamozzi (Vincenzo)</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/b7ef3ded-12cf-456e-8af5-aff02dc67069/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
 </teiCorpus>

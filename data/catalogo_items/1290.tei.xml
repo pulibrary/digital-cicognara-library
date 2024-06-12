@@ -22,5 +22,60 @@
         </sourceDesc>
     </fileDesc>
 </teiHeader>
-        
+        <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:local="http://library.princeton.edu" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Almanach des beaux-arts [microform] : peinture, sculpture, architecture et gravure pour l'an XIII, 1804.</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <authority>Leopoldo Cicognara Program (University of Illinois at Urbana-Champaign)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985302283506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/75657h</idno>
+            <idno type="cico">1290</idno>
+            <idno type="dcl">nzc</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Almanach des beaux-arts [microform] : peinture, sculpture, architecture et gravure pour l'an XIII, 1804.</title>
+                  <textLang>French</textLang>
+                  <imprint>
+                     <publisher>Paris : C.P. Landon</publisher>
+                     <pubPlace>France.</pubPlace>
+                     <date>[1803?]</date>
+                     <date>1803</date>
+                  </imprint>
+                  <extent>224 p.</extent>
+                  <extent>4 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/0d690fe1-0e49-4b28-82ec-5cdd3a87f568/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Almanacs, French.</term>
+               <term>Art -- France.</term>
+               <term>Artists -- France.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/0d690fe1-0e49-4b28-82ec-5cdd3a87f568/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
 </teiCorpus>

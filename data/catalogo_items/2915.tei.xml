@@ -22,5 +22,61 @@ fare un merito all’autore presso il cardinale Albani.</note>
         </sourceDesc>
     </fileDesc>
 </teiHeader>
-        
+        <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:local="http://library.princeton.edu" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Bruttia numismatica seu Bruttiae, hodiè Calabriae [microform] : populorum numismata omnia, invariis per Europam nummophylaeiis / accuratè descripta, nec non aliqua alia ex jam editis de promptor à P. Dominico Magnan ....</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <authority>Leopoldo Cicognara Program (University of Illinois at Urbana-Champaign)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985409273506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/0j1s3x</idno>
+            <idno type="cico">2915</idno>
+            <idno type="dcl">604</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Bruttia numismatica seu Bruttiae, hodiè Calabriae [microform] : populorum numismata omnia, invariis per Europam nummophylaeiis / accuratè descripta, nec non aliqua alia ex jam editis de promptor à P. Dominico Magnan ....</title>
+                  <respStmt>
+                     <persName>Magnan, Dominique, 1731-1796.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Latin</textLang>
+                  <imprint>
+                     <publisher>Romae : Apud Archangelum Casaletti ... et Josephum Monaldini</publisher>
+                     <pubPlace>Italy</pubPlace>
+                     <date>1773</date>
+                  </imprint>
+                  <extent>XII p.</extent>
+                  <extent>4 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/9d7ca158-5553-41ac-a541-34a246c46781/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Numismatics -- Italy -- Calabria -- Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/9d7ca158-5553-41ac-a541-34a246c46781/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
 </teiCorpus>

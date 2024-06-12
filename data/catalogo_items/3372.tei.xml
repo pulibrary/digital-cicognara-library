@@ -21,5 +21,82 @@ fronte di Francesco Maria Ruspoli.
         </sourceDesc>
     </fileDesc>
 </teiHeader>
-        
+        <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:local="http://library.princeton.edu" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Musaeum Kircherianum, sive, Musaeum a P. Athanasio Kirchero in Collegio Romano Societatis Jesu jam pridem incoeptum nuper restitutum, auctum, descriptum, &amp; iconibus illustratum : excellentissimo Domino Francisco Mariae Ruspolo antiquae urbis Agyllinae Principi / oblatum a P. Philippo Bonanni, Societatis Jesu.</title>
+            <respStmt>
+               <orgName>Getty Research Institute</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Kircher, Athanasius, 1602-1680</authority>
+            <authority>Placho, Giorgio, active 1698-1728, printer.</authority>
+            <authority>Ruspoli, Francesco Maria, 1672-1731, dedicatee.</authority>
+            <authority>Collegio romano. Museo</authority>
+            <idno type="URI">http://portal.getty.edu/books/gri_9930222150001551</idno>
+            <idno type="URI">http://portal.getty.edu/api/4w6h3g</idno>
+            <idno>(OCoLC)13595852</idno>
+            <idno type="cico">3372</idno>
+            <idno type="dcl">gnz</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Musaeum Kircherianum, sive, Musaeum a P. Athanasio Kirchero in Collegio Romano Societatis Jesu jam pridem incoeptum nuper restitutum, auctum, descriptum, &amp; iconibus illustratum : excellentissimo Domino Francisco Mariae Ruspolo antiquae urbis Agyllinae Principi / oblatum a P. Philippo Bonanni, Societatis Jesu.</title>
+                  <respStmt>
+                     <persName>Buonanni, Filippo, 1638-1725</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Latin</textLang>
+                  <imprint>
+                     <publisher>Romae : Typis Georgii Plachi caelaturam profitentis, &amp; characterum fusoriam propè S. Marcum</publisher>
+                     <pubPlace>Italy</pubPlace>
+                     <pubPlace>Italy.</pubPlace>
+                     <pubPlace>Italy Rome.</pubPlace>
+                     <date>MDCCIX [1709]</date>
+                     <date>1709</date>
+                  </imprint>
+                  <extent>[12], 522 [i.e. 399], [9] p., [172] leaves of plates (2 folded)</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://media.getty.edu/iiif/manifest/245915da-486e-4eb7-b9de-0092f38693a0"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Kircher, Athanasius, 1602-1680 -- Museums -- Catalogs.</term>
+               <term>Collegio romano. Museo -- Catalogs -- Early works to 1800.</term>
+               <term>Antiquities -- Early works to 1800.</term>
+               <term>Shells -- Early works to 1800.</term>
+               <term>Science museums -- Italy -- Early works to 1800.</term>
+               <term>Natural history museums -- Italy -- Rome -- Early works to 1800.</term>
+               <term>Collegio Romano. -- Early works to 1800.</term>
+               <term>Kircher, Athanasius, 1602-1680</term>
+               <term>Collegio romano. Museo</term>
+               <term>Antiquities.</term>
+               <term>Museums.</term>
+               <term>Natural history museums.</term>
+               <term>Science museums.</term>
+               <term>Shells.</term>
+               <term>Italy.</term>
+               <term>Italy -- Rome.</term>
+               <term>AM101 .R66 1709</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://media.getty.edu/iiif/manifest/245915da-486e-4eb7-b9de-0092f38693a0">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
 </teiCorpus>

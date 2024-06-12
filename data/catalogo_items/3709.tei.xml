@@ -27,5 +27,119 @@ interessantissimo libro.</note>
         </sourceDesc>
     </fileDesc>
 </teiHeader>
-        
+        <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:local="http://library.princeton.edu" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Iasithei Ad Grunnovivm apologema, in eiusque Titiuilitia, siue, De Tito Liuio somnia animaduersiones [microform]: Neapoli apud Nouellum de Bonis 1686. In 4.</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <authority>Leopoldo Cicognara Program (University of Illinois at Urbana-Champaign)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985455283506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/jw039p</idno>
+            <idno type="cico">3709[a]</idno>
+            <idno type="cico">3709</idno>
+            <idno type="dcl">rrw</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Iasithei Ad Grunnovivm apologema, in eiusque Titiuilitia, siue, De Tito Liuio somnia animaduersiones [microform]: Neapoli apud Nouellum de Bonis 1686. In 4.</title>
+                  <respStmt>
+                     <persName>Magno, Biagio.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>In Napoli : Per Nouello de Bonis</publisher>
+                     <date>1686</date>
+                  </imprint>
+                  <extent>[4] p.</extent>
+                  <extent>1 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/d680f1a7-cf55-46d1-952e-debf6db14227/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Fabretti, Raffaele, 1618-1700. Ad Iacobum Gronovium apologema in eiusque Titiliuitia.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/d680f1a7-cf55-46d1-952e-debf6db14227/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:local="http://library.princeton.edu" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Iasithei ad Grunnovivm apologema in eiusque Titiuilitia, sive, de Tito Liuio somnia, animadversiones [microform].</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Gronovius, Jacobus, 1645-1716.</authority>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <authority>Leopoldo Cicognara Program (University of Illinois at Urbana-Champaign)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985455113506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/vm0717</idno>
+            <idno type="cico">3709[b]</idno>
+            <idno type="cico">3709</idno>
+            <idno type="dcl">k2n</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Iasithei ad Grunnovivm apologema in eiusque Titiuilitia, sive, de Tito Liuio somnia, animadversiones [microform].</title>
+                  <respStmt>
+                     <persName>Fabretti, Raffaele, 1618-1700.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Latin</textLang>
+                  <imprint>
+                     <publisher>Neapoli : Apud Nouellum de Bonis</publisher>
+                     <date>1686</date>
+                  </imprint>
+                  <extent>143, [8] p.</extent>
+                  <extent>3 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/750f0296-d6de-4b60-82ab-c29a60268000/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Livy -- Criticism and interpretation.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/750f0296-d6de-4b60-82ab-c29a60268000/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
 </teiCorpus>

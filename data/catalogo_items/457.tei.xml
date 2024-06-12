@@ -23,5 +23,130 @@
         </sourceDesc>
     </fileDesc>
 </teiHeader>
-        
+        <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:local="http://library.princeton.edu" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Disegni e scritti d'architettura di Ottone Calderari.</title>
+            <respStmt>
+               <orgName>Getty Research Institute</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Diedo, Antonio, 1772-1847</authority>
+            <authority>Marangoni, Giovanni Battista.</authority>
+            <authority>Rigato, Andrea.</authority>
+            <authority>Vivorio, Agostino, 1744-1822.</authority>
+            <authority>Mugnon, Antonio, active 1787-1820, illustrator.</authority>
+            <idno type="URI">http://portal.getty.edu/books/gri_9929981740001551</idno>
+            <idno type="URI">http://portal.getty.edu/api/5k494r</idno>
+            <idno type="URI">http://portal.getty.edu/api/2h2n00</idno>
+            <idno>(OCoLC)4742877</idno>
+            <idno type="cico">457</idno>
+            <idno type="dcl">7vt</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Disegni e scritti d'architettura di Ottone Calderari.</title>
+                  <respStmt>
+                     <persName>Calderari, Ottone, 1730-1803</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>Vicenza, Tip. Paroni</publisher>
+                     <pubPlace>Italy.</pubPlace>
+                     <date>1808-15</date>
+                     <date>1808</date>
+                  </imprint>
+                  <extent>2 volumes</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://media.getty.edu/iiif/manifest/6729b86b-77f4-4e75-b116-fdef24255437"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Architecture -- Italy.</term>
+               <term>Architecture -- Designs and plans.</term>
+               <term>Calderari, Ottone, 1730-1803</term>
+               <term>Calderari, Ottone, 1730-1803</term>
+               <term>Architecture.</term>
+               <term>Italy.</term>
+               <term>NA263 .C2</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://media.getty.edu/iiif/manifest/6729b86b-77f4-4e75-b116-fdef24255437">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:local="http://library.princeton.edu" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Disegni e scritti d'architettura [microform] / di Ottone Calderari.</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9984944493506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/3f0h1j</idno>
+            <idno type="cico">457</idno>
+            <idno type="cico">458 (1)</idno>
+            <idno type="dcl">7vt</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Disegni e scritti d'architettura [microform] / di Ottone Calderari.</title>
+                  <respStmt>
+                     <persName>Calderari, Ottone, 1730-1803.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>Vicenza : Paroni</publisher>
+                     <pubPlace>Italy.</pubPlace>
+                     <date>1808-15</date>
+                     <date>1808</date>
+                  </imprint>
+                  <extent>2 v.</extent>
+                  <extent>9 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/a6708cdc-ee23-4853-8c90-47b2af98be12/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Architecture -- Italy.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/a6708cdc-ee23-4853-8c90-47b2af98be12/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
 </teiCorpus>

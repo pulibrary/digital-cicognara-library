@@ -19,5 +19,58 @@ Duomo di Siena dal Pinturicchio <pb type="cico" n="142"/> con gli schizzi e cart
         </sourceDesc>
     </fileDesc>
 </teiHeader>
-        
+        <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:local="http://library.princeton.edu" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Narrazione delle geste di Enea Silvio Piccolomini poi Pio II [microform] / rappresentate nelle pareti della libreria corale del Duomo di Siena dal Pinturicchio ; con gli schizzi e cartoni di Raffaello ; in dieci gran quadri colle loro respettive iscrizioni.</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <authority>Leopoldo Cicognara Program (University of Illinois at Urbana-Champaign)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985458973506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/3m431x</idno>
+            <idno type="cico">3420</idno>
+            <idno type="dcl">prt</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Narrazione delle geste di Enea Silvio Piccolomini poi Pio II [microform] / rappresentate nelle pareti della libreria corale del Duomo di Siena dal Pinturicchio ; con gli schizzi e cartoni di Raffaello ; in dieci gran quadri colle loro respettive iscrizioni.</title>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>In Siena : Per Francesco Rossi</publisher>
+                     <date>1771</date>
+                  </imprint>
+                  <extent>25 p.. [1] leaf of plates</extent>
+                  <extent>1 microfiche : positive ; 11 x 15 cm.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/026ba6ba-a151-487d-a1dc-ba8c35ef5f62/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Pintoricchio, approximately 1454-1513.</term>
+               <term>Raphael, 1483-1520.</term>
+               <term>Duomo di Siena.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/026ba6ba-a151-487d-a1dc-ba8c35ef5f62/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
 </teiCorpus>

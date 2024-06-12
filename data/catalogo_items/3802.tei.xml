@@ -21,5 +21,64 @@ Maffei, il Degodetz ch’egli prende ad esaminare: vi sono 15 tavole in rame.</n
         </sourceDesc>
     </fileDesc>
 </teiHeader>
-        
+        <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:local="http://library.princeton.edu" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Descrizione del Colosseo romano, del Panteo e del Tempio vaticano [microform] / opera di Neralco P.A.</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <authority>Leopoldo Cicognara Program (University of Illinois at Urbana-Champaign)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985437373506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/466n9n</idno>
+            <idno type="cico">3802</idno>
+            <idno type="dcl">194</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Descrizione del Colosseo romano, del Panteo e del Tempio vaticano [microform] / opera di Neralco P.A.</title>
+                  <respStmt>
+                     <persName>Neralco, 1672 or 1673-1759.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>In Ancona : Nella Stamperia di Niccola Bellelli</publisher>
+                     <pubPlace>Rome (Italy)</pubPlace>
+                     <date>1763</date>
+                  </imprint>
+                  <extent>37 p.</extent>
+                  <extent>2 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/cab35b7e-8d77-4981-8578-e4d3a1e88cb4/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Basilica di San Pietro in Vaticano.</term>
+               <term>Colosseum (Rome, Italy)</term>
+               <term>Pantheon (Rome, Italy)</term>
+               <term>Rome (Italy) -- Buildings, structures, etc. -- Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/cab35b7e-8d77-4981-8578-e4d3a1e88cb4/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
 </teiCorpus>

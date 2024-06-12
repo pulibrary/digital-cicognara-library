@@ -20,5 +20,63 @@ espone nel tempio di S. Alessandro</title>, <pubPlace>Milano</pubPlace> <date>16
         </sourceDesc>
     </fileDesc>
 </teiHeader>
-        
+        <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:local="http://library.princeton.edu" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>La sacra medaglia moneta d'oro del Pio Imperatore Tiberio Anicio Constantino, priuilegiata dal sommo pontefice Sisto V [microform] : con indulgenza perpetua plenaria &amp; remissione di tutti li peccati, tanto per i viui, quanto per li defonti, si espone nelle feste dell'inuentione &amp; essaltatione della Sante Corce ; nell'isigne tempio di S. Alessandro de Chierici Regolari di S. Paolo, detti Barnabiti.</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <authority>Leopoldo Cicognara Program (University of Illinois at Urbana-Champaign)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985454943506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/ws616k</idno>
+            <idno type="cico">2923</idno>
+            <idno type="dcl">rzk</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>La sacra medaglia moneta d'oro del Pio Imperatore Tiberio Anicio Constantino, priuilegiata dal sommo pontefice Sisto V [microform] : con indulgenza perpetua plenaria &amp; remissione di tutti li peccati, tanto per i viui, quanto per li defonti, si espone nelle feste dell'inuentione &amp; essaltatione della Sante Corce ; nell'isigne tempio di S. Alessandro de Chierici Regolari di S. Paolo, detti Barnabiti.</title>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>In Milano : Nella stampa di Francesco Vigone, appresso al Collegio di S. Alessandro</publisher>
+                     <pubPlace>Italy</pubPlace>
+                     <date>1774</date>
+                     <date>1664</date>
+                  </imprint>
+                  <extent>[12], 42 , [1] p.</extent>
+                  <extent>1 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/5dc96aed-6042-4fe2-9846-907e05a16b7c/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Tiberius, Emperior of Rome, 42 B.C.-37 A.D. -- Numismatics.</term>
+               <term>Barnabites -- Early works to 1800.</term>
+               <term>S. Alessandro in Zebedia (Church : Milan, Italy)</term>
+               <term>Holy Cross -- Early works to 1800.</term>
+               <term>Indulgences -- Early works to 1800.</term>
+               <term>Relics -- Italy -- Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/5dc96aed-6042-4fe2-9846-907e05a16b7c/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
 </teiCorpus>

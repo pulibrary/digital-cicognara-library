@@ -25,5 +25,61 @@
         </sourceDesc>
     </fileDesc>
 </teiHeader>
-        
+        <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:local="http://library.princeton.edu" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Corso elementare di disegno [microform] : diviso in quaranta tavole : tratte dalle più eccellenti opere greche e da alcune pitture di Raffaello / disegnate da Niccola Benvenuti ; incise e pubblicate da Giuseppe Calendi ; diretto da Pietro Benvenuti e Raffaello Morghen.</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Benvenuti, Niccola.</authority>
+            <authority>Calendi, Giuseppe.</authority>
+            <authority>Morghen, Raffaello, 1761-1833.</authority>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985294393506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/qr454m</idno>
+            <idno type="cico">294</idno>
+            <idno type="dcl">82m</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Corso elementare di disegno [microform] : diviso in quaranta tavole : tratte dalle più eccellenti opere greche e da alcune pitture di Raffaello / disegnate da Niccola Benvenuti ; incise e pubblicate da Giuseppe Calendi ; diretto da Pietro Benvenuti e Raffaello Morghen.</title>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>Firenze : Studio Morghen</publisher>
+                     <date>1808</date>
+                  </imprint>
+                  <extent>[1] p., [40] leaves of plates</extent>
+                  <extent>2 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/59374140-fcc0-427c-bd6e-55e6a14ffc71/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Raphael, 1483-1520.</term>
+               <term>Anatomy, Artistic.</term>
+               <term>Drawing -- Technique.</term>
+               <term>Human figure in art.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/59374140-fcc0-427c-bd6e-55e6a14ffc71/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
 </teiCorpus>
