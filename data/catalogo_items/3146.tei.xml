@@ -24,5 +24,62 @@ Arundeliana marmora.</note>
         </sourceDesc>
     </fileDesc>
 </teiHeader>
-        
+        <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:local="http://library.princeton.edu" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Marmora arundelliana, sive Saxa graece incisa [microform] : ex venerandis priscae orientis gloriae ruderibus, auspicijs &amp; impensis ...: Thomae comitis Arundelliae &amp; Surriae ... : pridem vindicata &amp; in aedibus eius hortisque cognominibus, ad Thamesis ripan, disposita : accedunt inscriptiones aliquot veteris Latij, ex locupletissimo eiusdem vetustatis thesauro selectae, auctariorlum item aliundè sumtum / publicauit &amp; commentarolos adiecit Ioannes Seldenus I.C. ...</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Selden, John, 1584-1654.</authority>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <authority>Leopoldo Cicognara Program (University of Illinois at Urbana-Champaign)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985412423506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/g44m65</idno>
+            <idno type="cico">3146</idno>
+            <idno type="dcl">bcp</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Marmora arundelliana, sive Saxa graece incisa [microform] : ex venerandis priscae orientis gloriae ruderibus, auspicijs &amp; impensis ...: Thomae comitis Arundelliae &amp; Surriae ... : pridem vindicata &amp; in aedibus eius hortisque cognominibus, ad Thamesis ripan, disposita : accedunt inscriptiones aliquot veteris Latij, ex locupletissimo eiusdem vetustatis thesauro selectae, auctariorlum item aliundè sumtum / publicauit &amp; commentarolos adiecit Ioannes Seldenus I.C. ...</title>
+                  <textLang>Latin</textLang>
+                  <imprint>
+                     <publisher>Londini : Apud Ioannem Billium</publisher>
+                     <pubPlace>England</pubPlace>
+                     <date>1629</date>
+                  </imprint>
+                  <extent>[18], 182 p.</extent>
+                  <extent>3 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/02684950-826f-46d8-8d76-b5219a5ad0b3/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Arundel, Thomas Howard, Earl of, 1585-1646 -- Art collections.</term>
+               <term>Classical antiquities.</term>
+               <term>Inscriptions, Greek -- England -- Early works to 1800.</term>
+               <term>Inscriptions, Latin -- England -- Early works to 1800.</term>
+               <term>Marble sculpture -- England -- Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/02684950-826f-46d8-8d76-b5219a5ad0b3/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
 </teiCorpus>

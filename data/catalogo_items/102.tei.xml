@@ -24,5 +24,63 @@
         </sourceDesc>
     </fileDesc>
 </teiHeader>
-        
+        <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:local="http://library.princeton.edu" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>La pittura in Parnaso : opera / di Gio. Maria Ciocchi ...</title>
+            <respStmt>
+               <orgName>Getty Research Institute</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Nestenus, Michele, -1731, printer.</authority>
+            <idno type="URI">http://portal.getty.edu/books/gri_9929353640001551</idno>
+            <idno type="URI">http://portal.getty.edu/api/9n4n18</idno>
+            <idno>(OCoLC)11864724</idno>
+            <idno type="cico">102</idno>
+            <idno type="cico">103</idno>
+            <idno type="dcl">hnv</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>La pittura in Parnaso : opera / di Gio. Maria Ciocchi ...</title>
+                  <respStmt>
+                     <persName>Ciocchi, Giovanni Maria, 1658-1725.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>In Firenze : Nella stamperia di Michele Nestenus</publisher>
+                     <pubPlace>Italy Florence.</pubPlace>
+                     <date>1725</date>
+                  </imprint>
+                  <extent>xxiv, 310 pages</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://media.getty.edu/iiif/manifest/c8d02c4d-6dea-46e9-b3d2-228b5781259b"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Painting -- Early works to 1800.</term>
+               <term>Painting.</term>
+               <term>ND1130 .C49p</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://media.getty.edu/iiif/manifest/c8d02c4d-6dea-46e9-b3d2-228b5781259b">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
 </teiCorpus>

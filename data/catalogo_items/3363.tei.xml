@@ -19,5 +19,63 @@ Venezia, dissertazione</title>, <pubPlace>Venezia</pubPlace> <date>1779</date>, 
         </sourceDesc>
     </fileDesc>
 </teiHeader>
-        
+        <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:local="http://library.princeton.edu" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Della berretta ducale volgarmente chiamata corno che portasi da' serenissimi Dogi di Venezia [microform] : dissertazione / di G. Zanetti.</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <authority>Leopoldo Cicognara Program (University of Illinois at Urbana-Champaign)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985463523506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/df2821</idno>
+            <idno type="cico">3363</idno>
+            <idno type="dcl">62w</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Della berretta ducale volgarmente chiamata corno che portasi da' serenissimi Dogi di Venezia [microform] : dissertazione / di G. Zanetti.</title>
+                  <respStmt>
+                     <persName>Zanetti, Girolamo Francesco, 1713-1782.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>[S.l. : s.n]</publisher>
+                     <pubPlace>Italy</pubPlace>
+                     <date>[1779]</date>
+                     <date>1779</date>
+                  </imprint>
+                  <extent>XXII p.</extent>
+                  <extent>1 microfiche : positive ; 11 x 15 cm.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/2b413fb8-c022-4e94-849b-ae5cba499ed4/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Crowns in heraldry -- Italy -- Venice -- History.</term>
+               <term>Heraldry -- Italy -- Venice -- History.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/2b413fb8-c022-4e94-849b-ae5cba499ed4/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
 </teiCorpus>

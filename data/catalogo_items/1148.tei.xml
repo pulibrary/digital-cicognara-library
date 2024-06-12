@@ -23,5 +23,68 @@
         </sourceDesc>
     </fileDesc>
 </teiHeader>
-        
+        <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:local="http://library.princeton.edu" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Lettera di Sebastiano Ciampi sopra la interpretazione d'un verso di Dante nella cantica xxiv dell'Inferno, e sopra l'autore di due candellieri d'argento fatti per l'opera di S. Jacopo dal 1457 al 1462 : con altre notizie relative all'arte dell'oreficeria.</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <authority>Leopoldo Cicognara Program (University of Illinois at Urbana-Champaign)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_99100847633506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/zt4k00</idno>
+            <idno>(OCoLC)80237946</idno>
+            <idno type="cico">1148</idno>
+            <idno type="dcl">ng2</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Lettera di Sebastiano Ciampi sopra la interpretazione d'un verso di Dante nella cantica xxiv dell'Inferno, e sopra l'autore di due candellieri d'argento fatti per l'opera di S. Jacopo dal 1457 al 1462 : con altre notizie relative all'arte dell'oreficeria.</title>
+                  <respStmt>
+                     <persName>Ciampi, Sebastiano, 1769-1847.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>[Pistoia] : [publisher not identified]</publisher>
+                     <date>[1814]</date>
+                     <date>1814</date>
+                  </imprint>
+                  <extent>13 pages</extent>
+                  <extent>1 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/b871c862-e024-493e-b175-4f4d7788a1e1/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Dante Alighieri, 1265-1321. Inferno.</term>
+               <term>Silverwork.</term>
+               <term>Candlesticks.</term>
+               <term>Inferno (Dante Alighieri)</term>
+               <term>Candlesticks.</term>
+               <term>Silverwork.</term>
+               <term>CT1138.C481</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/b871c862-e024-493e-b175-4f4d7788a1e1/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
 </teiCorpus>

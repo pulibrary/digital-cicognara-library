@@ -24,5 +24,126 @@
         </sourceDesc>
     </fileDesc>
 </teiHeader>
-        
+        <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:local="http://library.princeton.edu" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Bavaria sancta Maximiliani Sereniss. Principis Imperii, comitis Palatini Rheni utriusq. Bav. ducis auspiciis coepta, descripta eidémq[ue] [microform] / nuncupata á Matthaeo Radero ... MDCXV ...</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985342523506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/d49x6v</idno>
+            <idno type="cico">1989</idno>
+            <idno type="dcl">45x</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Bavaria sancta Maximiliani Sereniss. Principis Imperii, comitis Palatini Rheni utriusq. Bav. ducis auspiciis coepta, descripta eidémq[ue] [microform] / nuncupata á Matthaeo Radero ... MDCXV ...</title>
+                  <respStmt>
+                     <persName>Rader, Matthäus, 1561-1634.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Latin</textLang>
+                  <imprint>
+                     <publisher>Monachii: Ex formis Annae Bergiae viduae, apud Raphaelem Sadelerum</publisher>
+                     <pubPlace>Germany</pubPlace>
+                     <pubPlace>Bavaria (Germany)</pubPlace>
+                     <date>1615</date>
+                  </imprint>
+                  <extent>161 leaves</extent>
+                  <extent>6 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/a773d8d5-8f8c-4814-a296-23a4e3d3b888/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Catholic Church -- Germany -- Bavaria -- Biography.</term>
+               <term>Saints -- Germany -- Bavaria -- Biography.</term>
+               <term>Saints -- Germany -- Bavaria -- Early works to 1800.</term>
+               <term>Bavaria (Germany) -- Biography.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/a773d8d5-8f8c-4814-a296-23a4e3d3b888/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:local="http://library.princeton.edu" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Bavaria sancta Maximiliani sereniss. principis imperii comitis palatini Rheni utriusq. Bav. ducis auspiciis coepta [microform] / descripta eidémq[ue] nuncupata à Matthaeo Radero de Societat. Iesu, 1615.</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Sadeler, Raphael, approximately 1560-approximately 1632.</authority>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985340813506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/jb5z34</idno>
+            <idno type="cico">1989</idno>
+            <idno type="dcl">rs4</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Bavaria sancta Maximiliani sereniss. principis imperii comitis palatini Rheni utriusq. Bav. ducis auspiciis coepta [microform] / descripta eidémq[ue] nuncupata à Matthaeo Radero de Societat. Iesu, 1615.</title>
+                  <respStmt>
+                     <persName>Rader, Matthäus, 1561-1634.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Latin</textLang>
+                  <imprint>
+                     <publisher>Monachii : olim per Raphaelem Sadeler, sermi Maximiiani calcographum venum exposita, et nunc recusa sumptibus Ioannis Caspari Bencard</publisher>
+                     <pubPlace>Germany</pubPlace>
+                     <pubPlace>Bavaria (Germany)</pubPlace>
+                     <date>1614</date>
+                     <date>1615</date>
+                  </imprint>
+                  <extent>4 v.</extent>
+                  <extent>18 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/17afbf32-d0bd-4cb7-900e-d1d4418b70e3/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Catholic Church -- Germany -- Bavaria -- Biography.</term>
+               <term>Saints -- Germany -- Bavaria -- Biography.</term>
+               <term>Saints -- Germany -- Bavaria -- Early works to 1800.</term>
+               <term>Bavaria (Germany) -- Biography.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/17afbf32-d0bd-4cb7-900e-d1d4418b70e3/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
 </teiCorpus>

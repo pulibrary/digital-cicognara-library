@@ -23,5 +23,61 @@
         </sourceDesc>
     </fileDesc>
 </teiHeader>
-        
+        <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:local="http://library.princeton.edu" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Georgii Agricolae De re metallica, libri XII [microform] : quibus officia, instrumenta, machinae, ac omnia deniq[ue] ad metallicam spectantia, non modo luculentissimè describuntur, sed &amp; per effigies, suis locis insertas, adiunctis Latinis, Germanicis[que] appellationibus ita ob oculos ponuntur, ut clarius tradi non possint : eiusdem De animantibus subterraneis liber, ab autore recognitus : cum indicibus diuersis, quicqiuid in opere tractatum est, pulchrè demonstrantibus.</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985247053506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/6d4s3s</idno>
+            <idno type="cico">875</idno>
+            <idno type="dcl">mvv</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Georgii Agricolae De re metallica, libri XII [microform] : quibus officia, instrumenta, machinae, ac omnia deniq[ue] ad metallicam spectantia, non modo luculentissimè describuntur, sed &amp; per effigies, suis locis insertas, adiunctis Latinis, Germanicis[que] appellationibus ita ob oculos ponuntur, ut clarius tradi non possint : eiusdem De animantibus subterraneis liber, ab autore recognitus : cum indicibus diuersis, quicqiuid in opere tractatum est, pulchrè demonstrantibus.</title>
+                  <respStmt>
+                     <persName>Agricola, Georg, 1494-1555.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Latin</textLang>
+                  <imprint>
+                     <publisher>Basileae : [Apud Hieron Frobenium et Nicolaum Episcopium]</publisher>
+                     <date>1556</date>
+                  </imprint>
+                  <extent>538 [i.e. 502], [74] p.</extent>
+                  <extent>9 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/b8f76ff0-9174-4eee-9ca8-945e5ef53ef9/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Metallurgy -- Early works to 1800.</term>
+               <term>Mineral industries -- Early works to 1800.</term>
+               <term>Zoology -- Pre-Linnean works.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/b8f76ff0-9174-4eee-9ca8-945e5ef53ef9/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
 </teiCorpus>

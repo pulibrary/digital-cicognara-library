@@ -22,5 +22,62 @@ però in questo alcuni sussidj d’erudizione.</note>
         </sourceDesc>
     </fileDesc>
 </teiHeader>
-        
+        <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:local="http://library.princeton.edu" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Monumens de la Grèce, ou, Collection des chefs-d'oeuvre d'architecture, de sculpture et de peinture antiques [microform] : gravés d'après les meilleurs auteurs, comparés entre eux, et accompagnés d'un texte historique, analytique et descriptif / par J. G. Legrand ...</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985406373506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/x7359v</idno>
+            <idno type="cico">2678</idno>
+            <idno type="dcl">dk3</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Monumens de la Grèce, ou, Collection des chefs-d'oeuvre d'architecture, de sculpture et de peinture antiques [microform] : gravés d'après les meilleurs auteurs, comparés entre eux, et accompagnés d'un texte historique, analytique et descriptif / par J. G. Legrand ...</title>
+                  <respStmt>
+                     <persName>Legrand, J. G. (Jacques Guillaume), 1743-1807.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>French</textLang>
+                  <imprint>
+                     <publisher>Paris : Treuttel et Würtz</publisher>
+                     <pubPlace>Greece</pubPlace>
+                     <date>1808</date>
+                  </imprint>
+                  <extent>v.</extent>
+                  <extent>17 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/b7f13e17-b605-4cc7-86b0-a7784a0f3035/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Architecture, Greek.</term>
+               <term>Art, Greek.</term>
+               <term>Greece -- Antiquities.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/b7f13e17-b605-4cc7-86b0-a7784a0f3035/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
 </teiCorpus>

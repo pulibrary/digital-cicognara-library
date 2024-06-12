@@ -27,5 +27,124 @@ di questa versione.</note>
         </sourceDesc>
     </fileDesc>
 </teiHeader>
-        
+        <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:local="http://library.princeton.edu" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Antonii Augustini Archiepisc. Tarragon. antiquitatum Romanarum Hispanarumque in nummis veterum dialogi XI [microform] / Latinè redditi ab Andrea Schotto Societ. Iesu ; cuius accessit duodecimus, de prisca religione, diisq́ue gentium ; seorsim editae Nomismatum icones a Iacobo Biaeo aeri graphicè incisae.</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>De Bie, Jacques, 1581-approximately 1650.</authority>
+            <authority>Schottus, Andreas, 1552-1629.</authority>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985406823506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/627t0g</idno>
+            <idno type="cico">2726</idno>
+            <idno type="dcl">0w8</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Antonii Augustini Archiepisc. Tarragon. antiquitatum Romanarum Hispanarumque in nummis veterum dialogi XI [microform] / Latinè redditi ab Andrea Schotto Societ. Iesu ; cuius accessit duodecimus, de prisca religione, diisq́ue gentium ; seorsim editae Nomismatum icones a Iacobo Biaeo aeri graphicè incisae.</title>
+                  <respStmt>
+                     <persName>Agustín, Antonio, 1517-1586.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Latin</textLang>
+                  <imprint>
+                     <publisher>Antuerpiae :</publisher>
+                     <pubPlace>Rome</pubPlace>
+                     <date>1617</date>
+                  </imprint>
+                  <extent>[16], 182, [26] p., 68 leaves of plates</extent>
+                  <extent>7 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/d155be4c-a6d2-4274-880a-f8a98f40eb2f/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Coins, Roman.</term>
+               <term>Emperors -- Rome -- Portraits -- Early works to 1800.</term>
+               <term>Numismatics -- Early works to 1800.</term>
+               <term>Rome -- Antiquities -- Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/d155be4c-a6d2-4274-880a-f8a98f40eb2f/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:local="http://library.princeton.edu" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Dialoghi di D. Antonio Agostini ... intorno alle medaglie, inscrittioni et altre antichita [microform] / tradotti di lingua Spagnuola in Italiana da Dionigi Ottaviano Sada, e dal medesimo accresciuti con diverse annotationi, &amp; illustrati con disegni di molte medaglie, e di altre figure.</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Sada, Dionigi Ottaviano.</authority>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985405953506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/st764t</idno>
+            <idno type="cico">2726</idno>
+            <idno type="dcl">s5c</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Dialoghi di D. Antonio Agostini ... intorno alle medaglie, inscrittioni et altre antichita [microform] / tradotti di lingua Spagnuola in Italiana da Dionigi Ottaviano Sada, e dal medesimo accresciuti con diverse annotationi, &amp; illustrati con disegni di molte medaglie, e di altre figure.</title>
+                  <respStmt>
+                     <persName>Agustín, Antonio, 1517-1586.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>In Roma : Appresso Filippo de'Rossi</publisher>
+                     <date>1650</date>
+                  </imprint>
+                  <extent>[18], 318, [38] p.</extent>
+                  <extent>6 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/daecfe58-c347-4775-bae8-d80c0f5711bf/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Inscriptions, Latin.</term>
+               <term>Medals, Ancient.</term>
+               <term>Numismatics, Greek -- Early works to 1800.</term>
+               <term>Numismatics, Roman -- Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/daecfe58-c347-4775-bae8-d80c0f5711bf/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
 </teiCorpus>

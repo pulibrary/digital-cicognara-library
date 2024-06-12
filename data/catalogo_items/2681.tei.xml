@@ -26,5 +26,62 @@ volumi indicati.</note>
         </sourceDesc>
     </fileDesc>
 </teiHeader>
-        
+        <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:local="http://library.princeton.edu" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Jacobi Martorellii Neapolitani De regia theca Calamaria ... sive [Melanodocheiōi] ejusque ornamentis .. [microform].</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <authority>Museo nazionale di Napoli.</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985406403506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/9t2z23</idno>
+            <idno type="cico">2681</idno>
+            <idno type="dcl">bcj</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Jacobi Martorellii Neapolitani De regia theca Calamaria ... sive [Melanodocheiōi] ejusque ornamentis .. [microform].</title>
+                  <respStmt>
+                     <persName>Martorelli, Giacomo, 1699-1777.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Latin</textLang>
+                  <imprint>
+                     <publisher>Neapoli : Simonii fratres typographi</publisher>
+                     <pubPlace>Italy</pubPlace>
+                     <date>1756</date>
+                  </imprint>
+                  <extent>2 v.</extent>
+                  <extent>13 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/73449ecd-baf9-4b6b-a9a4-27efca76a5fa/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Vases -- Italy -- Naples -- Early works to 1800.</term>
+               <term>Writing -- Materials and instruments -- History -- Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/73449ecd-baf9-4b6b-a9a4-27efca76a5fa/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
 </teiCorpus>

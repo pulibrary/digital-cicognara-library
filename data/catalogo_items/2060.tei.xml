@@ -29,5 +29,61 @@
         </sourceDesc>
     </fileDesc>
 </teiHeader>
-        
+        <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:local="http://library.princeton.edu" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Scelta d'alcuni miracoli e grazie della Santissima Nunziata di Firenze [microform] / descritti dal P.F. Gio. Angiolo Lottini ...</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985341603506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/64085v</idno>
+            <idno type="cico">2060</idno>
+            <idno type="dcl">j88</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Scelta d'alcuni miracoli e grazie della Santissima Nunziata di Firenze [microform] / descritti dal P.F. Gio. Angiolo Lottini ...</title>
+                  <respStmt>
+                     <persName>Lottini, Giovanni Angelo, 1549-1629.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>In Firenze : Appresso Pietro Cecconcelli</publisher>
+                     <date>1619</date>
+                  </imprint>
+                  <extent>254 p.</extent>
+                  <extent>5 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/0a1ae913-b5b2-4e5d-a240-c7aecb549e6a/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Mary, Blessed Virgin, Saint -- Annunciation -- Art.</term>
+               <term>Mary, Blessed Virgin, Saint -- Apparitions and miracles -- Art.</term>
+               <term>Visions in art.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/0a1ae913-b5b2-4e5d-a240-c7aecb549e6a/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
 </teiCorpus>

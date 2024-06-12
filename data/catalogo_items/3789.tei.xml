@@ -22,5 +22,64 @@ lapidi, e i monumenti sono intagliati in legno e inseriti fra il testo.</note>
         </sourceDesc>
     </fileDesc>
 </teiHeader>
-        
+        <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:local="http://library.princeton.edu" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Epigrammata antiquae vrbis [microform].</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Colocci, Angelo, 1474-1549.</authority>
+            <authority>Mazochius, Jacobus, active 1506-1527.</authority>
+            <authority>Probus, Marcus Valerius. De notis Romanorum.</authority>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <authority>Leopoldo Cicognara Program (University of Illinois at Urbana-Champaign)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985435673506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/hh7s07</idno>
+            <idno type="cico">3789</idno>
+            <idno type="dcl">xjh</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Epigrammata antiquae vrbis [microform].</title>
+                  <textLang>Latin</textLang>
+                  <imprint>
+                     <publisher>Romae : In aedib. Iacobi Mazochii</publisher>
+                     <pubPlace>Italy</pubPlace>
+                     <pubPlace>Rome (Italy)</pubPlace>
+                     <date>1521 men. April</date>
+                     <date>1521</date>
+                  </imprint>
+                  <extent>CLXXX, [8] leaves</extent>
+                  <extent>6 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/e58ff931-f23c-49b5-9c43-34765bed6d9c/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Inscriptions, Latin -- Early works to 1800.</term>
+               <term>Inscriptions, Latin -- Italy -- Rome.</term>
+               <term>Rome (Italy) -- Antiquities -- Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/e58ff931-f23c-49b5-9c43-34765bed6d9c/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
 </teiCorpus>

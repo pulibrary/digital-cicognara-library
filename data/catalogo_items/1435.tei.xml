@@ -22,5 +22,64 @@
         </sourceDesc>
     </fileDesc>
 </teiHeader>
-        
+        <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:local="http://library.princeton.edu" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Pompe funebre du très-pieux et très-puissant prince Albert, archiduc d'Autriche, duc de Bourgogne, de Brabant, &amp;c [microform] : representée au naturel en tailles douces / dessinées par Jacques Francquart ; &amp; gravées par Corneille Galle ; avec une dissertation historique &amp; morale d' Eryce Puteanus ...</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Galle, Cornelis, 1576-1650.</authority>
+            <authority>Puteanus, Erycius, 1574-1646.</authority>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985302993506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/q93t13</idno>
+            <idno type="cico">1435</idno>
+            <idno type="dcl">bp6</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Pompe funebre du très-pieux et très-puissant prince Albert, archiduc d'Autriche, duc de Bourgogne, de Brabant, &amp;c [microform] : representée au naturel en tailles douces / dessinées par Jacques Francquart ; &amp; gravées par Corneille Galle ; avec une dissertation historique &amp; morale d' Eryce Puteanus ...</title>
+                  <respStmt>
+                     <persName>Francquart, Jacques, 1577-1651.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>French</textLang>
+                  <imprint>
+                     <publisher>A Bruxelles : Chez Jean Leonard</publisher>
+                     <pubPlace>Belgium</pubPlace>
+                     <date>1729</date>
+                  </imprint>
+                  <extent>36 p.</extent>
+                  <extent>3 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/708dc2d9-77ea-4cda-807b-5be33ca994e2/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Albrecht VII, Archduke of Austria, 1559-1621 -- Death and burial.</term>
+               <term>Funeral rites and ceremonies -- Belgium -- Brussels -- Early works to 1800.</term>
+               <term>Processions -- Belgium -- Brussels -- History -- 17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/708dc2d9-77ea-4cda-807b-5be33ca994e2/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
 </teiCorpus>

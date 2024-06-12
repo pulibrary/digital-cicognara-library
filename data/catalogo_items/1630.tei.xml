@@ -27,5 +27,63 @@
         </sourceDesc>
     </fileDesc>
 </teiHeader>
-        
+        <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:local="http://library.princeton.edu" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Imperii ac Sacerdotii Ornatus [microform] : diuersarum tem [sic] ge[n]tium peculiaris vestitus /excudebat Abr. Bruin ; his adiunxit co[m]mentariolos Caesar. Pontif. ac sacerdotu[m] Hadr. Damman ...</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Damman, Hadrianus.</authority>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985334323506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/gv7d56</idno>
+            <idno type="cico">1630</idno>
+            <idno type="dcl">rft</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Imperii ac Sacerdotii Ornatus [microform] : diuersarum tem [sic] ge[n]tium peculiaris vestitus /excudebat Abr. Bruin ; his adiunxit co[m]mentariolos Caesar. Pontif. ac sacerdotu[m] Hadr. Damman ...</title>
+                  <respStmt>
+                     <persName>Bruyn, Abraham de.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Latin</textLang>
+                  <imprint>
+                     <publisher>[Cologne : s.n]</publisher>
+                     <date>[1578]</date>
+                     <date>1578</date>
+                  </imprint>
+                  <extent>20 numb. leaves, 23, 26 leaves of plates</extent>
+                  <extent>3 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/f84d3376-37ab-40d1-abfd-a261ebe46d01/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Clergy -- Costume -- Early works to 1800.</term>
+               <term>Costume -- Early works to 1800.</term>
+               <term>Nobility -- Costume -- Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/f84d3376-37ab-40d1-abfd-a261ebe46d01/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
 </teiCorpus>

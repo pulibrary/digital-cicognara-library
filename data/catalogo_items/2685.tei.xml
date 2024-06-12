@@ -20,5 +20,64 @@ Baltimore Pari d’Irlanda</title>, <pubPlace>Napoli</pubPlace> <date>1765</date
         </sourceDesc>
     </fileDesc>
 </teiHeader>
-        
+        <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:local="http://library.princeton.edu" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Spiegazione delle VI. tavole delle antichità di Pesto [microform].</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Joli, Antonio, approximately 1700-1777.</authority>
+            <authority>Antonini, Giuseppe, 18th cent. Lucania.</authority>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <authority>Leopoldo Cicognara Program (University of Illinois at Urbana-Champaign)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985410533506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/kb2p87</idno>
+            <idno type="cico">2685. Gives title: Sei tavole che illustrano le antiche fabbriche dei templi di Pesto.</idno>
+            <idno type="dcl">tnr</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Spiegazione delle VI. tavole delle antichità di Pesto [microform].</title>
+                  <respStmt>
+                     <persName>Morghen, Filippo, b. 1730?</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>[Naples, Italy : Filippo Morghen]</publisher>
+                     <pubPlace>Paestum (Extinct city)</pubPlace>
+                     <date>[1765?]</date>
+                     <date>1765</date>
+                  </imprint>
+                  <extent>[1], 6 leaves</extent>
+                  <extent>1 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/066019a7-bfd1-419f-9c4b-a6d963d4556a/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Paestum (Extinct city) -- Antiquities -- Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/066019a7-bfd1-419f-9c4b-a6d963d4556a/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
 </teiCorpus>

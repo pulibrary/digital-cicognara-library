@@ -30,5 +30,62 @@ tolte da un esemplare del 1592</note>.
         </sourceDesc>
     </fileDesc>
 </teiHeader>
-        
+        <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:local="http://library.princeton.edu" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Discorsi del S. Don Antonio Agostini sopra le medaglie et altre anticaglie divisi in XI dialoghi [microform] / tradotti dalla lingua spagnuola nell'italiana con l'aggiunta di molti ritratti di belle, et rare medaglie ...</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985405923506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/vj150q</idno>
+            <idno type="cico">2725</idno>
+            <idno type="dcl">qc5</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Discorsi del S. Don Antonio Agostini sopra le medaglie et altre anticaglie divisi in XI dialoghi [microform] / tradotti dalla lingua spagnuola nell'italiana con l'aggiunta di molti ritratti di belle, et rare medaglie ...</title>
+                  <respStmt>
+                     <persName>Agustín, Antonio, 1517-1586.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>In Roma : Presso Ascanio et Girolamo Donangeli</publisher>
+                     <date>1592</date>
+                  </imprint>
+                  <extent>[4], 239, [17] p., 72 p. of plates</extent>
+                  <extent>6 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/315df5f3-4ed4-46d2-8f46-70e1dd806bfe/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Inscriptions, Latin.</term>
+               <term>Medals, Ancient.</term>
+               <term>Numismatics, Greek -- Early works to 1800.</term>
+               <term>Numismatics, Roman -- Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/315df5f3-4ed4-46d2-8f46-70e1dd806bfe/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
 </teiCorpus>

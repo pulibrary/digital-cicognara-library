@@ -24,5 +24,58 @@
         </sourceDesc>
     </fileDesc>
 </teiHeader>
-        
+        <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:local="http://library.princeton.edu" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Descrizione della festa drammatica offerta nella gran sala della ragione alle LL. MM. II. RR. Francesco Primo e Maria Lodovica dalla città regia di Padova [microform] : durante il loro soggiorno d'eterna ricordanza nel dicembre MDCCCXV.</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985304073506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/ks1b6t</idno>
+            <idno type="cico">1541</idno>
+            <idno type="dcl">wbt</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Descrizione della festa drammatica offerta nella gran sala della ragione alle LL. MM. II. RR. Francesco Primo e Maria Lodovica dalla città regia di Padova [microform] : durante il loro soggiorno d'eterna ricordanza nel dicembre MDCCCXV.</title>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>Padova : Nicolò Zanon Bettoni</publisher>
+                     <pubPlace>Italy</pubPlace>
+                     <date>1816</date>
+                  </imprint>
+                  <extent>11 p.</extent>
+                  <extent>1 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/13d08e48-8cdc-4fd5-8bcc-d3d9afb09516/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Francis I, Emperor of Austria, 1768-1835.</term>
+               <term>Maria Ludovica, Consort of Francis I, Emperor of Austria, 1787-1816.</term>
+               <term>Performing arts -- Italy -- Padua.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/13d08e48-8cdc-4fd5-8bcc-d3d9afb09516/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
 </teiCorpus>

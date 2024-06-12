@@ -18,5 +18,64 @@
         </sourceDesc>
     </fileDesc>
 </teiHeader>
-        
+        <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:local="http://library.princeton.edu" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Dialogo dell'imprese militari et amorose / di monsignor Paolo Giouio vescouo di Nucera.</title>
+            <respStmt>
+               <orgName>Getty Research Institute</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <idno type="URI">http://portal.getty.edu/books/gri_9923593090001551</idno>
+            <idno type="URI">http://portal.getty.edu/api/2v4g4r</idno>
+            <idno>(OCoLC)54298096</idno>
+            <idno type="cico">1903</idno>
+            <idno type="dcl">f5z</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Dialogo dell'imprese militari et amorose / di monsignor Paolo Giouio vescouo di Nucera.</title>
+                  <respStmt>
+                     <persName>Giovio, Paolo, 1483-1552.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Latin</textLang>
+                  <imprint>
+                     <publisher>In Roma : Appresso Antonio Barre</publisher>
+                     <date>1555</date>
+                  </imprint>
+                  <extent>[8], 146 [i.e. 145], [11] pages (the last blank)</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://media.getty.edu/iiif/manifest/285f287c-0572-4983-9bc4-08ac6a21f477"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Emblems -- Early works to 1800.</term>
+               <term>Devices (Heraldry) -- Early works to 1800.</term>
+               <term>Mottoes -- Early works to 1800.</term>
+               <term>Devices (Heraldry)</term>
+               <term>Emblems</term>
+               <term>Mottoes.</term>
+               <term>N7740 .G5 1555</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://media.getty.edu/iiif/manifest/285f287c-0572-4983-9bc4-08ac6a21f477">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
 </teiCorpus>

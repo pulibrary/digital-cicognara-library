@@ -21,5 +21,64 @@ parlato con qualche esame delle loro opere e della loro vita.</note>
         </sourceDesc>
     </fileDesc>
 </teiHeader>
-        
+        <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:local="http://library.princeton.edu" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Dissertatio glyptographica, sive, Gemmae duae vetustissimae emblematibus et Graeco artificis nomine insignitae quae exstant Romae in Museo Victorio explicatae, et illustratae [microform] : accedynt nonnulla veteris elegantiae, &amp; eruditionis inedita Monimenta.</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <authority>Leopoldo Cicognara Program (University of Illinois at Urbana-Champaign)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985411403506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/zs9x6z</idno>
+            <idno type="cico">3061</idno>
+            <idno type="dcl">gzs</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Dissertatio glyptographica, sive, Gemmae duae vetustissimae emblematibus et Graeco artificis nomine insignitae quae exstant Romae in Museo Victorio explicatae, et illustratae [microform] : accedynt nonnulla veteris elegantiae, &amp; eruditionis inedita Monimenta.</title>
+                  <respStmt>
+                     <persName>Vettori, Francesco, 1693-1770.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Latin</textLang>
+                  <imprint>
+                     <publisher>Romae : Typis Zempelianis</publisher>
+                     <pubPlace>Italy</pubPlace>
+                     <date>1739</date>
+                  </imprint>
+                  <extent>XXVI, 129 p.</extent>
+                  <extent>3 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/5b8919ac-12fc-4729-b235-ff6be101355a/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Vettori, Francesco, 1693-1770 -- Numismatic collections -- Early works to 1800.</term>
+               <term>Gems -- Early works to 1800.</term>
+               <term>Glyptics -- Early works to 1800.</term>
+               <term>Private collections -- Italy -- Rome -- Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/5b8919ac-12fc-4729-b235-ff6be101355a/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
 </teiCorpus>

@@ -20,5 +20,62 @@ Colle tavole in legno.
         </sourceDesc>
     </fileDesc>
 </teiHeader>
-        
+        <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:local="http://library.princeton.edu" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Seconda nouissima editione delle Imagini de gli dei delli antichi [microform] / di Vicenzo Cartari reggiano ; ridotte ... da Lorenzo Pignoria Padouano. ; aggionteui le annotationi del medesimo sopra tutta l'opera, &amp; vn discorso intorno le deità dell'Indie Orientali, &amp; Occidentali ... ; con le allegorie sopra le Imagini di Cesare Malfatti Padouano, migliorate, &amp; accresciute nouamente et vn catalogo di cento più famosi dei della gentilità ; con l'aggiunta d'vn'altro catalogo de gl'autori antichi, &amp; moderni ...</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Malfatti, Cesare, approximately 1550-</authority>
+            <authority>Pignoria, Lorenzo, 1571-1631.</authority>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <authority>Leopoldo Cicognara Program (University of Illinois at Urbana-Champaign)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985440563506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/ct748t</idno>
+            <idno type="cico">4688</idno>
+            <idno type="dcl">m8k</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Seconda nouissima editione delle Imagini de gli dei delli antichi [microform] / di Vicenzo Cartari reggiano ; ridotte ... da Lorenzo Pignoria Padouano. ; aggionteui le annotationi del medesimo sopra tutta l'opera, &amp; vn discorso intorno le deità dell'Indie Orientali, &amp; Occidentali ... ; con le allegorie sopra le Imagini di Cesare Malfatti Padouano, migliorate, &amp; accresciute nouamente et vn catalogo di cento più famosi dei della gentilità ; con l'aggiunta d'vn'altro catalogo de gl'autori antichi, &amp; moderni ...</title>
+                  <respStmt>
+                     <persName>Cartari, Vincenzo, 1531?-1590.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>In Padoua : Nella stamparia di Pietro Paolo Tozzi</publisher>
+                     <date>1626</date>
+                  </imprint>
+                  <extent>84, 95-102, 93-544, [8], 545-589 p.</extent>
+                  <extent>10 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/8729c319-d97d-4234-bb99-5a3953080959/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Mythology, Classical.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/8729c319-d97d-4234-bb99-5a3953080959/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
 </teiCorpus>

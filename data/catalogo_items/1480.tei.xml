@@ -25,5 +25,57 @@
         </sourceDesc>
     </fileDesc>
 </teiHeader>
-        
+        <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:local="http://library.princeton.edu" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Ritratti veri &amp; artificiosissimi delle sacratissime Cesaree e regie maesta del s. impero, ancora de serenissimi elettori dell'istesso impero romano con distinto ragguaglio di quanto è successo nella coronatione dell'imperatrice Eleonora come anco nell'elettione e coronatione del' rè de' Romani Gioseppe I in augusta l'anno M.DC.LXXXX [microform].</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985303623506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/v56c1b</idno>
+            <idno type="cico">1480</idno>
+            <idno type="dcl">z4v</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Ritratti veri &amp; artificiosissimi delle sacratissime Cesaree e regie maesta del s. impero, ancora de serenissimi elettori dell'istesso impero romano con distinto ragguaglio di quanto è successo nella coronatione dell'imperatrice Eleonora come anco nell'elettione e coronatione del' rè de' Romani Gioseppe I in augusta l'anno M.DC.LXXXX [microform].</title>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>Augusta : Appresso Lorenzo Kroniger &amp; Eredi del Teofilo</publisher>
+                     <date>[1690]</date>
+                     <date>1690</date>
+                  </imprint>
+                  <extent>[28] p.</extent>
+                  <extent>1 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/fecf9e71-da55-40a3-9165-d385b88decd3/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Eleonore, Empress, consort of Leopold I, Holy Roman Emperor, 1655-1720.</term>
+               <term>Joseph I, Holy Roman Emperor, 1678-1711.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/fecf9e71-da55-40a3-9165-d385b88decd3/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
 </teiCorpus>

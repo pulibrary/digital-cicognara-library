@@ -41,5 +41,119 @@
         </sourceDesc>
     </fileDesc>
 </teiHeader>
-        
+        <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:local="http://library.princeton.edu" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Imagines Mortis [microform] : his accesserunt Epigrammata, è Gallico idiomate à Georgio Aemylio in Latinum translata : ad haec, Medicina Animae tamiis, qui firma, quàm qui aduersa corporis valetudine pre̜diti sunt, maximè necessaria : quae his addita sunt, sequens pagina demonstrabit.</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Aemilius, Georg, 1517-1569.</authority>
+            <authority>Holbein, Hans, 1497?-1543.</authority>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985341313506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/qb2x60</idno>
+            <idno type="cico">2043</idno>
+            <idno type="dcl">z4x</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Imagines Mortis [microform] : his accesserunt Epigrammata, è Gallico idiomate à Georgio Aemylio in Latinum translata : ad haec, Medicina Animae tamiis, qui firma, quàm qui aduersa corporis valetudine pre̜diti sunt, maximè necessaria : quae his addita sunt, sequens pagina demonstrabit.</title>
+                  <respStmt>
+                     <persName>Corrozet, Gilles, 1510-1568.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Latin</textLang>
+                  <imprint>
+                     <publisher>Coloniae : Apud haeredes Arnoldi Birckmanni</publisher>
+                     <date>1557</date>
+                  </imprint>
+                  <extent>1 v. (unpaged)</extent>
+                  <extent>3 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/86bc6f4a-c051-4c60-ae4a-7831066df0d8/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Death -- Religious aspects -- Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/86bc6f4a-c051-4c60-ae4a-7831066df0d8/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:local="http://library.princeton.edu" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>De praesentia corporis Christi in Coena Domini, contra Sacramentarios [microform] / D. Tilemanus Heshusius VVesaliensis.</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985341553506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/xx196k</idno>
+            <idno type="cico">2043</idno>
+            <idno type="dcl">pfv</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>De praesentia corporis Christi in Coena Domini, contra Sacramentarios [microform] / D. Tilemanus Heshusius VVesaliensis.</title>
+                  <respStmt>
+                     <persName>Heshusius, Tilemann, 1527-1588.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Latin</textLang>
+                  <imprint>
+                     <publisher>Noribergae : Apud Ioannem Montanum &amp; Viricum Neuberum</publisher>
+                     <date>Anno 1561</date>
+                     <date>1561</date>
+                  </imprint>
+                  <extent>1 v. (unpaged)</extent>
+                  <extent>4 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/7db308e6-a3c2-42d0-8b8f-620aa13adc33/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Lord's Supper -- Lutheran Church.</term>
+               <term>Lord's Supper -- Real presence.</term>
+               <term>Transubstantiation.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/7db308e6-a3c2-42d0-8b8f-620aa13adc33/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
 </teiCorpus>

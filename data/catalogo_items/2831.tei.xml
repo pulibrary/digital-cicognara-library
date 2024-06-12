@@ -21,5 +21,62 @@ pregiudizj intorno la virtù simpatica delle pietre, giacché di queste è speci
         </sourceDesc>
     </fileDesc>
 </teiHeader>
-        
+        <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:local="http://library.princeton.edu" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>S. Epiphani Salaminis in Cypro Episcpi De XII gemmis rationalis summisacerdotis Hebraeorum [microform] : liber ad diodorum / prodit nunc primo ex antiqua versione Latina ; opera et studio p. Franc. Fogginii ; qui &amp; notas adjecit.</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Foggini, Pietro Francesco, 1713-1783.</authority>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <authority>Leopoldo Cicognara Program (University of Illinois at Urbana-Champaign)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985408663506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/jz4r87</idno>
+            <idno type="cico">2821</idno>
+            <idno type="dcl">pvj</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>S. Epiphani Salaminis in Cypro Episcpi De XII gemmis rationalis summisacerdotis Hebraeorum [microform] : liber ad diodorum / prodit nunc primo ex antiqua versione Latina ; opera et studio p. Franc. Fogginii ; qui &amp; notas adjecit.</title>
+                  <respStmt>
+                     <persName>Epiphanius, Saint, Bp. of Constantia in Cyprus.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Latin</textLang>
+                  <imprint>
+                     <publisher>Romae : Typis Zempellianis</publisher>
+                     <date>An. 1743</date>
+                     <date>1743</date>
+                  </imprint>
+                  <extent>xxxvi, 85 p.</extent>
+                  <extent>2 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/17e0f223-5bce-4f6e-9273-f8c2c07e17a3/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Precious stones -- Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/17e0f223-5bce-4f6e-9273-f8c2c07e17a3/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
 </teiCorpus>

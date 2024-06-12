@@ -30,5 +30,70 @@
         </sourceDesc>
     </fileDesc>
 </teiHeader>
-        
+        <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:local="http://library.princeton.edu" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Regola delli cinqve ordini d'architettvra di M. Iacomo Barozzio da Vignola.</title>
+            <respStmt>
+               <orgName>Getty Research Institute</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <idno type="URI">http://portal.getty.edu/books/gri_9923149590001551</idno>
+            <idno type="URI">http://portal.getty.edu/api/bd578v</idno>
+            <idno>(OCoLC)3590624</idno>
+            <idno type="cico">416</idno>
+            <idno type="cico">538-2</idno>
+            <idno type="dcl">wcg</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Regola delli cinqve ordini d'architettvra di M. Iacomo Barozzio da Vignola.</title>
+                  <respStmt>
+                     <persName>Vignola, 1507-1573</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>[Roma]</publisher>
+                     <pubPlace>Italien</pubPlace>
+                     <date>[1563]</date>
+                     <date>1563</date>
+                  </imprint>
+                  <extent>XXXII, [5] plates (including t.-p.)</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://media.getty.edu/iiif/manifest/7dbd2868-4e89-41d4-b3f4-026181c951a3"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Architecture -- Orders -- Pictorial works -- Early works to 1800.</term>
+               <term>Columns -- Pictorial works -- Early works to 1800.</term>
+               <term>Doorways -- Pictorial works -- Early works to 1800.</term>
+               <term>Columns.</term>
+               <term>Architecture -- Orders.</term>
+               <term>Doorways.</term>
+               <term>Architekturtheorie</term>
+               <term>Säule.</term>
+               <term>Italien</term>
+               <term>NA2810 .V5 1563</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://media.getty.edu/iiif/manifest/7dbd2868-4e89-41d4-b3f4-026181c951a3">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
 </teiCorpus>

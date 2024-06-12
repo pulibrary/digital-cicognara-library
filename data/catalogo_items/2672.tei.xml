@@ -20,5 +20,61 @@ relativement aux sciences et aux arts avec un traité sur la fabrique des mosaiq
         </sourceDesc>
     </fileDesc>
 </teiHeader>
-        
+        <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:local="http://library.princeton.edu" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Recherches sur les ruines d'Herculanum et sur les lumieres qui peuvent en résulter, relativement à l'état présent des sciences et des arts ; avec un traité Sur la fabrique des mosaïques / par M. Fougeroux de Bondaroy ... [microform].</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985406063506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/zb6r9p</idno>
+            <idno type="cico">2672</idno>
+            <idno type="dcl">wzc</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Recherches sur les ruines d'Herculanum et sur les lumieres qui peuvent en résulter, relativement à l'état présent des sciences et des arts ; avec un traité Sur la fabrique des mosaïques / par M. Fougeroux de Bondaroy ... [microform].</title>
+                  <respStmt>
+                     <persName>Fougeroux de Bondaroy, Auguste-Denis, 1732-1789.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>French</textLang>
+                  <imprint>
+                     <publisher>A Paris : Chez Desaint, libraire</publisher>
+                     <pubPlace>Herculaneum (Extinct city)</pubPlace>
+                     <date>1770</date>
+                  </imprint>
+                  <extent>xvj, 232 p.</extent>
+                  <extent>4 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/17911c51-1911-4efa-83db-43a90daba2c9/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Mosaics -- Early works to 1800.</term>
+               <term>Herculaneum (Extinct city)</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/17911c51-1911-4efa-83db-43a90daba2c9/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
 </teiCorpus>

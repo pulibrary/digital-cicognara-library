@@ -21,5 +21,68 @@ non fu che un materiale raccoglitore, senza critica.</note>
         </sourceDesc>
     </fileDesc>
 </teiHeader>
-        
+        <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:local="http://library.princeton.edu" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Urbis patavinae inscriptiones sacrae, et prophanae ... / quibus accedunt vulgatae anno M. DC. XLIV à Jacobo Philippo Tomasino ...</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <authority>Leopoldo Cicognara Program (University of Illinois at Urbana-Champaign)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_99100847853506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/w61m08</idno>
+            <idno>(OCoLC)84416804</idno>
+            <idno type="cico">3144</idno>
+            <idno type="dcl">h02</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Urbis patavinae inscriptiones sacrae, et prophanae ... / quibus accedunt vulgatae anno M. DC. XLIV à Jacobo Philippo Tomasino ...</title>
+                  <respStmt>
+                     <persName>Tomasini, Giacomo Filippo, 1595-1655.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Latin</textLang>
+                  <imprint>
+                     <publisher>Patavii : Sumptibus Jo :</publisher>
+                     <pubPlace>Italy</pubPlace>
+                     <pubPlace>Padua (Italy)</pubPlace>
+                     <date>1701</date>
+                  </imprint>
+                  <extent>631, [1] pages</extent>
+                  <extent>10 microfiches : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/0d402981-0a02-4c79-86fa-5c0f07ba9498/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Inscriptions -- Italy -- Padua -- Early works to 1800.</term>
+               <term>Inscriptions, Latin -- Italy -- Padua -- Early works to 1800.</term>
+               <term>Padua (Italy) -- History -- Sources.</term>
+               <term>Inscriptions.</term>
+               <term>Inscriptions, Latin.</term>
+               <term>Italy -- Padua.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/0d402981-0a02-4c79-86fa-5c0f07ba9498/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
 </teiCorpus>

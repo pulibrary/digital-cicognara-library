@@ -22,5 +22,62 @@ viaggiatore battezzando alcune persone e alla p. 36 altra gran tavola con sarcof
         </sourceDesc>
     </fileDesc>
 </teiHeader>
-        
+        <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:local="http://library.princeton.edu" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Elogio storico alla gesta del Beato Odorico .. [microform] : con la storia da lui dettata de' suoi viaggj asiatici / illustrata da un religioso dell'Ordine stesso e presentata agli amatori delle antichità.</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Venni, Giuseppe.</authority>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <authority>Leopoldo Cicognara Program (University of Illinois at Urbana-Champaign)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985418023506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/j67k5d</idno>
+            <idno type="cico">3356</idno>
+            <idno type="dcl">dk7</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Elogio storico alla gesta del Beato Odorico .. [microform] : con la storia da lui dettata de' suoi viaggj asiatici / illustrata da un religioso dell'Ordine stesso e presentata agli amatori delle antichità.</title>
+                  <respStmt>
+                     <persName>Odorico, da Pordenone, 1265?-1331.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>In Venezia : Presso Antonio Zatta</publisher>
+                     <pubPlace>Asia</pubPlace>
+                     <date>1761</date>
+                  </imprint>
+                  <extent>VIII, 152 p.</extent>
+                  <extent>3 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/7b44e9c0-0801-4906-9ccc-99c8a6ad707d/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Asia -- Description and travel -- Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/7b44e9c0-0801-4906-9ccc-99c8a6ad707d/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
 </teiCorpus>

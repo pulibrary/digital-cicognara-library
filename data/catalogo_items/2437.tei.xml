@@ -21,5 +21,59 @@
         </sourceDesc>
     </fileDesc>
 </teiHeader>
-        
+        <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:local="http://library.princeton.edu" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Joann. Sigismundi Elsholtii ... Anthropometria, sive, De mutua membrorum corporis humani proportione, &amp; naevorum harmonia libellus [microform].</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985401173506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/mb1457</idno>
+            <idno type="cico">2437</idno>
+            <idno type="dcl">z50</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Joann. Sigismundi Elsholtii ... Anthropometria, sive, De mutua membrorum corporis humani proportione, &amp; naevorum harmonia libellus [microform].</title>
+                  <respStmt>
+                     <persName>Elsholtz, Johann Sigismund, 1623-1688.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Latin</textLang>
+                  <imprint>
+                     <publisher>Francofurti ad Oderam : Praelo Andreae Becmani, apud Rupertum Völckern, Bibliopol. Berol</publisher>
+                     <date>1663</date>
+                  </imprint>
+                  <extent>266 (i. e. 166) p.</extent>
+                  <extent>3 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/3d280a85-bba7-4682-af2a-95e4b1b10a81/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Proportion (Anthropometry)</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/3d280a85-bba7-4682-af2a-95e4b1b10a81/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
 </teiCorpus>

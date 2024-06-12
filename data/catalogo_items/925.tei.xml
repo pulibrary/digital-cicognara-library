@@ -21,5 +21,63 @@
         </sourceDesc>
     </fileDesc>
 </teiHeader>
-        
+        <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:local="http://library.princeton.edu" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Le mechaniche [microform] / dell'illustriss Sig. Guido Vbaldo de' Marchesi del Monte ; tradotte in volgare dal Sig. Filippo Pigafetta ...</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Pigafetta, Filippo, 1533-1604.</authority>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985244793506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/rq2314</idno>
+            <idno type="URI">http://portal.getty.edu/api/g87j3m</idno>
+            <idno type="URI">http://portal.getty.edu/api/4w6x6f</idno>
+            <idno type="cico">925</idno>
+            <idno type="dcl">rk8</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Le mechaniche [microform] / dell'illustriss Sig. Guido Vbaldo de' Marchesi del Monte ; tradotte in volgare dal Sig. Filippo Pigafetta ...</title>
+                  <respStmt>
+                     <persName>Monte, Guidobaldo, marchese del, 1545-1607.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>In Venetia : Appresso Francesco di Franceschi</publisher>
+                     <date>1581</date>
+                  </imprint>
+                  <extent>[8], 127, [1] leaves</extent>
+                  <extent>4 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/efaabd50-865b-4ad5-9d6a-96991b3cf2b2/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Mechanical engineering -- Early works to 1800.</term>
+               <term>Mechanics -- Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/efaabd50-865b-4ad5-9d6a-96991b3cf2b2/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
 </teiCorpus>

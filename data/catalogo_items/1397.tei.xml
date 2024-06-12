@@ -28,5 +28,63 @@
         </sourceDesc>
     </fileDesc>
 </teiHeader>
-        
+        <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:local="http://library.princeton.edu" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Descrizione del regale apparato fatto in Firenze per le nozze del serenissimo Gran duca di Toscana e di Madama Cristina di Loreno, sua moglie nelquale si deseriuono istorie antiche &amp; moderna [?] molto curiose da intendere [microform]</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Rossi, Bastiano de', active 1585-1605. Descrizione dell'apparato e degli'intermedi fatti per la Comedia rappresentata in Firenze nelle nozze de' serenissimi don Ferdinando Medici.</authority>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985303933506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/09274x</idno>
+            <idno type="cico">1397</idno>
+            <idno type="dcl">9p3</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Descrizione del regale apparato fatto in Firenze per le nozze del serenissimo Gran duca di Toscana e di Madama Cristina di Loreno, sua moglie nelquale si deseriuono istorie antiche &amp; moderna [?] molto curiose da intendere [microform]</title>
+                  <respStmt>
+                     <persName>Gualterotti, Raffaello, 1543-1638.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>In Mantoua : Per Franceisco Osanna</publisher>
+                     <pubPlace>Italy</pubPlace>
+                     <date>1589</date>
+                  </imprint>
+                  <extent>138 p.</extent>
+                  <extent>4 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/c85c7348-713e-406c-b414-c1486ad6a3b0/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Christine, of Lorraine, Grand Duchess, consort of Ferdinand I, Grand Duke of Tuscany, 1565-1636.</term>
+               <term>Ferdinando I, Grand-Duke of Tuscany, 1549-1609.</term>
+               <term>Marriages of royalty and nobility -- Italy -- Florence -- History -- 16th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/c85c7348-713e-406c-b414-c1486ad6a3b0/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
 </teiCorpus>

@@ -24,5 +24,64 @@
         </sourceDesc>
     </fileDesc>
 </teiHeader>
-        
+        <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:local="http://library.princeton.edu" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>De sanctorum martyrum cruciatibus Antonii Gallonii ... liber [microform] / cum figuris Romae in aere incisis per Ant. Tempestam &amp; aliis eiusdem argumenti libellis ; ex museo Raphaelis Tricheti du Fresne.</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Tempesta, Antonio, 1555-1630.</authority>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985341903506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/9c3617</idno>
+            <idno type="cico">2035</idno>
+            <idno type="dcl">jvr</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>De sanctorum martyrum cruciatibus Antonii Gallonii ... liber [microform] / cum figuris Romae in aere incisis per Ant. Tempestam &amp; aliis eiusdem argumenti libellis ; ex museo Raphaelis Tricheti du Fresne.</title>
+                  <respStmt>
+                     <persName>Gallonio, Antonio, -1605.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>French</textLang>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>Parisiis : Apud Claudium Cramoisy</publisher>
+                     <date>1660</date>
+                  </imprint>
+                  <extent>322, [5] p.</extent>
+                  <extent>5 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/ffe8cad4-974d-4da7-9c46-179a2f835237/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Christian martyrs -- Early works to 1800.</term>
+               <term>Persecution -- History -- Early church, ca. 30-600.</term>
+               <term>Torture -- Early works to 1800.</term>
+               <term>Martyrdom -- Christianity -- Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/ffe8cad4-974d-4da7-9c46-179a2f835237/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
 </teiCorpus>
