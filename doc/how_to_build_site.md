@@ -35,6 +35,16 @@ The data dump contains records for *all* of the resources in the Getty Portal.  
 This will retain only records that have are part of the Getty Cicognara Collection, have a DCL number, and have a IIIF manifest.
 
 
+
+### Generate Getty TEI files
+The Marquand Library sometimes has data that differs from that in the Getty Records, and its staff asked that there be an intermediate form of the Cicognara records that they could manage. To maintain consistency with the *Catalogo*, this intermediate form is TEI XML.  Run the following rake task to generate an XML file for each Getty MARC record:
+
+
+   ```shell
+   rake convert_getty_to_tei
+   ```
+NB: The workflow for editing and managing these non-Getty changes has not been established, so running this process will overwrite all the 
+
 ### How to Generate Indexes
 The Cicognara site relies on a complex mapping between "Cicognara numbers" (usually but not always entries in Cicognara's *Catalogo*) and "DCL numbers, " or Digital Chicognara Library numbers (corresponding, usually but not always, with digital objects created by partner libraries). The subsequent steps in the site-building process therefore require two indexes: one from Cicognara number to DCL number, and one from DCL number to Cicognara number.  To generate these indexes, run the `ciconum_index_generator` and the `dclnum_index_generator` Rake tasks:
 
@@ -42,18 +52,14 @@ The Cicognara site relies on a complex mapping between "Cicognara numbers" (usua
    rake ciconum_index_generator
    rake dclnum_index_generator
    ```
+NB: the dclnum_index_generator depends on the TEI derivatives of the Getty MARC records.
 
-### How to Generate TEI files
-The Marquand Library sometimes has data that differs from that in the Getty Records, and its staff asked that there be an intermediate form of the Cicognara records that they could manage. To maintain consistency with the *Catalogo*, this intermediate form is TEI XML, and there are two varieties: 
+### How to Generate TEI files for Catalogo Items
+Each item in the Catalogo (i.e., each ciconum) is represented as a TEI Corpus document.  The top-level teiHeader contains metadata derived from the Catalogo; for each dclnum associated with a particular Catalogo item, metadata from the corresponding Getty TEI record is included as a document in the corpus.
 
-  1. a TEI document for each ciconum;
-  2. and a TEI document for each dclnum.
-  
-
-To generate these files, run the `convert_getty_to_tei` and the `items_generator` Rake tasks:
+To generate these files, run the `items_generator` Rake task:
 
    ```shell
-   rake convert_getty_to_tei
    rake items_generator
    ```
 
