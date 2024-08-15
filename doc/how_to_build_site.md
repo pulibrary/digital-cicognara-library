@@ -8,7 +8,7 @@ Doing so requires several steps:
 
 1. Download the most recent data dump from the Getty Research Portal
 2. Remove non-Cicognara records from the data dump
-3. Generate TEI files for each Getty record
+3. Generate a TEI file for each Getty record
 4. Generate indexes on identifiers
 5. Generate digital-object viewer files
 6. Generate Fuse index for searching
@@ -43,7 +43,7 @@ The Marquand Library sometimes has data that differs from that in the Getty Reco
    ```shell
    rake convert_getty_to_tei
    ```
-NB: The workflow for editing and managing these non-Getty changes has not been established, so running this process will overwrite all the 
+NB: The workflow for editing and managing these non-Getty changes has not been established, so running this process will overwrite all the TEI files.
 
 ### How to Generate Indexes
 The Cicognara site relies on a complex mapping between "Cicognara numbers" (usually but not always entries in Cicognara's *Catalogo*) and "DCL numbers, " or Digital Chicognara Library numbers (corresponding, usually but not always, with digital objects created by partner libraries). The subsequent steps in the site-building process therefore require two indexes: one from Cicognara number to DCL number, and one from DCL number to Cicognara number.  To generate these indexes, run the `ciconum_index_generator` and the `dclnum_index_generator` Rake tasks:
