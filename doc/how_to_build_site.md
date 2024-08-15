@@ -46,21 +46,21 @@ The Marquand Library sometimes has data that differs from that in the Getty Reco
 NB: The workflow for editing and managing these non-Getty changes has not been established, so running this process will overwrite all the TEI files.
 
 ### How to Generate Indexes
-The Cicognara site relies on a complex mapping between "Cicognara numbers" (usually but not always entries in Cicognara's *Catalogo*) and "DCL numbers, " or Digital Chicognara Library numbers (corresponding, usually but not always, with digital objects created by partner libraries). The subsequent steps in the site-building process therefore require two indexes: one from Cicognara number to DCL number, and one from DCL number to Cicognara number.  To generate these indexes, run the `ciconum_index_generator` and the `dclnum_index_generator` Rake tasks:
+The Cicognara site relies on a complex mapping between "Cicognara numbers" (usually but not always entries in Cicognara's *Catalogo*) and "DCL numbers, " or Digital Chicognara Library numbers (corresponding, usually but not always, with digital objects created by partner libraries). The subsequent steps in the site-building process therefore require two indexes: one from Cicognara number to DCL number, and one from DCL number to Cicognara number.  To generate these indexes, run the `generate_ciconum_index` and the `generate_dclnum_index` Rake tasks:
 
    ```shell
-   rake ciconum_index_generator
-   rake dclnum_index_generator
+   rake generate_ciconum_index
+   rake generate_dclnum_index
    ```
 NB: the dclnum_index_generator depends on the TEI derivatives of the Getty MARC records.
 
 ### How to Generate TEI files for Catalogo Items
 Each item in the Catalogo (i.e., each ciconum) is represented as a TEI Corpus document.  The top-level teiHeader contains metadata derived from the Catalogo; for each dclnum associated with a particular Catalogo item, metadata from the corresponding Getty TEI record is included as a document in the corpus.
 
-To generate these files, run the `items_generator` Rake task:
+To generate these files, run the `generate_item_files` Rake task:
 
    ```shell
-   rake items_generator
+   rake generate_item_files
    ```
 
 
