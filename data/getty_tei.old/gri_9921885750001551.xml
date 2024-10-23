@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:dcterms="http://purl.org/dc/terms/"
+     xmlns:gettyterms="http://portal.getty.edu/terms/gri/"
+     xmlns:local="http://library.princeton.edu"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Sommario delle cose mirabili della città di Milano : diuiso in due libri : nel primo si narra la sua antichità, fondatione, &amp; huomini famosi, con altre cose mirabili : nel secondo si descriue l'antichità, &amp; grandezza della chiesa milanese, &amp; altre cose notabili, come nella tauola si vedrà / il tutto raccolto con diligenza dal R.P.F. Paolo Moriggi Giesuato di S. Gierolamo.</title>
+            <respStmt>
+               <orgName>Getty Research Institute</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Antoni, Giovanni Antonio degli, active 1581-1609, publisher.</authority>
+            <authority>Ferioli, Graziadio, printer.</authority>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <authority>Leopoldo Cicognara Program (University of Illinois at Urbana-Champaign)</authority>
+            <idno type="URI">http://portal.getty.edu/books/gri_9921885750001551</idno>
+            <idno type="URI">http://portal.getty.edu/api/rp9m7p</idno>
+            <idno>(OCoLC)77301237</idno>
+            <idno type="cico">4247</idno>
+            <idno type="cico">4247-1</idno>
+            <idno type="dcl">gvz</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Sommario delle cose mirabili della città di Milano : diuiso in due libri : nel primo si narra la sua antichità, fondatione, &amp; huomini famosi, con altre cose mirabili : nel secondo si descriue l'antichità, &amp; grandezza della chiesa milanese, &amp; altre cose notabili, come nella tauola si vedrà / il tutto raccolto con diligenza dal R.P.F. Paolo Moriggi Giesuato di S. Gierolamo.</title>
+                  <respStmt>
+                     <persName>Morigia, Paolo, 1525-1604</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>In Milano : Per Iacomo delli Antonij</publisher>
+                     <pubPlace>Milan (Italy)</pubPlace>
+                     <pubPlace>Italy</pubPlace>
+                     <pubPlace>Italy Milan.</pubPlace>
+                     <date>1609</date>
+                  </imprint>
+                  <extent>112 leaves</extent>
+               </monogr>
+               <relatedItem type="manifest"
+                            target="https://media.getty.edu/iiif/manifest/455aacfe-240c-4ca5-b2c1-3bf4d2efc685"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Milan (Italy) -- History -- Early works to 1800.</term>
+               <term>Milan (Italy) -- Church history -- Early works to 1800.</term>
+               <term>Milan (Italy) -- Civilization -- Early works to 1800.</term>
+               <term>Civilization.</term>
+               <term>Italy -- Milan.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json"
+             url="https://media.getty.edu/iiif/manifest/455aacfe-240c-4ca5-b2c1-3bf4d2efc685">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>

@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:dcterms="http://purl.org/dc/terms/"
+     xmlns:gettyterms="http://portal.getty.edu/terms/gri/"
+     xmlns:local="http://library.princeton.edu"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Marmorum, Arundellianorum, Seldenianorum, aliorumque, Academiae oxoniensi donatorum [microform] : cum variis commentariis &amp; indice.</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Lydiat, Thomas, 1572-1646.</authority>
+            <authority>Selden, John, 1584-1654.</authority>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <authority>Leopoldo Cicognara Program (University of Illinois at Urbana-Champaign)</authority>
+            <authority>University of Oxford. University Galleries.</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985411473506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/rn6x4b</idno>
+            <idno type="cico">3097</idno>
+            <idno type="dcl">pvk</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Marmorum, Arundellianorum, Seldenianorum, aliorumque, Academiae oxoniensi donatorum [microform] : cum variis commentariis &amp; indice.</title>
+                  <respStmt>
+                     <persName>Mattaire, Michael, 1668-1747.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Latin</textLang>
+                  <textLang>Greek, Modern (1453-)</textLang>
+                  <imprint>
+                     <publisher>Londini : Typis Gulielmi Bowyer</publisher>
+                     <date>1732</date>
+                  </imprint>
+                  <extent>iv, 667 p.</extent>
+                  <extent>11 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest"
+                            target="https://figgy.princeton.edu/concern/scanned_resources/62864a37-1d6d-4a33-be17-b3489a99f126/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Arundel, Thomas Howard, Earl of, 1585-1646 -- Art collections.</term>
+               <term>Sculpture, Classical -- Catalogs.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json"
+             url="https://figgy.princeton.edu/concern/scanned_resources/62864a37-1d6d-4a33-be17-b3489a99f126/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>

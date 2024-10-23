@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:dcterms="http://purl.org/dc/terms/"
+     xmlns:gettyterms="http://portal.getty.edu/terms/gri/"
+     xmlns:local="http://library.princeton.edu"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>L'arte di restituire à Roma la tralasciata nauigatione del suo Teuere [microform] : divisa in tre parti ... / dell'ingegniero Cornelio Meyer ...</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <authority>Leopoldo Cicognara Program (University of Illinois at Urbana-Champaign)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985435753506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/ks9v2t</idno>
+            <idno type="cico">3791</idno>
+            <idno type="dcl">gcm</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>L'arte di restituire à Roma la tralasciata nauigatione del suo Teuere [microform] : divisa in tre parti ... / dell'ingegniero Cornelio Meyer ...</title>
+                  <respStmt>
+                     <persName>Meijer, Cornelis, 1629-1701.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>In Roma : Nella Stamperia della Reuerenda Camera Apostolica</publisher>
+                     <pubPlace>Italy</pubPlace>
+                     <pubPlace>Tiber River (Italy)</pubPlace>
+                     <date>1683</date>
+                     <date>1685</date>
+                  </imprint>
+                  <extent>1 v. (unpaged)</extent>
+                  <extent>10 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest"
+                            target="https://figgy.princeton.edu/concern/scanned_resources/c96e2836-f093-4949-a9ab-87117eb244ca/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Comets -- Early works to 1800.</term>
+               <term>Eyeglasses -- Early works to 1800.</term>
+               <term>Hydraulic engineering -- Italy -- Early works to 1800.</term>
+               <term>Silk industry -- Italy -- Early works to 1800.</term>
+               <term>Tiber River (Italy) -- Navigation -- Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json"
+             url="https://figgy.princeton.edu/concern/scanned_resources/c96e2836-f093-4949-a9ab-87117eb244ca/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>

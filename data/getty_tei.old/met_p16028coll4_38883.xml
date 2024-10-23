@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:dcterms="http://purl.org/dc/terms/"
+     xmlns:gettyterms="http://portal.getty.edu/terms/gri/"
+     xmlns:local="http://library.princeton.edu"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Le moyen de devenir peintre en trois heures, et d'exécuter au pinceau les ouvrages des plus grands maîtres, sans avoir appris le dessein</title>
+            <respStmt>
+               <orgName>Metropolitan Museum of Art</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <idno type="URI">http://portal.getty.edu/books/met_p16028coll4_38883</idno>
+            <idno type="dcl">02w</idno>
+            <idno type="cico">150A</idno>
+            <idno type="URI">http://portal.getty.edu/api/2v7k44</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Le moyen de devenir peintre en trois heures, et d'exécuter au pinceau les ouvrages des plus grands maîtres, sans avoir appris le dessein</title>
+                  <respStmt>
+                     <persName>Vispré, F. X.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>French</textLang>
+                  <imprint>
+                     <publisher>A Paris : Chez les Libraires associés</publisher>
+                  </imprint>
+                  <extent>[4], iv, 131, [3] pages ; 17 cm. (12mo)</extent>
+               </monogr>
+               <relatedItem type="manifest"
+                            target="https://libmma.contentdm.oclc.org/iiif/info/p16028coll4/38883/manifest.json"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Painting Technique Early works to 1800</term>
+               <term>Painting Early works to 1800</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json"
+             url="https://libmma.contentdm.oclc.org/iiif/info/p16028coll4/38883/manifest.json">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>

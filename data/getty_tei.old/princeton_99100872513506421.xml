@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:dcterms="http://purl.org/dc/terms/"
+     xmlns:gettyterms="http://portal.getty.edu/terms/gri/"
+     xmlns:local="http://library.princeton.edu"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>P. Virgilii Maronis Opera Quae Supersunt In Antiquo Codice Vaticano Ad priscam Imaginum formam Incisa A Petro Sancte Bartoli In Bibliotheca Camilli Cardinalis Maximi Diu Servata : et demum permissu Marchionis Camilli maximi typorum impressione pandita.</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <idno type="URI">http://portal.getty.edu/books/princeton_99100872513506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/r61w8v</idno>
+            <idno>(OCoLC)313462220</idno>
+            <idno type="cico">1120</idno>
+            <idno type="dcl">rp3</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>P. Virgilii Maronis Opera Quae Supersunt In Antiquo Codice Vaticano Ad priscam Imaginum formam Incisa A Petro Sancte Bartoli In Bibliotheca Camilli Cardinalis Maximi Diu Servata : et demum permissu Marchionis Camilli maximi typorum impressione pandita.</title>
+                  <respStmt>
+                     <persName>Bartoli, Pietro Santi.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Latin</textLang>
+                  <imprint>
+                     <publisher>[Roma]</publisher>
+                     <date>1725</date>
+                  </imprint>
+                  <extent>2 Mikrofiches : 24x.</extent>
+               </monogr>
+               <relatedItem type="manifest"
+                            target="https://figgy.princeton.edu/concern/scanned_resources/3de41ac0-d4d7-494a-ae54-c8644d2e759a/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords/>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json"
+             url="https://figgy.princeton.edu/concern/scanned_resources/3de41ac0-d4d7-494a-ae54-c8644d2e759a/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>

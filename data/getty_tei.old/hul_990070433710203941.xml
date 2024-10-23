@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:dcterms="http://purl.org/dc/terms/"
+     xmlns:gettyterms="http://portal.getty.edu/terms/gri/"
+     xmlns:local="http://library.princeton.edu"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Osservazioni sopra l'opera del Sig. Alessandro da Morrona che ha per titolo Pisa illustrata nelle arti del disegno.</title>
+            <respStmt>
+               <orgName>Harvard Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Da Morrona, Alessandro, 1741-1821. Pisa illustrata nelle arti del disegno.</authority>
+            <idno type="URI">http://portal.getty.edu/books/hul_990070433710203941</idno>
+            <idno type="URI">http://portal.getty.edu/api/gt9c5j</idno>
+            <idno>(OCoLC)59212621</idno>
+            <idno type="cico">4308A</idno>
+            <idno type="dcl">8kg</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Osservazioni sopra l'opera del Sig. Alessandro da Morrona che ha per titolo Pisa illustrata nelle arti del disegno.</title>
+                  <respStmt>
+                     <persName>Ciampi, Sebastiano, 1769-1847, author.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <imprint>
+                     <publisher>Pisa : Presso Ranieri Prosperi, Stamp. dell'Imp. Accademia</publisher>
+                     <pubPlace>Italy</pubPlace>
+                     <date>MDCCCXII</date>
+                     <date>1812</date>
+                  </imprint>
+                  <extent>73 pages, 4 leaves of plates (some folded)</extent>
+               </monogr>
+               <relatedItem type="manifest"
+                            target="https://iiif.lib.harvard.edu/manifests/drs:481968475"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Art -- Italy -- Pisa.</term>
+               <term>Art</term>
+               <term>Italy -- Pisa</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json"
+             url="https://iiif.lib.harvard.edu/manifests/drs:481968475">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>

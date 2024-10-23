@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:dcterms="http://purl.org/dc/terms/"
+     xmlns:gettyterms="http://portal.getty.edu/terms/gri/"
+     xmlns:local="http://library.princeton.edu"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Fastorum anni romani a Verrio Flacco ordinatorum reliquiae ex Marmorearum tabularum fragmentis praeneste nuper effossis collectae et illustratae [microform] / accedunt Verrii Flacci operum fragmenta omnia quae exstant ac Fasti romani singulorum mensium ex Hactenvs repertis calendariis marmoreis inter se conlatis expressi cura et studio P.F.F.</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Foggini, Pietro Francesco, 1713-1783.</authority>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <authority>Leopoldo Cicognara Program (University of Illinois at Urbana-Champaign)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985415273506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/xz9r77</idno>
+            <idno type="cico">3222</idno>
+            <idno type="dcl">trm</idno>
+            <idno type="dcl">394</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Fastorum anni romani a Verrio Flacco ordinatorum reliquiae ex Marmorearum tabularum fragmentis praeneste nuper effossis collectae et illustratae [microform] / accedunt Verrii Flacci operum fragmenta omnia quae exstant ac Fasti romani singulorum mensium ex Hactenvs repertis calendariis marmoreis inter se conlatis expressi cura et studio P.F.F.</title>
+                  <respStmt>
+                     <persName>Verrius Flaccus, Marcus.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Latin</textLang>
+                  <imprint>
+                     <publisher>Romae : [s.n.]</publisher>
+                     <date>Anno sal. 1779</date>
+                     <date>1779</date>
+                  </imprint>
+                  <extent>XX, 143 p.</extent>
+                  <extent>7 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest"
+                            target="https://figgy.princeton.edu/concern/scanned_resources/7125379d-8627-4cd6-a010-7d12079ff049/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Chronology, Roman -- Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json"
+             url="https://figgy.princeton.edu/concern/scanned_resources/7125379d-8627-4cd6-a010-7d12079ff049/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>

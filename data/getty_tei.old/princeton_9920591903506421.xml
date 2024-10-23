@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:dcterms="http://purl.org/dc/terms/"
+     xmlns:gettyterms="http://portal.getty.edu/terms/gri/"
+     xmlns:local="http://library.princeton.edu"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Le pitture e sculture di Brescia che sono esposte al pubblico con un' appendice di alcune private gallerie.</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9920591903506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/xc6661</idno>
+            <idno>(OCoLC)11606866</idno>
+            <idno type="cico">4185</idno>
+            <idno type="dcl">9gs</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Le pitture e sculture di Brescia che sono esposte al pubblico con un' appendice di alcune private gallerie.</title>
+                  <respStmt>
+                     <persName>Chizzola, Luigi.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>Brescia, G. Bossini</publisher>
+                     <pubPlace>Italy</pubPlace>
+                     <date>1760</date>
+                  </imprint>
+                  <extent>xxiv, 196 p.</extent>
+               </monogr>
+               <relatedItem type="manifest"
+                            target="https://figgy.princeton.edu/concern/scanned_resources/6327044d-6246-48fb-97bc-8a3c559ad1cb/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Painting -- Italy -- Brescia.</term>
+               <term>Sculpture -- Italy -- Brescia.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json"
+             url="https://figgy.princeton.edu/concern/scanned_resources/6327044d-6246-48fb-97bc-8a3c559ad1cb/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>

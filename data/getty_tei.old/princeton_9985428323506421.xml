@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:dcterms="http://purl.org/dc/terms/"
+     xmlns:gettyterms="http://portal.getty.edu/terms/gri/"
+     xmlns:local="http://library.princeton.edu"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Description des principaux ouvrages de peinture et sculpture [microform] : actuellement existans dans les églises, couvens, &amp; lieux publics de la ville d'Anvers : donné au jour pour l'utilité des voyageurs.</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <authority>Leopoldo Cicognara Program (University of Illinois at Urbana-Champaign)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985428323506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/k8617m</idno>
+            <idno type="cico">4160</idno>
+            <idno type="dcl">hzr</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Description des principaux ouvrages de peinture et sculpture [microform] : actuellement existans dans les églises, couvens, &amp; lieux publics de la ville d'Anvers : donné au jour pour l'utilité des voyageurs.</title>
+                  <textLang>French</textLang>
+                  <imprint>
+                     <publisher>A Anvers : Chez Gerard Berbie</publisher>
+                     <pubPlace>Belgium</pubPlace>
+                     <date>[175-?]</date>
+                     <date>1750</date>
+                  </imprint>
+                  <extent>99 p.</extent>
+                  <extent>2 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest"
+                            target="https://figgy.princeton.edu/concern/scanned_resources/567fb3f2-0f92-4edf-b7ae-e64443a07d7c/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Architecture -- Belgium -- Antwerp -- Early works to 1800.</term>
+               <term>Art -- Belgium -- Antwerp -- Guidebooks -- Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json"
+             url="https://figgy.princeton.edu/concern/scanned_resources/567fb3f2-0f92-4edf-b7ae-e64443a07d7c/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>

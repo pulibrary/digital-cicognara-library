@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:dcterms="http://purl.org/dc/terms/"
+     xmlns:gettyterms="http://portal.getty.edu/terms/gri/"
+     xmlns:local="http://library.princeton.edu"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>L'arte di restituire à Roma la tralasciata nauigatione del suo Teuere : divisa in tre parti. 1. Gl'impedimenti, che sono nell'alueo del Teuere da Roma à Perugia, e suoi rimedij. 2. Le difficoltà, che sono nella nauigatione del Teuere da Roma sino al mare, e suoi rimedij. 3. Nella quale si discorre perche Roma è stata fabricata, e mantenuta sù le sponde del Teuere, e si tratta d'alcun'altre propositioni proficue per lo stato ecclesiastico. / dell'ingeniero Cornelio Meyer olandese, dell'Accademia Fisicomatematica Romana.</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Varese, Lazzari, active 1664-1684, printer.</authority>
+            <authority>Innocent XI, Pope, 1611-1689, dedicatee.</authority>
+            <authority>Bailliu, Barend de, -1641, engraver.</authority>
+            <authority>Blondeau, Jacques, 1655-1698, engraver.</authority>
+            <authority>Collin, Io., active 1682-1685, engraver.</authority>
+            <authority>Denner, Balthasar, 1685-1749, engraver.</authority>
+            <authority>Falda, Giovanni Battista, approximately 1640-1678, engraver.</authority>
+            <authority>Honoratus Polustinus, Io. Bapt. (Ioannes Baptista), engraver.</authority>
+            <authority>Wittel, Gaspar van, 1652 or 1653-1736, engraver.</authority>
+            <authority>Wouters, Gomar, 1649- engraver.</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9926384503506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/4w6p4f</idno>
+            <idno>(OCoLC)42267456</idno>
+            <idno type="cico">3792</idno>
+            <idno type="dcl">fcm</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>L'arte di restituire à Roma la tralasciata nauigatione del suo Teuere : divisa in tre parti. 1. Gl'impedimenti, che sono nell'alueo del Teuere da Roma à Perugia, e suoi rimedij. 2. Le difficoltà, che sono nella nauigatione del Teuere da Roma sino al mare, e suoi rimedij. 3. Nella quale si discorre perche Roma è stata fabricata, e mantenuta sù le sponde del Teuere, e si tratta d'alcun'altre propositioni proficue per lo stato ecclesiastico. / dell'ingeniero Cornelio Meyer olandese, dell'Accademia Fisicomatematica Romana.</title>
+                  <respStmt>
+                     <persName>Meijer, Cornelis, 1629-1701.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>Roma, Varese</publisher>
+                     <pubPlace>Italy</pubPlace>
+                     <pubPlace>Rome (Italy)</pubPlace>
+                     <pubPlace>Tiber River (Italy)</pubPlace>
+                     <pubPlace>Pontine Marshes (Italy)</pubPlace>
+                     <date>1685</date>
+                  </imprint>
+                  <extent>3 pt. in 1.</extent>
+               </monogr>
+               <relatedItem type="manifest"
+                            target="https://figgy.princeton.edu/concern/scanned_resources/4f63790e-75be-478f-8a80-16ba5e7d40e3/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Rome (Italy) -- Public works.</term>
+               <term>River engineering -- Italy -- Rome -- Early works to 1800.</term>
+               <term>Tiber River (Italy) -- Navigation -- Early works to 1800.</term>
+               <term>Tiber River (Italy) -- Regulation -- Early works to 1800.</term>
+               <term>Rome (Italy) -- Maps -- Early works to 1800.</term>
+               <term>Pontine Marshes (Italy) -- Maps -- Early works to 1800.</term>
+               <term>Rome (Italy) -- Pictorial works -- Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json"
+             url="https://figgy.princeton.edu/concern/scanned_resources/4f63790e-75be-478f-8a80-16ba5e7d40e3/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>

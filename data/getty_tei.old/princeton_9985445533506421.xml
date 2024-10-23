@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:dcterms="http://purl.org/dc/terms/"
+     xmlns:gettyterms="http://portal.getty.edu/terms/gri/"
+     xmlns:local="http://library.princeton.edu"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Americae pars sexta, sive, Historiae ab Hieronymo Be[n]zono ... scriptae [microform] : sectio tertia ... In hac ... reperies, qua ratione Hispani ... Peruani regni provincias occuparint, capto rege Atabaliba ... Additus est ... de Fortunatis insulis co[m]mentariolus ... Accessit Pervani regni chorographica tabula / omnia figuris in aes incisis expressa à Theodoro de Bry.</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Bry, Theodor de, 1528-1598. America. Pars 6. Latin</authority>
+            <authority>Bry, Theodor de, 1528-1598. Collectiones peregrinationum in Indiam orientalem et Indiam occidentalem.</authority>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <authority>Leopoldo Cicognara Program (University of Illinois at Urbana-Champaign)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985445533506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/g51c9b</idno>
+            <idno type="cico">3970</idno>
+            <idno type="dcl">664</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Americae pars sexta, sive, Historiae ab Hieronymo Be[n]zono ... scriptae [microform] : sectio tertia ... In hac ... reperies, qua ratione Hispani ... Peruani regni provincias occuparint, capto rege Atabaliba ... Additus est ... de Fortunatis insulis co[m]mentariolus ... Accessit Pervani regni chorographica tabula / omnia figuris in aes incisis expressa à Theodoro de Bry.</title>
+                  <respStmt>
+                     <persName>Benzoni, Girolamo, 1519-1572?</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Latin</textLang>
+                  <imprint>
+                     <publisher>[Frankfurt am Main] : Theodoro de Bry</publisher>
+                     <pubPlace>America</pubPlace>
+                     <pubPlace>Canary Islands</pubPlace>
+                     <pubPlace>Florida</pubPlace>
+                     <pubPlace>Peru</pubPlace>
+                     <date>A'1596</date>
+                     <date>1596</date>
+                  </imprint>
+                  <extent>108 p., 28 leaves of plates</extent>
+                  <extent>3 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest"
+                            target="https://figgy.princeton.edu/concern/scanned_resources/80d7f8ba-85e5-40e7-9f8e-93aee1a738dd/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>America -- History -- To 1600.</term>
+               <term>Canary Islands -- Description and travel -- Early works to 1800.</term>
+               <term>Florida -- History -- Huguenot colony, 1562-1565.</term>
+               <term>Peru -- History -- Conquest, 1522-1548.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json"
+             url="https://figgy.princeton.edu/concern/scanned_resources/80d7f8ba-85e5-40e7-9f8e-93aee1a738dd/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>

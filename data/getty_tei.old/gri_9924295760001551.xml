@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:dcterms="http://purl.org/dc/terms/"
+     xmlns:gettyterms="http://portal.getty.edu/terms/gri/"
+     xmlns:local="http://library.princeton.edu"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Liste des principaux objets de sciences et d'arts recueillis en Italie par les commissaires du gouvernement Français.</title>
+            <respStmt>
+               <orgName>Getty Research Institute</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Couturier.</authority>
+            <idno type="URI">http://portal.getty.edu/books/gri_9924295760001551</idno>
+            <idno type="URI">http://portal.getty.edu/api/8p0n9j</idno>
+            <idno>(OCoLC)81690835</idno>
+            <idno type="cico">3964-1</idno>
+            <idno type="cico">4134</idno>
+            <idno type="dcl">nk5</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Liste des principaux objets de sciences et d'arts recueillis en Italie par les commissaires du gouvernement Français.</title>
+                  <textLang>French</textLang>
+                  <imprint>
+                     <publisher>[Venice : s.n]</publisher>
+                     <pubPlace>France</pubPlace>
+                     <pubPlace>France.</pubPlace>
+                     <pubPlace>Italy Venice.</pubPlace>
+                     <date>[1796 or 1797]</date>
+                     <date>1796</date>
+                  </imprint>
+                  <extent>27, [1] p.</extent>
+               </monogr>
+               <relatedItem type="manifest"
+                            target="https://media.getty.edu/iiif/manifest/d10d833a-b5b2-490d-a018-f81ced498877"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Painting, European -- Catalogs.</term>
+               <term>France -- History -- Revolution, 1789-1799 -- Confiscations and contributions.</term>
+               <term>France -- History -- Revolution, 1789-1799 -- Art and the revolution.</term>
+               <term>Confiscations.</term>
+               <term>Painting, European.</term>
+               <term>France.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json"
+             url="https://media.getty.edu/iiif/manifest/d10d833a-b5b2-490d-a018-f81ced498877">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>

@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:dcterms="http://purl.org/dc/terms/"
+     xmlns:gettyterms="http://portal.getty.edu/terms/gri/"
+     xmlns:local="http://library.princeton.edu"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Contrafehe der Herrn Fugger vnd Frawen Fuggerin wöllche in disem Geschlecht geporen worden oder zue demselben sich ehelich verpflichtet haben [microform].</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Kilian, Lucas, 1579-1637.</authority>
+            <authority>Kilian, Wolfgang, 1581-1662.</authority>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985341833506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/tj691d</idno>
+            <idno type="cico">2033 [A]</idno>
+            <idno type="dcl">bpb</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Contrafehe der Herrn Fugger vnd Frawen Fuggerin wöllche in disem Geschlecht geporen worden oder zue demselben sich ehelich verpflichtet haben [microform].</title>
+                  <respStmt>
+                     <persName>Custos, Dominicus, -1612.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>German</textLang>
+                  <imprint>
+                     <publisher>[Augsburg : s.n.]</publisher>
+                     <date>Anno 1620</date>
+                     <date>1620</date>
+                  </imprint>
+                  <extent>126 leaves</extent>
+                  <extent>4 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest"
+                            target="https://figgy.princeton.edu/concern/scanned_resources/73bfd373-c2b4-41ba-a438-2b2f54c596f6/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Fugger family -- Portraits -- Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json"
+             url="https://figgy.princeton.edu/concern/scanned_resources/73bfd373-c2b4-41ba-a438-2b2f54c596f6/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>

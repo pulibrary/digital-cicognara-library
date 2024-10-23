@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:dcterms="http://purl.org/dc/terms/"
+     xmlns:gettyterms="http://portal.getty.edu/terms/gri/"
+     xmlns:local="http://library.princeton.edu"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Avvertimenti e regole circa l'architettura civile, scultura, pittura, prospettiva [microform] : et architettura militare per offesa e difesa di fortezze / di Pietr' Antonio Barca ...</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9984944093506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/4s639v</idno>
+            <idno type="cico">412</idno>
+            <idno type="dcl">p26</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Avvertimenti e regole circa l'architettura civile, scultura, pittura, prospettiva [microform] : et architettura militare per offesa e difesa di fortezze / di Pietr' Antonio Barca ...</title>
+                  <respStmt>
+                     <persName>Barca, Pietro Antonio.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>In Milano :bPer Pandolfo Malatesta</publisher>
+                     <date>1620</date>
+                  </imprint>
+                  <extent>46 leaves</extent>
+                  <extent>2 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest"
+                            target="https://figgy.princeton.edu/concern/scanned_resources/a5dc4f82-5cc2-4818-8366-b717b8edbea8/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Architecture, Domestic -- Early works to 1800.</term>
+               <term>Military architecture -- Early works to 1800.</term>
+               <term>Painting -- Early works to 1800.</term>
+               <term>Perspective -- Early works to 1800.</term>
+               <term>Sculpture -- Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json"
+             url="https://figgy.princeton.edu/concern/scanned_resources/a5dc4f82-5cc2-4818-8366-b717b8edbea8/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>

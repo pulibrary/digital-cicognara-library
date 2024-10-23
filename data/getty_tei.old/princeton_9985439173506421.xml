@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:dcterms="http://purl.org/dc/terms/"
+     xmlns:gettyterms="http://portal.getty.edu/terms/gri/"
+     xmlns:local="http://library.princeton.edu"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Iusti RycquI De Capitolio Romano commentarius [microform] : in quo, illustria eius olim aedificia, sacra, &amp; profana: deorum dearumq[ue] nomina: arcus item triumphales, columnae, statuae, tropaea, colossi, caeteraq́ue ornamenta ad curatè describuntur: &amp; plura alia antiquitatis monimenta proferuntur, emendantur, explicantur.</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <authority>Leopoldo Cicognara Program (University of Illinois at Urbana-Champaign)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985439173506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/rr331n</idno>
+            <idno type="cico">3870</idno>
+            <idno type="dcl">1sg</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Iusti RycquI De Capitolio Romano commentarius [microform] : in quo, illustria eius olim aedificia, sacra, &amp; profana: deorum dearumq[ue] nomina: arcus item triumphales, columnae, statuae, tropaea, colossi, caeteraq́ue ornamenta ad curatè describuntur: &amp; plura alia antiquitatis monimenta proferuntur, emendantur, explicantur.</title>
+                  <respStmt>
+                     <persName>Rycke, Josse de, 1587-1627.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Latin</textLang>
+                  <imprint>
+                     <publisher>Gandaui : Apud Cornelium Marium</publisher>
+                     <pubPlace>Capitoline Hill (Italy)</pubPlace>
+                     <pubPlace>Rome</pubPlace>
+                     <date>anno Christiano 1617</date>
+                     <date>1617</date>
+                  </imprint>
+                  <extent>[16], 179 p.</extent>
+                  <extent>4 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest"
+                            target="https://figgy.princeton.edu/concern/scanned_resources/9f4b3a66-9098-49cf-9dd4-0f249aa51209/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Capitoline Hill (Italy) -- Early works to 1800.</term>
+               <term>Rome -- Antiquities -- Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json"
+             url="https://figgy.princeton.edu/concern/scanned_resources/9f4b3a66-9098-49cf-9dd4-0f249aa51209/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>

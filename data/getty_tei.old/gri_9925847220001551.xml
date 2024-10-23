@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:dcterms="http://purl.org/dc/terms/"
+     xmlns:gettyterms="http://portal.getty.edu/terms/gri/"
+     xmlns:local="http://library.princeton.edu"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Natalis Comitis mythologiae, siue, Explicationum fabularum libri decem : in quibus omnia prope naturalis &amp; moralis philosophi[ae] dogmata sub antiquorum fabulis contenta suisse demonstratur : cum locupletissimis indicibus eorum scriptorum, qui in his libris citantur, rerumq́ue notabilium, &amp; multorum nominum ad fabulas pertinentium explicationibus : opus non tantum humanarum, sed etiam sacrarum literarum &amp; philosophiae studiosis perutile, ac propè necessarium : cum priuilegio.</title>
+            <respStmt>
+               <orgName>Getty Research Institute</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Comin da Trino, active 1539-1574, printer.</authority>
+            <idno type="URI">http://portal.getty.edu/books/gri_9925847220001551</idno>
+            <idno type="URI">http://portal.getty.edu/api/1h2b24</idno>
+            <idno>(OCoLC)17362977</idno>
+            <idno type="cico">4695</idno>
+            <idno type="dcl">qp3</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Natalis Comitis mythologiae, siue, Explicationum fabularum libri decem : in quibus omnia prope naturalis &amp; moralis philosophi[ae] dogmata sub antiquorum fabulis contenta suisse demonstratur : cum locupletissimis indicibus eorum scriptorum, qui in his libris citantur, rerumq́ue notabilium, &amp; multorum nominum ad fabulas pertinentium explicationibus : opus non tantum humanarum, sed etiam sacrarum literarum &amp; philosophiae studiosis perutile, ac propè necessarium : cum priuilegio.</title>
+                  <respStmt>
+                     <persName>Conti, Natale, 1520-1582 author.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Latin</textLang>
+                  <textLang>Greek, Ancient (to 1453)</textLang>
+                  <imprint>
+                     <publisher>Venetiis : [Comin da Trino]</publisher>
+                     <pubPlace>Italy Venice.</pubPlace>
+                     <date>MDLXVIII [1568]</date>
+                     <date>1568</date>
+                  </imprint>
+                  <extent>340 leaves</extent>
+               </monogr>
+               <relatedItem type="manifest"
+                            target="https://media.getty.edu/iiif/manifest/ee7e9166-f009-49ec-ac0c-5b91f39835e2"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Mythology, Classical -- Early works to 1800.</term>
+               <term>Classical literature -- History and criticism -- Early works to 1800.</term>
+               <term>Classical literature.</term>
+               <term>Mythology, Classical.</term>
+               <term>BL720 .C6 1568</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json"
+             url="https://media.getty.edu/iiif/manifest/ee7e9166-f009-49ec-ac0c-5b91f39835e2">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>

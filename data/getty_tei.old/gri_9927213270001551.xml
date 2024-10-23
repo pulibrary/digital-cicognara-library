@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:dcterms="http://purl.org/dc/terms/"
+     xmlns:gettyterms="http://portal.getty.edu/terms/gri/"
+     xmlns:local="http://library.princeton.edu"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Œuvres d'architecture de Marie-Joseph Peyre, architecte, ancien pensionnaire du roi à Rome, inspecteur des bâtimens de sa majesté.</title>
+            <respStmt>
+               <orgName>Getty Research Institute</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Jombert, Charles-Antoine, 1712-1784</authority>
+            <authority>Loyer, Michel, 18th cent.</authority>
+            <authority>Peyre, Antoine Marie, 1770-1843</authority>
+            <authority>Prault, Laurent François, 1712-1780</authority>
+            <authority>Reville, Jean-Baptiste, 1767-1825.</authority>
+            <authority>Simon, Claude-Simon, 1710?-1767.</authority>
+            <idno type="URI">http://portal.getty.edu/books/gri_9927213270001551</idno>
+            <idno type="URI">http://portal.getty.edu/api/gd9s9x</idno>
+            <idno>(OCoLC)77756765</idno>
+            <idno type="cico">609</idno>
+            <idno type="dcl">fgj</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Œuvres d'architecture de Marie-Joseph Peyre, architecte, ancien pensionnaire du roi à Rome, inspecteur des bâtimens de sa majesté.</title>
+                  <respStmt>
+                     <persName>Peyre, Marie-Joseph, 1730-1785</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>French</textLang>
+                  <imprint>
+                     <publisher>A Paris : Chez Prault, quai de Gêvres :</publisher>
+                     <pubPlace>France.</pubPlace>
+                     <pubPlace>France</pubPlace>
+                     <pubPlace>France Paris.</pubPlace>
+                     <date>1765</date>
+                  </imprint>
+                  <extent>[2], 27, [3] p., [29] leaves of plates (some folded)</extent>
+               </monogr>
+               <relatedItem type="manifest"
+                            target="https://media.getty.edu/iiif/manifest/00524fb0-3186-4be4-af20-bf2e469ac02d"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Architecture -- Designs and plans -- Early works to 1800.</term>
+               <term>Architecture -- Orders -- Early works to 1800.</term>
+               <term>Neoclassicism (Architecture) -- France.</term>
+               <term>Architecture</term>
+               <term>Architecture -- Orders</term>
+               <term>Neoclassicism (Architecture)</term>
+               <term>France</term>
+               <term>NA1053.P51 A31e</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json"
+             url="https://media.getty.edu/iiif/manifest/00524fb0-3186-4be4-af20-bf2e469ac02d">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>

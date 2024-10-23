@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:dcterms="http://purl.org/dc/terms/"
+     xmlns:gettyterms="http://portal.getty.edu/terms/gri/"
+     xmlns:local="http://library.princeton.edu"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A description of the collection of ancient terracottas in the British Museum; with engravings.</title>
+            <respStmt>
+               <orgName>Getty Research Institute</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Combe, Taylor, 1774-1826</authority>
+            <idno type="URI">http://portal.getty.edu/books/gri_9928513260001551</idno>
+            <idno type="URI">http://portal.getty.edu/api/6j6p1x</idno>
+            <idno>(OCoLC)593037</idno>
+            <idno type="cico">3458</idno>
+            <idno type="dcl">5wb</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>A description of the collection of ancient terracottas in the British Museum; with engravings.</title>
+                  <respStmt>
+                     <persName>British Museum. Department of Greek and Roman Antiquities</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>English</textLang>
+                  <imprint>
+                     <publisher>London, Printed by W. Bulmer and Co</publisher>
+                     <pubPlace>England</pubPlace>
+                     <date>1810</date>
+                  </imprint>
+                  <extent>vii, [1], 39 pages</extent>
+               </monogr>
+               <relatedItem type="manifest"
+                            target="https://media.getty.edu/iiif/manifest/aa3a0573-fe2e-42b4-bb0c-f458eee46b93"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Terra-cotta sculpture -- England -- London -- Catalogs.</term>
+               <term>British Museum.</term>
+               <term>Terra-cotta sculpture.</term>
+               <term>England -- London.</term>
+               <term>British Museum -- Catalogs.</term>
+               <term>NB145 .B8</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json"
+             url="https://media.getty.edu/iiif/manifest/aa3a0573-fe2e-42b4-bb0c-f458eee46b93">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>

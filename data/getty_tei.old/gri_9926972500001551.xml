@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:dcterms="http://purl.org/dc/terms/"
+     xmlns:gettyterms="http://portal.getty.edu/terms/gri/"
+     xmlns:local="http://library.princeton.edu"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>La religion ancienne et moderne des moscovites : enrichie de figures.</title>
+            <respStmt>
+               <orgName>Getty Research Institute</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Picart, Bernard, 1673-1733</authority>
+            <authority>Marteau, Pierre</authority>
+            <idno type="URI">http://portal.getty.edu/books/gri_9926972500001551</idno>
+            <idno type="URI">http://portal.getty.edu/api/4x2w1p</idno>
+            <idno>(OCoLC)123099318</idno>
+            <idno type="cico">4740</idno>
+            <idno type="dcl">hcf</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>La religion ancienne et moderne des moscovites : enrichie de figures.</title>
+                  <respStmt>
+                     <persName>Schleissing, Georg Adam.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>French</textLang>
+                  <imprint>
+                     <publisher>A Cologne [i.e. Amsterdam] : Chez Pierre Marteau</publisher>
+                     <pubPlace>Russia</pubPlace>
+                     <pubPlace>Église orthodoxe</pubPlace>
+                     <pubPlace>Russie</pubPlace>
+                     <pubPlace>Russia.</pubPlace>
+                     <pubPlace>Netherlands Amsterdam.</pubPlace>
+                     <pubPlace>Germany Cologne.</pubPlace>
+                     <date>1698</date>
+                  </imprint>
+                  <extent>[4], 154, [2] pages, 6 leaves of plates (1 folded)</extent>
+               </monogr>
+               <relatedItem type="manifest"
+                            target="https://media.getty.edu/iiif/manifest/0477a988-43f2-4518-878e-61830cd7a65f"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Russkai︠a︡ pravoslavnai︠a︡ t︠s︡erkovʹ -- History -- Early works to 1800.</term>
+               <term>Russia -- Church history -- Early works to 1800.</term>
+               <term>Russia -- Religious life and customs -- Early works to 1800.</term>
+               <term>Église orthodoxe -- Russie -- Histoire -- Ouvrages avant 1800.</term>
+               <term>Russie -- Vie religieuse -- Ouvrages avant 1800.</term>
+               <term>Russie -- Mœurs et coutumes -- Ouvrages avant 1800.</term>
+               <term>Russia.</term>
+               <term>BR932 .S3454 (Rare Bk Coll)</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json"
+             url="https://media.getty.edu/iiif/manifest/0477a988-43f2-4518-878e-61830cd7a65f">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>

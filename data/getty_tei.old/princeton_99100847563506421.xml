@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:dcterms="http://purl.org/dc/terms/"
+     xmlns:gettyterms="http://portal.getty.edu/terms/gri/"
+     xmlns:local="http://library.princeton.edu"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Stvdio D'Architettvra Civile sopra gli Ornamenti di Porte e Finestre tratti da alcune fabbriche insigni di Roma : con le misure, piante, modini e profili ; opera de piu celebri architetti de nostri tempi = Hohe-Schul Burgerlicher Bau-Kunst / publ. da Domenico de Rossi ... Verlegt von Johann Ulrich Kraussen.</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Rossi, Domenico de.</authority>
+            <authority>Kraus, Johann Ulrich.</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_99100847563506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/xt0z1j</idno>
+            <idno>(OCoLC)313540341</idno>
+            <idno type="cico">465</idno>
+            <idno type="dcl">zc5</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Stvdio D'Architettvra Civile sopra gli Ornamenti di Porte e Finestre tratti da alcune fabbriche insigni di Roma : con le misure, piante, modini e profili ; opera de piu celebri architetti de nostri tempi = Hohe-Schul Burgerlicher Bau-Kunst / publ. da Domenico de Rossi ... Verlegt von Johann Ulrich Kraussen.</title>
+                  <textLang>German</textLang>
+                  <imprint>
+                     <publisher>Augspurg : Kraus</publisher>
+                     <date>1708</date>
+                  </imprint>
+                  <extent>2 Mikrofiches : 24x.</extent>
+               </monogr>
+               <relatedItem type="manifest"
+                            target="https://figgy.princeton.edu/concern/scanned_resources/b79fc138-2f18-43c4-8a93-defcf1a98782/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>NA3000</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json"
+             url="https://figgy.princeton.edu/concern/scanned_resources/b79fc138-2f18-43c4-8a93-defcf1a98782/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>

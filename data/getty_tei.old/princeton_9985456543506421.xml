@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:dcterms="http://purl.org/dc/terms/"
+     xmlns:gettyterms="http://portal.getty.edu/terms/gri/"
+     xmlns:local="http://library.princeton.edu"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>La deposizione dalla croce [microform] : quadro di Federigo Barocci di Urbino nella cattedrale di Perugia / descritto in ottava rima da Antonio Mezzanotte ; con una lettera storico-critica di Gio: Battista Vermiglioli.</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Vermiglioli, Giovanni Battista, 1769-1848.</authority>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <authority>Leopoldo Cicognara Program (University of Illinois at Urbana-Champaign)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985456543506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/xt5x2j</idno>
+            <idno type="cico">1220</idno>
+            <idno type="dcl">nns</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>La deposizione dalla croce [microform] : quadro di Federigo Barocci di Urbino nella cattedrale di Perugia / descritto in ottava rima da Antonio Mezzanotte ; con una lettera storico-critica di Gio: Battista Vermiglioli.</title>
+                  <respStmt>
+                     <persName>Mezzanotte, Antonio.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>[Perugia : s.n]</publisher>
+                     <pubPlace>Italy</pubPlace>
+                     <date>[1818]</date>
+                     <date>1818</date>
+                  </imprint>
+                  <extent>25 p.</extent>
+                  <extent>1 microfiche : positive ; 11 x 15 cm.</extent>
+               </monogr>
+               <relatedItem type="manifest"
+                            target="https://figgy.princeton.edu/concern/scanned_resources/96544277-ed0f-4a6c-904a-5dbfabbed818/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Barocci, Federigo, 1528-1612.</term>
+               <term>Cattedrale di San Lorenzo (Perugia, Italy)</term>
+               <term>Crosses -- Italy -- Perugia.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json"
+             url="https://figgy.princeton.edu/concern/scanned_resources/96544277-ed0f-4a6c-904a-5dbfabbed818/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>

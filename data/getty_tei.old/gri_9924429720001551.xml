@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:dcterms="http://purl.org/dc/terms/"
+     xmlns:gettyterms="http://portal.getty.edu/terms/gri/"
+     xmlns:local="http://library.princeton.edu"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Villa Borghese fuori di Porta Pinciana / descritta da Jacomo Manilli, guardarobba di detta Villa.</title>
+            <respStmt>
+               <orgName>Getty Research Institute</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Barrière, Dominique, approximately 1618-1678</authority>
+            <authority>Grignani, Lodovico, 1586-1651</authority>
+            <idno type="URI">http://portal.getty.edu/books/gri_9924429720001551</idno>
+            <idno type="URI">http://portal.getty.edu/api/px6t28</idno>
+            <idno>(OCoLC)265445350</idno>
+            <idno type="cico">3772</idno>
+            <idno type="dcl">g8k</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Villa Borghese fuori di Porta Pinciana / descritta da Jacomo Manilli, guardarobba di detta Villa.</title>
+                  <respStmt>
+                     <persName>Manilli, Giacomo</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>In Roma : Per Lodouico Grignani</publisher>
+                     <pubPlace>Italy</pubPlace>
+                     <pubPlace>Villa Borghese (Rome, Italy : Park)</pubPlace>
+                     <pubPlace>Rome (Italy)</pubPlace>
+                     <pubPlace>Italy Rome.</pubPlace>
+                     <date>1650</date>
+                  </imprint>
+                  <extent>[12], 175 pages, 1 unnumbered leaf of plates (folded)</extent>
+               </monogr>
+               <relatedItem type="manifest"
+                            target="https://media.getty.edu/iiif/manifest/3eda608a-0763-4876-9198-d53368db224f"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Villa Borghese (Rome, Italy : Park)</term>
+               <term>Palaces -- Italy -- Rome.</term>
+               <term>Rome (Italy) -- Buildings, structures, etc. -- Early works to 1800.</term>
+               <term>Casino Borghese (Rome, Italy)</term>
+               <term>Palaces.</term>
+               <term>Italy -- Rome.</term>
+               <term>N2820 .M36</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json"
+             url="https://media.getty.edu/iiif/manifest/3eda608a-0763-4876-9198-d53368db224f">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>

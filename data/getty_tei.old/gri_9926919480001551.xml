@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:dcterms="http://purl.org/dc/terms/"
+     xmlns:gettyterms="http://portal.getty.edu/terms/gri/"
+     xmlns:local="http://library.princeton.edu"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Due dissertazioni di Giuseppe Bartoli : Nella prima si da' notizia del pubblico Museo d'iscrizioni eretto nuovamente in Verona e con l'uso delle osservazioni e delle sperienze in rispetto della fisica si paragona l'uso dell'antichità figurata e scritta relativamente alla storia. Nella seconda si dimostra la bellezza d'una greca inedita iscrizione collocata in questo museo.</title>
+            <respStmt>
+               <orgName>Getty Research Institute</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Ramanzini, Dionigi, printer.</authority>
+            <idno type="URI">http://portal.getty.edu/books/gri_9926919480001551</idno>
+            <idno type="URI">http://portal.getty.edu/api/9n363x</idno>
+            <idno>(OCoLC)54331565</idno>
+            <idno type="cico">3098</idno>
+            <idno type="dcl">d8n</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Due dissertazioni di Giuseppe Bartoli : Nella prima si da' notizia del pubblico Museo d'iscrizioni eretto nuovamente in Verona e con l'uso delle osservazioni e delle sperienze in rispetto della fisica si paragona l'uso dell'antichità figurata e scritta relativamente alla storia. Nella seconda si dimostra la bellezza d'una greca inedita iscrizione collocata in questo museo.</title>
+                  <respStmt>
+                     <persName>Bartoli, Giuseppe, 1717-1788</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>In Verona : Appresso Dionigi Ramanzini</publisher>
+                     <pubPlace>Italy</pubPlace>
+                     <pubPlace>Italy Verona.</pubPlace>
+                     <date>MDCCXLV [1745]</date>
+                     <date>1745</date>
+                  </imprint>
+                  <extent>222 pages</extent>
+               </monogr>
+               <relatedItem type="manifest"
+                            target="https://media.getty.edu/iiif/manifest/5c24d255-3752-4084-b5fd-27be1ec2a820"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Museo maffeiano.</term>
+               <term>Inscriptions, Greek -- Early works to 1800.</term>
+               <term>Inscriptions, Latin -- Italy -- Verona -- Early works to 1800.</term>
+               <term>Inscriptions, Ancient -- Early works to 1800.</term>
+               <term>Museo maffeiano.</term>
+               <term>Inscriptions, Latin.</term>
+               <term>Inscriptions, Ancient.</term>
+               <term>Inscriptions, Greek.</term>
+               <term>Italy -- Verona.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json"
+             url="https://media.getty.edu/iiif/manifest/5c24d255-3752-4084-b5fd-27be1ec2a820">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>

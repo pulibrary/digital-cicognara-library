@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:dcterms="http://purl.org/dc/terms/"
+     xmlns:gettyterms="http://portal.getty.edu/terms/gri/"
+     xmlns:local="http://library.princeton.edu"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Il merito delle belle arti, pittura, scultura, e architettura, riconosciuto nel Campidoglio per l'Accademia del disegno solennizata il dì primo maggio 1709 [microform] : essendo principe della medesima il signor cavalier Carlo Maratti / relazione di Giuseppe Ghezzi ...</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Riviera, Domenico, 1671-1752.</authority>
+            <authority>Accademia di San Luca.</authority>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <authority>Leopoldo Cicognara Program (University of Illinois at Urbana-Champaign)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985301423506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/9c4g8g</idno>
+            <idno type="cico">1307</idno>
+            <idno type="dcl">hzh</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Il merito delle belle arti, pittura, scultura, e architettura, riconosciuto nel Campidoglio per l'Accademia del disegno solennizata il dì primo maggio 1709 [microform] : essendo principe della medesima il signor cavalier Carlo Maratti / relazione di Giuseppe Ghezzi ...</title>
+                  <respStmt>
+                     <persName>Ghezzi, Giuseppe, 1634-1721.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>In Roma : Per Gaetano Zenobj</publisher>
+                     <date>[1709]</date>
+                     <date>1709</date>
+                  </imprint>
+                  <extent>69 p.</extent>
+                  <extent>2 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest"
+                            target="https://figgy.princeton.edu/concern/scanned_resources/7c719ecf-ec8c-4260-aad7-231cbfa51d10/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Accademia di San Luca.</term>
+               <term>Art -- Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json"
+             url="https://figgy.princeton.edu/concern/scanned_resources/7c719ecf-ec8c-4260-aad7-231cbfa51d10/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>

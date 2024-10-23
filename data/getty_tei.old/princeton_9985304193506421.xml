@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:dcterms="http://purl.org/dc/terms/"
+     xmlns:gettyterms="http://portal.getty.edu/terms/gri/"
+     xmlns:local="http://library.princeton.edu"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Pompa Funebris M[e]d[iolanen]sis Franc. I Aug [microform].</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Agudi, Pasquale Maria. Nelle solenni esequie dell' Augustissimo Imperator de' Romani Francesco Primo.</authority>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985304193506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/4j4p8j</idno>
+            <idno type="cico">1522</idno>
+            <idno type="dcl">45v</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Pompa Funebris M[e]d[iolanen]sis Franc. I Aug [microform].</title>
+                  <textLang>Italian</textLang>
+                  <textLang>Latin</textLang>
+                  <imprint>
+                     <publisher>[In Milano : Nella Stamperia di Guiseppe Marelli]</publisher>
+                     <pubPlace>Italy</pubPlace>
+                     <date>[1766]</date>
+                     <date>1766</date>
+                  </imprint>
+                  <extent>LVI p.</extent>
+                  <extent>1 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest"
+                            target="https://figgy.princeton.edu/concern/scanned_resources/c01fc25c-5b3d-4b5b-a33b-3ee7a8f57550/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Francis I, Holy Roman Emperor, 1708-1765 -- Death and burial.</term>
+               <term>Funeral rites and ceremonies -- Italy -- Milan -- History -- 18th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json"
+             url="https://figgy.princeton.edu/concern/scanned_resources/c01fc25c-5b3d-4b5b-a33b-3ee7a8f57550/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>

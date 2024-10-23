@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:dcterms="http://purl.org/dc/terms/"
+     xmlns:gettyterms="http://portal.getty.edu/terms/gri/"
+     xmlns:local="http://library.princeton.edu"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>La magnifica et trivmphale entrata del Christianiss. re di Francia Henrico secondo di questo nome fatta nella nobile &amp; antiqua Città di Lyone à luy &amp; à la sua serenissima consorte Chaterina alli 21. di septemb. 1548 : colla particulare descritione della commedia che fece recitare la Natione Fiorentina a richiesta di sua Maesta Christianissima.</title>
+            <respStmt>
+               <orgName>Getty Research Institute</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Taillemont, Claude de, 1526 or 1527-</authority>
+            <authority>Salomon, Bernard, approximately 1506-approximately 1561</authority>
+            <authority>Dovizi, Bernardo, da Bibbiena, 1470-1520. Calandra. Selections.</authority>
+            <idno type="URI">http://portal.getty.edu/books/gri_9927214710001551</idno>
+            <idno type="URI">http://portal.getty.edu/api/p0291c</idno>
+            <idno>(OCoLC)418542769</idno>
+            <idno type="cico">1371</idno>
+            <idno type="dcl">r63</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>La magnifica et trivmphale entrata del Christianiss. re di Francia Henrico secondo di questo nome fatta nella nobile &amp; antiqua Città di Lyone à luy &amp; à la sua serenissima consorte Chaterina alli 21. di septemb. 1548 : colla particulare descritione della commedia che fece recitare la Natione Fiorentina a richiesta di sua Maesta Christianissima.</title>
+                  <respStmt>
+                     <persName>Scève, Maurice, active 16th century</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>In Lyone : Apresso Gulielmo Rouillio</publisher>
+                     <pubPlace>France</pubPlace>
+                     <pubPlace>Lyon (France)</pubPlace>
+                     <date>1549</date>
+                  </imprint>
+                  <extent>[116] pages</extent>
+               </monogr>
+               <relatedItem type="manifest"
+                            target="https://media.getty.edu/iiif/manifest/9388f60a-8426-4c62-92d2-79fba4758f37"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Henry II, King of France, 1519-1559</term>
+               <term>Catherine de Médicis, Queen, consort of Henry II, King of France, 1519-1589</term>
+               <term>Nannoccio della Costa a San Giorgio, active 16th century.</term>
+               <term>Mannucci, Piero, active 16th century.</term>
+               <term>Catherine de Médicis, Queen, consort of Henry II, King of France, 1519-1589</term>
+               <term>Henry II, King of France, 1519-1559  http://id.worldcat.org//fst00082630 http://viaf.org/viaf/22213267/ http://id.worldcat.org//82630</term>
+               <term>Visits of state -- France -- Lyon -- Early works to 1800.</term>
+               <term>Pageants -- France -- Lyon -- Early works to 1800.</term>
+               <term>Ceremonial entries -- France -- Lyon -- Early works to 1800.</term>
+               <term>Festivals -- France -- Lyon -- Early works to 1800.</term>
+               <term>Regattas -- France -- Lyon -- Early works to 1800.</term>
+               <term>Lyon (France) -- Social life and customs -- Early works to 1800.</term>
+               <term>Triumphal arches -- France -- Lyon -- Early works to 1800.</term>
+               <term>Ceremonial entries.</term>
+               <term>Festivals.</term>
+               <term>Manners and customs.</term>
+               <term>Pageants.</term>
+               <term>Regattas.</term>
+               <term>Triumphal arches.</term>
+               <term>Visits of state.</term>
+               <term>France -- Lyon.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json"
+             url="https://media.getty.edu/iiif/manifest/9388f60a-8426-4c62-92d2-79fba4758f37">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>

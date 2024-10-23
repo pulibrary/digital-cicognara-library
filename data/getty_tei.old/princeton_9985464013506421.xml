@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:dcterms="http://purl.org/dc/terms/"
+     xmlns:gettyterms="http://portal.getty.edu/terms/gri/"
+     xmlns:local="http://library.princeton.edu"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Catalogo delle pitture, dei cartoni e disegni piu ragguardevoli del defunto cavaliere Andrea Appiani e di varie altre pitture, stampe e libri figurati [microform] : esisteni presso gli Eredi del suddetto C. Appiani.</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <authority>Leopoldo Cicognara Program (University of Illinois at Urbana-Champaign)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985464013506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/z06q93</idno>
+            <idno type="cico">n.C.n.</idno>
+            <idno type="dcl">w4z</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Catalogo delle pitture, dei cartoni e disegni piu ragguardevoli del defunto cavaliere Andrea Appiani e di varie altre pitture, stampe e libri figurati [microform] : esisteni presso gli Eredi del suddetto C. Appiani.</title>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>Milano : Dalla Società tipografica de' Classici Italiani</publisher>
+                     <date>1818</date>
+                  </imprint>
+                  <extent>15 p.</extent>
+                  <extent>1 microfiche : positive ; 11 x 15 cm.</extent>
+               </monogr>
+               <relatedItem type="manifest"
+                            target="https://figgy.princeton.edu/concern/scanned_resources/a634521c-84b2-484c-b562-f9c6bd87bd08/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Appiani, Andrea, 1754-1817 -- Art collections -- Catalogs.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json"
+             url="https://figgy.princeton.edu/concern/scanned_resources/a634521c-84b2-484c-b562-f9c6bd87bd08/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>

@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:dcterms="http://purl.org/dc/terms/"
+     xmlns:gettyterms="http://portal.getty.edu/terms/gri/"
+     xmlns:local="http://library.princeton.edu"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Delle Pompe Nuziali già usate presso li Veneziani e li Padovani
+                : dissertazioni : / I. di Don Iacopo Morelli ; II. di Don Giuseppe Gennari.</title>
+            <respStmt>
+               <orgName>Biblioteca Berenson - I Tatti, The Harvard University Center for Italian Renaissance Studies</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Gennari, Giuseppe, 1721-1800.</authority>
+            <idno type="URI">http://portal.getty.edu/books/hulitatti_990109401850203941</idno>
+            <idno type="URI">http://portal.getty.edu/api/b5686r</idno>
+            <idno>(OCoLC)903435923</idno>
+            <idno type="cico">1721</idno>
+            <idno type="dcl">fx0</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Delle Pompe Nuziali già usate presso li Veneziani e li Padovani
+                : dissertazioni : / I. di Don Iacopo Morelli ; II. di Don Giuseppe Gennari.</title>
+                  <respStmt>
+                     <persName>Morelli, Jacopo, 1745-1819</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <imprint>
+                     <publisher>Venezia : Dalla tipografia di Alvisopoli</publisher>
+                     <pubPlace>Italy</pubPlace>
+                     <date>1819</date>
+                  </imprint>
+                  <extent>[8], 78, [1] pages</extent>
+               </monogr>
+               <relatedItem type="manifest"
+                            target="https://iiif.lib.harvard.edu/manifests/drs:450502969"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Weddings -- Italy -- Veneto -- History.</term>
+               <term>Weddings</term>
+               <term>Italy -- Veneto</term>
+               <term>DG675.6 .M67 1819</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json"
+             url="https://iiif.lib.harvard.edu/manifests/drs:450502969">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>

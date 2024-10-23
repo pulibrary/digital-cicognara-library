@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:dcterms="http://purl.org/dc/terms/"
+     xmlns:gettyterms="http://portal.getty.edu/terms/gri/"
+     xmlns:local="http://library.princeton.edu"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Basilicae veteris Vaticanae descriptio auctore Romano eiusdem basilicae canonico : cum notis abbatis Pauli de Angelis, quibus accedit descriptio breuis noui templi Vaticani necnon vtriusque ichnographia.</title>
+            <respStmt>
+               <orgName>Getty Research Institute</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Mallius, Petrus, active 12th century, attributed name.</authority>
+            <authority>De Angelis, Paolo, 1580-1647, editor.</authority>
+            <authority>Tani, Bernardino, printer.</authority>
+            <idno type="URI">http://portal.getty.edu/books/gri_9925881600001551</idno>
+            <idno type="URI">http://portal.getty.edu/api/rj1603</idno>
+            <idno>(OCoLC)13596597</idno>
+            <idno type="cico">3578</idno>
+            <idno type="dcl">9w1</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Basilicae veteris Vaticanae descriptio auctore Romano eiusdem basilicae canonico : cum notis abbatis Pauli de Angelis, quibus accedit descriptio breuis noui templi Vaticani necnon vtriusque ichnographia.</title>
+                  <textLang>Latin</textLang>
+                  <imprint>
+                     <publisher>Romae : Typis Bernardini Tani</publisher>
+                     <pubPlace>Vatican City</pubPlace>
+                     <pubPlace>Vatican City.</pubPlace>
+                     <pubPlace>Italy Rome.</pubPlace>
+                     <date>1646</date>
+                  </imprint>
+                  <extent>[12], 164, [8] pages, [9] folded leaves of plates</extent>
+               </monogr>
+               <relatedItem type="manifest"
+                            target="https://media.getty.edu/iiif/manifest/22874c90-e828-4475-a433-73765d4ba02f"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Basilica di San Pietro in Vaticano.</term>
+               <term>Basilicas -- Vatican City -- Designs and plans -- Early works to 1800.</term>
+               <term>Sepulchral monuments -- Vatican City -- Early works to 1800.</term>
+               <term>Church architecture -- Vatican City -- Early works to 1800.</term>
+               <term>Church decoration and ornament -- Vatican City -- Early works to 1800.</term>
+               <term>Basilica di San Pietro in Vaticano.</term>
+               <term>Basilicas.</term>
+               <term>Church architecture.</term>
+               <term>Church decoration and ornament.</term>
+               <term>Sepulchral monuments.</term>
+               <term>Vatican City.</term>
+               <term>NA5620.S9 B37 1646</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json"
+             url="https://media.getty.edu/iiif/manifest/22874c90-e828-4475-a433-73765d4ba02f">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>

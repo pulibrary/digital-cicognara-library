@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:dcterms="http://purl.org/dc/terms/"
+     xmlns:gettyterms="http://portal.getty.edu/terms/gri/"
+     xmlns:local="http://library.princeton.edu"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Description des tableaux, et des piéces de sculpture, que renferme la gallerie de Son Altesse François Joseph, chef et prince regnant de la maison de Liechtenstein ... etc.</title>
+            <respStmt>
+               <orgName>National Gallery of Art Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <idno type="URI">http://portal.getty.edu/books/nga_99786533504896</idno>
+            <idno type="URI">http://portal.getty.edu/api/qx0n7x</idno>
+            <idno>(OCoLC)171103500</idno>
+            <idno type="cico">3379</idno>
+            <idno type="dcl">164</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Description des tableaux, et des piéces de sculpture, que renferme la gallerie de Son Altesse François Joseph, chef et prince regnant de la maison de Liechtenstein ... etc.</title>
+                  <textLang>French</textLang>
+                  <imprint>
+                     <publisher>Vienne : Chez Jean Thom, nob. de Trattnern</publisher>
+                     <date>1780</date>
+                  </imprint>
+                  <extent>268 p.</extent>
+               </monogr>
+               <relatedItem type="manifest"
+                            target="https://libraryimage.nga.gov/manifest/mms/99786533504896.json"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Franz Joseph I, Prince of Liechtenstein, 1726-1781 -- Art collections -- Catalogs.</term>
+               <term>Private collections -- Catalogs.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json"
+             url="https://libraryimage.nga.gov/manifest/mms/99786533504896.json">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>

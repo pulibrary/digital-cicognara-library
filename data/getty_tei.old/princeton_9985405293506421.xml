@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:dcterms="http://purl.org/dc/terms/"
+     xmlns:gettyterms="http://portal.getty.edu/terms/gri/"
+     xmlns:local="http://library.princeton.edu"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Thomae Dempsteri De Etruria regali libri VII [microform] / nuno primum editi curante Thoma Coke ...</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Coke, Thomas William, Earl of Leicester, 1752-1842.</authority>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985405293506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/jh9c6w</idno>
+            <idno type="cico">2569</idno>
+            <idno type="dcl">jk2</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Thomae Dempsteri De Etruria regali libri VII [microform] / nuno primum editi curante Thoma Coke ...</title>
+                  <respStmt>
+                     <persName>Dempster, Thomas, 1579?-1625.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>Florentiae : Ex Typographia Michaelis Nestenus</publisher>
+                     <pubPlace>Etruria</pubPlace>
+                     <date>1723-24</date>
+                     <date>1723</date>
+                  </imprint>
+                  <extent>2 v.</extent>
+                  <extent>22 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest"
+                            target="https://figgy.princeton.edu/concern/scanned_resources/fcb428bf-9202-4dbe-bfdc-dd59cb117ca9/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Eugubine tables.</term>
+               <term>Art -- Etruria -- Early works to 1800.</term>
+               <term>Etruria -- Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json"
+             url="https://figgy.princeton.edu/concern/scanned_resources/fcb428bf-9202-4dbe-bfdc-dd59cb117ca9/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>

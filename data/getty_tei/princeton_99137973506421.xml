@@ -23,6 +23,7 @@
             <idno type="URI">http://portal.getty.edu/api/sh1b5n</idno>
             <idno>(OCoLC)44425698</idno>
             <idno type="cico">3715</idno>
+            <idno type="dcl">rjn dclib</idno>
             <idno type="dcl">rjn</idno>
          </publicationStmt>
          <sourceDesc>

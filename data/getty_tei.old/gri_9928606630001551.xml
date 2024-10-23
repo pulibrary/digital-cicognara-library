@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:dcterms="http://purl.org/dc/terms/"
+     xmlns:gettyterms="http://portal.getty.edu/terms/gri/"
+     xmlns:local="http://library.princeton.edu"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Le uite de pittori, scoltori, et architetti genouesi e de' forastieri, che in Genoua operarono con alcun ritratti de gli stessi / opera postuma dell'illustrissimo signor Rafaele Soprani nobile genouese ; aggiontani la uita dell'autore per opera di Gio. Nicolo Cauana patritio genouese dal medesimo dedicate all'illustrissimo signor, Luca de Fornari gentilhuomo genouese.</title>
+            <respStmt>
+               <orgName>Getty Research Institute</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Piola, Domenico, 1627-1703, illustrator.</authority>
+            <authority>Tasnière, Georges, 1632?-1704, engraver.</authority>
+            <authority>Bottaro, Giuseppe, active 17th century, printer.</authority>
+            <authority>Tiboldi, Giovanni Battista, active 17th century, printer.</authority>
+            <authority>Cavana, Giovanni Nicolo.</authority>
+            <idno type="URI">http://portal.getty.edu/books/gri_9928606630001551</idno>
+            <idno type="URI">http://portal.getty.edu/api/zs6n8k</idno>
+            <idno>(OCoLC)25051783</idno>
+            <idno type="cico">2371</idno>
+            <idno type="dcl">033</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Le uite de pittori, scoltori, et architetti genouesi e de' forastieri, che in Genoua operarono con alcun ritratti de gli stessi / opera postuma dell'illustrissimo signor Rafaele Soprani nobile genouese ; aggiontani la uita dell'autore per opera di Gio. Nicolo Cauana patritio genouese dal medesimo dedicate all'illustrissimo signor, Luca de Fornari gentilhuomo genouese.</title>
+                  <respStmt>
+                     <persName>Soprani, Raffaele, 1612-1672, author.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>In Genoua : Per Giuseppe Bottaro, e Gio. Battista Tiboldi co[m]pagni</publisher>
+                     <pubPlace>Italy</pubPlace>
+                     <pubPlace>Italy Genoa.</pubPlace>
+                     <date>MDCLXXIV [1674]</date>
+                     <date>1674</date>
+                  </imprint>
+                  <extent>[24], 340 pages, [28] leaves of plates</extent>
+               </monogr>
+               <relatedItem type="manifest"
+                            target="https://media.getty.edu/iiif/manifest/2c918520-fcdf-4784-8303-b39571c67f6d"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Artists -- Italy -- Genoa -- Biography -- Portraits -- Early works to 1800.</term>
+               <term>Art -- Italy -- Genoa -- Early works to 1800.</term>
+               <term>Art</term>
+               <term>Artists.</term>
+               <term>Italy -- Genoa</term>
+               <term>N6921.G4 S7</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json"
+             url="https://media.getty.edu/iiif/manifest/2c918520-fcdf-4784-8303-b39571c67f6d">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>

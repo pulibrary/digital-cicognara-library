@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:dcterms="http://purl.org/dc/terms/"
+     xmlns:gettyterms="http://portal.getty.edu/terms/gri/"
+     xmlns:local="http://library.princeton.edu"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Veteris Latii antiqua vestigia, urbis moenia [microform] : pontes, templa, piscinae, balnea, villae, aliaque rudera praecipue tyburtina, tusculana, et setina aeneis tabulis eleganter incisa, atque in lucem edita.</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <authority>Leopoldo Cicognara Program (University of Illinois at Urbana-Champaign)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985427553506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/gp9g5m</idno>
+            <idno type="cico">3909</idno>
+            <idno type="dcl">8pj</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Veteris Latii antiqua vestigia, urbis moenia [microform] : pontes, templa, piscinae, balnea, villae, aliaque rudera praecipue tyburtina, tusculana, et setina aeneis tabulis eleganter incisa, atque in lucem edita.</title>
+                  <textLang>Latin</textLang>
+                  <imprint>
+                     <publisher>Rome : Typis Joannis Generosi Salomoni</publisher>
+                     <pubPlace>Lazio (Italy)</pubPlace>
+                     <pubPlace>Rome</pubPlace>
+                     <date>1751</date>
+                  </imprint>
+                  <extent>[62] leaves</extent>
+                  <extent>2 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest"
+                            target="https://figgy.princeton.edu/concern/scanned_resources/09be6058-e316-4574-8b03-21198feb1a63/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Lazio (Italy) -- Antiquities -- Early works to 1800.</term>
+               <term>Rome -- Antiquities -- Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json"
+             url="https://figgy.princeton.edu/concern/scanned_resources/09be6058-e316-4574-8b03-21198feb1a63/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>

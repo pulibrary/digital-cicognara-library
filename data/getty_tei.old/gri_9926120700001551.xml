@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:dcterms="http://purl.org/dc/terms/"
+     xmlns:gettyterms="http://portal.getty.edu/terms/gri/"
+     xmlns:local="http://library.princeton.edu"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Le sette cose fatali di Roma antica : I. L'ago della madre degli dei. II. La quadriga di Creta de' Veienti. III. Le ceneri di Oreste. IV. Lo scettro di Priamo. V. Il velo d'Ilione. VI. Gli Ancili. VII. Il Palladio. Una delle tre altre cose fatali di Troia con la morte di Troilo figliuolo di Priamo e colla l'introduzione del cavallo durio nella porta Scea oltre il riparamento de' bianchi cavalli di Reso re di Tracia e dell'arco e delle frecce di Ercole lasciate a Filottete, |c illustrate da Francesco Cancellieri, con la spiegazione de' misteriosi attributi de' numeri ternario e settenario.</title>
+            <respStmt>
+               <orgName>Getty Research Institute</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <idno type="URI">http://portal.getty.edu/books/gri_9926120700001551</idno>
+            <idno type="URI">http://portal.getty.edu/api/757t9p</idno>
+            <idno>(OCoLC)24804335</idno>
+            <idno type="cico">3647-1</idno>
+            <idno type="dcl">cch</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Le sette cose fatali di Roma antica : I. L'ago della madre degli dei. II. La quadriga di Creta de' Veienti. III. Le ceneri di Oreste. IV. Lo scettro di Priamo. V. Il velo d'Ilione. VI. Gli Ancili. VII. Il Palladio. Una delle tre altre cose fatali di Troia con la morte di Troilo figliuolo di Priamo e colla l'introduzione del cavallo durio nella porta Scea oltre il riparamento de' bianchi cavalli di Reso re di Tracia e dell'arco e delle frecce di Ercole lasciate a Filottete, |c illustrate da Francesco Cancellieri, con la spiegazione de' misteriosi attributi de' numeri ternario e settenario.</title>
+                  <respStmt>
+                     <persName>Cancellieri, Francesco, 1751-1826</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>Roma : L.P. Salvioni</publisher>
+                     <pubPlace>Rome</pubPlace>
+                     <pubPlace>Troy (Extinct city)</pubPlace>
+                     <pubPlace>Rome (Empire)</pubPlace>
+                     <pubPlace>Turkey</pubPlace>
+                     <date>1812</date>
+                  </imprint>
+                  <extent>118, [2] pages</extent>
+               </monogr>
+               <relatedItem type="manifest"
+                            target="https://media.getty.edu/iiif/manifest/9580ceaa-2b93-435b-8305-91d37db08514"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Rome -- History -- To 510 B.C.</term>
+               <term>Troy (Extinct city)</term>
+               <term>Rome (Empire)</term>
+               <term>Turkey -- Troy (Extinct city)</term>
+               <term>DE83 .C36 1812</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json"
+             url="https://media.getty.edu/iiif/manifest/9580ceaa-2b93-435b-8305-91d37db08514">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>

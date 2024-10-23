@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:dcterms="http://purl.org/dc/terms/"
+     xmlns:gettyterms="http://portal.getty.edu/terms/gri/"
+     xmlns:local="http://library.princeton.edu"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Dactyliotheca Smithiana [microform].</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <authority>Leopoldo Cicognara Program (University of Illinois at Urbana-Champaign)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985409193506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/x24p6h</idno>
+            <idno type="URI">http://portal.getty.edu/api/9j858t</idno>
+            <idno type="URI">http://portal.getty.edu/api/rj482v</idno>
+            <idno type="URI">http://portal.getty.edu/api/c81q05</idno>
+            <idno type="cico">2870</idno>
+            <idno type="dcl">3sh</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Dactyliotheca Smithiana [microform].</title>
+                  <respStmt>
+                     <persName>Gori, Antonio Francesco, 1691-1757.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Latin</textLang>
+                  <imprint>
+                     <publisher>Venetiis : Ex typographio J.B. Pasqualii</publisher>
+                     <pubPlace>England</pubPlace>
+                     <date>1767</date>
+                  </imprint>
+                  <extent>2 v.</extent>
+                  <extent>10 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest"
+                            target="https://figgy.princeton.edu/concern/scanned_resources/0321468b-41ca-42fa-ab70-169feeed5f23/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Smith, Joseph, 1682-1770 -- Art collections -- Catalogs.</term>
+               <term>Cameos -- England -- London -- Catalogs.</term>
+               <term>Gems, Ancient -- England -- London -- Catalogs.</term>
+               <term>Glyptics -- History.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json"
+             url="https://figgy.princeton.edu/concern/scanned_resources/0321468b-41ca-42fa-ab70-169feeed5f23/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>

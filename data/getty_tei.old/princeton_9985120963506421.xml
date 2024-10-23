@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:dcterms="http://purl.org/dc/terms/"
+     xmlns:gettyterms="http://portal.getty.edu/terms/gri/"
+     xmlns:local="http://library.princeton.edu"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Tabernacoli diversi [microform] / nouamente inuentati da Giovanbatista Montano ... ; dati in luce da Giovanbatista Soria ... opera utillisima à pittori è scultori et à qual si uoglia persona che d'architetura si diletta ...</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Soria, Gio. Batta. (Giovanni Battista), 1581-1651.</authority>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985120963506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/wh7m22</idno>
+            <idno type="cico">570 (4)</idno>
+            <idno type="dcl">gc4</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Tabernacoli diversi [microform] / nouamente inuentati da Giovanbatista Montano ... ; dati in luce da Giovanbatista Soria ... opera utillisima à pittori è scultori et à qual si uoglia persona che d'architetura si diletta ...</title>
+                  <respStmt>
+                     <persName>Montano, Giovanni Battista, 1545-1621.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>In Roma : [s.n.]</publisher>
+                     <pubPlace>Italy.</pubPlace>
+                     <date>1628</date>
+                  </imprint>
+                  <extent>27 leaves</extent>
+                  <extent>1 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest"
+                            target="https://figgy.princeton.edu/concern/scanned_resources/7ad2dda6-4a4b-474e-a863-6f36f97e8141/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Sacrament houses -- Italy.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json"
+             url="https://figgy.princeton.edu/concern/scanned_resources/7ad2dda6-4a4b-474e-a863-6f36f97e8141/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>

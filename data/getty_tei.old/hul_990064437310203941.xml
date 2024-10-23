@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:dcterms="http://purl.org/dc/terms/"
+     xmlns:gettyterms="http://portal.getty.edu/terms/gri/"
+     xmlns:local="http://library.princeton.edu"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>De marmoreo sepulcrali cinerario Perusiae effosso arcanis ethnicorum sculpturis insignito in quibus symbolice sacra quaedam revelatae religionis mysteria adumbrantur et Clementi XIV P.O.M. ac sapientissimo ad incrementum musei pontificii Vaticani ab Emerico Bologninio Perusiae et Umbriae praeside humillime oblato coniecturae Iohannis Baptistae Passerii Pisaurensis regiae academiae Londinensis et instituti Bononiensis socii.</title>
+            <respStmt>
+               <orgName>Harvard Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Bolognini, Emerico.</authority>
+            <authority>Francesi, Benedetto printer.</authority>
+            <idno type="URI">http://portal.getty.edu/books/hul_990064437310203941</idno>
+            <idno type="URI">http://portal.getty.edu/api/j51c3q</idno>
+            <idno>(OCoLC)234355757</idno>
+            <idno type="cico">2618</idno>
+            <idno type="dcl">sc6</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>De marmoreo sepulcrali cinerario Perusiae effosso arcanis ethnicorum sculpturis insignito in quibus symbolice sacra quaedam revelatae religionis mysteria adumbrantur et Clementi XIV P.O.M. ac sapientissimo ad incrementum musei pontificii Vaticani ab Emerico Bologninio Perusiae et Umbriae praeside humillime oblato coniecturae Iohannis Baptistae Passerii Pisaurensis regiae academiae Londinensis et instituti Bononiensis socii.</title>
+                  <respStmt>
+                     <persName>Passeri, Giovanni Battista, approximately 1610-1679, author.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Latin</textLang>
+                  <imprint>
+                     <publisher>Romae : Excudebat Benedictus Francesius</publisher>
+                     <pubPlace>Italy Rome.</pubPlace>
+                     <date>MDCCLXXIII [1773]</date>
+                     <date>1773</date>
+                  </imprint>
+                  <extent>XXXII pages, 1 unnumbered leaf of plates</extent>
+               </monogr>
+               <relatedItem type="manifest"
+                            target="https://iiif.lib.harvard.edu/manifests/drs:481725739"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Christian art and symbolism -- Early works to 1800.</term>
+               <term>Marble sculpture, Ancient -- Early works to 1800.</term>
+               <term>Sepulchral monuments -- Early works to 1800.</term>
+               <term>Marble sculpture, Ancient</term>
+               <term>Christian art and symbolism</term>
+               <term>Sepulchral monuments</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json"
+             url="https://iiif.lib.harvard.edu/manifests/drs:481725739">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>

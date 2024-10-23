@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:dcterms="http://purl.org/dc/terms/"
+     xmlns:gettyterms="http://portal.getty.edu/terms/gri/"
+     xmlns:local="http://library.princeton.edu"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Adventoria amicissimo ac doctissimo viro P. Francisco Macedo ... in qua de inscriptione libri S. Augustini De gratia Christi: Albine, Piniane, &amp; Melania [microform] / disseritur a F. Henrico Noris ...</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Macedo, Francisco de, 1596-1681.</authority>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <authority>Leopoldo Cicognara Program (University of Illinois at Urbana-Champaign)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985410873506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/fz2n05</idno>
+            <idno type="cico">2943</idno>
+            <idno type="dcl">rrs</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Adventoria amicissimo ac doctissimo viro P. Francisco Macedo ... in qua de inscriptione libri S. Augustini De gratia Christi: Albine, Piniane, &amp; Melania [microform] / disseritur a F. Henrico Noris ...</title>
+                  <respStmt>
+                     <persName>Noris, Enrico, 1631-1704.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Latin</textLang>
+                  <imprint>
+                     <publisher>Florentiae : Ex typographia sub signo Stellae</publisher>
+                     <date>1674</date>
+                  </imprint>
+                  <extent>37 p.</extent>
+                  <extent>1 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest"
+                            target="https://figgy.princeton.edu/concern/scanned_resources/c25e55e0-8f9f-4e91-b208-8a92945a9e68/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Augustine, of Hippo, Saint, 354-430 -- Criticism and interpretation.</term>
+               <term>Augustine, of Hippo, Saint, 354-430. De gratia Christi et de peccato originali.</term>
+               <term>Latin language -- Grammar.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json"
+             url="https://figgy.princeton.edu/concern/scanned_resources/c25e55e0-8f9f-4e91-b208-8a92945a9e68/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>

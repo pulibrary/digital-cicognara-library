@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:dcterms="http://purl.org/dc/terms/"
+     xmlns:gettyterms="http://portal.getty.edu/terms/gri/"
+     xmlns:local="http://library.princeton.edu"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Trattato nuovo delle cose maravigliose dell'alma città di Roma [microform] : ornato de molto figure, nel quale si discorse di 300 piu chiese / composto da F. Pietro Martire Felini ; et de tutte le antichita figurate d'essa città, già da Prospero Parisio aumentate et hora in questa vltima impressione con diligenza corrette ec on bellissimo ordine disposte &amp; ampliate sino at pontificato di N.S. Vrbano VIII.</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Parisio, Prospero.</authority>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985434433506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/mj1d4g</idno>
+            <idno type="cico">3715</idno>
+            <idno type="dcl">b2z</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Trattato nuovo delle cose maravigliose dell'alma città di Roma [microform] : ornato de molto figure, nel quale si discorse di 300 piu chiese / composto da F. Pietro Martire Felini ; et de tutte le antichita figurate d'essa città, già da Prospero Parisio aumentate et hora in questa vltima impressione con diligenza corrette ec on bellissimo ordine disposte &amp; ampliate sino at pontificato di N.S. Vrbano VIII.</title>
+                  <respStmt>
+                     <persName>Felini, Pietro Martire.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>In Roma : Per Andrea Fei</publisher>
+                     <pubPlace>Italy</pubPlace>
+                     <pubPlace>Rome (Italy)</pubPlace>
+                     <date>L'anno del giubileo</date>
+                     <date>1625</date>
+                  </imprint>
+                  <extent>437 p.</extent>
+                  <extent>7 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest"
+                            target="https://figgy.princeton.edu/concern/scanned_resources/c6f2c4b4-ca04-4c44-a22d-43f06ecb2549/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Architecture -- Italy -- Rome -- Early works to 1800.</term>
+               <term>Church buildings -- Italy -- Rome -- Early works to 1800.</term>
+               <term>Rome (Italy) -- Guidebooks -- Early works to 1800.</term>
+               <term>Rome (Italy) -- Description and travel -- Early works to 1800.</term>
+               <term>Rome (Italy) -- Antiquities -- Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json"
+             url="https://figgy.princeton.edu/concern/scanned_resources/c6f2c4b4-ca04-4c44-a22d-43f06ecb2549/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>

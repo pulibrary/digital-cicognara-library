@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:dcterms="http://purl.org/dc/terms/"
+     xmlns:gettyterms="http://portal.getty.edu/terms/gri/"
+     xmlns:local="http://library.princeton.edu"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>La Gerusalemme di Torquato Tasso / figurata da Bernardo Castello.</title>
+            <respStmt>
+               <orgName>Getty Research Institute</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Castello, Bernardo, 1557?-1629</authority>
+            <authority>Cungi, Camillo, -approximately 1649</authority>
+            <authority>Gentili, Scipione, 1563-1616</authority>
+            <authority>Guastavini, Giulio, active 16th century</authority>
+            <authority>Ariosto, Orazio, 1555-1593</authority>
+            <idno type="URI">http://portal.getty.edu/books/gri_9923110590001551</idno>
+            <idno type="URI">http://portal.getty.edu/api/g1753g</idno>
+            <idno>(OCoLC)15672480</idno>
+            <idno type="cico">1113</idno>
+            <idno type="dcl">srd</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>La Gerusalemme di Torquato Tasso / figurata da Bernardo Castello.</title>
+                  <respStmt>
+                     <persName>Tasso, Torquato, 1544-1595</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>In Genoua : Appresso Giuseppe Pauoni</publisher>
+                     <date>1617</date>
+                  </imprint>
+                  <extent>[16], 255, [1], 71, [1], 36, [4] p.</extent>
+               </monogr>
+               <relatedItem type="manifest"
+                            target="https://media.getty.edu/iiif/manifest/47b22f66-f2ce-439a-923b-1b26cbf91efc"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Godfrey, of Bouillon, approximately 1060-1100 -- Poetry.</term>
+               <term>Crusades, First, 1096-1099 -- Poetry.</term>
+               <term>Godfrey, of Bouillon, approximately 1060-1100</term>
+               <term>Crusades</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json"
+             url="https://media.getty.edu/iiif/manifest/47b22f66-f2ce-439a-923b-1b26cbf91efc">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>

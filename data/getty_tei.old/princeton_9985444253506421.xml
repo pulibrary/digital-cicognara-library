@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:dcterms="http://purl.org/dc/terms/"
+     xmlns:gettyterms="http://portal.getty.edu/terms/gri/"
+     xmlns:local="http://library.princeton.edu"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Sito, et antichita della citta di Pozzuolo e del suo amenissimo distretto [microform] : con la descrittione di tutti i luoghi notabili e degni di memoria e di Cuma e di Baia e di Miseno e de gli altri luoghi conuicini : con le figure de gli edifici e con gli epitafi che vi sono / del sig. Scipione Mazzella ... ; postivi medesimamente tutti i Bagni e lor proprietà non solo di Pozzuolo e di Baia ma anco dell'isola d'Ischia col modo e regole che quelli s'hanno à pigliare &amp; à quali infermità giouino vi sono anco l'indice de gli autori, &amp; le tauole delle cose necessarie à commodità de gli studiosi.</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <authority>Leopoldo Cicognara Program (University of Illinois at Urbana-Champaign)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985444253506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/6j3n59</idno>
+            <idno type="cico">4317</idno>
+            <idno type="dcl">7d0</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Sito, et antichita della citta di Pozzuolo e del suo amenissimo distretto [microform] : con la descrittione di tutti i luoghi notabili e degni di memoria e di Cuma e di Baia e di Miseno e de gli altri luoghi conuicini : con le figure de gli edifici e con gli epitafi che vi sono / del sig. Scipione Mazzella ... ; postivi medesimamente tutti i Bagni e lor proprietà non solo di Pozzuolo e di Baia ma anco dell'isola d'Ischia col modo e regole che quelli s'hanno à pigliare &amp; à quali infermità giouino vi sono anco l'indice de gli autori, &amp; le tauole delle cose necessarie à commodità de gli studiosi.</title>
+                  <respStmt>
+                     <persName>Mazzella, Scipione.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>In Napoli : Appresso Horatio Saluiani</publisher>
+                     <pubPlace>Italy</pubPlace>
+                     <pubPlace>Baia (Italy)</pubPlace>
+                     <pubPlace>Cumae (Extinct city)</pubPlace>
+                     <pubPlace>Pozzuoli (Italy)</pubPlace>
+                     <date>1591</date>
+                  </imprint>
+                  <extent>152 p.</extent>
+                  <extent>3 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest"
+                            target="https://figgy.princeton.edu/concern/scanned_resources/ce08ab72-7e64-43f4-856b-30faf1dfc8b3/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Geology -- Italy -- Early works to 1800.</term>
+               <term>Baia (Italy)</term>
+               <term>Cumae (Extinct city)</term>
+               <term>Pozzuoli (Italy) -- Antiquities -- Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json"
+             url="https://figgy.princeton.edu/concern/scanned_resources/ce08ab72-7e64-43f4-856b-30faf1dfc8b3/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>

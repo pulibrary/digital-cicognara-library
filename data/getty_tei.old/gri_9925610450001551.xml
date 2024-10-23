@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:dcterms="http://purl.org/dc/terms/"
+     xmlns:gettyterms="http://portal.getty.edu/terms/gri/"
+     xmlns:local="http://library.princeton.edu"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Francisci Antonii Vitale in binas veteres inscriptiones L. Aurelii Commodi imperatoris ætate positas Romæ recens detectas dissertatio qua gladiatorum materia fere tota enucleatur.</title>
+            <respStmt>
+               <orgName>Getty Research Institute</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Komarek, Francesco Bizzarrini, approximately 1749-1766.</authority>
+            <authority>Monaldini, Venanzio</authority>
+            <idno type="URI">http://portal.getty.edu/books/gri_9925610450001551</idno>
+            <idno type="URI">http://portal.getty.edu/api/0r2c07</idno>
+            <idno>(OCoLC)49429763</idno>
+            <idno type="cico">3153</idno>
+            <idno type="dcl">bgq</idno>
+            <idno type="dcl">s8h</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Francisci Antonii Vitale in binas veteres inscriptiones L. Aurelii Commodi imperatoris ætate positas Romæ recens detectas dissertatio qua gladiatorum materia fere tota enucleatur.</title>
+                  <respStmt>
+                     <persName>Vitale, Francesco Antonio, approximately 1724-1803</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>Romæ, ex typographia Komarek, sumptibus V. Monaldini</publisher>
+                     <pubPlace>Rome.</pubPlace>
+                     <pubPlace>Rome (Empire)</pubPlace>
+                     <pubPlace>Italy Rome.</pubPlace>
+                     <date>1763</date>
+                  </imprint>
+                  <extent>88 pages</extent>
+               </monogr>
+               <relatedItem type="manifest"
+                            target="https://media.getty.edu/iiif/manifest/57249955-3db5-4b38-803c-4ba1ccd52660"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Commodus, Emperor of Rome, 161-192</term>
+               <term>Inscriptions, Latin -- Rome.</term>
+               <term>Gladiators -- Early works to 1800.</term>
+               <term>Commodus, Emperor of Rome, 161-192</term>
+               <term>Gladiators.</term>
+               <term>Inscriptions, Latin.</term>
+               <term>Rome (Empire)</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json"
+             url="https://media.getty.edu/iiif/manifest/57249955-3db5-4b38-803c-4ba1ccd52660">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>

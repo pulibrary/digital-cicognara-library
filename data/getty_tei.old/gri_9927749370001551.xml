@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:dcterms="http://purl.org/dc/terms/"
+     xmlns:gettyterms="http://portal.getty.edu/terms/gri/"
+     xmlns:local="http://library.princeton.edu"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>I marmi del Doni, academico peregrino.</title>
+            <respStmt>
+               <orgName>Getty Research Institute</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Marcolini, Francesco, approximately 1500-approximately 1559</authority>
+            <authority>Pforzheimer Bruce Rogers Collection (Library of Congress)</authority>
+            <idno type="URI">http://portal.getty.edu/books/gri_9927749370001551</idno>
+            <idno type="URI">http://portal.getty.edu/api/jz5c00</idno>
+            <idno>(OCoLC)3500155</idno>
+            <idno type="cico">115A</idno>
+            <idno type="dcl">bzn</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>I marmi del Doni, academico peregrino.</title>
+                  <respStmt>
+                     <persName>Doni, Anton Francesco, 1513-1574</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>Vinegia, F. Marcolini</publisher>
+                     <date>1552-53</date>
+                     <date>1552</date>
+                  </imprint>
+                  <extent>4 parts in 1 volume</extent>
+               </monogr>
+               <relatedItem type="manifest"
+                            target="https://media.getty.edu/iiif/manifest/1c51de2f-6488-4de1-b32f-a089bfa9c556"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Marcolini, Francesco, approximately 1500-approximately 1559</term>
+               <term>Marcolini, Francesco, approximately 1500-approximately 1559</term>
+               <term>PQ4621.D5 M3 1552</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json"
+             url="https://media.getty.edu/iiif/manifest/1c51de2f-6488-4de1-b32f-a089bfa9c556">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>

@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:dcterms="http://purl.org/dc/terms/"
+     xmlns:gettyterms="http://portal.getty.edu/terms/gri/"
+     xmlns:local="http://library.princeton.edu"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Description sommaire des desseins des grands maistres d'Italie, des Pays-Bas et de France, du cabinet de feu M. Crozat : avec des réflexions sur la maniere de dessiner des principaux peintres / par P.J. Mariette.</title>
+            <respStmt>
+               <orgName>Getty Research Institute</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Crozat, M. (Pierre), 1661-1740</authority>
+            <idno type="URI">http://portal.getty.edu/books/gri_9925498540001551</idno>
+            <idno type="URI">http://portal.getty.edu/api/946d5z</idno>
+            <idno type="URI">http://portal.getty.edu/api/3s778q</idno>
+            <idno>(OCoLC)171437404</idno>
+            <idno type="cico">4404-1</idno>
+            <idno type="dcl">krw</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Description sommaire des desseins des grands maistres d'Italie, des Pays-Bas et de France, du cabinet de feu M. Crozat : avec des réflexions sur la maniere de dessiner des principaux peintres / par P.J. Mariette.</title>
+                  <respStmt>
+                     <persName>Mariette, Pierre-Jean, 1694-1774 author, compiler, printer.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>French</textLang>
+                  <imprint>
+                     <publisher>A Paris : Chez Pierre-Jean Mariette, ruë S. Jacques aux colonnes d'Hercules</publisher>
+                     <pubPlace>France</pubPlace>
+                     <pubPlace>France Paris.</pubPlace>
+                     <date>MDCCXLI [1741]</date>
+                     <date>1741</date>
+                  </imprint>
+                  <extent>xij, 4*, 140 pages</extent>
+               </monogr>
+               <relatedItem type="manifest"
+                            target="https://media.getty.edu/iiif/manifest/5aea8719-3137-46f3-9b12-fec5a4f2d8d5"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Crozat, M. (Pierre), 1661-1740 -- Art collections -- Catalogs.</term>
+               <term>Drawing -- Private collections -- Catalogs -- Early works to 1800.</term>
+               <term>Drawing -- France -- Paris -- Catalogs -- Early works to 1800.</term>
+               <term>Crozat, M. (Pierre), 1661-1740</term>
+               <term>Art -- Private collections.</term>
+               <term>Drawing.</term>
+               <term>Drawing -- Private collections.</term>
+               <term>France -- Paris.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json"
+             url="https://media.getty.edu/iiif/manifest/5aea8719-3137-46f3-9b12-fec5a4f2d8d5">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>

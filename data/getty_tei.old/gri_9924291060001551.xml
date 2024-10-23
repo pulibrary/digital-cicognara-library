@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:dcterms="http://purl.org/dc/terms/"
+     xmlns:gettyterms="http://portal.getty.edu/terms/gri/"
+     xmlns:local="http://library.princeton.edu"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Descrizioni / del signor Vittorio Barzoni.</title>
+            <respStmt>
+               <orgName>Getty Research Institute</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <idno type="URI">http://portal.getty.edu/books/gri_9924291060001551</idno>
+            <idno type="URI">http://portal.getty.edu/api/0x0122</idno>
+            <idno>(OCoLC)1357361</idno>
+            <idno type="cico">3481</idno>
+            <idno type="dcl">ss2</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Descrizioni / del signor Vittorio Barzoni.</title>
+                  <respStmt>
+                     <persName>Barzoni, Vittorio, 1768-1829 author.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>English</textLang>
+                  <imprint>
+                     <publisher>Milano : Presso Ferdinando Baret, librajo</publisher>
+                     <pubPlace>Italy</pubPlace>
+                     <pubPlace>Italy.</pubPlace>
+                     <pubPlace>Italy Milan.</pubPlace>
+                     <date>1815</date>
+                  </imprint>
+                  <extent>[4], 162, [2] pages</extent>
+               </monogr>
+               <relatedItem type="manifest"
+                            target="https://media.getty.edu/iiif/manifest/afab8019-459f-4646-8721-abcd17a3ba0e"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Italy -- Civilization.</term>
+               <term>Italy -- Intellectual life.</term>
+               <term>Canova, Antonio, 1757-1822</term>
+               <term>Canova, Antonio, 1757-1822</term>
+               <term>Civilization.</term>
+               <term>Intellectual life.</term>
+               <term>Italy.</term>
+               <term>DG449 .B3x</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json"
+             url="https://media.getty.edu/iiif/manifest/afab8019-459f-4646-8721-abcd17a3ba0e">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>

@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:dcterms="http://purl.org/dc/terms/"
+     xmlns:gettyterms="http://portal.getty.edu/terms/gri/"
+     xmlns:local="http://library.princeton.edu"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Admiranda Romanarum antiquitatum [microform] : ac veteris sculpturae vestigia anaglyphtico opere elaborata ex marmoreis exemplaribus quae Romae adhuc extant tum in arcubus et vetustis ruinis tum in Capitolio aedibus hortis viroru[m] principu[m] ad antiqua[m] elegantia[m] / a Petro Sancti Bartolo delineata, incisa in quibus plurima ac praeclarissima ad Romanam historia[m] ac veteres mores dignoscendos ob oculos ponuntur ; notis Io. Petri Bellorii illustrata ...</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Bellori, Giovanni Pietro, 1613-1696.</authority>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <authority>Leopoldo Cicognara Program (University of Illinois at Urbana-Champaign)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985436973506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/t62793</idno>
+            <idno type="cico">3606</idno>
+            <idno type="dcl">1wg</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Admiranda Romanarum antiquitatum [microform] : ac veteris sculpturae vestigia anaglyphtico opere elaborata ex marmoreis exemplaribus quae Romae adhuc extant tum in arcubus et vetustis ruinis tum in Capitolio aedibus hortis viroru[m] principu[m] ad antiqua[m] elegantia[m] / a Petro Sancti Bartolo delineata, incisa in quibus plurima ac praeclarissima ad Romanam historia[m] ac veteres mores dignoscendos ob oculos ponuntur ; notis Io. Petri Bellorii illustrata ...</title>
+                  <respStmt>
+                     <persName>Bartoli, Pietro Santi, 1635-1700.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Latin</textLang>
+                  <imprint>
+                     <publisher>Romae : [Ioannes Iacobus de Rubeis] ad Templum Pacis</publisher>
+                     <pubPlace>Italy</pubPlace>
+                     <pubPlace>Rome (Italy)</pubPlace>
+                     <date>[before 1693]</date>
+                     <date>1680</date>
+                  </imprint>
+                  <extent>81 leaves</extent>
+                  <extent>3 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest"
+                            target="https://figgy.princeton.edu/concern/scanned_resources/07f1afa4-33ab-4bc7-b07c-a06926c20181/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Sculpture, Roman -- Early works to 1800.</term>
+               <term>Bas-relief -- Italy -- Rome -- Early works to 1800.</term>
+               <term>Rome (Italy) -- Antiquities -- Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json"
+             url="https://figgy.princeton.edu/concern/scanned_resources/07f1afa4-33ab-4bc7-b07c-a06926c20181/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>

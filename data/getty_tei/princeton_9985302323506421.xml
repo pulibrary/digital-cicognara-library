@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:dcterms="http://purl.org/dc/terms/"
+     xmlns:gettyterms="http://portal.getty.edu/terms/gri/"
+     xmlns:local="http://library.princeton.edu"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Discorsi accademici dell conte Castone della Torre di Rezzonico, segretario perpetuo della R. Accademia delle Belle Arti [microform]. [microform].</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Bossi, Benigno, 1727-1792.</authority>
+            <authority>Frugoni, Carlo Innocenzo, 1692-1768.</authority>
+            <authority>Accademia nazionale di belle arti (Parma, Italy)</authority>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985302323506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/cx9s0n</idno>
+            <idno type="cico">1343</idno>
+            <idno type="dcl">58r</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Discorsi accademici dell conte Castone della Torre di Rezzonico, segretario perpetuo della R. Accademia delle Belle Arti [microform]. [microform].</title>
+                  <respStmt>
+                     <persName>Torre di Rezzonico, Carlo Castone della, 1742-1796.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>[Parma : s.n]</publisher>
+                     <date>[1772]</date>
+                     <date>1772</date>
+                  </imprint>
+                  <extent>VII, 80 p.</extent>
+                  <extent>2 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest"
+                            target="https://figgy.princeton.edu/concern/scanned_resources/7a95ea93-d0a1-4a89-9df1-4ec5634a6b83/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Aesthetics -- Early works to 1800.</term>
+               <term>Art -- Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json"
+             url="https://figgy.princeton.edu/concern/scanned_resources/7a95ea93-d0a1-4a89-9df1-4ec5634a6b83/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>

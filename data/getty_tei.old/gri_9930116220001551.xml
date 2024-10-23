@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:dcterms="http://purl.org/dc/terms/"
+     xmlns:gettyterms="http://portal.getty.edu/terms/gri/"
+     xmlns:local="http://library.princeton.edu"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Roma, tutrice delle belle arti, pittura, scultura, e architettura : mostrata nel Campidoglio dall'Accademia del disegno il dì 2. ottobre 1710 : essendo principe della medesima il signor cavalier Carlo Maratti / relazione di Giuseppe Ghezzi ...</title>
+            <respStmt>
+               <orgName>Getty Research Institute</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Monti, Filippo Maria de', 1675-1754.</authority>
+            <authority>Frezza, Giovanni Girolamo, 1659-1743.</authority>
+            <authority>Zenobi, Gaetano, active 1698-1707.</authority>
+            <authority>Accademia di San Luca.</authority>
+            <idno type="URI">http://portal.getty.edu/books/gri_9930116220001551</idno>
+            <idno type="URI">http://portal.getty.edu/api/8d672h</idno>
+            <idno>(OCoLC)83287341</idno>
+            <idno type="cico">1307L</idno>
+            <idno type="dcl">dg3</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Roma, tutrice delle belle arti, pittura, scultura, e architettura : mostrata nel Campidoglio dall'Accademia del disegno il dì 2. ottobre 1710 : essendo principe della medesima il signor cavalier Carlo Maratti / relazione di Giuseppe Ghezzi ...</title>
+                  <respStmt>
+                     <persName>Ghezzi, Giuseppe, 1634-1721.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>In Roma : Per lo stampatore Gaetano Zenobj</publisher>
+                     <pubPlace>Italy</pubPlace>
+                     <pubPlace>Italy Rome.</pubPlace>
+                     <date>[1710]</date>
+                     <date>1710</date>
+                  </imprint>
+                  <extent>72 p., [1] leaf of plates</extent>
+               </monogr>
+               <relatedItem type="manifest"
+                            target="https://media.getty.edu/iiif/manifest/a4039d7f-466f-4765-b9cf-1360e83d2876"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Accademia di San Luca</term>
+               <term>Art -- Italy -- Rome -- Early works to 1800.</term>
+               <term>Accademia di San Luca  http://id.worldcat.org//fst00692581</term>
+               <term>Art</term>
+               <term>Italy -- Rome.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json"
+             url="https://media.getty.edu/iiif/manifest/a4039d7f-466f-4765-b9cf-1360e83d2876">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>

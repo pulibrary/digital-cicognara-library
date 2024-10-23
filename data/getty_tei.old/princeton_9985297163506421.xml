@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:dcterms="http://purl.org/dc/terms/"
+     xmlns:gettyterms="http://portal.getty.edu/terms/gri/"
+     xmlns:local="http://library.princeton.edu"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>M. Vitruuii De architectura libri decem, summa diligentia recogniti, atq[ue] excusi [microform] : cum nonnullis figuris sub hoc signo * positis, nun q[uam] antea impraessis : additis Iulij Frontini De aqueductibus libris, proter materiae affinitatem.</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Frontinus, Sextus Julius. De aquis urbis Romae.</authority>
+            <authority>Giocondo, Giovanni, approximately 1433-1515.</authority>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985297163506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/bw3b05</idno>
+            <idno type="cico">700</idno>
+            <idno type="dcl">t5c</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>M. Vitruuii De architectura libri decem, summa diligentia recogniti, atq[ue] excusi [microform] : cum nonnullis figuris sub hoc signo * positis, nun q[uam] antea impraessis : additis Iulij Frontini De aqueductibus libris, proter materiae affinitatem.</title>
+                  <respStmt>
+                     <persName>Vitruvius Pollio.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Latin</textLang>
+                  <imprint>
+                     <publisher>[Lyon : Guill. Huyon]</publisher>
+                     <pubPlace>Rome (Italy)</pubPlace>
+                     <date>1523</date>
+                  </imprint>
+                  <extent>195 [i.e. 179], [15], 22 leaves</extent>
+                  <extent>7 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest"
+                            target="https://figgy.princeton.edu/concern/scanned_resources/b0b60f5b-e7bd-4fc2-aeef-0e537278d294/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Architecture -- Early works to 1800.</term>
+               <term>Water-supply -- Early works to 1800.</term>
+               <term>Rome (Italy) -- Water-supply -- Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json"
+             url="https://figgy.princeton.edu/concern/scanned_resources/b0b60f5b-e7bd-4fc2-aeef-0e537278d294/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>

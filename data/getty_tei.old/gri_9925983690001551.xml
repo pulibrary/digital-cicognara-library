@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:dcterms="http://purl.org/dc/terms/"
+     xmlns:gettyterms="http://portal.getty.edu/terms/gri/"
+     xmlns:local="http://library.princeton.edu"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Columna Theodosiana, quam vulgo "historiatam" vocant, ab Arcadio imperatore Constantinopoli erecta in honorem imperatoris Theodosii junioris : a Gentile Bellino delineata : nunc primum aere sculpta et in xviii. tabulas distributa.</title>
+            <respStmt>
+               <orgName>Getty Research Institute</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Bellini, Gentile, -1507.</authority>
+            <idno type="URI">http://portal.getty.edu/books/gri_9925983690001551</idno>
+            <idno type="URI">http://portal.getty.edu/api/d26g9k</idno>
+            <idno>(OCoLC)145865139</idno>
+            <idno type="cico">2650</idno>
+            <idno type="cico">3602</idno>
+            <idno type="dcl">0w6</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Columna Theodosiana, quam vulgo "historiatam" vocant, ab Arcadio imperatore Constantinopoli erecta in honorem imperatoris Theodosii junioris : a Gentile Bellino delineata : nunc primum aere sculpta et in xviii. tabulas distributa.</title>
+                  <respStmt>
+                     <persName>Menestrier, Claude-François, 1631-1705.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Latin</textLang>
+                  <imprint>
+                     <publisher>[Prostant Venetiis] : [Apud J. Baptista Pasquali]</publisher>
+                     <pubPlace>Turkey</pubPlace>
+                     <pubPlace>Istanbul (Turkey)</pubPlace>
+                     <date>[1765]</date>
+                     <date>1765</date>
+                  </imprint>
+                  <extent>[1], 7, [1] pages, XVIII leaves of plates</extent>
+               </monogr>
+               <relatedItem type="manifest"
+                            target="https://media.getty.edu/iiif/manifest/4cff26ee-bc7a-4a9f-937a-1a4d229f1db9"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Theodosius I, Emperor of Rome, 347-395.</term>
+               <term>Column of Theodosius (Istanbul, Turkey)</term>
+               <term>Columns -- Turkey -- Istanbul.</term>
+               <term>Relief (Sculpture) -- Turkey -- Istanbul.</term>
+               <term>Istanbul (Turkey) -- Buildings, structures, etc.</term>
+               <term>Istanbul (Turkey) -- Antiquities.</term>
+               <term>Theodosius I, Emperor of Rome, 347-395</term>
+               <term>Antiquities</term>
+               <term>Buildings</term>
+               <term>Columns</term>
+               <term>Relief (Sculpture)</term>
+               <term>Turkey -- Istanbul</term>
+               <term>NA9340.I8 M4 1765</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json"
+             url="https://media.getty.edu/iiif/manifest/4cff26ee-bc7a-4a9f-937a-1a4d229f1db9">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>

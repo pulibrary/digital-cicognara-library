@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:dcterms="http://purl.org/dc/terms/"
+     xmlns:gettyterms="http://portal.getty.edu/terms/gri/"
+     xmlns:local="http://library.princeton.edu"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Descrizione dell'apparato fatto in Firenze sulla Piazza di S. Marco dalla Regia Accademia delle belle arti : nell'occasione del fausto ritorno in Toscana di S.A.I. e R. il granduca Ferdinando III.</title>
+            <respStmt>
+               <orgName>Getty Research Institute</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Castagnoli, Giuseppe, fl. 1814.</authority>
+            <authority>Volpini, Angelo, fl. 1760-1814.</authority>
+            <authority>Canacci, Giuseppe, 19th cent.</authority>
+            <authority>Palmerini, Niccolò</authority>
+            <authority>Morghen, Raffaello, 1761-1833</authority>
+            <authority>Lapi, Angelo Emilio, 1769?-1852.</authority>
+            <authority>Regia Accademia di belle arti (Florence, Italy)</authority>
+            <idno type="URI">http://portal.getty.edu/books/gri_9927231940001551</idno>
+            <idno type="URI">http://portal.getty.edu/api/t03q8g</idno>
+            <idno>(OCoLC)31070565</idno>
+            <idno type="cico">1540</idno>
+            <idno type="dcl">fwx</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Descrizione dell'apparato fatto in Firenze sulla Piazza di S. Marco dalla Regia Accademia delle belle arti : nell'occasione del fausto ritorno in Toscana di S.A.I. e R. il granduca Ferdinando III.</title>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>Firenze : Presso Niccolo Carli</publisher>
+                     <pubPlace>Italy</pubPlace>
+                     <pubPlace>Florence (Italy)</pubPlace>
+                     <pubPlace>Florenz</pubPlace>
+                     <pubPlace>Italy Florence.</pubPlace>
+                     <date>1814</date>
+                  </imprint>
+                  <extent>7 pages, 3 unnumbered leaves of plates (some folded)</extent>
+               </monogr>
+               <relatedItem type="manifest"
+                            target="https://media.getty.edu/iiif/manifest/1f226592-b5aa-4a37-a503-538797fd72c3"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Regia Accademia di belle arti (Florence, Italy)</term>
+               <term>Ferdinando III, Grand-Duke of Tuscany, 1769-1824 -- Monuments.</term>
+               <term>Monuments -- Italy -- Florence.</term>
+               <term>Florence (Italy) -- Social life and customs.</term>
+               <term>Ferdinando III, Grand-Duke of Tuscany, 1769-1824</term>
+               <term>Manners and customs.</term>
+               <term>Monuments.</term>
+               <term>Italy -- Florence.</term>
+               <term>Ferdinand (Toskana, Großherzog, III.)</term>
+               <term>Quelle</term>
+               <term>Florenz</term>
+               <term>DG756.3.F47 D47 1814</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json"
+             url="https://media.getty.edu/iiif/manifest/1f226592-b5aa-4a37-a503-538797fd72c3">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>

@@ -24,7 +24,9 @@
             <idno type="URI">http://portal.getty.edu/api/ss5c7g</idno>
             <idno>(OCoLC)27754339</idno>
             <idno type="cico">3106</idno>
+            <idno type="cico">3107</idno>
             <idno type="dcl">363</idno>
+            <idno type="dcl">363 dclib</idno>
          </publicationStmt>
          <sourceDesc>
             <biblStruct>

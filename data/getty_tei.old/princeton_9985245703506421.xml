@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:dcterms="http://purl.org/dc/terms/"
+     xmlns:gettyterms="http://portal.getty.edu/terms/gri/"
+     xmlns:local="http://library.princeton.edu"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Mémoire sur la peinture à l'encaustique et sur la peinture à la cire [microform]/ par M. le comte de Caylus ... et M. Majault .... [microform].</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Majault, M. (Michel Joseph)</authority>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985245703506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/0b7h20</idno>
+            <idno type="cico">996B</idno>
+            <idno type="dcl">h2h</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Mémoire sur la peinture à l'encaustique et sur la peinture à la cire [microform]/ par M. le comte de Caylus ... et M. Majault .... [microform].</title>
+                  <respStmt>
+                     <persName>Caylus, Anne Claude Philippe, comte de, 1692-1765.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>French</textLang>
+                  <imprint>
+                     <publisher>A Genève ;</publisher>
+                     <date>1755</date>
+                  </imprint>
+                  <extent>[6], 133 p., [1], II leaves of plates</extent>
+                  <extent>microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest"
+                            target="https://figgy.princeton.edu/concern/scanned_resources/5aa96ffb-b8d4-4307-9cf2-b77cb6f71a57/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords/>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json"
+             url="https://figgy.princeton.edu/concern/scanned_resources/5aa96ffb-b8d4-4307-9cf2-b77cb6f71a57/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>

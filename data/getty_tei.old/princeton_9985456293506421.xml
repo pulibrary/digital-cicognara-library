@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:dcterms="http://purl.org/dc/terms/"
+     xmlns:gettyterms="http://portal.getty.edu/terms/gri/"
+     xmlns:local="http://library.princeton.edu"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Discorso letto nella grande aula dell'Imperiale Regio Palazzo delle Scienze ed Arti in occasione della solenne distribuzione de' premj dell'Imperiale Regia Accademia delle belle Arti [microform] / da S.E. il Signor Conte di Strassoldo ... il giorno 23 agosto 1821.</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <authority>Leopoldo Cicognara Program (University of Illinois at Urbana-Champaign)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985456293506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/xz8g90</idno>
+            <idno type="cico">1337</idno>
+            <idno type="dcl">jvp</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Discorso letto nella grande aula dell'Imperiale Regio Palazzo delle Scienze ed Arti in occasione della solenne distribuzione de' premj dell'Imperiale Regia Accademia delle belle Arti [microform] / da S.E. il Signor Conte di Strassoldo ... il giorno 23 agosto 1821.</title>
+                  <respStmt>
+                     <persName>Accademia di belle arti (Milan, Italy)</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>Milano : Dalla stamperia reale</publisher>
+                     <pubPlace>Italy</pubPlace>
+                     <date>1821</date>
+                  </imprint>
+                  <extent>52 p.</extent>
+                  <extent>1 microfiche ; 11 x 15 cm.</extent>
+               </monogr>
+               <relatedItem type="manifest"
+                            target="https://figgy.princeton.edu/concern/scanned_resources/c9721417-6e10-4f4d-a99c-b962ac0b2666/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Accademia di belle arti (Milan, Italy) -- Awards.</term>
+               <term>Art -- Awards -- Italy -- Milan.</term>
+               <term>Speeches, addresses, etc., Italian.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json"
+             url="https://figgy.princeton.edu/concern/scanned_resources/c9721417-6e10-4f4d-a99c-b962ac0b2666/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>

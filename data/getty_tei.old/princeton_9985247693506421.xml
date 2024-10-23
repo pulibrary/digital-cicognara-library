@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:dcterms="http://purl.org/dc/terms/"
+     xmlns:gettyterms="http://portal.getty.edu/terms/gri/"
+     xmlns:local="http://library.princeton.edu"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Dialogue sur la peinture de Lovis Dolce intitulè l'Aretin [microform] : dans le quel on traitte de l'excellence de la peinture &amp; de toutes les qualités necessaires au bon peintre : avec les exemples des peintres anciens &amp; modernes ; à la fin on y parlé du merite &amp; des ouvrages du divin Titien.</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Aretino, Pietro, 1492-1556.</authority>
+            <authority>Vleughels, Nicolas, 1668-1737.</authority>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985247693506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/g29858</idno>
+            <idno type="cico">112</idno>
+            <idno type="dcl">d5g</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Dialogue sur la peinture de Lovis Dolce intitulè l'Aretin [microform] : dans le quel on traitte de l'excellence de la peinture &amp; de toutes les qualités necessaires au bon peintre : avec les exemples des peintres anciens &amp; modernes ; à la fin on y parlé du merite &amp; des ouvrages du divin Titien.</title>
+                  <respStmt>
+                     <persName>Dolce, Lodovico, 1508-1568.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>French</textLang>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>A Florence : Ches Michel Nestenus &amp; François Moucke</publisher>
+                     <date>1735</date>
+                  </imprint>
+                  <extent>308 p.</extent>
+                  <extent>5 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest"
+                            target="https://figgy.princeton.edu/concern/scanned_resources/ff5cfde5-2e0a-4b06-ad6f-ea9d535e3320/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Richardson, Jonathan, 1665-1745.</term>
+               <term>Painting -- Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json"
+             url="https://figgy.princeton.edu/concern/scanned_resources/ff5cfde5-2e0a-4b06-ad6f-ea9d535e3320/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>

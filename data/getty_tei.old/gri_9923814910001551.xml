@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:dcterms="http://purl.org/dc/terms/"
+     xmlns:gettyterms="http://portal.getty.edu/terms/gri/"
+     xmlns:local="http://library.princeton.edu"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Le dve regole della prospettiva pratica, di M. Iacomo Barozzi da Vignola. Con i comentarij del r. p. m. Egnatio Danti ...</title>
+            <respStmt>
+               <orgName>Getty Research Institute</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Danti, Ignazio, 1536-1586</authority>
+            <authority>Alberti, Cherubino, 1553-1615</authority>
+            <idno type="URI">http://portal.getty.edu/books/gri_9923814910001551</idno>
+            <idno type="URI">http://portal.getty.edu/api/ph2009</idno>
+            <idno>(OCoLC)3611573</idno>
+            <idno type="cico">810A</idno>
+            <idno type="dcl">dpb</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Le dve regole della prospettiva pratica, di M. Iacomo Barozzi da Vignola. Con i comentarij del r. p. m. Egnatio Danti ...</title>
+                  <respStmt>
+                     <persName>Vignola, 1507-1573</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>In Roma, Per Francesco Zannetti</publisher>
+                     <date>1583</date>
+                  </imprint>
+                  <extent>6 preliminary leaves, 145, [5] pages</extent>
+               </monogr>
+               <relatedItem type="manifest"
+                            target="https://media.getty.edu/iiif/manifest/35e86502-1ff9-40cf-887c-2712b9eca762"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Perspective.</term>
+               <term>Perspective.</term>
+               <term>NC749 .V5 1583</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json"
+             url="https://media.getty.edu/iiif/manifest/35e86502-1ff9-40cf-887c-2712b9eca762">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>

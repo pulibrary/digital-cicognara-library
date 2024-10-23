@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:dcterms="http://purl.org/dc/terms/"
+     xmlns:gettyterms="http://portal.getty.edu/terms/gri/"
+     xmlns:local="http://library.princeton.edu"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Le rovine del castello dell'Acqva Givlia : sitvato in Roma presso S. Evsebio e falsamente detto dell'Acqva Marcia colla dicharazione di vno de'celebre passi del comentario Frontiniano e sposizione della maniera con cui gli antichi Romani distribuivan le acque per uso della citta / di Gio. Batista Piranesi.</title>
+            <respStmt>
+               <orgName>Getty Research Institute</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Salomoni, Generoso, 1714-1779, printer.</authority>
+            <idno type="URI">http://portal.getty.edu/books/gri_9928603620001551</idno>
+            <idno type="URI">http://portal.getty.edu/api/jh128g</idno>
+            <idno>(OCoLC)5515090</idno>
+            <idno type="cico">3834-3</idno>
+            <idno type="dcl">7rx</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Le rovine del castello dell'Acqva Givlia : sitvato in Roma presso S. Evsebio e falsamente detto dell'Acqva Marcia colla dicharazione di vno de'celebre passi del comentario Frontiniano e sposizione della maniera con cui gli antichi Romani distribuivan le acque per uso della citta / di Gio. Batista Piranesi.</title>
+                  <respStmt>
+                     <persName>Piranesi, Giovanni Battista, 1720-1778</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>[In Roma] : Si vendono presso l'Autore :</publisher>
+                     <pubPlace>Italy</pubPlace>
+                     <pubPlace>Aqua Julia (Rome, Italy)</pubPlace>
+                     <pubPlace>Rome</pubPlace>
+                     <pubPlace>Rome (Italy)</pubPlace>
+                     <pubPlace>Rome (Empire)</pubPlace>
+                     <date>[1761]</date>
+                     <date>1761</date>
+                  </imprint>
+                  <extent>26 pages, 19 leaves of plates (some folded)</extent>
+               </monogr>
+               <relatedItem type="manifest"
+                            target="https://media.getty.edu/iiif/manifest/d37aa8d8-6511-44ce-b401-ced21f2b2ab2"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Aqua Julia (Rome, Italy) -- Early works to 1800.</term>
+               <term>Rome -- Antiquities -- Early works to 1800.</term>
+               <term>Rome (Italy) -- Antiquities, Roman -- Early works to 1800.</term>
+               <term>Aqueducts -- Italy -- Rome -- Early works to 1800.</term>
+               <term>Water-supply -- Italy -- Rome -- Early works to 1800.</term>
+               <term>Antiquities.</term>
+               <term>Aqueducts.</term>
+               <term>Classical antiquities.</term>
+               <term>Water-supply.</term>
+               <term>Italy -- Rome.</term>
+               <term>Rome (Empire)</term>
+               <term>N6916 .P48 v.9</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json"
+             url="https://media.getty.edu/iiif/manifest/d37aa8d8-6511-44ce-b401-ced21f2b2ab2">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>

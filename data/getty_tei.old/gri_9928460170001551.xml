@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:dcterms="http://purl.org/dc/terms/"
+     xmlns:gettyterms="http://portal.getty.edu/terms/gri/"
+     xmlns:local="http://library.princeton.edu"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Sull'architettura greco-romano applicata alla costruzione del teatro moderno italiano e sulle macchine teatrali : saggio / di Tommaso Carlo Beccega vicentino.</title>
+            <respStmt>
+               <orgName>Getty Research Institute</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Bernatti, Antonio, engraver.</authority>
+            <idno type="URI">http://portal.getty.edu/books/gri_9928460170001551</idno>
+            <idno type="URI">http://portal.getty.edu/api/sv059s</idno>
+            <idno>(OCoLC)25173495</idno>
+            <idno type="cico">458</idno>
+            <idno type="dcl">1gk</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Sull'architettura greco-romano applicata alla costruzione del teatro moderno italiano e sulle macchine teatrali : saggio / di Tommaso Carlo Beccega vicentino.</title>
+                  <respStmt>
+                     <persName>Beccega, Tommaso Carlo</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>Venezia : Tipografia di Alvisopoli</publisher>
+                     <pubPlace>Italy.</pubPlace>
+                     <date>1817</date>
+                  </imprint>
+                  <extent>xxxix pages, [10] leaves of plates</extent>
+               </monogr>
+               <relatedItem type="manifest"
+                            target="https://media.getty.edu/iiif/manifest/e3609ac4-cc29-4dc8-bc3c-52f93cd2a46f"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Theater architecture.</term>
+               <term>Stage machinery -- Italy.</term>
+               <term>Theaters -- Italy.</term>
+               <term>Architecture, Classical.</term>
+               <term>Theater architecture.</term>
+               <term>Theaters.</term>
+               <term>Italy.</term>
+               <term>NA6840.I7 B4</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json"
+             url="https://media.getty.edu/iiif/manifest/e3609ac4-cc29-4dc8-bc3c-52f93cd2a46f">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>

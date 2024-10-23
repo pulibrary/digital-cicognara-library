@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:dcterms="http://purl.org/dc/terms/"
+     xmlns:gettyterms="http://portal.getty.edu/terms/gri/"
+     xmlns:local="http://library.princeton.edu"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Oratio parentalis ad cenotaphium illustriss. ac excell. d.d. Helenae Lucretiae Corneliae Piscopia' patritiae venetae, philos. laureatae [microform] / a.p.d. Francisco Caro ...</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985303203506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/mj8d25</idno>
+            <idno type="cico">1427</idno>
+            <idno type="dcl">rjr</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Oratio parentalis ad cenotaphium illustriss. ac excell. d.d. Helenae Lucretiae Corneliae Piscopia' patritiae venetae, philos. laureatae [microform] / a.p.d. Francisco Caro ...</title>
+                  <respStmt>
+                     <persName>Caro, Francesco.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <textLang>Latin</textLang>
+                  <imprint>
+                     <publisher>[Padua] : Typis Petri Mariae Frambotti</publisher>
+                     <date>[1684?]</date>
+                     <date>1684</date>
+                  </imprint>
+                  <extent>[13], [15] p.</extent>
+                  <extent>1 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest"
+                            target="https://figgy.princeton.edu/concern/scanned_resources/241136a1-611f-4689-a06e-1f452895cbc5/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Cornaro Piscopia, Elena Lucrezia, 1646-1684.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json"
+             url="https://figgy.princeton.edu/concern/scanned_resources/241136a1-611f-4689-a06e-1f452895cbc5/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>

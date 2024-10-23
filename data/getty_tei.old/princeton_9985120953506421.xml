@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:dcterms="http://purl.org/dc/terms/"
+     xmlns:gettyterms="http://portal.getty.edu/terms/gri/"
+     xmlns:local="http://library.princeton.edu"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Festa fatta in Roma alli 25 di febraio MDCXXIV [microform] / e data in luce da Vitale Mascardi.</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985120953506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/372s2x</idno>
+            <idno type="cico">569 (3)</idno>
+            <idno type="dcl">fvq</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Festa fatta in Roma alli 25 di febraio MDCXXIV [microform] / e data in luce da Vitale Mascardi.</title>
+                  <respStmt>
+                     <persName>Mascardi, Vitale.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>In Roma : Si stampano per Gio. Iacomo de Rossi</publisher>
+                     <pubPlace>Italy</pubPlace>
+                     <date>1649</date>
+                  </imprint>
+                  <extent>[13] leaves</extent>
+                  <extent>1 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest"
+                            target="https://figgy.princeton.edu/concern/scanned_resources/762048d9-fbf5-441b-9c29-1e1d2968256c/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Barberini, Antonio, 1607-1681.</term>
+               <term>Festivals -- Italy -- Rome.</term>
+               <term>Visits of state -- Italy -- Rome.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json"
+             url="https://figgy.princeton.edu/concern/scanned_resources/762048d9-fbf5-441b-9c29-1e1d2968256c/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>

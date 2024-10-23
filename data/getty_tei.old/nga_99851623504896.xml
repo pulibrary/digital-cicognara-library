@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:dcterms="http://purl.org/dc/terms/"
+     xmlns:gettyterms="http://portal.getty.edu/terms/gri/"
+     xmlns:local="http://library.princeton.edu"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Raccolta di vasi diversi formati da illustri artefici antichi e di varie targhe soprapposte alle fabbriche piu insigni di Roma da celebri architetti moderni ... / data in luce da Domenico de Rossi ... disegnata e intagliata da Francesco Aquila.</title>
+            <respStmt>
+               <orgName>National Gallery of Art Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Rossi, Domenico de', active 17th century-18th century.</authority>
+            <authority>Rossi, Lorenzo Filippo de', active 17th century-18th century.</authority>
+            <idno type="URI">http://portal.getty.edu/books/nga_99851623504896</idno>
+            <idno type="URI">http://portal.getty.edu/api/0h0j6w</idno>
+            <idno>(OCoLC)973466305</idno>
+            <idno type="cico">3862</idno>
+            <idno type="cico">442</idno>
+            <idno type="dcl">2sg</idno>
+            <idno type="dcl">c90</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Raccolta di vasi diversi formati da illustri artefici antichi e di varie targhe soprapposte alle fabbriche piu insigni di Roma da celebri architetti moderni ... / data in luce da Domenico de Rossi ... disegnata e intagliata da Francesco Aquila.</title>
+                  <respStmt>
+                     <persName>Aquila, Francesco Faraone, approximately 1676-1740.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>Roma : [s.n.]</publisher>
+                     <pubPlace>Italy</pubPlace>
+                     <date>1713</date>
+                  </imprint>
+                  <extent>51 leaves</extent>
+               </monogr>
+               <relatedItem type="manifest"
+                            target="https://libraryimage.nga.gov/manifest/mms/99851623504896.json"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Vases, Ancient -- Italy -- Rome.</term>
+               <term>Vases, Italian -- Italy -- Rome.</term>
+               <term>Decoration and ornament, Architectural -- Italy -- Rome</term>
+               <term>Decoration and ornament, Italian -- Italy -- Rome.</term>
+               <term>Provenance -- Grissell (Hartwell de la Garde)</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json"
+             url="https://libraryimage.nga.gov/manifest/mms/99851623504896.json">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>

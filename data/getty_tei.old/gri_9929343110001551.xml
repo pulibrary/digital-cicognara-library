@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:dcterms="http://purl.org/dc/terms/"
+     xmlns:gettyterms="http://portal.getty.edu/terms/gri/"
+     xmlns:local="http://library.princeton.edu"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>I qvattro libri dell'architettvra di Andrea Palladio : ne' quali, dopo un breue trattato de' cinque ordini, &amp; di quelli auertimenti, che sono piu necessarij nel fabricare / si tratta delle case private, delle vie, de i ponti, delle piazze, de i xisti, et de' tempij.</title>
+            <respStmt>
+               <orgName>Getty Research Institute</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <idno type="URI">http://portal.getty.edu/books/gri_9929343110001551</idno>
+            <idno type="URI">http://portal.getty.edu/api/nm3g7b</idno>
+            <idno>(OCoLC)1828907</idno>
+            <idno type="cico">594</idno>
+            <idno type="dcl">72q</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>I qvattro libri dell'architettvra di Andrea Palladio : ne' quali, dopo un breue trattato de' cinque ordini, &amp; di quelli auertimenti, che sono piu necessarij nel fabricare / si tratta delle case private, delle vie, de i ponti, delle piazze, de i xisti, et de' tempij.</title>
+                  <respStmt>
+                     <persName>Palladio, Andrea, 1508-1580</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>In Venetia : Appresso Dominico de' Franceschi</publisher>
+                     <pubPlace>Italy</pubPlace>
+                     <pubPlace>Rome</pubPlace>
+                     <pubPlace>Rome (Empire)</pubPlace>
+                     <date>1570</date>
+                  </imprint>
+                  <extent>4 volumes in 1</extent>
+               </monogr>
+               <relatedItem type="manifest"
+                            target="https://media.getty.edu/iiif/manifest/3055d58f-7a1a-4157-8b3c-1ff78ba239d9"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Architecture -- Early works to 1800.</term>
+               <term>Architecture, Classical -- Designs and plans.</term>
+               <term>Architecture, Renaissance -- Designs and plans.</term>
+               <term>Rome -- Antiquities.</term>
+               <term>Architecture -- Italy -- 16th century.</term>
+               <term>Antiquities</term>
+               <term>Architecture</term>
+               <term>Architecture, Classical</term>
+               <term>Architecture, Renaissance</term>
+               <term>Italy</term>
+               <term>Rome (Empire)</term>
+               <term>NA2515 .P25 1570</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json"
+             url="https://media.getty.edu/iiif/manifest/3055d58f-7a1a-4157-8b3c-1ff78ba239d9">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>

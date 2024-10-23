@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:dcterms="http://purl.org/dc/terms/"
+     xmlns:gettyterms="http://portal.getty.edu/terms/gri/"
+     xmlns:local="http://library.princeton.edu"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Ragionamento a Madama N.N. sopra gli antichi ornamenti e trastulli de'bambini / di Ignazio Paternò Castello, principe di Biscari ...</title>
+            <respStmt>
+               <orgName>Getty Research Institute</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Benucci, Antonio.</authority>
+            <idno type="URI">http://portal.getty.edu/books/gri_9930117810001551</idno>
+            <idno type="URI">http://portal.getty.edu/api/t20615</idno>
+            <idno>(OCoLC)416093196</idno>
+            <idno type="cico">1749</idno>
+            <idno type="dcl">s28</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Ragionamento a Madama N.N. sopra gli antichi ornamenti e trastulli de'bambini / di Ignazio Paternò Castello, principe di Biscari ...</title>
+                  <respStmt>
+                     <persName>Paternò Castello, Ignazio, principe di Biscari, 1719-1786</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>Firenze : Dalla stamperia di Antonio Benucci, e Compp</publisher>
+                     <pubPlace>Rome</pubPlace>
+                     <pubPlace>Rome (Empire)</pubPlace>
+                     <pubPlace>Italy Florence.</pubPlace>
+                     <date>MDCCLXXXI [1781]</date>
+                     <date>1781</date>
+                  </imprint>
+                  <extent>[2], 35, [3] p., [10] leaves of plates</extent>
+               </monogr>
+               <relatedItem type="manifest"
+                            target="https://media.getty.edu/iiif/manifest/455dd4af-51a5-47f0-af47-ec075f89f0bc"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Children -- Rome -- Early works to 1800.</term>
+               <term>Toys -- Rome -- Early works to 1800.</term>
+               <term>Games -- Rome -- Early works to 1800.</term>
+               <term>Rome -- Social life and customs -- Early works to 1800.</term>
+               <term>Children</term>
+               <term>Games</term>
+               <term>Manners and customs</term>
+               <term>Toys</term>
+               <term>Rome (Empire)</term>
+               <term>DG91 .P37 1781</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json"
+             url="https://media.getty.edu/iiif/manifest/455dd4af-51a5-47f0-af47-ec075f89f0bc">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>

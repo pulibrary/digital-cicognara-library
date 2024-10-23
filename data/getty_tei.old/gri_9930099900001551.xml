@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:dcterms="http://purl.org/dc/terms/"
+     xmlns:gettyterms="http://portal.getty.edu/terms/gri/"
+     xmlns:local="http://library.princeton.edu"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Il trionfo della fede solennizzato nel Campidoglio dall'Accademia del disegno il dì 23. di maggio 1713 : essendo principe della medesima il sig. cavalier Carlo Maratti, e vice-principe il signor cavalier Carlo Francesco Person / relazione di Giuseppe Ghezzi ...</title>
+            <respStmt>
+               <orgName>Getty Research Institute</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Maiello, Carlo, 1665-1738</authority>
+            <authority>Frezza, Giovanni Girolamo, 1659-1743</authority>
+            <authority>Ghezzi, Giuseppe, 1634-1721</authority>
+            <authority>Zenobi, Gaetano, active 1698-1707.</authority>
+            <authority>Accademia di San Luca</authority>
+            <idno type="URI">http://portal.getty.edu/books/gri_9930099900001551</idno>
+            <idno type="URI">http://portal.getty.edu/api/f86c1r</idno>
+            <idno>(OCoLC)81028647</idno>
+            <idno type="cico">1307N</idno>
+            <idno type="dcl">nrm</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Il trionfo della fede solennizzato nel Campidoglio dall'Accademia del disegno il dì 23. di maggio 1713 : essendo principe della medesima il sig. cavalier Carlo Maratti, e vice-principe il signor cavalier Carlo Francesco Person / relazione di Giuseppe Ghezzi ...</title>
+                  <respStmt>
+                     <persName>Ghezzi, Giuseppe, 1634-1721</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>In Roma : Per lo stampatore Gaetano Zenobj</publisher>
+                     <pubPlace>Italy Rome.</pubPlace>
+                     <date>[1713]</date>
+                     <date>1713</date>
+                  </imprint>
+                  <extent>48 p., [1] leaf of plates</extent>
+               </monogr>
+               <relatedItem type="manifest"
+                            target="https://media.getty.edu/iiif/manifest/0c9b25ab-c203-40ab-b024-f7ae14fc1a40"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Accademia di San Luca.</term>
+               <term>Art -- Early works to 1800.</term>
+               <term>Faith -- Early works to 1800.</term>
+               <term>Accademia di San Luca.</term>
+               <term>Art.</term>
+               <term>Faith.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json"
+             url="https://media.getty.edu/iiif/manifest/0c9b25ab-c203-40ab-b024-f7ae14fc1a40">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>

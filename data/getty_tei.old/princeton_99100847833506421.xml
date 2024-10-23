@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:dcterms="http://purl.org/dc/terms/"
+     xmlns:gettyterms="http://portal.getty.edu/terms/gri/"
+     xmlns:local="http://library.princeton.edu"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Numismata imperatorum romanorum praestantiora a Julio Caesare ad Postumum usque / per Joannem Vaillant ... ; cui accessit appendix a Postumo ad Constantinum Magnum.</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <authority>Leopoldo Cicognara Program (University of Illinois at Urbana-Champaign)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_99100847833506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/df053c</idno>
+            <idno type="URI">http://portal.getty.edu/api/b23m59</idno>
+            <idno type="URI">http://portal.getty.edu/api/5d7r75</idno>
+            <idno type="URI">http://portal.getty.edu/api/r33957</idno>
+            <idno>(OCoLC)82500955</idno>
+            <idno type="cico">3031</idno>
+            <idno type="dcl">jkf</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Numismata imperatorum romanorum praestantiora a Julio Caesare ad Postumum usque / per Joannem Vaillant ... ; cui accessit appendix a Postumo ad Constantinum Magnum.</title>
+                  <respStmt>
+                     <persName>Foy-Vaillant, Jean, 1632-1706.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Latin</textLang>
+                  <imprint>
+                     <publisher>Romae : Sumptibus Caroli Barbielli, &amp; Venantii Monaldini sociorum ... typis Jo. Baptistae Bernabò, &amp; Josephi Lazzarini</publisher>
+                     <pubPlace>Rome</pubPlace>
+                     <pubPlace>Rome (Empire)</pubPlace>
+                     <date>1743</date>
+                  </imprint>
+                  <extent>3 volumes</extent>
+                  <extent>19 microfiches : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest"
+                            target="https://figgy.princeton.edu/concern/scanned_resources/403d7aed-399f-4743-b7c6-f89e23699de9/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Numismatics, Roman -- Early works to 1800.</term>
+               <term>Emperors -- Rome -- Portraits -- Early works to 1800.</term>
+               <term>Emperors.</term>
+               <term>Numismatics, Roman.</term>
+               <term>Rome (Empire)</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json"
+             url="https://figgy.princeton.edu/concern/scanned_resources/403d7aed-399f-4743-b7c6-f89e23699de9/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>

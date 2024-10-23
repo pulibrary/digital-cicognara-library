@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:dcterms="http://purl.org/dc/terms/"
+     xmlns:gettyterms="http://portal.getty.edu/terms/gri/"
+     xmlns:local="http://library.princeton.edu"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Delle antichita di Sarsina, et de' costumi Romani nel Trionfo, et nel triclinio antico [microform] / discorso primo di Filippo Antonino Sarsinate ; con vn' indice copiosissimo delle cose notabili che vi si traitano.</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <authority>Leopoldo Cicognara Program (University of Illinois at Urbana-Champaign)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985303413506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/mp6361</idno>
+            <idno type="cico">1560</idno>
+            <idno type="dcl">knv</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Delle antichita di Sarsina, et de' costumi Romani nel Trionfo, et nel triclinio antico [microform] / discorso primo di Filippo Antonino Sarsinate ; con vn' indice copiosissimo delle cose notabili che vi si traitano.</title>
+                  <respStmt>
+                     <persName>Antonini, Filippo, 1560-1621.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>In Sarsina : [s.n.]</publisher>
+                     <pubPlace>Italy</pubPlace>
+                     <pubPlace>Sarsina (Italy)</pubPlace>
+                     <date>1607</date>
+                  </imprint>
+                  <extent>256 p.</extent>
+                  <extent>5 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest"
+                            target="https://figgy.princeton.edu/concern/scanned_resources/21fc04f6-3b12-471f-a39f-446762a89fc5/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Classical antiquities.</term>
+               <term>Romans -- Italy -- Sarsina.</term>
+               <term>Sarsina (Italy) -- Antiquities.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json"
+             url="https://figgy.princeton.edu/concern/scanned_resources/21fc04f6-3b12-471f-a39f-446762a89fc5/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>

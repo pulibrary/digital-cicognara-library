@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:dcterms="http://purl.org/dc/terms/"
+     xmlns:gettyterms="http://portal.getty.edu/terms/gri/"
+     xmlns:local="http://library.princeton.edu"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Iconologia di Cesare Ripa perugino, cavre. de sti. Mauritio, e Lazzaro : nella quale si descriuono diuerse imagini di virtù, vitij, affetti, passioni humane, arti, discipline, humori, elementi, corpi celesti, prouincie d'Italia, fiumi, tutte le parti del mondo, ed altere infinite materie : opera vtile ad oratori, predicatori, poeti, pittori, scultori, disegnatori, e ad ogni studioso ...</title>
+            <respStmt>
+               <orgName>Getty Research Institute</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <idno type="URI">http://portal.getty.edu/books/gri_9925857280001551</idno>
+            <idno type="URI">http://portal.getty.edu/api/s82s5w</idno>
+            <idno>(OCoLC)271857409</idno>
+            <idno type="cico">4741</idno>
+            <idno type="dcl">srq</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Iconologia di Cesare Ripa perugino, cavre. de sti. Mauritio, e Lazzaro : nella quale si descriuono diuerse imagini di virtù, vitij, affetti, passioni humane, arti, discipline, humori, elementi, corpi celesti, prouincie d'Italia, fiumi, tutte le parti del mondo, ed altere infinite materie : opera vtile ad oratori, predicatori, poeti, pittori, scultori, disegnatori, e ad ogni studioso ...</title>
+                  <respStmt>
+                     <persName>Ripa, Cesare, 1560-1645</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>In Siena : Appresso gli heredi di Matteo Florimi ;</publisher>
+                     <date>1613</date>
+                  </imprint>
+                  <extent>[12], 436, 378, [2], 11, [1], [379]-409, [1] p.</extent>
+               </monogr>
+               <relatedItem type="manifest"
+                            target="https://media.getty.edu/iiif/manifest/161df826-bd0b-492e-bde3-84a0e8f297fa"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Emblems -- Early works to 1800.</term>
+               <term>Emblems</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json"
+             url="https://media.getty.edu/iiif/manifest/161df826-bd0b-492e-bde3-84a0e8f297fa">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:dcterms="http://purl.org/dc/terms/"
+     xmlns:gettyterms="http://portal.getty.edu/terms/gri/"
+     xmlns:local="http://library.princeton.edu"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Les celèbres tapisseries de Raphaël d'Urbin, connües sous le nom d'Arazzi, qui sont au Vatican à Rome au nombre de vingt pièces .. [microform] / gravées par Louis Sommerau, peintre.</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <authority>Leopoldo Cicognara Program (University of Illinois at Urbana-Champaign)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985435453506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/jq9p84</idno>
+            <idno type="cico">3456</idno>
+            <idno type="dcl">w85</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Les celèbres tapisseries de Raphaël d'Urbin, connües sous le nom d'Arazzi, qui sont au Vatican à Rome au nombre de vingt pièces .. [microform] / gravées par Louis Sommerau, peintre.</title>
+                  <respStmt>
+                     <persName>Sommerau, Louis, 1756-1786.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>French</textLang>
+                  <imprint>
+                     <publisher>Rome : On les vend chez l'Auteur et chez Bauchard et Gravier Libraires</publisher>
+                     <pubPlace>Vatican City.</pubPlace>
+                     <date>1780</date>
+                  </imprint>
+                  <extent>[21] p.</extent>
+                  <extent>2 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest"
+                            target="https://figgy.princeton.edu/concern/scanned_resources/b062564b-e369-4d83-a9a4-6277ec55542e/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Raphael, 1483-1520 -- Drawing.</term>
+               <term>Tapestry cartoons.</term>
+               <term>Tapestry -- Vatican City.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json"
+             url="https://figgy.princeton.edu/concern/scanned_resources/b062564b-e369-4d83-a9a4-6277ec55542e/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>

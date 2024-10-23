@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:dcterms="http://purl.org/dc/terms/"
+     xmlns:gettyterms="http://portal.getty.edu/terms/gri/"
+     xmlns:local="http://library.princeton.edu"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Libro del misurar con la vista / di Silvio Belli Vicentino. Nel quale s'insegna, senza travagliar con numeri, à misurar facilissimamente le distantie, l'altezze, e le profondità con il quadrato geometrico, e con altri stromenti, de' quali in ogni luogo quasi in un subito si puo prouedere. Si mostra ancora una bellissima uia di ritrouare la profondità di qual si uoglia mare; &amp; un modo industrioso di misurar il circuito di tutta la terre. Con privilegio.</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9953317053506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/m4425r</idno>
+            <idno>(OCoLC)16449586</idno>
+            <idno type="cico">895B</idno>
+            <idno type="cico">895</idno>
+            <idno type="dcl">5km</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Libro del misurar con la vista / di Silvio Belli Vicentino. Nel quale s'insegna, senza travagliar con numeri, à misurar facilissimamente le distantie, l'altezze, e le profondità con il quadrato geometrico, e con altri stromenti, de' quali in ogni luogo quasi in un subito si puo prouedere. Si mostra ancora una bellissima uia di ritrouare la profondità di qual si uoglia mare; &amp; un modo industrioso di misurar il circuito di tutta la terre. Con privilegio.</title>
+                  <respStmt>
+                     <persName>Belli, Silvio, -1580.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>Venetia : Appresso Giordano Ziletti</publisher>
+                     <date>1566</date>
+                  </imprint>
+               </monogr>
+               <relatedItem type="manifest"
+                            target="https://figgy.princeton.edu/concern/scanned_resources/31a34ac5-a864-47ef-9b9b-dc64e9508765/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Distances -- Measurement -- Early works to 1800.</term>
+               <term>TA544</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json"
+             url="https://figgy.princeton.edu/concern/scanned_resources/31a34ac5-a864-47ef-9b9b-dc64e9508765/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>

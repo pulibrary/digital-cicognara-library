@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:dcterms="http://purl.org/dc/terms/"
+     xmlns:gettyterms="http://portal.getty.edu/terms/gri/"
+     xmlns:local="http://library.princeton.edu"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Annali d'Italia, dal principio dell'era volgare sino all' anno 1500 / compilati da Lodovico Antonio Muratori.</title>
+            <respStmt>
+               <orgName>Getty Research Institute</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <idno type="URI">http://portal.getty.edu/books/gri_9926081020001551</idno>
+            <idno type="URI">http://portal.getty.edu/api/w80m76</idno>
+            <idno type="URI">http://portal.getty.edu/api/pr0557</idno>
+            <idno type="URI">http://portal.getty.edu/api/px6x8r</idno>
+            <idno type="URI">http://portal.getty.edu/api/v36r2c</idno>
+            <idno type="URI">http://portal.getty.edu/api/sw6h2t</idno>
+            <idno type="URI">http://portal.getty.edu/api/d29540</idno>
+            <idno type="URI">http://portal.getty.edu/api/m6909j</idno>
+            <idno type="URI">http://portal.getty.edu/api/x2587m</idno>
+            <idno type="URI">http://portal.getty.edu/api/16239q</idno>
+            <idno type="URI">http://portal.getty.edu/api/sp5x9c</idno>
+            <idno type="URI">http://portal.getty.edu/api/rf1g0c</idno>
+            <idno type="URI">http://portal.getty.edu/api/rg4b60</idno>
+            <idno>(OCoLC)2220215</idno>
+            <idno type="cico">2495</idno>
+            <idno type="dcl">vkj</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Annali d'Italia, dal principio dell'era volgare sino all' anno 1500 / compilati da Lodovico Antonio Muratori.</title>
+                  <respStmt>
+                     <persName>Muratori, Lodovico Antonio, 1672-1750</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>Milano : A spese di G. Pasquali</publisher>
+                     <pubPlace>Italy</pubPlace>
+                     <pubPlace>Italy.</pubPlace>
+                     <pubPlace>Italy Milan.</pubPlace>
+                     <pubPlace>Italy Venice.</pubPlace>
+                     <date>1744-1749</date>
+                     <date>1744</date>
+                  </imprint>
+                  <extent>12 volumes</extent>
+               </monogr>
+               <relatedItem type="manifest"
+                            target="https://media.getty.edu/iiif/manifest/dea526de-90cc-4c9c-b819-3fd33c4f61a0https://media.getty.edu/iiif/manifest/b364be78-2162-492c-a04b-0bd5582e9440https://media.getty.edu/iiif/manifest/d7afd102-3bb2-4db0-ad75-61a433897fabhttps://media.getty.edu/iiif/manifest/049c9162-a02d-4668-8a8b-ec60f7dd7592https://media.getty.edu/iiif/manifest/c45f4b2c-b5c5-40c9-9e7d-207628a0d1b0https://media.getty.edu/iiif/manifest/1352bd53-8e3a-42f5-9f79-b871785869e0https://media.getty.edu/iiif/manifest/22171093-e78f-49fc-a06c-1cc619906020https://media.getty.edu/iiif/manifest/0a2a5b8e-fc71-467b-8dc6-078a7fdbfa5chttps://media.getty.edu/iiif/manifest/4ebdd637-0991-4775-85c8-d33815e16e5chttps://media.getty.edu/iiif/manifest/b1365b6d-da71-446f-b6d2-0332b8789342https://media.getty.edu/iiif/manifest/95815512-d47f-4a9a-b7e2-a71f6b18738bhttps://media.getty.edu/iiif/manifest/a87c4ed4-ece3-47ec-b752-4210e35a053e"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Italy -- History.</term>
+               <term>Italy.</term>
+               <term>DG466 .M8</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json"
+             url="https://media.getty.edu/iiif/manifest/dea526de-90cc-4c9c-b819-3fd33c4f61a0">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+   <facsimile>
+      <media mimeType="application/json"
+             url="https://media.getty.edu/iiif/manifest/b364be78-2162-492c-a04b-0bd5582e9440">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+   <facsimile>
+      <media mimeType="application/json"
+             url="https://media.getty.edu/iiif/manifest/d7afd102-3bb2-4db0-ad75-61a433897fab">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+   <facsimile>
+      <media mimeType="application/json"
+             url="https://media.getty.edu/iiif/manifest/049c9162-a02d-4668-8a8b-ec60f7dd7592">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+   <facsimile>
+      <media mimeType="application/json"
+             url="https://media.getty.edu/iiif/manifest/c45f4b2c-b5c5-40c9-9e7d-207628a0d1b0">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+   <facsimile>
+      <media mimeType="application/json"
+             url="https://media.getty.edu/iiif/manifest/1352bd53-8e3a-42f5-9f79-b871785869e0">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+   <facsimile>
+      <media mimeType="application/json"
+             url="https://media.getty.edu/iiif/manifest/22171093-e78f-49fc-a06c-1cc619906020">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+   <facsimile>
+      <media mimeType="application/json"
+             url="https://media.getty.edu/iiif/manifest/0a2a5b8e-fc71-467b-8dc6-078a7fdbfa5c">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+   <facsimile>
+      <media mimeType="application/json"
+             url="https://media.getty.edu/iiif/manifest/4ebdd637-0991-4775-85c8-d33815e16e5c">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+   <facsimile>
+      <media mimeType="application/json"
+             url="https://media.getty.edu/iiif/manifest/b1365b6d-da71-446f-b6d2-0332b8789342">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+   <facsimile>
+      <media mimeType="application/json"
+             url="https://media.getty.edu/iiif/manifest/95815512-d47f-4a9a-b7e2-a71f6b18738b">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+   <facsimile>
+      <media mimeType="application/json"
+             url="https://media.getty.edu/iiif/manifest/a87c4ed4-ece3-47ec-b752-4210e35a053e">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>

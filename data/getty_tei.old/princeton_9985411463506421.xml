@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:dcterms="http://purl.org/dc/terms/"
+     xmlns:gettyterms="http://portal.getty.edu/terms/gri/"
+     xmlns:local="http://library.princeton.edu"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Inscriptiones sacrosanctae vetustatis [microform] : non illae quidem Romanae, sed totius fere orbis summo studio ac maximis impensis terra mari[que] conquisitae feliciter incipiunt / magnifico viro Domino Raymundo Fuggero ... Petrus Apianus ... &amp; Barptholomeus Amantius ... ded.</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Amantius, Bartolomaeus, active 16th century.</authority>
+            <authority>Apian, Peter, 1495-1552. Abbreviationes vetustorum monumentorum, in ordinem alphabeticum digestae.</authority>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <authority>Leopoldo Cicognara Program (University of Illinois at Urbana-Champaign)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985411463506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/5z6m3k</idno>
+            <idno type="cico">3095</idno>
+            <idno type="dcl">z24</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Inscriptiones sacrosanctae vetustatis [microform] : non illae quidem Romanae, sed totius fere orbis summo studio ac maximis impensis terra mari[que] conquisitae feliciter incipiunt / magnifico viro Domino Raymundo Fuggero ... Petrus Apianus ... &amp; Barptholomeus Amantius ... ded.</title>
+                  <respStmt>
+                     <persName>Apian, Peter, 1495-1552.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Latin</textLang>
+                  <imprint>
+                     <publisher>Ingolstadii : In aedibus P. Apiani</publisher>
+                     <date>1534</date>
+                  </imprint>
+                  <extent>[40], CCCCCXII p.</extent>
+                  <extent>9 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest"
+                            target="https://figgy.princeton.edu/concern/scanned_resources/de8ff988-31a2-4e6e-930a-446dfc830253/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Abbreviations, Latin -- Early works to 1800.</term>
+               <term>Inscriptions, Latin -- Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json"
+             url="https://figgy.princeton.edu/concern/scanned_resources/de8ff988-31a2-4e6e-930a-446dfc830253/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>

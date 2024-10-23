@@ -101,6 +101,7 @@
             <idno>(OCoLC)20342814</idno>
             <idno type="cico">159</idno>
             <idno type="dcl">fvs</idno>
+            <idno type="dcl">csh dclib</idno>
          </publicationStmt>
          <sourceDesc>
             <biblStruct>

@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:dcterms="http://purl.org/dc/terms/"
+     xmlns:gettyterms="http://portal.getty.edu/terms/gri/"
+     xmlns:local="http://library.princeton.edu"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Monumenta graeca ex museo equitis ac senatoris Iacobi NaniI VenetI [microform] / illustrata a D. Clem. Biagi Cremonensi ...</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985406163506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/t15f1f</idno>
+            <idno type="cico">2651</idno>
+            <idno type="dcl">snt</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Monumenta graeca ex museo equitis ac senatoris Iacobi NaniI VenetI [microform] / illustrata a D. Clem. Biagi Cremonensi ...</title>
+                  <respStmt>
+                     <persName>Biagi, Clemente, 1740-1803.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Latin</textLang>
+                  <imprint>
+                     <publisher>Romae : Apud Antonium Fulgoni</publisher>
+                     <date>Anno 1785</date>
+                     <date>1785</date>
+                  </imprint>
+                  <extent>xxiiii, 334 p.</extent>
+                  <extent>6 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest"
+                            target="https://figgy.princeton.edu/concern/scanned_resources/5e5d92e2-eb5e-468b-a3e6-422c4f3b7d52/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Nani, Giacomo, 1725-1797 -- Library.</term>
+               <term>Nani family -- Library.</term>
+               <term>Classical antiquities.</term>
+               <term>Inscriptions, Greek -- Early works to 1800.</term>
+               <term>Inscriptions, Latin -- Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json"
+             url="https://figgy.princeton.edu/concern/scanned_resources/5e5d92e2-eb5e-468b-a3e6-422c4f3b7d52/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>

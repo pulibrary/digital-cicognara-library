@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:dcterms="http://purl.org/dc/terms/"
+     xmlns:gettyterms="http://portal.getty.edu/terms/gri/"
+     xmlns:local="http://library.princeton.edu"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Misure delle sette, e nove chiese del circuito e parti principali di Roma, della misura del rubbio di terra con la distinzionie delle pezze di vigne .. [microform] / di Carlo Padredio ...</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <authority>Leopoldo Cicognara Program (University of Illinois at Urbana-Champaign)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985454563506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/5c0k1r</idno>
+            <idno type="cico">3808</idno>
+            <idno type="dcl">8cm</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Misure delle sette, e nove chiese del circuito e parti principali di Roma, della misura del rubbio di terra con la distinzionie delle pezze di vigne .. [microform] / di Carlo Padredio ...</title>
+                  <respStmt>
+                     <persName>Padredio, Carlo.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>In Roma : Per il Tizzoni</publisher>
+                     <pubPlace>Italy</pubPlace>
+                     <date>[1677]</date>
+                     <date>1677</date>
+                  </imprint>
+                  <extent>74, [6] p.</extent>
+                  <extent>2 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest"
+                            target="https://figgy.princeton.edu/concern/scanned_resources/d39af2e0-1bac-46e6-8b5d-d2b7fc22fd95/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Church lands -- Italy -- Rome -- Early works to 1800.</term>
+               <term>Surveying -- Italy -- Early works to 1800.</term>
+               <term>Vineyards -- Italy -- Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json"
+             url="https://figgy.princeton.edu/concern/scanned_resources/d39af2e0-1bac-46e6-8b5d-d2b7fc22fd95/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>

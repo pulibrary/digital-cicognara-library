@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:dcterms="http://purl.org/dc/terms/"
+     xmlns:gettyterms="http://portal.getty.edu/terms/gri/"
+     xmlns:local="http://library.princeton.edu"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>L' antiquité expliquée et représentée en figures / Antiquitas explanatione et schematibus illustrata: Qui comprend la guerre, les ponts, les aqueducs, la navigation, les phares &amp; les tours octogones / Ubi agitur de re bellica, de pontibu</title>
+            <respStmt>
+               <orgName>Heidelberg University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <idno type="URI">http://portal.getty.edu/books/uh_urn:nbn:de:bsz:16-diglit-8957</idno>
+            <idno type="URI">http://portal.getty.edu/api/875g4j</idno>
+            <idno type="cico">2493-14</idno>
+            <idno type="dcl">5pb</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>L' antiquité expliquée et représentée en figures / Antiquitas explanatione et schematibus illustrata: Qui comprend la guerre, les ponts, les aqueducs, la navigation, les phares &amp; les tours octogones / Ubi agitur de re bellica, de pontibu</title>
+                  <textLang>Latin</textLang>
+                  <textLang>French</textLang>
+                  <imprint>
+                     <date>1724</date>
+                     <date>1724</date>
+                  </imprint>
+                  <extent>VI, 173 S., [ca. 60] Bl.</extent>
+                  <extent>zahlr. Ill.</extent>
+               </monogr>
+               <relatedItem type="manifest"
+                            target="https://digi.ub.uni-heidelberg.de/diglit/iiif/montfaucon1724c/manifest.json"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Cicognara</term>
+               <term>Parte Seconda</term>
+               <term>Delle Antichità in genere</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json"
+             url="https://digi.ub.uni-heidelberg.de/diglit/iiif/montfaucon1724c/manifest.json">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>

@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:dcterms="http://purl.org/dc/terms/"
+     xmlns:gettyterms="http://portal.getty.edu/terms/gri/"
+     xmlns:local="http://library.princeton.edu"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Roma antica, e moderna, o sia, Nuova descrizione di tutti gl'edifici antichi, e moderni, tanto sagri, quanto profani della citta ́di Roma ...</title>
+            <respStmt>
+               <orgName>Getty Research Institute</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Capelli, Pancrazio, active 18th century</authority>
+            <authority>Alamannus, Ant.</authority>
+            <authority>Roisecco, Gregorio</authority>
+            <authority>Stamperia Puccinelli.</authority>
+            <idno type="URI">http://portal.getty.edu/books/gri_9922854360001551</idno>
+            <idno type="URI">http://portal.getty.edu/api/p6182r</idno>
+            <idno type="URI">http://portal.getty.edu/api/cm8r68</idno>
+            <idno type="URI">http://portal.getty.edu/api/9w2s0x</idno>
+            <idno>(OCoLC)4801157</idno>
+            <idno type="cico">3855A</idno>
+            <idno type="dcl">qp6</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Roma antica, e moderna, o sia, Nuova descrizione di tutti gl'edifici antichi, e moderni, tanto sagri, quanto profani della citta ́di Roma ...</title>
+                  <respStmt>
+                     <persName>Roisecco, Gregorio</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>Roma : Gregorio Roisecco</publisher>
+                     <pubPlace>Italy</pubPlace>
+                     <pubPlace>Rome (Italy)</pubPlace>
+                     <pubPlace>Italy Rome.</pubPlace>
+                     <date>1750</date>
+                  </imprint>
+                  <extent>3 volumes</extent>
+               </monogr>
+               <relatedItem type="manifest"
+                            target="https://media.getty.edu/iiif/manifest/4943c85b-1ef5-4d0d-90ac-d5fbef62c6d6https://media.getty.edu/iiif/manifest/1da558a7-e202-4329-bab1-39355e2f2d3dhttps://media.getty.edu/iiif/manifest/c0a8d833-82ed-4445-bfca-53ce718d7a74"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Rome (Italy) -- Guidebooks.</term>
+               <term>Rome (Italy) -- Antiquities.</term>
+               <term>Art museums -- Italy -- Rome.</term>
+               <term>Antiquities.</term>
+               <term>Art museums.</term>
+               <term>Italy -- Rome.</term>
+               <term>DG62.5 .R55 1750</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json"
+             url="https://media.getty.edu/iiif/manifest/4943c85b-1ef5-4d0d-90ac-d5fbef62c6d6">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+   <facsimile>
+      <media mimeType="application/json"
+             url="https://media.getty.edu/iiif/manifest/1da558a7-e202-4329-bab1-39355e2f2d3d">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+   <facsimile>
+      <media mimeType="application/json"
+             url="https://media.getty.edu/iiif/manifest/c0a8d833-82ed-4445-bfca-53ce718d7a74">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>

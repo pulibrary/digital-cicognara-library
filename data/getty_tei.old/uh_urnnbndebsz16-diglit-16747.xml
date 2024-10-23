@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:dcterms="http://purl.org/dc/terms/"
+     xmlns:gettyterms="http://portal.getty.edu/terms/gri/"
+     xmlns:local="http://library.princeton.edu"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>L' Idea Della Architettvra Vniversale: Diuisa in X. Libri: Dell'Eccellenza Di Qvesta Facoltà, De gl'Architetti prestanti: e Precetti, Inuentioni, Disegni, Modelli, &amp; Opere merauigliose</title>
+            <respStmt>
+               <orgName>Heidelberg University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <idno type="URI">http://portal.getty.edu/books/uh_urn:nbn:de:bsz:16-diglit-16747</idno>
+            <idno type="URI">http://portal.getty.edu/api/hg0592</idno>
+            <idno type="cico">651</idno>
+            <idno type="dcl">tp4</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>L' Idea Della Architettvra Vniversale: Diuisa in X. Libri: Dell'Eccellenza Di Qvesta Facoltà, De gl'Architetti prestanti: e Precetti, Inuentioni, Disegni, Modelli, &amp; Opere merauigliose</title>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <date>1615</date>
+                     <date>1615</date>
+                  </imprint>
+                  <extent>[8] Bl., 352 S., [16] Bl.</extent>
+                  <extent>Ill.</extent>
+               </monogr>
+               <relatedItem type="manifest"
+                            target="https://digi.ub.uni-heidelberg.de/diglit/iiif/scamozzi1615bd1/manifest.json"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Architektur</term>
+               <term>Architekturtheorie</term>
+               <term>Säulenordnung</term>
+               <term>Scamozzi, Vincenzo</term>
+               <term>Cicognara</term>
+               <term>Parte Prima</term>
+               <term>Trattati dell’Architettura</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json"
+             url="https://digi.ub.uni-heidelberg.de/diglit/iiif/scamozzi1615bd1/manifest.json">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>

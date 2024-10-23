@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:dcterms="http://purl.org/dc/terms/"
+     xmlns:gettyterms="http://portal.getty.edu/terms/gri/"
+     xmlns:local="http://library.princeton.edu"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Leonis Baptistae Alberti Florentini Momus.</title>
+            <respStmt>
+               <orgName>National Gallery of Art Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Mazochius, Jacobus, active 1506-1527 publisher.</authority>
+            <idno type="URI">http://portal.getty.edu/books/nga_994117456204896</idno>
+            <idno type="URI">http://portal.getty.edu/api/v1952p</idno>
+            <idno>(OCoLC)908151327</idno>
+            <idno type="cico">383</idno>
+            <idno type="dcl">15r</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Leonis Baptistae Alberti Florentini Momus.</title>
+                  <respStmt>
+                     <persName>Alberti, Leon Battista, 1404-1472, author.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Latin</textLang>
+                  <imprint>
+                     <publisher>Romae : Ex aedibi. Iacobi Maz. Ro. Academiae. bibliopol</publisher>
+                     <date>MDXX [1520]</date>
+                     <date>1520</date>
+                  </imprint>
+                  <extent>[208] pages</extent>
+               </monogr>
+               <relatedItem type="manifest"
+                            target="https://libraryimage.nga.gov/manifest/mms/994117456204896.json"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>State, The -- Early works to 1800</term>
+               <term>Political science -- Early works to 1800</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json"
+             url="https://libraryimage.nga.gov/manifest/mms/994117456204896.json">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>

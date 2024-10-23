@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:dcterms="http://purl.org/dc/terms/"
+     xmlns:gettyterms="http://portal.getty.edu/terms/gri/"
+     xmlns:local="http://library.princeton.edu"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Lettera scritta all'ill., ed eccell. sig. Giacomo Lord Johnstone dal signor Francesco de Ficoroni ... sovra un nuovo cameo esprimente Marcello Nipote di Augusto [microform].</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Johnstone, James, Lord.</authority>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <authority>Leopoldo Cicognara Program (University of Illinois at Urbana-Champaign)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985430113506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/t78b3t</idno>
+            <idno type="cico">3724</idno>
+            <idno type="dcl">jvz</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Lettera scritta all'ill., ed eccell. sig. Giacomo Lord Johnstone dal signor Francesco de Ficoroni ... sovra un nuovo cameo esprimente Marcello Nipote di Augusto [microform].</title>
+                  <respStmt>
+                     <persName>Ficoroni, Francesco, 1664-1747.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>In Napoli : Nella nuova stamperia di Pietr Antonio Morandi</publisher>
+                     <date>1718 et nel 1726</date>
+                     <date>1726</date>
+                  </imprint>
+                  <extent>[13] p.</extent>
+                  <extent>1 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest"
+                            target="https://figgy.princeton.edu/concern/scanned_resources/5fcd7b6f-587f-49ae-90f5-60fc226abe71/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Marcellus, d. 23 B.C. -- Portaits.</term>
+               <term>Cameos -- Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json"
+             url="https://figgy.princeton.edu/concern/scanned_resources/5fcd7b6f-587f-49ae-90f5-60fc226abe71/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>

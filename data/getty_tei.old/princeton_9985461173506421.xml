@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:dcterms="http://purl.org/dc/terms/"
+     xmlns:gettyterms="http://portal.getty.edu/terms/gri/"
+     xmlns:local="http://library.princeton.edu"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Orazione recitata nella pubblica Veneta Accademia di pittura, scultura, ed architettura li 23. Gennajo 1776, per la solenne distribuzione de' premj dell'anno 1775 [microform].</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <authority>Regia accademia di belle arti di Venezia.</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985461173506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/nn5r6v</idno>
+            <idno type="cico">n.C.n.</idno>
+            <idno type="dcl">78h</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Orazione recitata nella pubblica Veneta Accademia di pittura, scultura, ed architettura li 23. Gennajo 1776, per la solenne distribuzione de' premj dell'anno 1775 [microform].</title>
+                  <respStmt>
+                     <persName>Fossati, Giuseppe Luigi, 1759-1811.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>In Venezia : Presso Pietro Savioni</publisher>
+                     <pubPlace>Italy</pubPlace>
+                     <date>[1776]</date>
+                     <date>1776</date>
+                  </imprint>
+                  <extent>XXVI p.</extent>
+                  <extent>1 microfiche : positive ; 11 x 15 cm.</extent>
+               </monogr>
+               <relatedItem type="manifest"
+                            target="https://figgy.princeton.edu/concern/scanned_resources/c4a02629-7cd5-4c8c-9b83-653b54bfbd3d/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Regia accademia di belle arti di Venezia.</term>
+               <term>Art -- Early works to 1800.</term>
+               <term>Awards -- Italy -- Venice -- Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json"
+             url="https://figgy.princeton.edu/concern/scanned_resources/c4a02629-7cd5-4c8c-9b83-653b54bfbd3d/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>

@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:dcterms="http://purl.org/dc/terms/"
+     xmlns:gettyterms="http://portal.getty.edu/terms/gri/"
+     xmlns:local="http://library.princeton.edu"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Vita di Paolo Caliari veronese, celebre pittore / descritta dal cavalier Carlo Ridolfi.</title>
+            <respStmt>
+               <orgName>Getty Research Institute</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Leni, Matteo.</authority>
+            <idno type="URI">http://portal.getty.edu/books/gri_9924783960001551</idno>
+            <idno type="URI">http://portal.getty.edu/api/4d0382</idno>
+            <idno>(OCoLC)40110215</idno>
+            <idno type="cico">2358B</idno>
+            <idno type="dcl">pc7</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Vita di Paolo Caliari veronese, celebre pittore / descritta dal cavalier Carlo Ridolfi.</title>
+                  <respStmt>
+                     <persName>Ridolfi, Carlo, 1594-1658</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>In Venetia : Presso Matteo Leni</publisher>
+                     <pubPlace>Italy</pubPlace>
+                     <pubPlace>Italy.</pubPlace>
+                     <pubPlace>Italy Venice.</pubPlace>
+                     <date>1646</date>
+                  </imprint>
+                  <extent>[4], 65 [i.e. 67], [1] pages</extent>
+               </monogr>
+               <relatedItem type="manifest"
+                            target="https://media.getty.edu/iiif/manifest/9e9917b1-1f11-49e0-8ed3-8a48426f8a3a"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Veronese, 1528-1588</term>
+               <term>Painters -- Italy -- Early works to 1800.</term>
+               <term>Veronese, 1528-1588</term>
+               <term>Painters.</term>
+               <term>Italy.</term>
+               <term>ND623.V5 R5</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json"
+             url="https://media.getty.edu/iiif/manifest/9e9917b1-1f11-49e0-8ed3-8a48426f8a3a">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>

@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:dcterms="http://purl.org/dc/terms/"
+     xmlns:gettyterms="http://portal.getty.edu/terms/gri/"
+     xmlns:local="http://library.princeton.edu"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Notitia dignitatum, utriusque Imperii Orientis scilicet et Occidentis ultra Arcadii Honoriique tempora, et in eam G. Panciroli I.V.D., commentarium : eiusdemque De magistratibus municipalibus, rebusque bellicis, et tam novae, quam veteris Romae libellus :  omnia ordine concinnata &amp; locis collocata quae antea confusa : accessit praetereà huie editioni totius Imperii Romani typus, et locupletissimus rerum &amp; verborum index nouissimè compilatus.</title>
+            <respStmt>
+               <orgName>Dumbarton Oaks</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Panciroli, Guido, 1523-1599. De magistratibus municipalibus et corporibus artificum libellus.</authority>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <authority>Leopoldo Cicognara Program (University of Illinois at Urbana-Champaign)</authority>
+            <idno type="URI">http://portal.getty.edu/books/huldo_990062021720203941</idno>
+            <idno type="URI">http://portal.getty.edu/api/w2703b</idno>
+            <idno>(OCoLC)15270953</idno>
+            <idno type="cico">4058D</idno>
+            <idno type="dcl">jw0</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Notitia dignitatum, utriusque Imperii Orientis scilicet et Occidentis ultra Arcadii Honoriique tempora, et in eam G. Panciroli I.V.D., commentarium : eiusdemque De magistratibus municipalibus, rebusque bellicis, et tam novae, quam veteris Romae libellus :  omnia ordine concinnata &amp; locis collocata quae antea confusa : accessit praetereà huie editioni totius Imperii Romani typus, et locupletissimus rerum &amp; verborum index nouissimè compilatus.</title>
+                  <textLang>Latin</textLang>
+                  <imprint>
+                     <publisher>Genevae : Excudebat Stephanus Gamonetus</publisher>
+                     <pubPlace>Rome</pubPlace>
+                     <date>MDCXXIII [1623]</date>
+                     <date>1623</date>
+                  </imprint>
+                  <extent>[16], 271  [i.e. 267), [13], 196, [4], 39 p., 1 unnumbered leaf of plates (folded)</extent>
+               </monogr>
+               <relatedItem type="manifest"
+                            target="https://iiif.lib.harvard.edu/manifests/drs:482447393"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Rome -- Registers -- Early works to 1800.</term>
+               <term>Rome -- Politics and government -- 284-476 -- Early works to 1800.</term>
+               <term>Rome -- Army -- Lists -- Early works to 1800.</term>
+               <term>Rome -- Officials and employees -- Early works to 1800.</term>
+               <term>Rome -- Military antiquities -- Early works to 1800.</term>
+               <term>KJA2980 .N68 1623</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json"
+             url="https://iiif.lib.harvard.edu/manifests/drs:482447393">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>

@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:dcterms="http://purl.org/dc/terms/"
+     xmlns:gettyterms="http://portal.getty.edu/terms/gri/"
+     xmlns:local="http://library.princeton.edu"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Dialogue sur le coloris.</title>
+            <respStmt>
+               <orgName>Getty Research Institute</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <idno type="URI">http://portal.getty.edu/books/gri_9928979620001551</idno>
+            <idno type="URI">http://portal.getty.edu/api/5g266d</idno>
+            <idno>(OCoLC)11886171</idno>
+            <idno type="cico">180C</idno>
+            <idno type="dcl">kc0</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Dialogue sur le coloris.</title>
+                  <respStmt>
+                     <persName>Piles, Roger de, 1635-1709.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>French</textLang>
+                  <imprint>
+                     <publisher>A Paris : Chez Nicolas Langlois</publisher>
+                     <date>1699</date>
+                  </imprint>
+                  <extent>[2], 70, [2] p.</extent>
+               </monogr>
+               <relatedItem type="manifest"
+                            target="https://media.getty.edu/iiif/manifest/ba3ac3bb-30ae-4de8-b968-c7f6a72c0f3f"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Color -- Early works to 1800.</term>
+               <term>Painting -- Technique -- Early works to 1800.</term>
+               <term>Color</term>
+               <term>Painting -- Technique</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json"
+             url="https://media.getty.edu/iiif/manifest/ba3ac3bb-30ae-4de8-b968-c7f6a72c0f3f">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>

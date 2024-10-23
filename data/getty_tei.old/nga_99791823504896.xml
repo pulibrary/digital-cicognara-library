@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:dcterms="http://purl.org/dc/terms/"
+     xmlns:gettyterms="http://portal.getty.edu/terms/gri/"
+     xmlns:local="http://library.princeton.edu"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Ab[e]cedario pittorico : nel quale compendiosamente sono descritte le patrie, i maestri, ed i tempi, ne' quali fiorirono circa quattro mila professori di pittura, di scultura, e d'architettura : diviso in tre parti ... / da fr. Pellegrino Antonio Orlandi.</title>
+            <respStmt>
+               <orgName>National Gallery of Art Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <idno type="URI">http://portal.getty.edu/books/nga_99791823504896</idno>
+            <idno type="URI">http://portal.getty.edu/api/3p4d3z</idno>
+            <idno>(OCoLC)973457242</idno>
+            <idno type="cico">2169</idno>
+            <idno type="dcl">mvj</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Ab[e]cedario pittorico : nel quale compendiosamente sono descritte le patrie, i maestri, ed i tempi, ne' quali fiorirono circa quattro mila professori di pittura, di scultura, e d'architettura : diviso in tre parti ... / da fr. Pellegrino Antonio Orlandi.</title>
+                  <respStmt>
+                     <persName>Orlandi, Pellegrino Antonio, 1660-1727.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>In Bologna : Per Costantino Pisarri</publisher>
+                     <pubPlace>Italy</pubPlace>
+                     <date>1704</date>
+                  </imprint>
+                  <extent>436 p.</extent>
+               </monogr>
+               <relatedItem type="manifest"
+                            target="https://libraryimage.nga.gov/manifest/mms/99791823504896.json"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Artists -- Italy -- Biography -- Dictionaries.</term>
+               <term>Painters -- Italy -- Biography -- Dictionaries.</term>
+               <term>Sculptors -- Italy -- Biography -- Dictionaries.</term>
+               <term>Architects -- Italy -- Biography -- Dictionaries.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json"
+             url="https://libraryimage.nga.gov/manifest/mms/99791823504896.json">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>

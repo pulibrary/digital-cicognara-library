@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:dcterms="http://purl.org/dc/terms/"
+     xmlns:gettyterms="http://portal.getty.edu/terms/gri/"
+     xmlns:local="http://library.princeton.edu"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Le pompe funebri celebrate da' signori Accademici infecondi di Roma per la morte dell'illustrissima signora Elena Lucrezia Cornara Piscopia accademica detta l'inalterabile : dedicate all sereniss. republica di Venezia.</title>
+            <respStmt>
+               <orgName>Getty Research Institute</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Cadorin, Matteo, printer.</authority>
+            <authority>Cardano, Tommaso, illustrator.</authority>
+            <authority>Cassioni, Giovanni Francesco, engraver.</authority>
+            <idno type="URI">http://portal.getty.edu/books/gri_9928386170001551</idno>
+            <idno type="URI">http://portal.getty.edu/api/z10700</idno>
+            <idno>(OCoLC)26835949</idno>
+            <idno type="cico">1427-2</idno>
+            <idno type="cico">1477</idno>
+            <idno type="dcl">j2h</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Le pompe funebri celebrate da' signori Accademici infecondi di Roma per la morte dell'illustrissima signora Elena Lucrezia Cornara Piscopia accademica detta l'inalterabile : dedicate all sereniss. republica di Venezia.</title>
+                  <respStmt>
+                     <persName>Accademia degli infecondi (Rome, Italy)</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>In Padova : Per il Cadorino</publisher>
+                     <pubPlace>Italy</pubPlace>
+                     <pubPlace>Italy Padova.</pubPlace>
+                     <date>MDCLXXXVI [1686]</date>
+                     <date>1686</date>
+                  </imprint>
+                  <extent>6 unnumbered leaves, 188 pages, [6] leaves of plates (3 folded)</extent>
+               </monogr>
+               <relatedItem type="manifest"
+                            target="https://media.getty.edu/iiif/manifest/5b93fee2-c5b7-4ada-b2e8-2ba5938339d0"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Cornaro Piscopia, Elena Lucrezia, 1646-1684 -- Death and burial.</term>
+               <term>Cornaro Piscopia, Elena Lucrezia, 1646-1684</term>
+               <term>Women mathematicians -- Italy -- Biography -- Early works to 1800.</term>
+               <term>Women philosophers -- Italy -- Biography -- Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json"
+             url="https://media.getty.edu/iiif/manifest/5b93fee2-c5b7-4ada-b2e8-2ba5938339d0">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>

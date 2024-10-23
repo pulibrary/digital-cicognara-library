@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:dcterms="http://purl.org/dc/terms/"
+     xmlns:gettyterms="http://portal.getty.edu/terms/gri/"
+     xmlns:local="http://library.princeton.edu"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>De pictura, plastice, statuaria libri duo ... / auctore Iulio Caesare Bulengero ...</title>
+            <respStmt>
+               <orgName>Getty Research Institute</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Pre-1801 Imprint Collection (Library of Congress)</authority>
+            <idno type="URI">http://portal.getty.edu/books/gri_9925343900001551</idno>
+            <idno type="URI">http://portal.getty.edu/api/ng9p7m</idno>
+            <idno>(OCoLC)18369754</idno>
+            <idno type="cico">94A</idno>
+            <idno type="dcl">8p1</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>De pictura, plastice, statuaria libri duo ... / auctore Iulio Caesare Bulengero ...</title>
+                  <respStmt>
+                     <persName>Boulenger, Jules César, 1558-1628</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Latin</textLang>
+                  <imprint>
+                     <publisher>Lugduni : Sumptibus Ludovici Prost</publisher>
+                     <date>1627</date>
+                  </imprint>
+                  <extent>[8], 162, [6] pages</extent>
+               </monogr>
+               <relatedItem type="manifest"
+                            target="https://media.getty.edu/iiif/manifest/359e09af-fcf7-4fd0-b8f2-2cc30e472d4c"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Painting -- Early works to 1800.</term>
+               <term>Sculpture -- Early works to 1800.</term>
+               <term>Painting, Ancient -- Early works to 1800.</term>
+               <term>Sculpture, Ancient -- Early works to 1800.</term>
+               <term>Sculpture -- History.</term>
+               <term>Painting -- History.</term>
+               <term>Painting.</term>
+               <term>Painting, Ancient.</term>
+               <term>Sculpture.</term>
+               <term>Sculpture, Ancient.</term>
+               <term>TX144 .B7</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json"
+             url="https://media.getty.edu/iiif/manifest/359e09af-fcf7-4fd0-b8f2-2cc30e472d4c">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>

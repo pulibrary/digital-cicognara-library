@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:dcterms="http://purl.org/dc/terms/"
+     xmlns:gettyterms="http://portal.getty.edu/terms/gri/"
+     xmlns:local="http://library.princeton.edu"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Racolta nobilissima : nella quale si descriuono tutte l'oppere di carità christiana e limosine che si sanno nella città de Milano da gli hospitali cafe pie, monasteri &amp; altri luoghi : col numero delle scole, colegi, e letture, che mostrano senza premio : con un discorso utilissimo in lode de gli huomini limosinieri degno da sapersi da ogni qualità di persone / raccolto con molta diligenza da Frate Paolo Morigi ...</title>
+            <respStmt>
+               <orgName>National Gallery of Art Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <idno type="URI">http://portal.getty.edu/books/nga_994260326904896</idno>
+            <idno type="URI">http://portal.getty.edu/api/nv3c2z</idno>
+            <idno>(OCoLC)80859973</idno>
+            <idno type="cico">4245</idno>
+            <idno type="dcl">3cw</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Racolta nobilissima : nella quale si descriuono tutte l'oppere di carità christiana e limosine che si sanno nella città de Milano da gli hospitali cafe pie, monasteri &amp; altri luoghi : col numero delle scole, colegi, e letture, che mostrano senza premio : con un discorso utilissimo in lode de gli huomini limosinieri degno da sapersi da ogni qualità di persone / raccolto con molta diligenza da Frate Paolo Morigi ...</title>
+                  <respStmt>
+                     <persName>Morigia, Paolo, 1525-1604</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>In Milano : Per Gratiadio Ferioli</publisher>
+                     <pubPlace>Italy</pubPlace>
+                     <pubPlace>Milan (Italy)</pubPlace>
+                     <date>1602</date>
+                  </imprint>
+                  <extent>150 pages</extent>
+               </monogr>
+               <relatedItem type="manifest"
+                            target="https://libraryimage.nga.gov/manifest/mms/994260326904896.json"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Church decoration and ornament -- Italy -- Milan.</term>
+               <term>Milan (Italy) -- History.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json"
+             url="https://libraryimage.nga.gov/manifest/mms/994260326904896.json">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>

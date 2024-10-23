@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:dcterms="http://purl.org/dc/terms/"
+     xmlns:gettyterms="http://portal.getty.edu/terms/gri/"
+     xmlns:local="http://library.princeton.edu"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Familiaris quaedam epistola e Roma in Hispaniam missa [microform] : in qua quid actum sit die xxix. Aprilis, vij. Maij, x &amp; xvij. Septembris in translatione obelisci breuiter explicatur : breuis item rerum in hoc primo anno à Sanctiss. D.N. gestarum enumeratio.</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985405453506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/9f3m9b</idno>
+            <idno type="cico">2542</idno>
+            <idno type="dcl">8p7</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Familiaris quaedam epistola e Roma in Hispaniam missa [microform] : in qua quid actum sit die xxix. Aprilis, vij. Maij, x &amp; xvij. Septembris in translatione obelisci breuiter explicatur : breuis item rerum in hoc primo anno à Sanctiss. D.N. gestarum enumeratio.</title>
+                  <respStmt>
+                     <persName>Ponce de León, Gonzalo, b. 1530.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Latin</textLang>
+                  <imprint>
+                     <publisher>Romae : Apud Alexandrum Gardanum &amp; Franciscum Coattinum Socios. :</publisher>
+                     <pubPlace>Vatican City</pubPlace>
+                     <pubPlace>Egypt</pubPlace>
+                     <date>1586</date>
+                  </imprint>
+                  <extent>[10] p.</extent>
+                  <extent>1 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest"
+                            target="https://figgy.princeton.edu/concern/scanned_resources/008a4dab-3d77-4a96-9869-9b071606d05b/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Festivals -- Vatican City -- Early works to 1800.</term>
+               <term>Moving of buildings, bridges, etc. -- Vatican City -- Early works to 1800.</term>
+               <term>Obelisks -- Egypt -- Early works to 1800.</term>
+               <term>Obelisks -- Vatican City -- Early works to 1800.</term>
+               <term>Vatican Obelisk (Vatican City) -- Early works to 1800.</term>
+               <term>Vatican City -- Buildings, structures, etc. -- Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json"
+             url="https://figgy.princeton.edu/concern/scanned_resources/008a4dab-3d77-4a96-9869-9b071606d05b/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>

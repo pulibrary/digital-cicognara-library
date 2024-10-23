@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:dcterms="http://purl.org/dc/terms/"
+     xmlns:gettyterms="http://portal.getty.edu/terms/gri/"
+     xmlns:local="http://library.princeton.edu"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Gverra di bellezza : festa a cavallo fatta in Firenze, per la venvta del Serenissimo Principe d'Vrbino, l'ottobre del 1616.</title>
+            <respStmt>
+               <orgName>National Gallery of Art Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Callot, Jacques, 1592-1635.</authority>
+            <authority>Parigi, Giulio, 1571-1635.</authority>
+            <authority>Pignoni, Zanobi</authority>
+            <idno type="URI">http://portal.getty.edu/books/nga_993397243504896</idno>
+            <idno type="URI">http://portal.getty.edu/api/106s3k</idno>
+            <idno>(OCoLC)876591181</idno>
+            <idno>(OCoLC)270120688</idno>
+            <idno type="cico">1421</idno>
+            <idno type="dcl">4x2</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Gverra di bellezza : festa a cavallo fatta in Firenze, per la venvta del Serenissimo Principe d'Vrbino, l'ottobre del 1616.</title>
+                  <respStmt>
+                     <persName>Salvadori, Andrea</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>In Firenze : Nella stamperia di Zanobi Pignoni</publisher>
+                     <pubPlace>Italy</pubPlace>
+                     <date>1616</date>
+                  </imprint>
+                  <extent>[32] p., [5] folded leaves of plates</extent>
+               </monogr>
+               <relatedItem type="manifest"
+                            target="https://libraryimage.nga.gov/manifest/mms/993397243504896.json"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Della Rovere, Federico Ubaldo, 1605-1623</term>
+               <term>Medici, Claudia de', 1604-1648.</term>
+               <term>Callot, Jacques, 1592-1635.</term>
+               <term>Festivals -- Italy -- Florence.</term>
+               <term>Provenance -- Vershbow (Arthur)</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json"
+             url="https://libraryimage.nga.gov/manifest/mms/993397243504896.json">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>

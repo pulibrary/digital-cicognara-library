@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:dcterms="http://purl.org/dc/terms/"
+     xmlns:gettyterms="http://portal.getty.edu/terms/gri/"
+     xmlns:local="http://library.princeton.edu"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Alexii Symmachi Mazochii metropolitanae ecclesiae campanae canonici theologi In mutilum Campani amphitheatri titulum aliasque nonnullas Campanas inscriptiones commentarius.</title>
+            <respStmt>
+               <orgName>Getty Research Institute</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Grado, Francesco de</authority>
+            <authority>Musca, Felix Carolus, active 1702-1748</authority>
+            <idno type="URI">http://portal.getty.edu/books/gri_9926917610001551</idno>
+            <idno type="URI">http://portal.getty.edu/api/km4f8w</idno>
+            <idno>(OCoLC)80235643</idno>
+            <idno type="cico">795-1</idno>
+            <idno type="cico">2603</idno>
+            <idno type="dcl">10f</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Alexii Symmachi Mazochii metropolitanae ecclesiae campanae canonici theologi In mutilum Campani amphitheatri titulum aliasque nonnullas Campanas inscriptiones commentarius.</title>
+                  <respStmt>
+                     <persName>Mazzocchi, Alessio Simmaco, 1684-1771</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>Neapoli : Ex typographia Felicis Muscae</publisher>
+                     <pubPlace>Italy</pubPlace>
+                     <pubPlace>Capua (Italy)</pubPlace>
+                     <pubPlace>Italy Naples.</pubPlace>
+                     <date>1727</date>
+                  </imprint>
+                  <extent>[20], 172, [12] p., [5] folded leaves of plates</extent>
+               </monogr>
+               <relatedItem type="manifest"
+                            target="https://media.getty.edu/iiif/manifest/e294d730-10ac-4fb7-9026-06f02eaa1e2f"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Amphitheaters -- Italy -- Capua -- Early works to 1800.</term>
+               <term>Inscriptions, Latin -- Early works to 1800.</term>
+               <term>Capua (Italy) -- Antiquities -- Early works to 1800.</term>
+               <term>Capua (Italy) -- Buildings, structures, etc. -- Early works to 1800.</term>
+               <term>Amphitheaters</term>
+               <term>Antiquities</term>
+               <term>Buildings</term>
+               <term>Inscriptions, Latin</term>
+               <term>Italy -- Capua</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json"
+             url="https://media.getty.edu/iiif/manifest/e294d730-10ac-4fb7-9026-06f02eaa1e2f">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>

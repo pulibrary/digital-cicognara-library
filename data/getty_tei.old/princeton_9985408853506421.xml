@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:dcterms="http://purl.org/dc/terms/"
+     xmlns:gettyterms="http://portal.getty.edu/terms/gri/"
+     xmlns:local="http://library.princeton.edu"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Osservazioni istoriche [microform] / di Domenico Maria Manni ... sopra i sigilli antichi de' secoli bassi.</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <authority>Leopoldo Cicognara Program (University of Illinois at Urbana-Champaign)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985408853506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/z77x1w</idno>
+            <idno type="URI">http://portal.getty.edu/api/3q723q</idno>
+            <idno type="URI">http://portal.getty.edu/api/cq212x</idno>
+            <idno type="URI">http://portal.getty.edu/api/4z818c</idno>
+            <idno type="URI">http://portal.getty.edu/api/xr7j4j</idno>
+            <idno type="URI">http://portal.getty.edu/api/h71h6g</idno>
+            <idno type="URI">http://portal.getty.edu/api/1b590j</idno>
+            <idno type="URI">http://portal.getty.edu/api/mn0t7z</idno>
+            <idno type="URI">http://portal.getty.edu/api/rz5s72</idno>
+            <idno type="URI">http://portal.getty.edu/api/rz998d</idno>
+            <idno type="URI">http://portal.getty.edu/api/4d9g1d</idno>
+            <idno type="URI">http://portal.getty.edu/api/d17j64</idno>
+            <idno type="cico">2916</idno>
+            <idno type="dcl">gzq</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Osservazioni istoriche [microform] / di Domenico Maria Manni ... sopra i sigilli antichi de' secoli bassi.</title>
+                  <respStmt>
+                     <persName>Manni, Domenico Maria, 1690-1788.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>In Firenze : Nella stamperia d'Anton - Maria Albizzini</publisher>
+                     <pubPlace>Italy</pubPlace>
+                     <date>1739-86</date>
+                     <date>1739</date>
+                  </imprint>
+                  <extent>30 v.</extent>
+                  <extent>74 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest"
+                            target="https://figgy.princeton.edu/concern/scanned_resources/c3c7cf62-8ea6-4c70-be35-217994dbfb47/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Seals (Numismatics) -- Italy -- Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json"
+             url="https://figgy.princeton.edu/concern/scanned_resources/c3c7cf62-8ea6-4c70-be35-217994dbfb47/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>

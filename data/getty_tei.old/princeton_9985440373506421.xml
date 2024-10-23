@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:dcterms="http://purl.org/dc/terms/"
+     xmlns:gettyterms="http://portal.getty.edu/terms/gri/"
+     xmlns:local="http://library.princeton.edu"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Bibliothèque de peinture, de sculpture, et de gravure [microform] / par mr. Christophe Théophile de Murr.</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <authority>Leopoldo Cicognara Program (University of Illinois at Urbana-Champaign)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985440373506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/5d7056</idno>
+            <idno type="URI">http://portal.getty.edu/api/x02701</idno>
+            <idno type="URI">http://portal.getty.edu/api/nb569q</idno>
+            <idno type="URI">http://portal.getty.edu/api/d1323j</idno>
+            <idno type="cico">4660</idno>
+            <idno type="dcl">735</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Bibliothèque de peinture, de sculpture, et de gravure [microform] / par mr. Christophe Théophile de Murr.</title>
+                  <respStmt>
+                     <persName>Murr, Christoph Gottlieb von, 1733-1811.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>French</textLang>
+                  <imprint>
+                     <publisher>A Francfort ; Chez Jean Paul Krauss</publisher>
+                     <date>1770</date>
+                  </imprint>
+                  <extent>2 v.</extent>
+                  <extent>14 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest"
+                            target="https://figgy.princeton.edu/concern/scanned_resources/03ce803e-89db-4553-9683-8eee80d3407e/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Art -- Bibliography -- Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json"
+             url="https://figgy.princeton.edu/concern/scanned_resources/03ce803e-89db-4553-9683-8eee80d3407e/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>

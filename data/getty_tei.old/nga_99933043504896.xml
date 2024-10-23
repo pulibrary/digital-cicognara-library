@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:dcterms="http://purl.org/dc/terms/"
+     xmlns:gettyterms="http://portal.getty.edu/terms/gri/"
+     xmlns:local="http://library.princeton.edu"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Il merito delle belle arti, pittura, scultura, e architettura, riconosciuto nel Campidoglio per l'Accademia del disegno solennizata il dì primo maggio 1709 : essendo principe della medesima il signor cavalier Carlo Maratti / relazione di Giuseppe Ghezzi, pittore, e segretario accademico, e fra gl'arcadi, Afideno Badio.</title>
+            <respStmt>
+               <orgName>National Gallery of Art Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Riviera, Domenico, 1671-1752.</authority>
+            <authority>Frezza, Giovanni Girolamo, 1659-1743.</authority>
+            <authority>Accademia di San Luca.</authority>
+            <idno type="URI">http://portal.getty.edu/books/nga_99933043504896</idno>
+            <idno type="URI">http://portal.getty.edu/api/f32b4z</idno>
+            <idno>(OCoLC)82587237</idno>
+            <idno type="cico">1307</idno>
+            <idno type="dcl">hzh</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Il merito delle belle arti, pittura, scultura, e architettura, riconosciuto nel Campidoglio per l'Accademia del disegno solennizata il dì primo maggio 1709 : essendo principe della medesima il signor cavalier Carlo Maratti / relazione di Giuseppe Ghezzi, pittore, e segretario accademico, e fra gl'arcadi, Afideno Badio.</title>
+                  <respStmt>
+                     <persName>Ghezzi, Giuseppe, 1634-1721.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>In Roma : Per Gaetano Zenobi</publisher>
+                     <date>[1709]</date>
+                     <date>1709</date>
+                  </imprint>
+                  <extent>69, [3] p., [1] leaf of plates</extent>
+               </monogr>
+               <relatedItem type="manifest"
+                            target="https://libraryimage.nga.gov/manifest/mms/99933043504896.json"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Accademia di San Luca.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json"
+             url="https://libraryimage.nga.gov/manifest/mms/99933043504896.json">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>

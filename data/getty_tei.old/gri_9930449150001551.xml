@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:dcterms="http://purl.org/dc/terms/"
+     xmlns:gettyterms="http://portal.getty.edu/terms/gri/"
+     xmlns:local="http://library.princeton.edu"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The elements of civil architecture, according to Vitruvius and other ancients, and the most approved practice of modern authors, especially Palladio / by Henry Aldrich ; translated by Philip Smyth.</title>
+            <respStmt>
+               <orgName>Getty Research Institute</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Heath, James, 1757-1834</authority>
+            <authority>Kneller, Godfrey, Sir, 1646-1723</authority>
+            <authority>Smyth, Philip</authority>
+            <idno type="URI">http://portal.getty.edu/books/gri_9930449150001551</idno>
+            <idno type="URI">http://portal.getty.edu/api/9p923t</idno>
+            <idno>(OCoLC)20478400</idno>
+            <idno type="cico">396</idno>
+            <idno type="dcl">r81</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>The elements of civil architecture, according to Vitruvius and other ancients, and the most approved practice of modern authors, especially Palladio / by Henry Aldrich ; translated by Philip Smyth.</title>
+                  <respStmt>
+                     <persName>Aldrich, Henry, 1648-1710</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>English</textLang>
+                  <imprint>
+                     <publisher>Oxford : Printed by W. Baxter for J. Parker ;</publisher>
+                     <date>1818</date>
+                  </imprint>
+                  <extent>viii, 151 p., lv leaves of plates</extent>
+               </monogr>
+               <relatedItem type="manifest"
+                            target="https://media.getty.edu/iiif/manifest/1b551b17-f56e-45a0-b675-7742072358b0"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Vitruvius Pollio</term>
+               <term>Palladio, Andrea, 1508-1580</term>
+               <term>Architecture -- Early works to 1800.</term>
+               <term>Palladio, Andrea, 1508-1580</term>
+               <term>Vitruvius Pollio</term>
+               <term>Architecture</term>
+               <term>NA2515 .A4 1818</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json"
+             url="https://media.getty.edu/iiif/manifest/1b551b17-f56e-45a0-b675-7742072358b0">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>

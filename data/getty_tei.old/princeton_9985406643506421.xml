@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:dcterms="http://purl.org/dc/terms/"
+     xmlns:gettyterms="http://portal.getty.edu/terms/gri/"
+     xmlns:local="http://library.princeton.edu"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Georgii Agricolae De ortu &amp; causis subterraneorum Lib. V [microform] : De natura eorum quae effluunt ex terra Lib. IIII : De natura fossilium Lib. X : De ueteribus &amp; nouis metallis Lib. II : Bermannus, siue, De re metallica dialogus : Interpretatio germanica uocum rei metallicae : addito Indice foecundissimo.</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985406643506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/s07t55</idno>
+            <idno type="cico">2729</idno>
+            <idno type="dcl">tjs</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Georgii Agricolae De ortu &amp; causis subterraneorum Lib. V [microform] : De natura eorum quae effluunt ex terra Lib. IIII : De natura fossilium Lib. X : De ueteribus &amp; nouis metallis Lib. II : Bermannus, siue, De re metallica dialogus : Interpretatio germanica uocum rei metallicae : addito Indice foecundissimo.</title>
+                  <respStmt>
+                     <persName>Agricola, Georg, 1494-1555.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Latin</textLang>
+                  <imprint>
+                     <publisher>Basileae : Per H. Frobenivm et N. Episcopivm</publisher>
+                     <date>1546</date>
+                  </imprint>
+                  <extent>487, [53] p.</extent>
+                  <extent>8 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest"
+                            target="https://figgy.princeton.edu/concern/scanned_resources/2c9c3673-b907-40f2-8353-2fd226860048/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Mineralogy -- Early works to 1800.</term>
+               <term>Paleontology -- Early works to 1800.</term>
+               <term>Physical geography -- Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json"
+             url="https://figgy.princeton.edu/concern/scanned_resources/2c9c3673-b907-40f2-8353-2fd226860048/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>

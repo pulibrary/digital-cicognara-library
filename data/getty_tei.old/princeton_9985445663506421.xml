@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:dcterms="http://purl.org/dc/terms/"
+     xmlns:gettyterms="http://portal.getty.edu/terms/gri/"
+     xmlns:local="http://library.princeton.edu"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Matthaei Jacutii Benedictini Congregationis Montis Virginis Syntagma [microform] : quo adparentis Magno Constantino crucis historia complexa est universa ac suis ita ab omnibus non priscis modo quam nuperrimis osoribus vindicata ....</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <authority>Leopoldo Cicognara Program (University of Illinois at Urbana-Champaign)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985445663506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/xw1f7d</idno>
+            <idno type="cico">3247</idno>
+            <idno type="dcl">3pg</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Matthaei Jacutii Benedictini Congregationis Montis Virginis Syntagma [microform] : quo adparentis Magno Constantino crucis historia complexa est universa ac suis ita ab omnibus non priscis modo quam nuperrimis osoribus vindicata ....</title>
+                  <respStmt>
+                     <persName>Jacutius, Matthaeus, d. 1764.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Latin</textLang>
+                  <imprint>
+                     <publisher>Romae : Sumtibus Venantii Monaldini ... :</publisher>
+                     <date>1755</date>
+                  </imprint>
+                  <extent>xx, cxxx p.</extent>
+                  <extent>3 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest"
+                            target="https://figgy.princeton.edu/concern/scanned_resources/874a0ec9-b261-4668-b2bb-e8822670849b/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Constantine I, Emperor of Rome, -337.</term>
+               <term>Crosses -- Early works to 1800.</term>
+               <term>Visions -- Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json"
+             url="https://figgy.princeton.edu/concern/scanned_resources/874a0ec9-b261-4668-b2bb-e8822670849b/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>

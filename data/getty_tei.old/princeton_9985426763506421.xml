@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:dcterms="http://purl.org/dc/terms/"
+     xmlns:gettyterms="http://portal.getty.edu/terms/gri/"
+     xmlns:local="http://library.princeton.edu"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Notitia vtraque dignitatum, cum orientis, tum occidentis [microform] : vltra Arcadij Honorijq[ue] tempora / et eam Guidi Panciroli ... commentarium ...</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Panciroli, Guido, 1523-1599.</authority>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <authority>Leopoldo Cicognara Program (University of Illinois at Urbana-Champaign)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985426763506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/8c5995</idno>
+            <idno type="cico">4058</idno>
+            <idno type="dcl">86b</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Notitia vtraque dignitatum, cum orientis, tum occidentis [microform] : vltra Arcadij Honorijq[ue] tempora / et eam Guidi Panciroli ... commentarium ...</title>
+                  <textLang>Latin</textLang>
+                  <imprint>
+                     <publisher>Venetiis : Apud Ioan. Antonium, &amp; Iacobum de Franciscis</publisher>
+                     <pubPlace>Istanbul (Turkey)</pubPlace>
+                     <pubPlace>Rome</pubPlace>
+                     <date>1602</date>
+                  </imprint>
+                  <extent>[14], 198, [3], 30 leaves</extent>
+                  <extent>8 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest"
+                            target="https://figgy.princeton.edu/concern/scanned_resources/978ed961-1052-4c52-8c09-9474a9562985/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Istanbul (Turkey) -- Description and travel.</term>
+               <term>Rome -- Registers.</term>
+               <term>Rome -- Army -- Lists.</term>
+               <term>Rome -- Military antiquities.</term>
+               <term>Rome -- Officials and employees.</term>
+               <term>Rome -- Politics and government -- 284-476.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json"
+             url="https://figgy.princeton.edu/concern/scanned_resources/978ed961-1052-4c52-8c09-9474a9562985/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>

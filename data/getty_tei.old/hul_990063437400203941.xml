@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:dcterms="http://purl.org/dc/terms/"
+     xmlns:gettyterms="http://portal.getty.edu/terms/gri/"
+     xmlns:local="http://library.princeton.edu"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>L'isole piv famose del mondo descritte da Thomaso Porcacchi da Castiglione Arretino e intagliate da Girolamo Porro Padovano, al sereniss, principe et sigre. il S. Don Giovanni d'Avstria ...</title>
+            <respStmt>
+               <orgName>Harvard Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Porro, Girolamo, 1520-1604.</authority>
+            <authority>Porro, Girolamo, 1520-1604, engraver, printmaker.</authority>
+            <authority>Galignani, Simon, publisher.</authority>
+            <idno type="URI">http://portal.getty.edu/books/hul_990063437400203941</idno>
+            <idno type="URI">http://portal.getty.edu/api/tv5n08</idno>
+            <idno>(OCoLC)11372665</idno>
+            <idno type="cico">2084</idno>
+            <idno type="dcl">4sc</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>L'isole piv famose del mondo descritte da Thomaso Porcacchi da Castiglione Arretino e intagliate da Girolamo Porro Padovano, al sereniss, principe et sigre. il S. Don Giovanni d'Avstria ...</title>
+                  <respStmt>
+                     <persName>Porcacchi, Thomaso, approximately 1530-1585?</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>Venetia, Appresso S. Galignani &amp; Girolamo Porro</publisher>
+                     <pubPlace>Italy Venice.</pubPlace>
+                     <date>1572</date>
+                  </imprint>
+                  <extent>[11] p. l., 117 p., 1 l.,</extent>
+               </monogr>
+               <relatedItem type="manifest"
+                            target="https://iiif.lib.harvard.edu/manifests/drs:23971478"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Islands</term>
+               <term>Islands -- Early works to 1800.</term>
+               <term>Islands -- Maps -- Early works to 1800.</term>
+               <term>Islands -- Description and travel -- Early works to 1800.</term>
+               <term>Geography -- Early works to 1800</term>
+               <term>Geography -- 16th century.</term>
+               <term>Early maps.</term>
+               <term>G500 .P81</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json"
+             url="https://iiif.lib.harvard.edu/manifests/drs:23971478">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>

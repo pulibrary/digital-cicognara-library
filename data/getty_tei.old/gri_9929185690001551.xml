@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:dcterms="http://purl.org/dc/terms/"
+     xmlns:gettyterms="http://portal.getty.edu/terms/gri/"
+     xmlns:local="http://library.princeton.edu"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Dissertazioni epistolari di G.B. Visconti e Fillippo Waqvier de la Barthe sopra la statva del discobolo scoperta nella Villa Palombara ... / da Francesco Cancellieri.</title>
+            <respStmt>
+               <orgName>Getty Research Institute</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Waquier de la Barthe, Filippo</authority>
+            <idno type="URI">http://portal.getty.edu/books/gri_9929185690001551</idno>
+            <idno type="URI">http://portal.getty.edu/api/rm0q36</idno>
+            <idno>(OCoLC)14929032</idno>
+            <idno type="cico">3489</idno>
+            <idno type="dcl">wk6</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Dissertazioni epistolari di G.B. Visconti e Fillippo Waqvier de la Barthe sopra la statva del discobolo scoperta nella Villa Palombara ... / da Francesco Cancellieri.</title>
+                  <respStmt>
+                     <persName>Cancellieri, Francesco, 1751-1826</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>Rome : A. Fulgoni</publisher>
+                     <pubPlace>Italy</pubPlace>
+                     <pubPlace>Italy.</pubPlace>
+                     <date>1806</date>
+                  </imprint>
+                  <extent>viii, 80 pages, 1 unnumbered leaf of plates</extent>
+               </monogr>
+               <relatedItem type="manifest"
+                            target="https://media.getty.edu/iiif/manifest/b457631a-db1f-44da-8bb1-b7bf62e8830a"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Myron, active 5th century B.C. Discobulus.</term>
+               <term>Sculpture, Greek.</term>
+               <term>Sculpture, Classical -- Italy -- Rome.</term>
+               <term>Sculpture, Greek.</term>
+               <term>Italy.</term>
+               <term>Classical antiquities.</term>
+               <term>NB99 .C3 1806</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json"
+             url="https://media.getty.edu/iiif/manifest/b457631a-db1f-44da-8bb1-b7bf62e8830a">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>

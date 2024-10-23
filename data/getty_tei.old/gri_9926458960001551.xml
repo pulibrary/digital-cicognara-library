@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:dcterms="http://purl.org/dc/terms/"
+     xmlns:gettyterms="http://portal.getty.edu/terms/gri/"
+     xmlns:local="http://library.princeton.edu"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Vite e ritratti di illustri Italiani.</title>
+            <respStmt>
+               <orgName>Getty Research Institute</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Bettoni, Nicolò, printer.</authority>
+            <authority>Longhi, Giuseppe, 1766-1831</authority>
+            <authority>Bossi, Giuseppe</authority>
+            <idno type="URI">http://portal.getty.edu/books/gri_9926458960001551</idno>
+            <idno type="URI">http://portal.getty.edu/api/gp5m8q</idno>
+            <idno type="URI">http://portal.getty.edu/api/wf4n47</idno>
+            <idno>(OCoLC)22014796</idno>
+            <idno type="cico">2142</idno>
+            <idno type="dcl">46r</idno>
+            <idno type="dcl">ddq</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Vite e ritratti di illustri Italiani.</title>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>Padova : Tipografia Bettoni</publisher>
+                     <pubPlace>Italy</pubPlace>
+                     <pubPlace>Italy.</pubPlace>
+                     <date>MDCCCXII.[1812]</date>
+                     <date>1812</date>
+                  </imprint>
+                  <extent>2 volumes, 68 unnumbered leaves of plates</extent>
+               </monogr>
+               <relatedItem type="manifest"
+                            target="https://media.getty.edu/iiif/manifest/4c78ae06-1e79-4569-b2b8-cb30174892f8https://media.getty.edu/iiif/manifest/520c1265-c773-4ccb-a3d1-18a845ea7d45"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Napoleon I, Emperor of the French, 1769-1821</term>
+               <term>Italy -- Biography.</term>
+               <term>Bettoni, Nicolò  http://id.worldcat.org//00037091</term>
+               <term>Napoleon I, Emperor of the French, 1769-1821</term>
+               <term>Italy.</term>
+               <term>CT1125 .V5</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json"
+             url="https://media.getty.edu/iiif/manifest/4c78ae06-1e79-4569-b2b8-cb30174892f8">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+   <facsimile>
+      <media mimeType="application/json"
+             url="https://media.getty.edu/iiif/manifest/520c1265-c773-4ccb-a3d1-18a845ea7d45">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>

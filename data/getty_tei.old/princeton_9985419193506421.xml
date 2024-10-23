@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:dcterms="http://purl.org/dc/terms/"
+     xmlns:gettyterms="http://portal.getty.edu/terms/gri/"
+     xmlns:local="http://library.princeton.edu"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Monumens antiques, ou, Collection choisie d'anciens bas-reliefs et fragmens egiptiens, grecs, romains, et etrusques [microform] : representant les cérémonies religieuses, sacrifices ... : ouvrage qui contient deux cents planches avec leur explication en abrégé / la plûpart dessinées et gravées par M. Barbault ...</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <authority>Leopoldo Cicognara Program (University of Illinois at Urbana-Champaign)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985419193506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/sv7k49</idno>
+            <idno type="cico">3594</idno>
+            <idno type="dcl">7sd</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Monumens antiques, ou, Collection choisie d'anciens bas-reliefs et fragmens egiptiens, grecs, romains, et etrusques [microform] : representant les cérémonies religieuses, sacrifices ... : ouvrage qui contient deux cents planches avec leur explication en abrégé / la plûpart dessinées et gravées par M. Barbault ...</title>
+                  <respStmt>
+                     <persName>Barbault, Jean, approximately 1705-1766.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>French</textLang>
+                  <imprint>
+                     <publisher>A Rome : Chez Bouchard et Gravier</publisher>
+                     <date>1783</date>
+                  </imprint>
+                  <extent>15 p., 94 leaves of plates</extent>
+                  <extent>9 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest"
+                            target="https://figgy.princeton.edu/concern/scanned_resources/cb83727a-14f0-4f4a-bbd2-16c2a015dc4a/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Bas-relief.</term>
+               <term>Sculpture, Ancient.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json"
+             url="https://figgy.princeton.edu/concern/scanned_resources/cb83727a-14f0-4f4a-bbd2-16c2a015dc4a/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>

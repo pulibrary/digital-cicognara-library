@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:dcterms="http://purl.org/dc/terms/"
+     xmlns:gettyterms="http://portal.getty.edu/terms/gri/"
+     xmlns:local="http://library.princeton.edu"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Bibliotheque des artistes et des amateurs, ou, Tablettes analytiques et méthodiques sur les sciences et les beaux arts .. [microform] : ouvrage utile à l'instruction de la jeunesse, à l'usage des personnes de tous âge &amp; de tout état, ornè de cartes &amp; d'estampes en taille douce : avec une table raisonnée des auteurs sur l'usage &amp; le choix des livres / par l'Abbé de Petity ...</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985247353506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/j3727t</idno>
+            <idno type="cico">47</idno>
+            <idno type="dcl">55q</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Bibliotheque des artistes et des amateurs, ou, Tablettes analytiques et méthodiques sur les sciences et les beaux arts .. [microform] : ouvrage utile à l'instruction de la jeunesse, à l'usage des personnes de tous âge &amp; de tout état, ornè de cartes &amp; d'estampes en taille douce : avec une table raisonnée des auteurs sur l'usage &amp; le choix des livres / par l'Abbé de Petity ...</title>
+                  <respStmt>
+                     <persName>Petity, Jean Raymond de, 1724?-1780.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>French</textLang>
+                  <imprint>
+                     <publisher>A Paris : Chez P.G. Simon</publisher>
+                     <date>1766</date>
+                  </imprint>
+                  <extent>2 v. in 3</extent>
+                  <extent>31 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest"
+                            target="https://figgy.princeton.edu/concern/scanned_resources/7dd0e0a3-6b70-4a13-9894-84cb2e8194a5/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Education.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json"
+             url="https://figgy.princeton.edu/concern/scanned_resources/7dd0e0a3-6b70-4a13-9894-84cb2e8194a5/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>

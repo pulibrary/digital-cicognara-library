@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:dcterms="http://purl.org/dc/terms/"
+     xmlns:gettyterms="http://portal.getty.edu/terms/gri/"
+     xmlns:local="http://library.princeton.edu"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Dell'antichità tiburtine. Capitolo V / diviso in due parti dal dottore Antonio Del Re tiburtino ; nel quale si descriuono le merauiglie del palazzo e giardino della serenissima fameglia d'Este &amp; loro fontane et statue, ed dechiaratione dell'historie, ò fauole di esse nella prima parte ; nella seconda si pone un ristretto de gli edifitij della superba villa d'Adriano imperatore, raccolto dalla descrittione lasciata scritta a penna da Pirro Ligorio ; et poi si soggiongono le ville, ch'in Tiuoli &amp; suo territorio haueuano Caio Cesare, Siface Rè di Numidia, Zenobia Regina di Palmireni, &amp; altri ; si aggionge nel fine vna difesa dell'acque del fiume Aniene, detto Teuerone ; con tre indici ...</title>
+            <respStmt>
+               <orgName>Getty Research Institute</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Ligorio, Pirro, approximately 1513-1583</authority>
+            <authority>Mascardi, Giacomo, active 1605-1634, printer.</authority>
+            <idno type="URI">http://portal.getty.edu/books/gri_9929688480001551</idno>
+            <idno type="URI">http://portal.getty.edu/api/833t9r</idno>
+            <idno>(OCoLC)84393929</idno>
+            <idno type="cico">3853-1</idno>
+            <idno type="dcl">vwd</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Dell'antichità tiburtine. Capitolo V / diviso in due parti dal dottore Antonio Del Re tiburtino ; nel quale si descriuono le merauiglie del palazzo e giardino della serenissima fameglia d'Este &amp; loro fontane et statue, ed dechiaratione dell'historie, ò fauole di esse nella prima parte ; nella seconda si pone un ristretto de gli edifitij della superba villa d'Adriano imperatore, raccolto dalla descrittione lasciata scritta a penna da Pirro Ligorio ; et poi si soggiongono le ville, ch'in Tiuoli &amp; suo territorio haueuano Caio Cesare, Siface Rè di Numidia, Zenobia Regina di Palmireni, &amp; altri ; si aggionge nel fine vna difesa dell'acque del fiume Aniene, detto Teuerone ; con tre indici ...</title>
+                  <respStmt>
+                     <persName>Re, Antonio del, active 16th century-17th century</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>In Roma : Appresso Giacomo Mascardi</publisher>
+                     <pubPlace>Italy</pubPlace>
+                     <pubPlace>Aniene River (Italy)</pubPlace>
+                     <pubPlace>Italy Rome.</pubPlace>
+                     <date>MDCXI [1611]</date>
+                     <date>1611</date>
+                  </imprint>
+                  <extent>[8], 146, [10] p.</extent>
+               </monogr>
+               <relatedItem type="manifest"
+                            target="https://media.getty.edu/iiif/manifest/7aa749a9-0e51-418d-aa5b-dd6fbbe0288a"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>D'Este family -- Homes and haunts.</term>
+               <term>Hadrian's Villa (Tivoli, Italy)</term>
+               <term>Hadrian's Villa (Tivoli, Italy)</term>
+               <term>Architecture, Domestic -- Italy -- Tivoli -- Early works to 1800.</term>
+               <term>Aniene River (Italy) -- Early works to 1800.</term>
+               <term>Architecture, Domestic.</term>
+               <term>Homes.</term>
+               <term>Italy -- Aniene River.</term>
+               <term>Italy -- Tivoli.</term>
+               <term>DG975.T6 D45 1611</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json"
+             url="https://media.getty.edu/iiif/manifest/7aa749a9-0e51-418d-aa5b-dd6fbbe0288a">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>

@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:dcterms="http://purl.org/dc/terms/"
+     xmlns:gettyterms="http://portal.getty.edu/terms/gri/"
+     xmlns:local="http://library.princeton.edu"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Dizionario portatile delle belle arti [microform] : ovvero ristretto di ciò, che spetta all'architettura, alla scultura, alla pittura, all'intaglio, alla poesia, ed alla musica ... insieme con i nomi, la data della nascita, e della morte, le più rivelanti circostanze della vita, ed il genere particolare di talento delle persone, che si sono segnalate in queste differenti arti, presso gli antichi, e fra i moderni, in Francia, e ne' paesi stranieri / per M. Lacombe ; trasportato dalla franzese nella lingua toscana.</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985343423506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/031j5v</idno>
+            <idno type="cico">2163</idno>
+            <idno type="dcl">nc4</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Dizionario portatile delle belle arti [microform] : ovvero ristretto di ciò, che spetta all'architettura, alla scultura, alla pittura, all'intaglio, alla poesia, ed alla musica ... insieme con i nomi, la data della nascita, e della morte, le più rivelanti circostanze della vita, ed il genere particolare di talento delle persone, che si sono segnalate in queste differenti arti, presso gli antichi, e fra i moderni, in Francia, e ne' paesi stranieri / per M. Lacombe ; trasportato dalla franzese nella lingua toscana.</title>
+                  <respStmt>
+                     <persName>Lacombe, Jacques, 1724-1811.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>In Bassano : A spese Remondini di Venezia</publisher>
+                     <date>1781</date>
+                  </imprint>
+                  <extent>390 p.</extent>
+                  <extent>6 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest"
+                            target="https://figgy.princeton.edu/concern/scanned_resources/bdd7ca13-79a4-4e96-a74b-9853cec237a1/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Art -- Dictionaries -- Italian -- Early works to 1800.</term>
+               <term>Literature -- Dictionaries -- Italian -- Early works to 1800.</term>
+               <term>Music -- Dictionaries -- Italian -- Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json"
+             url="https://figgy.princeton.edu/concern/scanned_resources/bdd7ca13-79a4-4e96-a74b-9853cec237a1/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:dcterms="http://purl.org/dc/terms/"
+     xmlns:gettyterms="http://portal.getty.edu/terms/gri/"
+     xmlns:local="http://library.princeton.edu"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Il premio tra gli applausi del Campidoglio per l'Accademia del disegno celebrata il dì 7. maggio 1705. : presedendo il cavalier Carlo Maratti, celebre dipintore / descritto da Giuseppe Ghezzi, pittore, e segretario accademico.</title>
+            <respStmt>
+               <orgName>National Gallery of Art Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Nappini, Bartolomeo, 1637-1717.</authority>
+            <authority>Gozzadini, Ulisse Giuseppe, 1650-1728.</authority>
+            <authority>Frezza, Giovanni Girolamo, 1659-1743.</authority>
+            <authority>Accademia di San Luca.</authority>
+            <idno type="URI">http://portal.getty.edu/books/nga_99933083504896</idno>
+            <idno type="URI">http://portal.getty.edu/api/zt1m3s</idno>
+            <idno>(OCoLC)312644785</idno>
+            <idno type="cico">1307</idno>
+            <idno type="dcl">85s</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Il premio tra gli applausi del Campidoglio per l'Accademia del disegno celebrata il dì 7. maggio 1705. : presedendo il cavalier Carlo Maratti, celebre dipintore / descritto da Giuseppe Ghezzi, pittore, e segretario accademico.</title>
+                  <respStmt>
+                     <persName>Ghezzi, Giuseppe, 1634-1721.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>In Roma : Nella nuova stamparia di Gaetano degli Zenobi</publisher>
+                     <date>[1705]</date>
+                     <date>1705</date>
+                  </imprint>
+                  <extent>79 p., [1] leaf of plates</extent>
+               </monogr>
+               <relatedItem type="manifest"
+                            target="https://libraryimage.nga.gov/manifest/mms/99933083504896.json"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Accademia di San Luca.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json"
+             url="https://libraryimage.nga.gov/manifest/mms/99933083504896.json">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>

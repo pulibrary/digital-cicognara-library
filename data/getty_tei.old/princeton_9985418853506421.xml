@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:dcterms="http://purl.org/dc/terms/"
+     xmlns:gettyterms="http://portal.getty.edu/terms/gri/"
+     xmlns:local="http://library.princeton.edu"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A description of the antiquities and curiosities in Wilton-House [microform] : illustrated with twenty-five engravings of some of the capital statues, bustos and relievos : in this work are introduced the anecdotes and remarks of Thomas, Earl of Pembroke, who collected these antiques, now first published from His Lordship's mss. / by James Kennedy.</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <authority>Leopoldo Cicognara Program (University of Illinois at Urbana-Champaign)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985418853506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/q31z4w</idno>
+            <idno type="cico">3519</idno>
+            <idno type="dcl">108</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>A description of the antiquities and curiosities in Wilton-House [microform] : illustrated with twenty-five engravings of some of the capital statues, bustos and relievos : in this work are introduced the anecdotes and remarks of Thomas, Earl of Pembroke, who collected these antiques, now first published from His Lordship's mss. / by James Kennedy.</title>
+                  <respStmt>
+                     <persName>Kennedy, James, active 1769.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>English</textLang>
+                  <imprint>
+                     <publisher>Salisbury : Printed by E. Easton and sold by R. Horsfield ... [etc.]</publisher>
+                     <pubPlace>England</pubPlace>
+                     <date>1769</date>
+                  </imprint>
+                  <extent>[6], xxxviii, 93 [i.e. 117] p.</extent>
+                  <extent>3 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest"
+                            target="https://figgy.princeton.edu/concern/scanned_resources/5ca8f28a-9a94-4bf2-a8ee-1a3a6bae0d6c/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Pembroke, Thomas Herbert, Earl of, 1656-1733 -- Art collections.</term>
+               <term>Wilton House (England)</term>
+               <term>Art -- England -- Wiltshire.</term>
+               <term>Private collections -- England -- Wiltshire.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json"
+             url="https://figgy.princeton.edu/concern/scanned_resources/5ca8f28a-9a94-4bf2-a8ee-1a3a6bae0d6c/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>

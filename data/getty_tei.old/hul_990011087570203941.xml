@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:dcterms="http://purl.org/dc/terms/"
+     xmlns:gettyterms="http://portal.getty.edu/terms/gri/"
+     xmlns:local="http://library.princeton.edu"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Osservazioni sopra Andrea Palladio.</title>
+            <respStmt>
+               <orgName>Harvard Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <idno type="URI">http://portal.getty.edu/books/hul_990011087570203941</idno>
+            <idno type="URI">http://portal.getty.edu/api/bt1j89</idno>
+            <idno>(OCoLC)229476649</idno>
+            <idno type="cico">2360</idno>
+            <idno type="dcl">52z</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Osservazioni sopra Andrea Palladio.</title>
+                  <respStmt>
+                     <persName>Rigato, Andrea, author.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>Padova : Nel Seminario</publisher>
+                     <pubPlace>Italy Padua.</pubPlace>
+                     <date>MDCCCXI [1811]</date>
+                     <date>1811</date>
+                  </imprint>
+                  <extent>73 pages, 1 unnumbered page</extent>
+               </monogr>
+               <relatedItem type="manifest"
+                            target="https://iiif.lib.harvard.edu/manifests/drs:481518869"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Palladio, Andrea, 1508-1580.</term>
+               <term>Palladio, Andrea, 1508-1580</term>
+               <term>Palladio, Andrea.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json"
+             url="https://iiif.lib.harvard.edu/manifests/drs:481518869">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:dcterms="http://purl.org/dc/terms/"
+     xmlns:gettyterms="http://portal.getty.edu/terms/gri/"
+     xmlns:local="http://library.princeton.edu"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An historical essay on the dress of the ancient and modern Irish [microform] : addressed to the Right Honourable the Earl of Charlemont : to which is subjoined a memoir on the armour and the weapons of the Irish / by Joseph C. Cooper.</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <authority>Leopoldo Cicognara Program (University of Illinois at Urbana-Champaign)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985336113506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/sm0s88</idno>
+            <idno type="cico">1824</idno>
+            <idno type="dcl">mnn</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>An historical essay on the dress of the ancient and modern Irish [microform] : addressed to the Right Honourable the Earl of Charlemont : to which is subjoined a memoir on the armour and the weapons of the Irish / by Joseph C. Cooper.</title>
+                  <respStmt>
+                     <persName>Walker, Joseph C. (Joseph Cooper), -1810.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>English</textLang>
+                  <imprint>
+                     <publisher>Dublin : Printed for the author by George Grierson</publisher>
+                     <pubPlace>Ireland</pubPlace>
+                     <date>1788</date>
+                  </imprint>
+                  <extent>vii, 180 p.</extent>
+                  <extent>4 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest"
+                            target="https://figgy.princeton.edu/concern/scanned_resources/0722c957-7620-4f70-82b8-cec83993a271/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Armor -- Ireland -- Early works to 1800.</term>
+               <term>Costume -- Ireland -- Early works to 1800.</term>
+               <term>Weapons -- Ireland -- Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json"
+             url="https://figgy.princeton.edu/concern/scanned_resources/0722c957-7620-4f70-82b8-cec83993a271/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>

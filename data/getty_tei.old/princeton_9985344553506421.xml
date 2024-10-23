@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:dcterms="http://purl.org/dc/terms/"
+     xmlns:gettyterms="http://portal.getty.edu/terms/gri/"
+     xmlns:local="http://library.princeton.edu"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Vie et pontificat de Léon X [microform] / par William Roscoe ... ; ouvrage traduit de l'anglais par P. F. Henry et orné du portrait de Léon X et de medailles. ...</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Henry, Pierre François, 1759-1833.</authority>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985344553506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/179f8v</idno>
+            <idno type="URI">http://portal.getty.edu/api/wp4x37</idno>
+            <idno type="URI">http://portal.getty.edu/api/c81n55</idno>
+            <idno type="URI">http://portal.getty.edu/api/t64f3c</idno>
+            <idno type="URI">http://portal.getty.edu/api/4t1b4d</idno>
+            <idno type="URI">http://portal.getty.edu/api/4w1q37</idno>
+            <idno type="URI">http://portal.getty.edu/api/rq7d03</idno>
+            <idno type="URI">http://portal.getty.edu/api/wx027b</idno>
+            <idno type="URI">http://portal.getty.edu/api/6m0f5c</idno>
+            <idno type="cico">2365</idno>
+            <idno type="dcl">c5p</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Vie et pontificat de Léon X [microform] / par William Roscoe ... ; ouvrage traduit de l'anglais par P. F. Henry et orné du portrait de Léon X et de medailles. ...</title>
+                  <respStmt>
+                     <persName>Roscoe, William, 1753-1831.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>French</textLang>
+                  <imprint>
+                     <publisher>Paris : Chez Le Normant</publisher>
+                     <date>1808</date>
+                  </imprint>
+                  <extent>4 v.</extent>
+                  <extent>34 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest"
+                            target="https://figgy.princeton.edu/concern/scanned_resources/d213272b-0fc7-44c1-ae27-991885b55b74/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Leo X, Pope, 1475-1521.</term>
+               <term>Popes -- Biography.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json"
+             url="https://figgy.princeton.edu/concern/scanned_resources/d213272b-0fc7-44c1-ae27-991885b55b74/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>

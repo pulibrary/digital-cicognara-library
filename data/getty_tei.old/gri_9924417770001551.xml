@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:dcterms="http://purl.org/dc/terms/"
+     xmlns:gettyterms="http://portal.getty.edu/terms/gri/"
+     xmlns:local="http://library.princeton.edu"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>La gierusalemme liberata di Torquato Tasso / con le figure di Bernardo Castello ; e le annotationi di Scipio Gentili, e di Giulio Guastauini.</title>
+            <respStmt>
+               <orgName>Getty Research Institute</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Gentili, Scipione, 1563-1616</authority>
+            <authority>Guastavini, Giulio, active 16th century</authority>
+            <authority>Carracci, Agostino, 1557-1602, engraver.</authority>
+            <authority>Franco, Giacomo, 1550-1620, engraver.</authority>
+            <idno type="URI">http://portal.getty.edu/books/gri_9924417770001551</idno>
+            <idno type="URI">http://portal.getty.edu/api/92529d</idno>
+            <idno>(OCoLC)21602866</idno>
+            <idno type="cico">1112</idno>
+            <idno type="dcl">8zs</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>La gierusalemme liberata di Torquato Tasso / con le figure di Bernardo Castello ; e le annotationi di Scipio Gentili, e di Giulio Guastauini.</title>
+                  <respStmt>
+                     <persName>Tasso, Torquato, 1544-1595</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>In Genoua : Appresso Girolamo Bartoli</publisher>
+                     <pubPlace>Geneva</pubPlace>
+                     <date>1590</date>
+                  </imprint>
+                  <extent>10, 255, 71, [1], 40, [8] pages</extent>
+               </monogr>
+               <relatedItem type="manifest"
+                            target="https://media.getty.edu/iiif/manifest/7499ca4d-0564-473d-a2d8-e7a2a0d7ceae"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Geneva -- Imprints -- 16th century -- Specimens.</term>
+               <term>PQ4638 1590</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json"
+             url="https://media.getty.edu/iiif/manifest/7499ca4d-0564-473d-a2d8-e7a2a0d7ceae">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>

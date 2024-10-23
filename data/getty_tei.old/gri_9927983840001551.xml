@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:dcterms="http://purl.org/dc/terms/"
+     xmlns:gettyterms="http://portal.getty.edu/terms/gri/"
+     xmlns:local="http://library.princeton.edu"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Opere / del consigliere Gian Lodovico Bianconi.</title>
+            <respStmt>
+               <orgName>Getty Research Institute</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <idno type="URI">http://portal.getty.edu/books/gri_9927983840001551</idno>
+            <idno type="URI">http://portal.getty.edu/api/z51p59</idno>
+            <idno type="URI">http://portal.getty.edu/api/dj4g6z</idno>
+            <idno type="URI">http://portal.getty.edu/api/w83d54</idno>
+            <idno type="URI">http://portal.getty.edu/api/n6352b</idno>
+            <idno>(OCoLC)81604018</idno>
+            <idno type="cico">9</idno>
+            <idno type="dcl">fwk</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Opere / del consigliere Gian Lodovico Bianconi.</title>
+                  <respStmt>
+                     <persName>Bianconi, Giovanni Lodovico, Graf, 1717-1781</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>Milano : Nella Tip. de' classici italiani</publisher>
+                     <pubPlace>Germany</pubPlace>
+                     <pubPlace>Pisa (Italy)</pubPlace>
+                     <pubPlace>Florence (Italy)</pubPlace>
+                     <pubPlace>Germany.</pubPlace>
+                     <pubPlace>Italy</pubPlace>
+                     <date>1802</date>
+                  </imprint>
+                  <extent>4 volumes</extent>
+               </monogr>
+               <relatedItem type="manifest"
+                            target="https://media.getty.edu/iiif/manifest/7fef2239-2bc5-48e4-a9cb-937b8987b7d0https://media.getty.edu/iiif/manifest/035d81f6-66e5-4c33-af53-b06374a5777fhttps://media.getty.edu/iiif/manifest/1935c5fb-6851-418d-a8e5-1a90b0e24ce0https://media.getty.edu/iiif/manifest/b631b170-7057-486f-a6e0-707ade2adac0"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Hercolani, Filippo, marchese.</term>
+               <term>Piranesi, Giovanni Battista, 1720-1778</term>
+               <term>Mengs, Anton Raphael, 1728-1779</term>
+               <term>Crespi, Luigi, 1709-1779. Felsina pittrice.</term>
+               <term>Mengs, Anton Raphael, 1728-1779</term>
+               <term>Piranesi, Giovanni Battista, 1720-1778</term>
+               <term>Germany -- Description and travel.</term>
+               <term>Pisa (Italy) -- Description and travel.</term>
+               <term>Florence (Italy) -- Description and travel.</term>
+               <term>Travel.</term>
+               <term>Germany.</term>
+               <term>Italy -- Florence.</term>
+               <term>Italy -- Pisa.</term>
+               <term>N7445.5 .B53</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json"
+             url="https://media.getty.edu/iiif/manifest/7fef2239-2bc5-48e4-a9cb-937b8987b7d0">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+   <facsimile>
+      <media mimeType="application/json"
+             url="https://media.getty.edu/iiif/manifest/035d81f6-66e5-4c33-af53-b06374a5777f">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+   <facsimile>
+      <media mimeType="application/json"
+             url="https://media.getty.edu/iiif/manifest/1935c5fb-6851-418d-a8e5-1a90b0e24ce0">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+   <facsimile>
+      <media mimeType="application/json"
+             url="https://media.getty.edu/iiif/manifest/b631b170-7057-486f-a6e0-707ade2adac0">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>

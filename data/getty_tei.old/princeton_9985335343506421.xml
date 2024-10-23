@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:dcterms="http://purl.org/dc/terms/"
+     xmlns:gettyterms="http://portal.getty.edu/terms/gri/"
+     xmlns:local="http://library.princeton.edu"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Laurentii Pignorii patauini De seruis, et eorum apud veteres ministeriis commentarius [microform] : in quo familia, tum urbana, tum rustica ordine producitur et illustratur.</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Velser, Anton. Ad Hieronymum Fabrum medicum, de zeta et zetario, sive diaeta et diaetario, epistola.</authority>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985335343506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/802z5c</idno>
+            <idno type="cico">1759</idno>
+            <idno type="dcl">7s2</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Laurentii Pignorii patauini De seruis, et eorum apud veteres ministeriis commentarius [microform] : in quo familia, tum urbana, tum rustica ordine producitur et illustratur.</title>
+                  <respStmt>
+                     <persName>Pignoria, Lorenzo, 1571-1631.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Latin</textLang>
+                  <imprint>
+                     <publisher>Augustae Vindelicorum : Ad insigne pinus</publisher>
+                     <pubPlace>Slavery</pubPlace>
+                     <date>Anno 1613</date>
+                     <date>1613</date>
+                  </imprint>
+                  <extent>280 p.</extent>
+                  <extent>5 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest"
+                            target="https://figgy.princeton.edu/concern/scanned_resources/c22324b5-befc-43bf-ad7e-bee60e046e1a/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Slavery -- Italy -- Rome -- Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json"
+             url="https://figgy.princeton.edu/concern/scanned_resources/c22324b5-befc-43bf-ad7e-bee60e046e1a/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>

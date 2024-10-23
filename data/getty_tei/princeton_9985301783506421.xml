@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:dcterms="http://purl.org/dc/terms/"
+     xmlns:gettyterms="http://portal.getty.edu/terms/gri/"
+     xmlns:local="http://library.princeton.edu"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>In lode delle belle arti [microform] : orazione e componimenti poetici : relazione del concorso e de' premi distribuiti in Campidoglio dall'insigne accademia del disegno in S. Luca il di 24 novembre 1768 per nuova istituzione del nobil uomo Carlo Pio Balestra : essendo principe dell'accademia il signor Andrea Bergondi ...</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Todeschi, Claudio.</authority>
+            <authority>Accademia di San Luca.</authority>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <authority>Leopoldo Cicognara Program (University of Illinois at Urbana-Champaign)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985301783506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/gf7j09</idno>
+            <idno type="cico">1307</idno>
+            <idno type="dcl">tjm</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>In lode delle belle arti [microform] : orazione e componimenti poetici : relazione del concorso e de' premi distribuiti in Campidoglio dall'insigne accademia del disegno in S. Luca il di 24 novembre 1768 per nuova istituzione del nobil uomo Carlo Pio Balestra : essendo principe dell'accademia il signor Andrea Bergondi ...</title>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>In Roma : Per il Casaletti</publisher>
+                     <date>[1768]</date>
+                     <date>1768</date>
+                  </imprint>
+                  <extent>80 p.</extent>
+                  <extent>2 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest"
+                            target="https://figgy.princeton.edu/concern/scanned_resources/f4393b56-ce6b-4404-bf23-3e0d89addc2c/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Accademia di San Luca.</term>
+               <term>Art -- Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json"
+             url="https://figgy.princeton.edu/concern/scanned_resources/f4393b56-ce6b-4404-bf23-3e0d89addc2c/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>

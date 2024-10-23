@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:dcterms="http://purl.org/dc/terms/"
+     xmlns:gettyterms="http://portal.getty.edu/terms/gri/"
+     xmlns:local="http://library.princeton.edu"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Notizia generale dè teatri della città di Venezia [microform] : scritta l'anno MDCCLXVI / da Antonio Groppo ... ; coll'aggiunta d'un ragionamento sopra la forma, e la struttura del teatro antico, in cui si esaminano la stiuazione le proporzioni e gli use di tutte le sue parti del Sig. Boindin e pianta in rame del teatro greco e romano ; ragionamento tratto da'registri della Reale accademia delle inscrizioni e belle lettere di Parigi.</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Boindin, Nicolas, 1676-1751.</authority>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <authority>Leopoldo Cicognara Program (University of Illinois at Urbana-Champaign)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985412033506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/fc7w8p</idno>
+            <idno type="cico">3233</idno>
+            <idno type="dcl">hgd</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Notizia generale dè teatri della città di Venezia [microform] : scritta l'anno MDCCLXVI / da Antonio Groppo ... ; coll'aggiunta d'un ragionamento sopra la forma, e la struttura del teatro antico, in cui si esaminano la stiuazione le proporzioni e gli use di tutte le sue parti del Sig. Boindin e pianta in rame del teatro greco e romano ; ragionamento tratto da'registri della Reale accademia delle inscrizioni e belle lettere di Parigi.</title>
+                  <respStmt>
+                     <persName>Groppo, Antonio.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>In Venezia : Appresso Pietro Savioni</publisher>
+                     <date>1766</date>
+                  </imprint>
+                  <extent>16 p.</extent>
+                  <extent>1 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest"
+                            target="https://figgy.princeton.edu/concern/scanned_resources/52d4a604-351a-4ae7-8084-7ea99a047dec/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords/>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json"
+             url="https://figgy.princeton.edu/concern/scanned_resources/52d4a604-351a-4ae7-8084-7ea99a047dec/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>

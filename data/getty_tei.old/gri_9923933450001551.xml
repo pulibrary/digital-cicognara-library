@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:dcterms="http://purl.org/dc/terms/"
+     xmlns:gettyterms="http://portal.getty.edu/terms/gri/"
+     xmlns:local="http://library.princeton.edu"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Illustri fatti farnesiani coloriti nel Real palazzo di Caprarola, dai fratelli Taddeo, Federico e Ottaviano Zuccari ... e per impulso dell'eminentiss. e reverendiss. sig. cardinale Trojano d'Acquaviva d'Aragona; disegnati e coll'acqua forte incisi in rame da Giogio Gasparo de Prenner.</title>
+            <respStmt>
+               <orgName>Getty Research Institute</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Zuccaro, Ottaviano, approximately 1505-</authority>
+            <authority>Zuccaro, Federico, approximately 1540-1609</authority>
+            <authority>Zuccaro, Taddeo, 1529-1566</authority>
+            <authority>Vasi, Giuseppe, 1710-1782, engraver.</authority>
+            <idno type="URI">http://portal.getty.edu/books/gri_9923933450001551</idno>
+            <idno type="URI">http://portal.getty.edu/api/nh852t</idno>
+            <idno>(OCoLC)84412859</idno>
+            <idno type="cico">3443</idno>
+            <idno type="cico">3473</idno>
+            <idno type="dcl">107</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Illustri fatti farnesiani coloriti nel Real palazzo di Caprarola, dai fratelli Taddeo, Federico e Ottaviano Zuccari ... e per impulso dell'eminentiss. e reverendiss. sig. cardinale Trojano d'Acquaviva d'Aragona; disegnati e coll'acqua forte incisi in rame da Giogio Gasparo de Prenner.</title>
+                  <respStmt>
+                     <persName>Prenner, Georg Kaspar, approximately 1720-1766</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>Roma</publisher>
+                     <pubPlace>Italy</pubPlace>
+                     <date>1748</date>
+                  </imprint>
+                  <extent>3 unnumbered pages</extent>
+               </monogr>
+               <relatedItem type="manifest"
+                            target="https://media.getty.edu/iiif/manifest/e1642b31-bc84-44a5-b419-4600454119b0"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Palazzo Farnese (Caprarola, Italy) -- Pictorial works.</term>
+               <term>Farnese family -- Art collections.</term>
+               <term>Mural painting and decoration, Renaissance -- Italy -- Caprarola -- Pictorial works.</term>
+               <term>Mural painting and decoration, Italian -- Italy -- Caprarola -- 16th century -- Pictorial works.</term>
+               <term>Farnese family</term>
+               <term>Zuccari family</term>
+               <term>Palazzo Farnese (Caprarola, Italy)</term>
+               <term>ND623.Z94 P92 1748</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json"
+             url="https://media.getty.edu/iiif/manifest/e1642b31-bc84-44a5-b419-4600454119b0">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>

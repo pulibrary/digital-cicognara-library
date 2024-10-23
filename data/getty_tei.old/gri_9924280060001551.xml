@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:dcterms="http://purl.org/dc/terms/"
+     xmlns:gettyterms="http://portal.getty.edu/terms/gri/"
+     xmlns:local="http://library.princeton.edu"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Il primo[-secondo] libro d'architettura / di M. Sabastiano Serlio, Bolognese.</title>
+            <respStmt>
+               <orgName>Getty Research Institute</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Nicolini da Sabbio, Cornelio, active 1546-1560, bookseller.</authority>
+            <authority>Sessa, Melchiorre, active 1546-1600, printer.</authority>
+            <idno type="URI">http://portal.getty.edu/books/gri_9924280060001551</idno>
+            <idno type="URI">http://portal.getty.edu/api/347m83</idno>
+            <idno>(OCoLC)81501814</idno>
+            <idno type="cico">664-1</idno>
+            <idno type="dcl">jzv</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Il primo[-secondo] libro d'architettura / di M. Sabastiano Serlio, Bolognese.</title>
+                  <respStmt>
+                     <persName>Serlio, Sebastiano, 1475-1554.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>In Vinetia : Per Cornelio de Nicolini da Sabbio a instantia de Marchio Sessa</publisher>
+                     <pubPlace>Italy Venice.</pubPlace>
+                     <date>[1551?]</date>
+                     <date>1551</date>
+                  </imprint>
+                  <extent>2 v. in 1 (16, 31, [1] leaves)</extent>
+               </monogr>
+               <relatedItem type="manifest"
+                            target="https://media.getty.edu/iiif/manifest/3a4cc3a6-608a-4fd5-a43c-732561d3bf0d"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Geometry.</term>
+               <term>Perspective.</term>
+               <term>Architecture.</term>
+               <term>Architecture</term>
+               <term>Geometry.</term>
+               <term>Perspective.</term>
+               <term>NA2515 .S48 1551</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json"
+             url="https://media.getty.edu/iiif/manifest/3a4cc3a6-608a-4fd5-a43c-732561d3bf0d">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>

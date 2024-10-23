@@ -8,7 +8,8 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Conferences de l'Academie royale de peinture et de sculpture, pendant l'année 1667.</title>
+            <title>Conferences de l'Academie royale de peinture et de sculpture, pendant
+            l'année 1667.</title>
             <respStmt>
                <orgName>Getty Research Institute</orgName>
                <resp>contributor</resp>
@@ -30,12 +31,12 @@
          <sourceDesc>
             <biblStruct>
                <monogr>
-                  <title>Conferences de l'Academie royale de peinture et de sculpture, pendant l'année 1667.</title>
+                  <title>Conferences de l'Academie royale de peinture et de sculpture, pendant
+            l'année 1667.</title>
                   <respStmt>
                      <persName>Académie royale de peinture et de sculpture (France)</persName>
                      <resp>creator</resp>
                   </respStmt>
-                  <textLang>French</textLang>
                   <imprint>
                      <publisher>A Paris : Chez Frederic Leonard</publisher>
                      <pubPlace>France Paris.</pubPlace>

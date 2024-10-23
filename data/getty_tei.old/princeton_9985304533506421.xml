@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:dcterms="http://purl.org/dc/terms/"
+     xmlns:gettyterms="http://portal.getty.edu/terms/gri/"
+     xmlns:local="http://library.princeton.edu"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Lazari Bayfii annotationes in L.II [microform] : De captiuis, et postliminio reuersis. in quibus tractatur de re navali : eiusdem annotationes in tractatum de auro &amp; arge[n]to leg. quibus, vestimentoru[m], &amp; vasculorum genera explicantur ; Antonii Thylesii de coloribus libellus, à coloribus vestium non alienus.</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Telesio, Antonio, 1482-1533?</authority>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985304533506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/53655f</idno>
+            <idno type="cico">1579</idno>
+            <idno type="dcl">38q</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Lazari Bayfii annotationes in L.II [microform] : De captiuis, et postliminio reuersis. in quibus tractatur de re navali : eiusdem annotationes in tractatum de auro &amp; arge[n]to leg. quibus, vestimentoru[m], &amp; vasculorum genera explicantur ; Antonii Thylesii de coloribus libellus, à coloribus vestium non alienus.</title>
+                  <respStmt>
+                     <persName>Baïf, Lazare de, 1496?-1547.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Latin</textLang>
+                  <textLang>Greek, Ancient (to 1453)</textLang>
+                  <imprint>
+                     <publisher>Parisiis : Ex officina Rob. Stephani</publisher>
+                     <date>1536</date>
+                  </imprint>
+                  <extent>[8], 168, [8], 203, [13] p.</extent>
+                  <extent>6 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest"
+                            target="https://figgy.princeton.edu/concern/scanned_resources/2e85aef2-616d-4205-8820-58c844e5a81b/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Colors -- Early works to 1800.</term>
+               <term>Costume -- Early works to 1800.</term>
+               <term>Naval art and science -- History -- Early works to 1800.</term>
+               <term>Vases -- Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json"
+             url="https://figgy.princeton.edu/concern/scanned_resources/2e85aef2-616d-4205-8820-58c844e5a81b/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>

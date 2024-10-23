@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:dcterms="http://purl.org/dc/terms/"
+     xmlns:gettyterms="http://portal.getty.edu/terms/gri/"
+     xmlns:local="http://library.princeton.edu"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Relazione delle feste fatte in Fiorenza sopra il ghiaccio del fivme d'Arno l'vltimo di di [sic] dicembre MDCIV.</title>
+            <respStmt>
+               <orgName>Getty Research Institute</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <idno type="URI">http://portal.getty.edu/books/gri_9926352820001551</idno>
+            <idno type="URI">http://portal.getty.edu/api/9f9r5w</idno>
+            <idno>(OCoLC)21722639</idno>
+            <idno type="cico">1410</idno>
+            <idno type="dcl">psk</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Relazione delle feste fatte in Fiorenza sopra il ghiaccio del fivme d'Arno l'vltimo di di [sic] dicembre MDCIV.</title>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>In Fiorenza : Ristampata Appresso Antonio Giuducci</publisher>
+                     <pubPlace>Italy</pubPlace>
+                     <pubPlace>Italy.</pubPlace>
+                     <pubPlace>Arno River (Italy)</pubPlace>
+                     <pubPlace>Florence (Italy)</pubPlace>
+                     <date>[1604?]</date>
+                     <date>1604</date>
+                  </imprint>
+                  <extent>8 unnumbered pages</extent>
+               </monogr>
+               <relatedItem type="manifest"
+                            target="https://media.getty.edu/iiif/manifest/6e7b6448-181f-4aea-ae9a-68fcf461cfe8"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Winter festivals -- Italy -- Florence.</term>
+               <term>Ice on rivers, lakes, etc. -- Italy.</term>
+               <term>Arno River (Italy)</term>
+               <term>Florence (Italy) -- Social life and customs.</term>
+               <term>Ice on rivers, lakes, etc.</term>
+               <term>Italy.</term>
+               <term>Italy -- Arno River.</term>
+               <term>Italy -- Florence.</term>
+               <term>GT4503.51 .R45 1604</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json"
+             url="https://media.getty.edu/iiif/manifest/6e7b6448-181f-4aea-ae9a-68fcf461cfe8">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>

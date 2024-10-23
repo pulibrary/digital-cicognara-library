@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:dcterms="http://purl.org/dc/terms/"
+     xmlns:gettyterms="http://portal.getty.edu/terms/gri/"
+     xmlns:local="http://library.princeton.edu"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Del Museo capitolino.</title>
+            <respStmt>
+               <orgName>Getty Research Institute</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Bottari, Giovanni Gaetano, 1689-1775</authority>
+            <authority>Foggini, N. (Nicolao)</authority>
+            <authority>Rossi, Antonio de, active 17th century-18th century, printer.</authority>
+            <authority>Fulgoni, Antonio, active 1785-1804, printer.</authority>
+            <authority>Campiglia, Giovanni Domenico, 1692-1768, illustrator.</authority>
+            <authority>Pazzi, Antonio, 1706-approximately 1766, engraver.</authority>
+            <authority>Gregori, Carlo, 1719-1759, engraver.</authority>
+            <authority>Billy, Nicolò, 1689-1787, engraver.</authority>
+            <authority>Pomarede, Silvio, engraver.</authority>
+            <authority>Rossi, Girolamo, 1682-1762?, engraver.</authority>
+            <authority>Mazzoni, Francesco, active 1738-1759, engraver.</authority>
+            <authority>Benedetti, Giuseppe, 1707-1782, engraver.</authority>
+            <authority>Parrocel, Pierre Ignace, 1702-1775, engraver.</authority>
+            <authority>Corsi, Marcantonio, active 1750-1762, engraver.</authority>
+            <authority>Gutierrez, Nicola, active 18th century, engraver.</authority>
+            <authority>Gutierrez, Gennaro, approximately 1760, engraver.</authority>
+            <authority>Sintes, Giovanni Battista, 1680?-1760?, engraver.</authority>
+            <authority>Bartoli, Pietro Santi, 1635-1700, engraver.</authority>
+            <authority>Morghen, Filippo, 1730-approximately 1807, engraver.</authority>
+            <authority>Vasi, Giuseppe, 1710-1782, engraver.</authority>
+            <authority>Cassini, Giovanni Maria, active 1788-1815, engraver.</authority>
+            <authority>Masius, Hieronymus, active 18th century, illustrator.</authority>
+            <authority>Antonini, Carlo, approximately 1740- engraver.</authority>
+            <authority>Mogalli, Niccolò, 1723- engraver.</authority>
+            <authority>Colombini, Cosomo, -1812, engraver.</authority>
+            <authority>Cunego, Domenico, engraver.</authority>
+            <authority>Capellan, Antonio, 1740-1793, engraver.</authority>
+            <authority>Ale, Mr, engraver.</authority>
+            <authority>Faucci, Carlo, 1729-1784, engraver.</authority>
+            <authority>Germo, Leonardo, engraver.</authority>
+            <authority>Barbazza, Francesco, active 1782, engraver.</authority>
+            <authority>Piranesi, Giovanni Battista, 1720-1778, engraver.</authority>
+            <authority>Pagliarini, Marco, active 1741-1791, printer.</authority>
+            <authority>Pagliarini, Niccolò, active 1741-1791, printer.</authority>
+            <authority>Calcografia camerale (Rome, Italy), bookseller.</authority>
+            <idno type="URI">http://portal.getty.edu/books/gri_9928522910001551</idno>
+            <idno type="URI">http://portal.getty.edu/api/sr5t4s</idno>
+            <idno type="URI">http://portal.getty.edu/api/6g6k3g</idno>
+            <idno type="URI">http://portal.getty.edu/api/sj9q43</idno>
+            <idno type="URI">http://portal.getty.edu/api/zp5m1x</idno>
+            <idno type="URI">http://portal.getty.edu/api/qg334s</idno>
+            <idno>(OCoLC)8460385</idno>
+            <idno type="cico">3416</idno>
+            <idno type="dcl">k8b</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Del Museo capitolino.</title>
+                  <respStmt>
+                     <persName>Musei capitolini (Rome, Italy)</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>Roma : Si vende alla Calcografia Camerale, al Piede di Marmo</publisher>
+                     <pubPlace>Rome</pubPlace>
+                     <pubPlace>Rome (Empire)</pubPlace>
+                     <date>1741-82</date>
+                     <date>1741</date>
+                  </imprint>
+                  <extent>4 volumes ([6], 48 pages, [6], 90 leaves of plates; [4], 83, [1] pages, [7], 83 leaves of plates; viii, 174, [2] pages, [1], 91 leaves of plates; xx, 460 pages, [3], 69 leaves of plates (some folded))</extent>
+               </monogr>
+               <relatedItem type="manifest"
+                            target="https://media.getty.edu/iiif/manifest/a3047e96-bc66-435b-893b-409cd1c4eb3fhttps://media.getty.edu/iiif/manifest/d31167f6-4523-41b1-980c-368666dace66https://media.getty.edu/iiif/manifest/320a8e06-0f60-427a-b0d5-618b2dd34959https://media.getty.edu/iiif/manifest/b367ed55-37a2-47bb-9552-90066636cdabhttps://media.getty.edu/iiif/manifest/39b4ea35-a702-4ea2-97cd-5258f7de5309"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Musei capitolini (Rome, Italy) -- Catalogs.</term>
+               <term>Sculpture, Roman -- History -- Pictorial works -- Early works to 1800.</term>
+               <term>Emperors -- Rome -- Portraits -- Early works to 1800.</term>
+               <term>Busts, Roman -- History -- Pictorial works -- Early works to 1800.</term>
+               <term>Sculpture, Classical -- Pictorial works -- Early works to 1800.</term>
+               <term>Musei capitolini (Rome, Italy)</term>
+               <term>Busts, Roman.</term>
+               <term>Emperors.</term>
+               <term>Sculpture, Classical.</term>
+               <term>Sculpture, Roman.</term>
+               <term>Rome (Empire)</term>
+               <term>N2830 .M87 1741</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json"
+             url="https://media.getty.edu/iiif/manifest/a3047e96-bc66-435b-893b-409cd1c4eb3f">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+   <facsimile>
+      <media mimeType="application/json"
+             url="https://media.getty.edu/iiif/manifest/d31167f6-4523-41b1-980c-368666dace66">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+   <facsimile>
+      <media mimeType="application/json"
+             url="https://media.getty.edu/iiif/manifest/320a8e06-0f60-427a-b0d5-618b2dd34959">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+   <facsimile>
+      <media mimeType="application/json"
+             url="https://media.getty.edu/iiif/manifest/b367ed55-37a2-47bb-9552-90066636cdab">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+   <facsimile>
+      <media mimeType="application/json"
+             url="https://media.getty.edu/iiif/manifest/39b4ea35-a702-4ea2-97cd-5258f7de5309">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>

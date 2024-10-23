@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:dcterms="http://purl.org/dc/terms/"
+     xmlns:gettyterms="http://portal.getty.edu/terms/gri/"
+     xmlns:local="http://library.princeton.edu"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Lebendige Bilder gar nach aller Keysern [microform] : von C. Ivlio Caesare, bisz auff Carolum. V. vnd Ferdinandum seinem Bruder, ausz den alten Medalien sorgfaltigklich, nit gleich vorzeit von andern, sunder warhaftiglich vnd getrewlich contrafhet, vnd derenselbigen Leben, beyde lobliche vnd laesterliche Thatten ; mit dem historischen Pfinsel nach iren Farben gemalet ... / durch Hubertum Gholtz von Wirtzburg Maler zu Antorff, anno M. D. LVII, das erst Buch.</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <authority>Leopoldo Cicognara Program (University of Illinois at Urbana-Champaign)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985409853506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/sw4c7q</idno>
+            <idno type="cico">2868</idno>
+            <idno type="dcl">dg6</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Lebendige Bilder gar nach aller Keysern [microform] : von C. Ivlio Caesare, bisz auff Carolum. V. vnd Ferdinandum seinem Bruder, ausz den alten Medalien sorgfaltigklich, nit gleich vorzeit von andern, sunder warhaftiglich vnd getrewlich contrafhet, vnd derenselbigen Leben, beyde lobliche vnd laesterliche Thatten ; mit dem historischen Pfinsel nach iren Farben gemalet ... / durch Hubertum Gholtz von Wirtzburg Maler zu Antorff, anno M. D. LVII, das erst Buch.</title>
+                  <respStmt>
+                     <persName>Goltzius, Hubert, 1526-1583.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>German</textLang>
+                  <imprint>
+                     <publisher>[Antwerp : Gilles Coppens va Diest]</publisher>
+                     <date>[1557]</date>
+                     <date>1557</date>
+                  </imprint>
+                  <extent>1 v. (unpaged)</extent>
+                  <extent>6 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest"
+                            target="https://figgy.princeton.edu/concern/scanned_resources/47032e06-2829-4ce9-b77a-d5f38a8c3921/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Kings and rulers -- Portraits -- Early works to 1800.</term>
+               <term>Medals -- Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json"
+             url="https://figgy.princeton.edu/concern/scanned_resources/47032e06-2829-4ce9-b77a-d5f38a8c3921/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>

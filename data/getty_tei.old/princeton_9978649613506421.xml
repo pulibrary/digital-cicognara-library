@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:dcterms="http://purl.org/dc/terms/"
+     xmlns:gettyterms="http://portal.getty.edu/terms/gri/"
+     xmlns:local="http://library.princeton.edu"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Imperatorum Romanorum omnium orientalium et occidentalium verissimae imagines ex antiquis numismatis quam fidelissime delineatae : addita cuiusque vitae descriptione ex Thesauro Iacobi Stradae et per brevi elogio uniuscuiusque carmine, quod quasi epitome est historiae, ad iuuandam memoriam.</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Manuel, Hans Rudolf, 1525-1571, engraver.</authority>
+            <authority>Gessner, Andreas, 1513-1559, printer.</authority>
+            <authority>Wyssenbach, Rudolf, artist.</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9978649613506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/5p3m4z</idno>
+            <idno>(OCoLC)230753951</idno>
+            <idno type="cico">3019</idno>
+            <idno type="dcl">hc7</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Imperatorum Romanorum omnium orientalium et occidentalium verissimae imagines ex antiquis numismatis quam fidelissime delineatae : addita cuiusque vitae descriptione ex Thesauro Iacobi Stradae et per brevi elogio uniuscuiusque carmine, quod quasi epitome est historiae, ad iuuandam memoriam.</title>
+                  <respStmt>
+                     <persName>Strada, Jacobus, 1507-1588.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Latin</textLang>
+                  <imprint>
+                     <publisher>Tiguri : Ex Officina Andreae Gesneri</publisher>
+                     <pubPlace>Rome.</pubPlace>
+                     <pubPlace>Byzantine Empire.</pubPlace>
+                     <pubPlace>Rome</pubPlace>
+                     <pubPlace>Holy Roman Empire</pubPlace>
+                     <date>1559</date>
+                  </imprint>
+                  <extent>[6], 118, [2] leaves</extent>
+               </monogr>
+               <relatedItem type="manifest"
+                            target="https://figgy.princeton.edu/concern/scanned_resources/3c8fe7f9-c66b-44a2-a16d-7cd08f05639e/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Numismatics -- Rome.</term>
+               <term>Numismatics -- Byzantine Empire.</term>
+               <term>Emperors -- Rome -- Portraits.</term>
+               <term>Holy Roman Empire -- Kings and rulers -- Portraits.</term>
+               <term>CJ985</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json"
+             url="https://figgy.princeton.edu/concern/scanned_resources/3c8fe7f9-c66b-44a2-a16d-7cd08f05639e/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>

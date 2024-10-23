@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:dcterms="http://purl.org/dc/terms/"
+     xmlns:gettyterms="http://portal.getty.edu/terms/gri/"
+     xmlns:local="http://library.princeton.edu"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Roma subterranea novissima [microform] : in qua post Antonium Bosium antesignanum, Jo. Severanum Congreg. Oratorii presbyterum, et celebres alios scriptores antiqua Christianorum et praecipue martyrum coemeteria, tituli, monimenta, epitaphia, inscriptiones ac nobiliora sanctorum sepulchra sex libris distincta illustrantur et quamplurimae res ecclesiasticae iconibus graphice describuntur, ac multiplici tum sacra, tum profana eruditione declarantur / opera et studio Pauli Aringhi Romani ... ; cum duplici indice, capitum &amp; rerum locupletissimo.</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Severano, Giovanni.</authority>
+            <authority>Bosio, Antonio, 1575-1629. Roma sotterranea.</authority>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <authority>Leopoldo Cicognara Program (University of Illinois at Urbana-Champaign)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985419343506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/rz9j8k</idno>
+            <idno type="cico">3585</idno>
+            <idno type="dcl">9gn</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Roma subterranea novissima [microform] : in qua post Antonium Bosium antesignanum, Jo. Severanum Congreg. Oratorii presbyterum, et celebres alios scriptores antiqua Christianorum et praecipue martyrum coemeteria, tituli, monimenta, epitaphia, inscriptiones ac nobiliora sanctorum sepulchra sex libris distincta illustrantur et quamplurimae res ecclesiasticae iconibus graphice describuntur, ac multiplici tum sacra, tum profana eruditione declarantur / opera et studio Pauli Aringhi Romani ... ; cum duplici indice, capitum &amp; rerum locupletissimo.</title>
+                  <respStmt>
+                     <persName>Aringhi, Paolo, 1600-1676.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Latin</textLang>
+                  <imprint>
+                     <publisher>Coloniae &amp; veneunt Lutetiae Parisiorum</publisher>
+                     <pubPlace>Italy</pubPlace>
+                     <pubPlace>Rome (Italy)</pubPlace>
+                     <date>1659</date>
+                  </imprint>
+                  <extent>2 v.</extent>
+                  <extent>35 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest"
+                            target="https://figgy.princeton.edu/concern/scanned_resources/1e50f620-1069-4ef0-97de-c9910ef0153c/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Catacombs -- Italy -- Rome -- Early works to 1800.</term>
+               <term>Cemeteries -- Italy -- Rome -- Early works to 1800.</term>
+               <term>Christian antiquities -- Italy -- Rome -- Early works to 1800.</term>
+               <term>Rome (Italy) -- Antiquities.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json"
+             url="https://figgy.princeton.edu/concern/scanned_resources/1e50f620-1069-4ef0-97de-c9910ef0153c/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>

@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:dcterms="http://purl.org/dc/terms/"
+     xmlns:gettyterms="http://portal.getty.edu/terms/gri/"
+     xmlns:local="http://library.princeton.edu"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Aurea bulla Caroli Quarti Imperat. Rom. Norimbergae et Metis anno MCCCLVI sancita, oder, Güldene Bulle des Römischen Kaysers Carls des Vierten, welche im Jahr Christi 1356. zu Nürnberg und Metz verfasset worden [microform].</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <authority>Leopoldo Cicognara Program (University of Illinois at Urbana-Champaign)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985304283506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/kk8c0p</idno>
+            <idno type="cico">1510</idno>
+            <idno type="dcl">5k9</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Aurea bulla Caroli Quarti Imperat. Rom. Norimbergae et Metis anno MCCCLVI sancita, oder, Güldene Bulle des Römischen Kaysers Carls des Vierten, welche im Jahr Christi 1356. zu Nürnberg und Metz verfasset worden [microform].</title>
+                  <textLang>Latin</textLang>
+                  <imprint>
+                     <publisher>[S.l. : s.n]</publisher>
+                     <date>[1742?]</date>
+                     <date>1742</date>
+                  </imprint>
+                  <extent>34 p.</extent>
+                  <extent>1 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest"
+                            target="https://figgy.princeton.edu/concern/scanned_resources/42bf9280-08a8-4df4-9aba-e6d8c634319f/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Charles IV, Holy Roman Emperor, 1316-1378.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json"
+             url="https://figgy.princeton.edu/concern/scanned_resources/42bf9280-08a8-4df4-9aba-e6d8c634319f/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>

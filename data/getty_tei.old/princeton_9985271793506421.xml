@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:dcterms="http://purl.org/dc/terms/"
+     xmlns:gettyterms="http://portal.getty.edu/terms/gri/"
+     xmlns:local="http://library.princeton.edu"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An inquiry into the origin and early history of engraving [microform] : upon copper and in wood, with an account of engravers and their works, from the invention of chalcography by Maso Finiguerra, to the time of Marc' Antonio Raimondi / by William Young Ottley.</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985271793506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/pk7s1n</idno>
+            <idno type="cico">266</idno>
+            <idno type="dcl">drw</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>An inquiry into the origin and early history of engraving [microform] : upon copper and in wood, with an account of engravers and their works, from the invention of chalcography by Maso Finiguerra, to the time of Marc' Antonio Raimondi / by William Young Ottley.</title>
+                  <respStmt>
+                     <persName>Ottley, William Young, 1771-1836.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>English</textLang>
+                  <imprint>
+                     <publisher>London : Printed for John and Arthur Arch by J. M'Creery</publisher>
+                     <date>1816</date>
+                  </imprint>
+                  <extent>2 v.</extent>
+                  <extent>15 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest"
+                            target="https://figgy.princeton.edu/concern/scanned_resources/36d44e90-1b5e-45d8-a2d2-0ebf1ae7eae4/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Engravers.</term>
+               <term>Engraving -- History.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json"
+             url="https://figgy.princeton.edu/concern/scanned_resources/36d44e90-1b5e-45d8-a2d2-0ebf1ae7eae4/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>

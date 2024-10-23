@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:dcterms="http://purl.org/dc/terms/"
+     xmlns:gettyterms="http://portal.getty.edu/terms/gri/"
+     xmlns:local="http://library.princeton.edu"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Superstitions anciennes et modernes : prejugés vulgaires qui ont induit les peuples à des usages et à des pratiques contraires à la religion / [d'après le Pierre le Brun et l'abbé J.B. Thiers, avec des remarques par J.F. Barnard].</title>
+            <respStmt>
+               <orgName>Getty Research Institute</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Bernard, Jean-Frédéric, 1683?-1744, printer.</authority>
+            <authority>Thiers, Jean-Baptiste, 1636-1703. Traité des superstitions, seconde partie, des superstitions qui regardent les Sacremens.</authority>
+            <authority>Thiers, Jean-Baptiste, 1636-1703. Traité des superstitions selon l'Ecriture Sainte, les décrets des conciles, et les sentimens des Saints Pères et des theologians.</authority>
+            <authority>Lebrun, Pierre, 1661-1729. Histoire critique des practiques superstitieuses.</authority>
+            <idno type="URI">http://portal.getty.edu/books/gri_9930026020001551</idno>
+            <idno type="URI">http://portal.getty.edu/api/rf7q5j</idno>
+            <idno type="URI">http://portal.getty.edu/api/px6v58</idno>
+            <idno>(OCoLC)22969868</idno>
+            <idno type="cico">4690-2</idno>
+            <idno type="dcl">2ks</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Superstitions anciennes et modernes : prejugés vulgaires qui ont induit les peuples à des usages et à des pratiques contraires à la religion / [d'après le Pierre le Brun et l'abbé J.B. Thiers, avec des remarques par J.F. Barnard].</title>
+                  <respStmt>
+                     <persName>Lebrun, Pierre, 1661-1729</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>French</textLang>
+                  <imprint>
+                     <publisher>Amsterdam : J.F. Bernard</publisher>
+                     <pubPlace>Netherlands Amsterdam.</pubPlace>
+                     <date>1733-36</date>
+                     <date>1733</date>
+                  </imprint>
+                  <extent>2 volumes</extent>
+               </monogr>
+               <relatedItem type="manifest"
+                            target="https://media.getty.edu/iiif/manifest/158c8103-e018-43be-80bf-38b9829bca25https://media.getty.edu/iiif/manifest/ca4c1671-ea45-4232-b2d9-c97625427ddb"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Lebrun, Pierre, 1661-1729</term>
+               <term>Superstition -- Religious aspects -- Early works to 1800.</term>
+               <term>Religions -- Early works to 1800.</term>
+               <term>Emblems -- Early works to 1800.</term>
+               <term>Lebrun, Pierre, 1661-1729</term>
+               <term>Emblems.</term>
+               <term>Religions.</term>
+               <term>Superstition -- Religious aspects.</term>
+               <term>BL490 .S5 1733a</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json"
+             url="https://media.getty.edu/iiif/manifest/158c8103-e018-43be-80bf-38b9829bca25">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+   <facsimile>
+      <media mimeType="application/json"
+             url="https://media.getty.edu/iiif/manifest/ca4c1671-ea45-4232-b2d9-c97625427ddb">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>

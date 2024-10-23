@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:dcterms="http://purl.org/dc/terms/"
+     xmlns:gettyterms="http://portal.getty.edu/terms/gri/"
+     xmlns:local="http://library.princeton.edu"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Combat a la barriere : faict en covr de Lorraine le 14. febvrier, en l'année presente 1627 / representé par les discours &amp; poësie du Sieur Henry Hvmbert ; enrichy des figvres dv Sievr Iacqve Callot.</title>
+            <respStmt>
+               <orgName>Getty Research Institute</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Callot, Jacques, 1592-1635</authority>
+            <idno type="URI">http://portal.getty.edu/books/gri_9929583570001551</idno>
+            <idno type="URI">http://portal.getty.edu/api/pb8b3j</idno>
+            <idno>(OCoLC)79573025</idno>
+            <idno type="cico">2003-3</idno>
+            <idno type="dcl">w5z</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Combat a la barriere : faict en covr de Lorraine le 14. febvrier, en l'année presente 1627 / representé par les discours &amp; poësie du Sieur Henry Hvmbert ; enrichy des figvres dv Sievr Iacqve Callot.</title>
+                  <respStmt>
+                     <persName>H. H. (Henry Humbert)</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>French</textLang>
+                  <imprint>
+                     <publisher>Nancy : Par Sebastien Philippe, imprimeur de Son Altesse</publisher>
+                     <pubPlace>France</pubPlace>
+                     <pubPlace>Lorraine (France)</pubPlace>
+                     <date>1627</date>
+                  </imprint>
+                  <extent>[8], 58, [2] pages, [18] leaves of plates</extent>
+               </monogr>
+               <relatedItem type="manifest"
+                            target="https://media.getty.edu/iiif/manifest/397f48c5-83b8-47a3-b79e-f7007d389cdb"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Festivals -- France -- Nancy -- Early works to 1800.</term>
+               <term>Tournaments, Medieval -- France -- Nancy -- Early works to 1800.</term>
+               <term>Lorraine (France) -- Court and courtiers.</term>
+               <term>Tournaments, Medieval.</term>
+               <term>Festivals.</term>
+               <term>Courts and courtiers.</term>
+               <term>France -- Nancy.</term>
+               <term>France -- Lorraine.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json"
+             url="https://media.getty.edu/iiif/manifest/397f48c5-83b8-47a3-b79e-f7007d389cdb">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>

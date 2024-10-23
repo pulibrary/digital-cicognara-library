@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:dcterms="http://purl.org/dc/terms/"
+     xmlns:gettyterms="http://portal.getty.edu/terms/gri/"
+     xmlns:local="http://library.princeton.edu"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Notizia d'opere di disegno nella prima metà del secolo XVI, esistenti in Padova, Cremona, Milano, Pavia, Bergamo, Crema e Venezia, scritta da un anonimo di quel tempo; pubblicata e illustrata da D. Iacopo Morelli.</title>
+            <respStmt>
+               <orgName>National Gallery of Art Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Morelli, Jacopo, 1745-1819</authority>
+            <authority>Biblioteca nazionale marciana. Manuscript. Cl. XI, 67.</authority>
+            <idno type="URI">http://portal.getty.edu/books/nga_99128693504896</idno>
+            <idno type="URI">http://portal.getty.edu/api/dj3r9q</idno>
+            <idno>(OCoLC)82621103</idno>
+            <idno type="cico">43</idno>
+            <idno type="dcl">nnm</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Notizia d'opere di disegno nella prima metà del secolo XVI, esistenti in Padova, Cremona, Milano, Pavia, Bergamo, Crema e Venezia, scritta da un anonimo di quel tempo; pubblicata e illustrata da D. Iacopo Morelli.</title>
+                  <respStmt>
+                     <persName>Michiel, Marcantonio, 1486?-1552.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>Bassano</publisher>
+                     <pubPlace>Italy</pubPlace>
+                     <date>1800</date>
+                  </imprint>
+                  <extent>xxiii, 272 p.</extent>
+               </monogr>
+               <relatedItem type="manifest"
+                            target="https://libraryimage.nga.gov/manifest/mms/99128693504896.json"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Art, Italian -- Early works to 1800.</term>
+               <term>Art -- Italy -- Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json"
+             url="https://libraryimage.nga.gov/manifest/mms/99128693504896.json">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>

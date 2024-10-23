@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:dcterms="http://purl.org/dc/terms/"
+     xmlns:gettyterms="http://portal.getty.edu/terms/gri/"
+     xmlns:local="http://library.princeton.edu"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Il Goffredo, ovvero Gerusalemme liberata / di Torquato Tasso.</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Crasso, Lorenzo, 17th century.</authority>
+            <authority>Gentili, Scipione, 1563-1616.</authority>
+            <authority>Guastavini, Giulio, active 16th century.</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9930058083506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/0m1z3k</idno>
+            <idno>(OCoLC)16109774</idno>
+            <idno type="cico">1115</idno>
+            <idno type="dcl">7cn</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Il Goffredo, ovvero Gerusalemme liberata / di Torquato Tasso.</title>
+                  <respStmt>
+                     <persName>Tasso, Torquato, 1544-1595.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>In Venezia : Presso Antonio Groppò</publisher>
+                     <date>1760-1761</date>
+                     <date>1760</date>
+                  </imprint>
+                  <extent>2 v.</extent>
+               </monogr>
+               <relatedItem type="manifest"
+                            target="https://figgy.princeton.edu/concern/scanned_resources/910ae57c-4359-4900-bff6-93cc6268ff8f/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Crusades -- First, 1096-1099 -- Poetry.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json"
+             url="https://figgy.princeton.edu/concern/scanned_resources/910ae57c-4359-4900-bff6-93cc6268ff8f/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>

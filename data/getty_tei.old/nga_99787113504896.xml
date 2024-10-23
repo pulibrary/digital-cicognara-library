@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:dcterms="http://purl.org/dc/terms/"
+     xmlns:gettyterms="http://portal.getty.edu/terms/gri/"
+     xmlns:local="http://library.princeton.edu"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Iconologia del cavaliere Cesare Ripa, perugino / notabilmente accresciuta d'immagini, di annotazioni e di fatti dell'abate Cesare Orlandi ...</title>
+            <respStmt>
+               <orgName>National Gallery of Art Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Orlandi, Cesare, 1734-1779</authority>
+            <idno type="URI">http://portal.getty.edu/books/nga_99787113504896</idno>
+            <idno type="URI">http://portal.getty.edu/api/7z1189</idno>
+            <idno>(OCoLC)973438005</idno>
+            <idno type="cico">4741</idno>
+            <idno type="dcl">p5p</idno>
+            <idno type="dcl">f8v</idno>
+            <idno type="dcl">hch</idno>
+            <idno type="dcl">h37</idno>
+            <idno type="dcl">6pk</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Iconologia del cavaliere Cesare Ripa, perugino / notabilmente accresciuta d'immagini, di annotazioni e di fatti dell'abate Cesare Orlandi ...</title>
+                  <respStmt>
+                     <persName>Ripa, Cesare, 1560-1645</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>Perugia : Nella stamperia di Piergiovanni Costantini</publisher>
+                     <date>1764-1767</date>
+                     <date>1764</date>
+                  </imprint>
+                  <extent>5 v.</extent>
+               </monogr>
+               <relatedItem type="manifest"
+                            target="https://libraryimage.nga.gov/manifest/mms/99787113504896.json"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Emblems -- Early works to 1800</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json"
+             url="https://libraryimage.nga.gov/manifest/mms/99787113504896.json">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>

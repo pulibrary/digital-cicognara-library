@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:dcterms="http://purl.org/dc/terms/"
+     xmlns:gettyterms="http://portal.getty.edu/terms/gri/"
+     xmlns:local="http://library.princeton.edu"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Le grand cabinet romain, ou, Recueil d'antiquitez romaines [microform] : qui consistent en bas reliefs, statues des dieux &amp; des hommes, instruments sacerdotaux, lampes, urnes, seaux, brasselets, clefs, anneaux, &amp; phioles lacrimales, que l'on trouve a Rome / avec les explication de Michel Ange de La Chausse.</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Roche, Joachim.</authority>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <authority>Leopoldo Cicognara Program (University of Illinois at Urbana-Champaign)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985409423506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/r99s9j</idno>
+            <idno type="cico">2804</idno>
+            <idno type="dcl">r2g</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Le grand cabinet romain, ou, Recueil d'antiquitez romaines [microform] : qui consistent en bas reliefs, statues des dieux &amp; des hommes, instruments sacerdotaux, lampes, urnes, seaux, brasselets, clefs, anneaux, &amp; phioles lacrimales, que l'on trouve a Rome / avec les explication de Michel Ange de La Chausse.</title>
+                  <respStmt>
+                     <persName>La Chausse, Michel Ange de, 1660?-1724.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>French</textLang>
+                  <imprint>
+                     <publisher>A Amsterdam : Chez François L'Honoré, &amp; Zacharie Chastelain le fils</publisher>
+                     <pubPlace>Greece</pubPlace>
+                     <pubPlace>Rome</pubPlace>
+                     <date>1706</date>
+                  </imprint>
+                  <extent>126 p.</extent>
+                  <extent>4 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest"
+                            target="https://figgy.princeton.edu/concern/scanned_resources/da708e82-8533-4bd8-b4fc-11cb7332cf8c/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Art objects, Classical.</term>
+               <term>Art -- Greece -- Early works to 1800.</term>
+               <term>Art -- Rome -- Early works to 1800.</term>
+               <term>Classical antiquities.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json"
+             url="https://figgy.princeton.edu/concern/scanned_resources/da708e82-8533-4bd8-b4fc-11cb7332cf8c/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>

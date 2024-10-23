@@ -21,6 +21,7 @@
             </publisher>
             <authority>Specchi, Alessandro, 1668-1729</authority>
             <idno type="URI">http://portal.getty.edu/books/gri_9922790250001551</idno>
+            <idno type="URI">http://portal.getty.edu/api/s26q0s</idno>
             <idno type="URI">http://portal.getty.edu/api/sz8x6s</idno>
             <idno>(OCoLC)9456239</idno>
             <idno type="cico">3860</idno>
@@ -52,8 +53,8 @@
                <term>SS. Giovanni e Paolo (Basilica : Rome, Italy)</term>
                <term>John, the Apostle, Saint</term>
                <term>Paul, the Apostle, Saint</term>
-               <term>John, the Apostle, Saint</term>
-               <term>Paul, the Apostle, Saint</term>
+               <term>John, the Apostle, Saint  http://id.worldcat.org//00036704 http://viaf.org/viaf/1146285576115381531 http://id.worldcat.org//36704</term>
+               <term>Paul, the Apostle, Saint  http://id.worldcat.org//00037330</term>
                <term>SS. Giovanni e Paolo (Basilica : Rome, Italy)</term>
                <term>NA5620.S37 R66 1707</term>
             </keywords>

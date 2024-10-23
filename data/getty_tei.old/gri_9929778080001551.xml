@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:dcterms="http://purl.org/dc/terms/"
+     xmlns:gettyterms="http://portal.getty.edu/terms/gri/"
+     xmlns:local="http://library.princeton.edu"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>La Ioyevse &amp; magnifique entrée de Monseigneur Françoys, Fils de France, et Frere Vnicqve dv Roy, par la grace de Dieu, Dvc de Brabant, d'Anjou, Alençon, Berri, &amp;c. en sa tres-renommée ville d'Anvers.</title>
+            <respStmt>
+               <orgName>Getty Research Institute</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Bruyn, Abraham de, 1538 or 9-1587?</authority>
+            <authority>Broeck, Crispin van den, 1524-approximately 1591, etcher.</authority>
+            <idno type="URI">http://portal.getty.edu/books/gri_9929778080001551</idno>
+            <idno type="URI">http://portal.getty.edu/api/s60w95</idno>
+            <idno>(OCoLC)5058776</idno>
+            <idno type="cico">1389</idno>
+            <idno type="dcl">k94</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>La Ioyevse &amp; magnifique entrée de Monseigneur Françoys, Fils de France, et Frere Vnicqve dv Roy, par la grace de Dieu, Dvc de Brabant, d'Anjou, Alençon, Berri, &amp;c. en sa tres-renommée ville d'Anvers.</title>
+                  <textLang>French, Middle (ca.1400-1600)</textLang>
+                  <imprint>
+                     <publisher>Anvers, De l'Imprimerie de Christophle Plantin</publisher>
+                     <pubPlace>Belgium</pubPlace>
+                     <pubPlace>Antwerp (Belgium)</pubPlace>
+                     <date>1582</date>
+                  </imprint>
+                  <extent>2 preliminary leaves, 46 pages, 21 leaves of plates</extent>
+               </monogr>
+               <relatedItem type="manifest"
+                            target="https://media.getty.edu/iiif/manifest/e6db1e96-ff98-43f5-b608-39e895f9254d"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Anjou, François, duc d', 1554-1584</term>
+               <term>Visits of state -- Belgium -- Antwerp.</term>
+               <term>Festivals -- Belgium -- Antwerp.</term>
+               <term>Processions -- Belgium -- Antwerp.</term>
+               <term>Anjou, François, duc d', 1554-1584</term>
+               <term>Antwerp (Belgium) -- Festivals, etc.</term>
+               <term>Belgium -- Antwerp.</term>
+               <term>DH811.A64 I5</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json"
+             url="https://media.getty.edu/iiif/manifest/e6db1e96-ff98-43f5-b608-39e895f9254d">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>

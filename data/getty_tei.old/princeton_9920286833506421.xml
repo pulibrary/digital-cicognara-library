@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:dcterms="http://purl.org/dc/terms/"
+     xmlns:gettyterms="http://portal.getty.edu/terms/gri/"
+     xmlns:local="http://library.princeton.edu"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Recueil des plans, profils, et eleuations de plusieurs palais, chasteaux, eglises, sepultures, grotes, et hostels, bâtis dans Paris, et aux enuirons, auec beaucoup de magnificence, par meille︠u︡ architectes du royaume, desseignez, mesurés, et grauez par Jean Marot, architecte parisien.</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9920286833506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/zr0g8t</idno>
+            <idno>(OCoLC)03411101</idno>
+            <idno type="cico">555</idno>
+            <idno type="dcl">c8c</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Recueil des plans, profils, et eleuations de plusieurs palais, chasteaux, eglises, sepultures, grotes, et hostels, bâtis dans Paris, et aux enuirons, auec beaucoup de magnificence, par meille︠u︡ architectes du royaume, desseignez, mesurés, et grauez par Jean Marot, architecte parisien.</title>
+                  <respStmt>
+                     <persName>Marot, Jean, 1619?-1679.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>French</textLang>
+                  <imprint>
+                     <publisher>[n. p]</publisher>
+                     <pubPlace>France.</pubPlace>
+                     <date>[n. d.]</date>
+                     <date>uuuu</date>
+                  </imprint>
+                  <extent>1 p. l., 124 engr. plates.</extent>
+               </monogr>
+               <relatedItem type="manifest"
+                            target="https://figgy.princeton.edu/concern/scanned_resources/8e90c4ce-5c9f-4c04-8982-d10b6634c3ac/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Architecture -- Early works to 1800.</term>
+               <term>Architecture -- Designs and plans.</term>
+               <term>Architecture -- France.</term>
+               <term>NA2515</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json"
+             url="https://figgy.princeton.edu/concern/scanned_resources/8e90c4ce-5c9f-4c04-8982-d10b6634c3ac/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>

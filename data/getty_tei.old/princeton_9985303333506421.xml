@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:dcterms="http://purl.org/dc/terms/"
+     xmlns:gettyterms="http://portal.getty.edu/terms/gri/"
+     xmlns:local="http://library.princeton.edu"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Parentalia Mariae Clementinae, Magn. Britan. Franc., et Hibern. Regin., iussu Clementis XII. Pont. Max. [microform].</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985303333506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/1d3b77</idno>
+            <idno type="cico">1502</idno>
+            <idno type="dcl">101</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Parentalia Mariae Clementinae, Magn. Britan. Franc., et Hibern. Regin., iussu Clementis XII. Pont. Max. [microform].</title>
+                  <textLang>Italian</textLang>
+                  <textLang>Latin</textLang>
+                  <imprint>
+                     <publisher>In Roma : Appresso Giovanni Maria Salvioni</publisher>
+                     <pubPlace>Italy</pubPlace>
+                     <date>1736</date>
+                  </imprint>
+                  <extent>XXXI p.</extent>
+                  <extent>1 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest"
+                            target="https://figgy.princeton.edu/concern/scanned_resources/1d3eb2ad-f640-4c53-a338-13aef6d6c9c9/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Maria Clementina, Princess, consort of James, Prince of Wales, 1702-1735.</term>
+               <term>Funeral decorations -- Italy -- Rome -- Early works to 1800.</term>
+               <term>Funeral rites and ceremonies -- Italy -- Rome -- Early works to 1800.</term>
+               <term>Processions -- Italy -- Rome -- History -- 18th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json"
+             url="https://figgy.princeton.edu/concern/scanned_resources/1d3eb2ad-f640-4c53-a338-13aef6d6c9c9/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>

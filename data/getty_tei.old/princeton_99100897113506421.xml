@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:dcterms="http://purl.org/dc/terms/"
+     xmlns:gettyterms="http://portal.getty.edu/terms/gri/"
+     xmlns:local="http://library.princeton.edu"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Discorso letto nella grande aula dell'Imperiale Regio Palazzo delle scienze e delle arti in occasione della solenne distribuzione de' premj. 1818, Discorso letto nella grande aula dell'Imperiale Regio Palazzo delle scienze e delle arti in occasione della solenne distribuzione de' premj dell'Imperiale Regia Accademia delle belle arti, fattasi da S.E. il Signor Conte di Strassoldo ... il giorno 20 agosto 1818.</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <idno type="URI">http://portal.getty.edu/books/princeton_99100897113506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/dm0v6f</idno>
+            <idno>(OCoLC)699547182</idno>
+            <idno type="cico">1337</idno>
+            <idno type="dcl">v2r</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Discorso letto nella grande aula dell'Imperiale Regio Palazzo delle scienze e delle arti in occasione della solenne distribuzione de' premj. 1818, Discorso letto nella grande aula dell'Imperiale Regio Palazzo delle scienze e delle arti in occasione della solenne distribuzione de' premj dell'Imperiale Regia Accademia delle belle arti, fattasi da S.E. il Signor Conte di Strassoldo ... il giorno 20 agosto 1818.</title>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>Milano : Imp. Regia Stamperia</publisher>
+                     <pubPlace>Italy</pubPlace>
+                     <date>1818</date>
+                  </imprint>
+                  <extent>48 S.</extent>
+                  <extent>1 Mikrofiche : 24x.</extent>
+               </monogr>
+               <relatedItem type="manifest"
+                            target="https://figgy.princeton.edu/concern/scanned_resources/6c5be18e-0f84-4bc0-94c3-78e068f4a838/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Accademia di belle arti (Milan, Italy) -- Awards.</term>
+               <term>Art -- Awards -- Italy -- Milan.</term>
+               <term>Speeches, addresses, etc., Italian.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json"
+             url="https://figgy.princeton.edu/concern/scanned_resources/6c5be18e-0f84-4bc0-94c3-78e068f4a838/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>

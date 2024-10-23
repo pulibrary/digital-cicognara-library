@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:dcterms="http://purl.org/dc/terms/"
+     xmlns:gettyterms="http://portal.getty.edu/terms/gri/"
+     xmlns:local="http://library.princeton.edu"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>De l'allégorie, ou, Traités sur cette matière [microform] / par Winckelmann, Addison, Sulzer, etc. ; recueil utile aux gens de lettres, et nécessaire aux artistes.</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Addison, Joseph, 1672-1719.</authority>
+            <authority>Gibbon, Edward, 1737-1794.</authority>
+            <authority>Jansen, Hendrik, 1741-1812.</authority>
+            <authority>Junker, Karl Ludwig, d. 1797.</authority>
+            <authority>Sulzer, Johann Georg, 1720-1779.</authority>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <authority>Leopoldo Cicognara Program (University of Illinois at Urbana-Champaign)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9984940673506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/861308</idno>
+            <idno type="cico">61</idno>
+            <idno type="dcl">dcv</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>De l'allégorie, ou, Traités sur cette matière [microform] / par Winckelmann, Addison, Sulzer, etc. ; recueil utile aux gens de lettres, et nécessaire aux artistes.</title>
+                  <respStmt>
+                     <persName>Winckelmann, Johann Joachim, 1717-1768.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>French</textLang>
+                  <imprint>
+                     <publisher>A Paris : Chez H. J. Jansen</publisher>
+                     <date>An VII [1799]</date>
+                     <date>1799</date>
+                  </imprint>
+                  <extent>2 v.</extent>
+                  <extent>14 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest"
+                            target="https://figgy.princeton.edu/concern/scanned_resources/ffa23322-3c34-4745-9438-f9f5de4369ae/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Christian art and symbolism.</term>
+               <term>God -- Art.</term>
+               <term>Medals.</term>
+               <term>Symbolism.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json"
+             url="https://figgy.princeton.edu/concern/scanned_resources/ffa23322-3c34-4745-9438-f9f5de4369ae/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>

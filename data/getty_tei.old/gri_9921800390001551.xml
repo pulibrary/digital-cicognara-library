@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:dcterms="http://purl.org/dc/terms/"
+     xmlns:gettyterms="http://portal.getty.edu/terms/gri/"
+     xmlns:local="http://library.princeton.edu"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>De la distribution des maisons de plaisance, et de la decoration des edifices en general. Par Jacques-François Blondel. Ouvrage enrichi de cent soixante planches en taille-douce, gravées par l'auteur ...</title>
+            <respStmt>
+               <orgName>Getty Research Institute</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Jombert, Charles-Antoine, 1712-1784</authority>
+            <authority>Cochin, Charles Nicolas, 1715-1790</authority>
+            <authority>Soubeyran, Pierre, 1709-1775</authority>
+            <idno type="URI">http://portal.getty.edu/books/gri_9921800390001551</idno>
+            <idno type="URI">http://portal.getty.edu/api/d69q4m</idno>
+            <idno type="URI">http://portal.getty.edu/api/221255</idno>
+            <idno>(OCoLC)2479101</idno>
+            <idno type="cico">435</idno>
+            <idno type="dcl">03d</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>De la distribution des maisons de plaisance, et de la decoration des edifices en general. Par Jacques-François Blondel. Ouvrage enrichi de cent soixante planches en taille-douce, gravées par l'auteur ...</title>
+                  <respStmt>
+                     <persName>Blondel, Jacques-François, 1705-1774</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>French</textLang>
+                  <imprint>
+                     <publisher>Paris, Charles-Antoine Jombert</publisher>
+                     <pubPlace>France.</pubPlace>
+                     <pubPlace>France Paris.</pubPlace>
+                     <date>1737-38</date>
+                     <date>1737</date>
+                  </imprint>
+                  <extent>2 v., front.,</extent>
+               </monogr>
+               <relatedItem type="manifest"
+                            target="https://media.getty.edu/iiif/manifest/bfdeea38-c8db-4e96-b76e-69b6debf21a6https://media.getty.edu/iiif/manifest/1ef9c1e4-ce73-4716-ad53-f691f6f5bcc7"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Architecture, Domestic -- Early works to 1800.</term>
+               <term>Landscape gardening -- Early works to 1800.</term>
+               <term>Interior decoration -- Early works to 1800.</term>
+               <term>Architecture -- 17e siècle -- France.</term>
+               <term>Décoration et ornement architecturaux -- France.</term>
+               <term>Jardins -- Architecture -- France.</term>
+               <term>Architecture, Domestic.</term>
+               <term>Interior decoration.</term>
+               <term>Landscape gardening.</term>
+               <term>NA7580 .B6</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json"
+             url="https://media.getty.edu/iiif/manifest/bfdeea38-c8db-4e96-b76e-69b6debf21a6">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+   <facsimile>
+      <media mimeType="application/json"
+             url="https://media.getty.edu/iiif/manifest/1ef9c1e4-ce73-4716-ad53-f691f6f5bcc7">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>

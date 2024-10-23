@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:dcterms="http://purl.org/dc/terms/"
+     xmlns:gettyterms="http://portal.getty.edu/terms/gri/"
+     xmlns:local="http://library.princeton.edu"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Le vite de' pittori, scvltori et architetti. Dal pontificato di Gregorio XIII. del 1572. In fino a' tempi di Papa Vrbano Ottauo nel 1642. Scritte da Gio. Baglione Romano e dedicate all' eminentissimo, e reuerendissimo principe Girolamo Card. Colonna.</title>
+            <respStmt>
+               <orgName>Getty Research Institute</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fei, Andrea, active 17th century, printer.</authority>
+            <idno type="URI">http://portal.getty.edu/books/gri_9922022290001551</idno>
+            <idno type="URI">http://portal.getty.edu/api/cq4h8g</idno>
+            <idno>(OCoLC)3158380</idno>
+            <idno type="cico">2190</idno>
+            <idno type="dcl">f2j</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Le vite de' pittori, scvltori et architetti. Dal pontificato di Gregorio XIII. del 1572. In fino a' tempi di Papa Vrbano Ottauo nel 1642. Scritte da Gio. Baglione Romano e dedicate all' eminentissimo, e reuerendissimo principe Girolamo Card. Colonna.</title>
+                  <respStmt>
+                     <persName>Baglione, Giovanni, 1571-1644</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>In Roma, Nella Stamperia d'Andrea Fei</publisher>
+                     <pubPlace>Italy</pubPlace>
+                     <pubPlace>Biografías.</pubPlace>
+                     <pubPlace>Italy.</pubPlace>
+                     <pubPlace>Italy Rome.</pubPlace>
+                     <date>1642</date>
+                  </imprint>
+                  <extent>[12], 405, [3] pages</extent>
+               </monogr>
+               <relatedItem type="manifest"
+                            target="https://media.getty.edu/iiif/manifest/246e70e9-ce99-4299-9b63-046ba0747a1e"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Artists -- Italy -- Biography.</term>
+               <term>Pintores -- Biografías.</term>
+               <term>Escultores -- Biografías.</term>
+               <term>Arquitectos -- Biografías.</term>
+               <term>Artists.</term>
+               <term>Italy.</term>
+               <term>N6922 .B3x 1642</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json"
+             url="https://media.getty.edu/iiif/manifest/246e70e9-ce99-4299-9b63-046ba0747a1e">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>

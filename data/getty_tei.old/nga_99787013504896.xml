@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:dcterms="http://purl.org/dc/terms/"
+     xmlns:gettyterms="http://portal.getty.edu/terms/gri/"
+     xmlns:local="http://library.princeton.edu"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Ars pictoria, or, An academy treating of drawing, limning, painting, etching : to which are added 31 copper plates, expressing the choicest, nearest, and most exact grounds and rules of symmetry / collected out of the most eminent Italian, German and Netherland authors by Alexander Browne ...</title>
+            <respStmt>
+               <orgName>National Gallery of Art Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <idno type="URI">http://portal.getty.edu/books/nga_99787013504896</idno>
+            <idno type="URI">http://portal.getty.edu/api/sr3b0j</idno>
+            <idno>(OCoLC)54242118</idno>
+            <idno type="cico">299</idno>
+            <idno type="dcl">35p</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Ars pictoria, or, An academy treating of drawing, limning, painting, etching : to which are added 31 copper plates, expressing the choicest, nearest, and most exact grounds and rules of symmetry / collected out of the most eminent Italian, German and Netherland authors by Alexander Browne ...</title>
+                  <respStmt>
+                     <persName>Browne, Alexander, active 1660-1677.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>English</textLang>
+                  <imprint>
+                     <publisher>London : Printed for Arthur Tooker, at the Globe in the Strand, over against Ivie Bridge, and William Battersby, at Thavie's Inne Gate in Holborn near S. Andrew's Church</publisher>
+                     <date>1675</date>
+                  </imprint>
+                  <extent>[8], 110, [2], [4], 39, [2] p., [31] leaves of plates</extent>
+               </monogr>
+               <relatedItem type="manifest"
+                            target="https://libraryimage.nga.gov/manifest/mms/99787013504896.json"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Art -- Technique -- Early works to 1800.</term>
+               <term>Etching -- Technique -- Early works to 1800.</term>
+               <term>Drawing -- Technique -- Early works to 1800.</term>
+               <term>N7430 .B7 1675</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json"
+             url="https://libraryimage.nga.gov/manifest/mms/99787013504896.json">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>

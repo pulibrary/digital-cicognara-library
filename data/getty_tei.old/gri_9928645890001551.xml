@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:dcterms="http://purl.org/dc/terms/"
+     xmlns:gettyterms="http://portal.getty.edu/terms/gri/"
+     xmlns:local="http://library.princeton.edu"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Dialogo di m. Lodovico Dolce : nel quale si ragiona delle qualità, diversità, e proprietà, de i colori.</title>
+            <respStmt>
+               <orgName>Getty Research Institute</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Sessa, Giovanni Battista, active 1546-1602, printer.</authority>
+            <authority>Sessa, Melchiorre, active 1546-1600, printer.</authority>
+            <idno type="URI">http://portal.getty.edu/books/gri_9928645890001551</idno>
+            <idno type="URI">http://portal.getty.edu/api/zh837p</idno>
+            <idno>(OCoLC)11886149</idno>
+            <idno type="cico">113</idno>
+            <idno type="dcl">p53</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Dialogo di m. Lodovico Dolce : nel quale si ragiona delle qualità, diversità, e proprietà, de i colori.</title>
+                  <respStmt>
+                     <persName>Dolce, Lodovico, 1508-1568</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>In Venetia : Appresso Gio. Battista, Marchio Sessa, et fratelli</publisher>
+                     <pubPlace>Italy Venice.</pubPlace>
+                     <date>[1565]</date>
+                     <date>1565</date>
+                  </imprint>
+                  <extent>87, [1] leaves</extent>
+               </monogr>
+               <relatedItem type="manifest"
+                            target="https://media.getty.edu/iiif/manifest/3696fd3f-e6a4-4e3a-b49e-0e341bbc26cd"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Color -- Early works to 1800.</term>
+               <term>Color -- Psychological aspects -- Early works to 1800.</term>
+               <term>Color.</term>
+               <term>Color -- Psychological aspects.</term>
+               <term>ND1279 .D68d</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json"
+             url="https://media.getty.edu/iiif/manifest/3696fd3f-e6a4-4e3a-b49e-0e341bbc26cd">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>

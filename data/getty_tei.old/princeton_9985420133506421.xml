@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:dcterms="http://purl.org/dc/terms/"
+     xmlns:gettyterms="http://portal.getty.edu/terms/gri/"
+     xmlns:local="http://library.princeton.edu"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>S.D.N. D. Sixti divina providentia Papae V [microform] : erectio capellae ad praesepe Iesu Christi in Basilica S. Mariae Maioris de Vrbe, cum praepositi, sacriftae, capellanorum &amp; beneficiatorum institutione, atque Cardinales portectoris, &amp; iudicis causarum ad eos spectantium iurisdictione.</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <authority>Leopoldo Cicognara Program (University of Illinois at Urbana-Champaign)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985420133506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/607p07</idno>
+            <idno type="cico">3579</idno>
+            <idno type="dcl">1gx</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>S.D.N. D. Sixti divina providentia Papae V [microform] : erectio capellae ad praesepe Iesu Christi in Basilica S. Mariae Maioris de Vrbe, cum praepositi, sacriftae, capellanorum &amp; beneficiatorum institutione, atque Cardinales portectoris, &amp; iudicis causarum ad eos spectantium iurisdictione.</title>
+                  <textLang>Latin</textLang>
+                  <imprint>
+                     <publisher>Romae : Ex typographia reuerendae Camerae Apostolicae</publisher>
+                     <date>[1587]</date>
+                     <date>1587</date>
+                  </imprint>
+                  <extent>[8] p.</extent>
+                  <extent>1 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest"
+                            target="https://figgy.princeton.edu/concern/scanned_resources/02d7e716-bc7a-431f-9c17-92f122eec76d/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Sixtus V, Pope, 1520-1590 -- Monuments.</term>
+               <term>Santa Maria Maggiore (Church : Rome, Italy)</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json"
+             url="https://figgy.princeton.edu/concern/scanned_resources/02d7e716-bc7a-431f-9c17-92f122eec76d/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>

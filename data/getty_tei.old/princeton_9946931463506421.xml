@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:dcterms="http://purl.org/dc/terms/"
+     xmlns:gettyterms="http://portal.getty.edu/terms/gri/"
+     xmlns:local="http://library.princeton.edu"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>L'état des arts, en Angleterre / par M. Rouquet, de l'Académie Royage de Peinture &amp; de Sculpture.</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9946931463506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/p18h7j</idno>
+            <idno>(OCoLC)4960034</idno>
+            <idno type="cico">51</idno>
+            <idno type="dcl">208</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>L'état des arts, en Angleterre / par M. Rouquet, de l'Académie Royage de Peinture &amp; de Sculpture.</title>
+                  <respStmt>
+                     <persName>Rouquet, Jean André, 1701-1758.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>French</textLang>
+                  <imprint>
+                     <publisher>Paris : C.A. Jombert</publisher>
+                     <pubPlace>England.</pubPlace>
+                     <pubPlace>England</pubPlace>
+                     <date>1755</date>
+                  </imprint>
+                  <extent>[6], 211, [1] p.</extent>
+               </monogr>
+               <relatedItem type="manifest"
+                            target="https://figgy.princeton.edu/concern/scanned_resources/06971b6e-4f39-4ab5-94b9-cef2294ed8e8/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Art -- England.</term>
+               <term>England -- Foreign public opinion, French.</term>
+               <term>N6766 .R6</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json"
+             url="https://figgy.princeton.edu/concern/scanned_resources/06971b6e-4f39-4ab5-94b9-cef2294ed8e8/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>

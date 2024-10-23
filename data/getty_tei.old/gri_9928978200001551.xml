@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:dcterms="http://purl.org/dc/terms/"
+     xmlns:gettyterms="http://portal.getty.edu/terms/gri/"
+     xmlns:local="http://library.princeton.edu"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Emblemata / Andreæ Alciati ; cum commentariis Clavdii Minois ... ; &amp; notis Lavrentii Pignorii Patavini ; ... accesserunt in fine Federici Morelli ... corollaria &amp; monita ad eadem emblemata ; cvm indice triplici.</title>
+            <respStmt>
+               <orgName>Getty Research Institute</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Mignault, Claude, approximately 1536-1606.</authority>
+            <authority>Thuille, Johann, 1590-1630.</authority>
+            <idno type="URI">http://portal.getty.edu/books/gri_9928978200001551</idno>
+            <idno type="URI">http://portal.getty.edu/api/560s4v</idno>
+            <idno>(OCoLC)8189771</idno>
+            <idno type="cico">1837B</idno>
+            <idno type="dcl">q86</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Emblemata / Andreæ Alciati ; cum commentariis Clavdii Minois ... ; &amp; notis Lavrentii Pignorii Patavini ; ... accesserunt in fine Federici Morelli ... corollaria &amp; monita ad eadem emblemata ; cvm indice triplici.</title>
+                  <respStmt>
+                     <persName>Alciati, Andrea, 1492-1550</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Latin</textLang>
+                  <imprint>
+                     <publisher>Patauij [Padua] : Typis Pauli Frambotti Bibliopolæ</publisher>
+                     <date>MDCLXI [1661]</date>
+                     <date>1661</date>
+                  </imprint>
+                  <extent>lxxx, 1001, [1] pages</extent>
+               </monogr>
+               <relatedItem type="manifest"
+                            target="https://media.getty.edu/iiif/manifest/02c4e170-059f-4803-a121-73aac0e7842c"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Emblems -- Early works to 1800.</term>
+               <term>Emblems</term>
+               <term>N7740 .A34 1661</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json"
+             url="https://media.getty.edu/iiif/manifest/02c4e170-059f-4803-a121-73aac0e7842c">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>

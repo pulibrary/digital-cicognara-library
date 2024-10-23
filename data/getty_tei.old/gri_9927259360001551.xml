@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:dcterms="http://purl.org/dc/terms/"
+     xmlns:gettyterms="http://portal.getty.edu/terms/gri/"
+     xmlns:local="http://library.princeton.edu"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Illvstrivm imagines.</title>
+            <respStmt>
+               <orgName>Getty Research Institute</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Mazochius, Jacobus, active 1506-1527, printer.</authority>
+            <authority>Carpi, Ugo da, 1480-approximately 1532</authority>
+            <authority>Palumba, Giovanni Battista, active 16th century.</authority>
+            <idno type="URI">http://portal.getty.edu/books/gri_9927259360001551</idno>
+            <idno type="URI">http://portal.getty.edu/api/3d454c</idno>
+            <idno type="URI">http://portal.getty.edu/api/c4129x</idno>
+            <idno>(OCoLC)8658232</idno>
+            <idno type="cico">2851</idno>
+            <idno type="dcl">76k</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Illvstrivm imagines.</title>
+                  <respStmt>
+                     <persName>Fulvio, Andrea, active 1510-1543</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Latin</textLang>
+                  <imprint>
+                     <publisher>Impræssum Romæ apud Iacobum Mazochium Romanȩ achademiæ bibliopo</publisher>
+                     <pubPlace>Rome</pubPlace>
+                     <pubPlace>Rome (Empire)</pubPlace>
+                     <date>anno M.D.X. VII. die XV. mensis Nouembris</date>
+                     <date>1517</date>
+                  </imprint>
+                  <extent>cxx leaves</extent>
+               </monogr>
+               <relatedItem type="manifest"
+                            target="https://media.getty.edu/iiif/manifest/18d3dfa0-88b8-4c18-a8b9-8277814359a1https://media.getty.edu/iiif/manifest/6fb12784-f46f-46d9-8eb4-318733fe88a8"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>History, Ancient -- Portraits.</term>
+               <term>Mazochius, Jacobus, active 1506-1527 -- Numismatic collections.</term>
+               <term>Emperors -- Rome -- Portraits.</term>
+               <term>Numismatics, Roman -- Early works to 1800.</term>
+               <term>Rome -- Biography -- Portraits.</term>
+               <term>Rome -- Kings and rulers -- Portraits.</term>
+               <term>Numismatics, Roman.</term>
+               <term>Numismatics -- Private collections.</term>
+               <term>Kings and rulers.</term>
+               <term>Emperors.</term>
+               <term>History, Ancient.</term>
+               <term>Rome (Empire)</term>
+               <term>N7585 .F8</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json"
+             url="https://media.getty.edu/iiif/manifest/18d3dfa0-88b8-4c18-a8b9-8277814359a1">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+   <facsimile>
+      <media mimeType="application/json"
+             url="https://media.getty.edu/iiif/manifest/6fb12784-f46f-46d9-8eb4-318733fe88a8">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>

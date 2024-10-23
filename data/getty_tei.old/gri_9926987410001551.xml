@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:dcterms="http://purl.org/dc/terms/"
+     xmlns:gettyterms="http://portal.getty.edu/terms/gri/"
+     xmlns:local="http://library.princeton.edu"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Monumens érigés en France à la gloire de Louis XV, précédés d'un tableau du progrès des arts &amp; des sciences sous ce règne, ainsi que d'une description des honneurs &amp; des monumens de gloire accordés aux grands hommes, tant chez les anciens que chez les modernes; et suivis d'un choix des principaux projets qui ont été proposés, pour placer la statue du roi dans les differens quartiers de Paris: par M. Patte ... Ouvrage enrichi de cinquante-sept figures gravées en taille-douce, représentant les places du roi, &amp; autres.</title>
+            <respStmt>
+               <orgName>Getty Research Institute</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <idno type="URI">http://portal.getty.edu/books/gri_9926987410001551</idno>
+            <idno type="URI">http://portal.getty.edu/api/w91x0q</idno>
+            <idno>(OCoLC)2480159</idno>
+            <idno type="cico">3535</idno>
+            <idno type="dcl">v5m</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Monumens érigés en France à la gloire de Louis XV, précédés d'un tableau du progrès des arts &amp; des sciences sous ce règne, ainsi que d'une description des honneurs &amp; des monumens de gloire accordés aux grands hommes, tant chez les anciens que chez les modernes; et suivis d'un choix des principaux projets qui ont été proposés, pour placer la statue du roi dans les differens quartiers de Paris: par M. Patte ... Ouvrage enrichi de cinquante-sept figures gravées en taille-douce, représentant les places du roi, &amp; autres.</title>
+                  <respStmt>
+                     <persName>Patte, Pierre, 1723-1814</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>French</textLang>
+                  <imprint>
+                     <publisher>Paris, Rozet</publisher>
+                     <pubPlace>France.</pubPlace>
+                     <pubPlace>France</pubPlace>
+                     <date>1767</date>
+                  </imprint>
+                  <extent>2 preliminary leaves, 236, [2] pages</extent>
+               </monogr>
+               <relatedItem type="manifest"
+                            target="https://media.getty.edu/iiif/manifest/d3b2f6ec-9dd8-48f3-9dbf-8cb748ec6fef"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Architecture -- France.</term>
+               <term>Monuments -- France.</term>
+               <term>Louis XV, King of France, 1710-1774</term>
+               <term>France -- History -- Louis XV, 1715-1774.</term>
+               <term>Louis XV, King of France, 1710-1774</term>
+               <term>Architecture.</term>
+               <term>Monuments.</term>
+               <term>France.</term>
+               <term>NA1046 .P3</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json"
+             url="https://media.getty.edu/iiif/manifest/d3b2f6ec-9dd8-48f3-9dbf-8cb748ec6fef">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>

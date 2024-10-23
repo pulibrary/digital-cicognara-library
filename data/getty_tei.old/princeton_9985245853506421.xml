@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:dcterms="http://purl.org/dc/terms/"
+     xmlns:gettyterms="http://portal.getty.edu/terms/gri/"
+     xmlns:local="http://library.princeton.edu"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Fiori d'ingegno, composizioni in lode d'vna bellissima effigie di primavera, opera del signor Carlo Marati famoso pittore romano .. [microform] / raccolti da Gio: Battista Magnavini ...</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Magnavini, Gio. Battista (Giovanni Battista)</authority>
+            <authority>Magnavini, Gio. Battista (Giovanni Battista) Filosofia del pennello.</authority>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <authority>Leopoldo Cicognara Program (University of Illinois at Urbana-Champaign)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985245853506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/z09g7c</idno>
+            <idno type="URI">http://portal.getty.edu/api/5x158t</idno>
+            <idno type="URI">http://portal.getty.edu/api/rz998d</idno>
+            <idno type="cico">1026</idno>
+            <idno type="dcl">88h</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Fiori d'ingegno, composizioni in lode d'vna bellissima effigie di primavera, opera del signor Carlo Marati famoso pittore romano .. [microform] / raccolti da Gio: Battista Magnavini ...</title>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>In Venezia : Presso Paolo Baglioni</publisher>
+                     <date>1685</date>
+                  </imprint>
+                  <extent>[36], 133 p.</extent>
+                  <extent>3 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest"
+                            target="https://figgy.princeton.edu/concern/scanned_resources/fa28e09b-a4d6-4f4a-92cd-61a2acfc702a/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Maratti, Carlo, 1625-1713.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json"
+             url="https://figgy.princeton.edu/concern/scanned_resources/fa28e09b-a4d6-4f4a-92cd-61a2acfc702a/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>

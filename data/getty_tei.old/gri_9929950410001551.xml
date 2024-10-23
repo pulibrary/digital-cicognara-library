@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:dcterms="http://purl.org/dc/terms/"
+     xmlns:gettyterms="http://portal.getty.edu/terms/gri/"
+     xmlns:local="http://library.princeton.edu"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Vite de' pittori, scultori e architetti bergamaschi / scritte dal conte cavalier Francesco Maria Tassi ; opera postuma.</title>
+            <respStmt>
+               <orgName>Getty Research Institute</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Mantelli, Girolamo</authority>
+            <authority>Roncali, Pietro.</authority>
+            <authority>Caccia, Ferdinando, 1689-1778</authority>
+            <idno type="URI">http://portal.getty.edu/books/gri_9929950410001551</idno>
+            <idno type="URI">http://portal.getty.edu/api/b7191b</idno>
+            <idno type="URI">http://portal.getty.edu/api/v11025</idno>
+            <idno>(OCoLC)23640701</idno>
+            <idno type="cico">2375</idno>
+            <idno type="dcl">292</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Vite de' pittori, scultori e architetti bergamaschi / scritte dal conte cavalier Francesco Maria Tassi ; opera postuma.</title>
+                  <respStmt>
+                     <persName>Tassi, Francesco Maria, 1710-1782</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>In Bergamo : Dalla stamperia Locatelli</publisher>
+                     <pubPlace>Italy</pubPlace>
+                     <pubPlace>Italy Bergamo.</pubPlace>
+                     <date>MDCCVIIC [1793]</date>
+                     <date>1793</date>
+                  </imprint>
+                  <extent>2 v.</extent>
+               </monogr>
+               <relatedItem type="manifest"
+                            target="https://media.getty.edu/iiif/manifest/7570ccb0-fab6-4d1a-a0d8-251e58ed7fcdhttps://media.getty.edu/iiif/manifest/8db154f7-38db-46c9-9371-c62eae109107"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Artists -- Italy -- Bergamo -- Biography -- Early works to 1800.</term>
+               <term>Architects -- Italy -- Bergamo -- Biography -- Early works to 1800.</term>
+               <term>Artists.</term>
+               <term>Italy -- Bergamo</term>
+               <term>N6921.B5 T3</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json"
+             url="https://media.getty.edu/iiif/manifest/7570ccb0-fab6-4d1a-a0d8-251e58ed7fcd">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+   <facsimile>
+      <media mimeType="application/json"
+             url="https://media.getty.edu/iiif/manifest/8db154f7-38db-46c9-9371-c62eae109107">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>

@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:dcterms="http://purl.org/dc/terms/"
+     xmlns:gettyterms="http://portal.getty.edu/terms/gri/"
+     xmlns:local="http://library.princeton.edu"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The ruins of Paestum, otherwise Posidonia, in Magna Graecia [microform] / by Thomas Major ...</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Barthélemy, J.-J. (Jean-Jacques), 1716-1795.</authority>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985406073506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/kw4t59</idno>
+            <idno type="cico">2680</idno>
+            <idno type="dcl">1pg</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>The ruins of Paestum, otherwise Posidonia, in Magna Graecia [microform] / by Thomas Major ...</title>
+                  <respStmt>
+                     <persName>Major, Thomas, 1720-1799.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>English</textLang>
+                  <imprint>
+                     <publisher>London : Published by T. Major ... :</publisher>
+                     <pubPlace>Italy</pubPlace>
+                     <pubPlace>Paestum (Italy)</pubPlace>
+                     <date>1768</date>
+                  </imprint>
+                  <extent>52 p., XXIIII leaves of plates</extent>
+                  <extent>8 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest"
+                            target="https://figgy.princeton.edu/concern/scanned_resources/47a87f06-d069-4d97-85d4-3a5e232f1c24/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Architecture -- Italy -- Paestum -- Early works to 1800.</term>
+               <term>Numismatics -- Italy -- Paestum -- Early works to 1800.</term>
+               <term>Paestum (Italy) -- Antiquities -- Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json"
+             url="https://figgy.princeton.edu/concern/scanned_resources/47a87f06-d069-4d97-85d4-3a5e232f1c24/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>

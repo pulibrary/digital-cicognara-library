@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:dcterms="http://purl.org/dc/terms/"
+     xmlns:gettyterms="http://portal.getty.edu/terms/gri/"
+     xmlns:local="http://library.princeton.edu"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Il mercurio errante delle grandezze di Roma, tanto antiche, che moderne / di Pietro Rossini, antiquario ... ; con l'aggiunta delle fabriche fatto fino al presente.</title>
+            <respStmt>
+               <orgName>Getty Research Institute</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Quojani, Gaetano.</authority>
+            <idno type="URI">http://portal.getty.edu/books/gri_9929044750001551</idno>
+            <idno type="URI">http://portal.getty.edu/api/t27m54</idno>
+            <idno>(OCoLC)23276818</idno>
+            <idno type="cico">3869E</idno>
+            <idno type="dcl">svj</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Il mercurio errante delle grandezze di Roma, tanto antiche, che moderne / di Pietro Rossini, antiquario ... ; con l'aggiunta delle fabriche fatto fino al presente.</title>
+                  <respStmt>
+                     <persName>Rossini, Pietro</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>In Roma : Presso Gaetano Quojani libraro alle Convertite al Corso</publisher>
+                     <pubPlace>Rome (Italy)</pubPlace>
+                     <pubPlace>Italy</pubPlace>
+                     <pubPlace>Italy Rome.</pubPlace>
+                     <date>1776</date>
+                  </imprint>
+                  <extent>2 v. (xliii, 439 p., [6] folded leaves of plates ; 526, 18 p., [10] folded leaves of plates)</extent>
+               </monogr>
+               <relatedItem type="manifest"
+                            target="https://media.getty.edu/iiif/manifest/fc244619-0f4a-4964-a859-98e07b11c090"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Rome (Italy) -- Description and travel -- Early works to 1800.</term>
+               <term>Rome (Italy) -- Antiquities -- Early works to 1800.</term>
+               <term>Rome (Italy) -- Buildings, structures, etc. -- Early works to 1800.</term>
+               <term>Antiquities.</term>
+               <term>Travel.</term>
+               <term>Italy -- Rome.</term>
+               <term>DG805 .R83 1776</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json"
+             url="https://media.getty.edu/iiif/manifest/fc244619-0f4a-4964-a859-98e07b11c090">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>

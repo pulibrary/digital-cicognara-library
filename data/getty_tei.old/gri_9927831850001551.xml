@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:dcterms="http://purl.org/dc/terms/"
+     xmlns:gettyterms="http://portal.getty.edu/terms/gri/"
+     xmlns:local="http://library.princeton.edu"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Descrizione dell' opera a fresco eseguita nel 1795 nel tempio di S. Maria presso S. Celso in Milano dal pittore Andrea Appiani.</title>
+            <respStmt>
+               <orgName>Getty Research Institute</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Appiani, Andrea, 1754-1817.</authority>
+            <idno type="URI">http://portal.getty.edu/books/gri_9927831850001551</idno>
+            <idno type="URI">http://portal.getty.edu/api/4n151b</idno>
+            <idno>(OCoLC)145947448</idno>
+            <idno type="cico">1253A</idno>
+            <idno type="dcl">nzb</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Descrizione dell' opera a fresco eseguita nel 1795 nel tempio di S. Maria presso S. Celso in Milano dal pittore Andrea Appiani.</title>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>Milano : Presso Pirotta e Maspero</publisher>
+                     <pubPlace>Italy</pubPlace>
+                     <pubPlace>Italy Milan.</pubPlace>
+                     <date>1803</date>
+                  </imprint>
+                  <extent>XVI pages</extent>
+               </monogr>
+               <relatedItem type="manifest"
+                            target="https://media.getty.edu/iiif/manifest/818c227c-f437-4293-ad6c-51c722943efb"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Appiani, Andrea, 1754-1817.</term>
+               <term>Santa Maria presso San Celso (Church : Milan, Italy)</term>
+               <term>Mural painting and decoration -- Italy -- Milan.</term>
+               <term>Church decoration and ornament -- Italy -- Milan.</term>
+               <term>Appiani, Andrea, 1754-1817</term>
+               <term>Santa Maria presso San Celso (Church : Milan, Italy)</term>
+               <term>Church decoration and ornament.</term>
+               <term>Mural painting and decoration.</term>
+               <term>Italy -- Milan</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json"
+             url="https://media.getty.edu/iiif/manifest/818c227c-f437-4293-ad6c-51c722943efb">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>

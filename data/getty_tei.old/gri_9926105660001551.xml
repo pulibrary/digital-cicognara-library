@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:dcterms="http://purl.org/dc/terms/"
+     xmlns:gettyterms="http://portal.getty.edu/terms/gri/"
+     xmlns:local="http://library.princeton.edu"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Notizie istoriche intorno al Parlagio, ovvero anfiteatro di Firenze / di Domenico Maria Manni accademico fiorentino.</title>
+            <respStmt>
+               <orgName>Getty Research Institute</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Borghini, Vincenzo, 1515-1580</authority>
+            <authority>La Bastie, Joseph de Bimard, baron de, 1703-1742</authority>
+            <idno type="URI">http://portal.getty.edu/books/gri_9926105660001551</idno>
+            <idno type="URI">http://portal.getty.edu/api/dm8s85</idno>
+            <idno>(OCoLC)38036659</idno>
+            <idno type="cico">794</idno>
+            <idno type="dcl">5cq</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Notizie istoriche intorno al Parlagio, ovvero anfiteatro di Firenze / di Domenico Maria Manni accademico fiorentino.</title>
+                  <respStmt>
+                     <persName>Manni, Domenico Maria, 1690-1788</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>In Bologna : Per Tommaso Colli</publisher>
+                     <pubPlace>Italy</pubPlace>
+                     <pubPlace>Florence (Italy)</pubPlace>
+                     <date>1746</date>
+                  </imprint>
+                  <extent>XII, 39, [1] p., [1] leaf of plates</extent>
+               </monogr>
+               <relatedItem type="manifest"
+                            target="https://media.getty.edu/iiif/manifest/b53bf6cd-3d61-4b69-ba89-a0af6b9c6cdd"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Amphitheaters -- Italy -- Florence.</term>
+               <term>Florence (Italy) -- Buildings, structures, etc.</term>
+               <term>Amphitheaters</term>
+               <term>Buildings</term>
+               <term>Italy -- Florence</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json"
+             url="https://media.getty.edu/iiif/manifest/b53bf6cd-3d61-4b69-ba89-a0af6b9c6cdd">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>

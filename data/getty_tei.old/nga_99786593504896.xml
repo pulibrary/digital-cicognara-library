@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:dcterms="http://purl.org/dc/terms/"
+     xmlns:gettyterms="http://portal.getty.edu/terms/gri/"
+     xmlns:local="http://library.princeton.edu"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Catalogue raisonné des differens effets curieux &amp; rares, contenus dans le cabinet de feu M. le Chevalier de La Roque / par E. F. Gersaint.</title>
+            <respStmt>
+               <orgName>National Gallery of Art Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Gersaint, E. F. (Edme-François), -1750.</authority>
+            <idno type="URI">http://portal.getty.edu/books/nga_99786593504896</idno>
+            <idno type="URI">http://portal.getty.edu/api/mn9j0d</idno>
+            <idno>(OCoLC)81164042</idno>
+            <idno type="cico">4407</idno>
+            <idno type="dcl">d5h</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Catalogue raisonné des differens effets curieux &amp; rares, contenus dans le cabinet de feu M. le Chevalier de La Roque / par E. F. Gersaint.</title>
+                  <respStmt>
+                     <persName>La Roque, Jean de, 1661-1745.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>French</textLang>
+                  <imprint>
+                     <publisher>Paris : J. Barois, P.-G. Simon</publisher>
+                     <date>1745</date>
+                  </imprint>
+                  <extent>xx, 258 p.</extent>
+               </monogr>
+               <relatedItem type="manifest"
+                            target="https://libraryimage.nga.gov/manifest/mms/99786593504896.json"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>La Roque, Jean de, 1661-1745 -- Art collection -- Catalogs.</term>
+               <term>Gems.</term>
+               <term>Art objects -- Early works to 1800.</term>
+               <term>Rocks.</term>
+               <term>Shells.</term>
+               <term>Private collections -- Catalogs.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json"
+             url="https://libraryimage.nga.gov/manifest/mms/99786593504896.json">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>

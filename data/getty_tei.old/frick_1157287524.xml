@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:dcterms="http://purl.org/dc/terms/"
+     xmlns:gettyterms="http://portal.getty.edu/terms/gri/"
+     xmlns:local="http://library.princeton.edu"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Vita di Anton Domenico Gabbiani / pittor fiorentino descritta da Ignazio Enrico Hugford ; suo discepolo de dal medesimo dedicata all' illustrissimo signore Pietro Mariette.</title>
+            <respStmt>
+               <orgName>Frick Art Reference Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Mariette, Pierre-Jean, 1694-1774.</authority>
+            <authority>Gabbiani, Anton Domenico, 1652-1726. Raccolta di cento pensieri diversi di Anton Domenico Gabbiani, pittor fiorentino.</authority>
+            <idno type="URI">http://portal.getty.edu/books/frick_1157287524</idno>
+            <idno type="URI">http://portal.getty.edu/api/5z5c9c</idno>
+            <idno>(OCoLC)1157287524</idno>
+            <idno type="cico">2293.</idno>
+            <idno type="dcl">z85</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Vita di Anton Domenico Gabbiani / pittor fiorentino descritta da Ignazio Enrico Hugford ; suo discepolo de dal medesimo dedicata all' illustrissimo signore Pietro Mariette.</title>
+                  <respStmt>
+                     <persName>Hugford, Ignazio Enrico, 1703-1778.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <date>1762</date>
+                  </imprint>
+                  <extent>1 online resource (xi pages, 1 leaf, 72 pages)</extent>
+               </monogr>
+               <relatedItem type="manifest"
+                            target="https://imagesdigitalcollections.frick.org/compare/barcode/31072003862523"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Gabbiani, Anton Domenico, 1652-1726.</term>
+               <term>Gabbiani, Anton Domenico, 1652-1726.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json"
+             url="https://imagesdigitalcollections.frick.org/compare/barcode/31072003862523">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>

@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:dcterms="http://purl.org/dc/terms/"
+     xmlns:gettyterms="http://portal.getty.edu/terms/gri/"
+     xmlns:local="http://library.princeton.edu"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Catalogo degli antichi monumenti dissotterrati dalla discoperta città di Ercolano .. [microform] / composto e steso da monsignor Ottavio Antonio Bayardi ...</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <authority>Leopoldo Cicognara Program (University of Illinois at Urbana-Champaign)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985411783506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/t1322c</idno>
+            <idno type="cico">2645</idno>
+            <idno type="dcl">rvn</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Catalogo degli antichi monumenti dissotterrati dalla discoperta città di Ercolano .. [microform] / composto e steso da monsignor Ottavio Antonio Bayardi ...</title>
+                  <respStmt>
+                     <persName>Baiardi, Ottavio Antonio, 1694-1764.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>In Napoli : Nella Regia stampería di S. M</publisher>
+                     <pubPlace>Italy</pubPlace>
+                     <pubPlace>Herculaneum (Extinct city)</pubPlace>
+                     <date>1755</date>
+                  </imprint>
+                  <extent>XXII, 447 p.</extent>
+                  <extent>22 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest"
+                            target="https://figgy.princeton.edu/concern/scanned_resources/b9713145-a003-4a2c-b9ad-7cf7a166c113/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Art, Greco-Roman -- Italy -- Herculaneum (Extinct city).</term>
+               <term>Herculaneum (Extinct city) -- Early works to 1800.</term>
+               <term>Italy -- Antiquities -- Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json"
+             url="https://figgy.princeton.edu/concern/scanned_resources/b9713145-a003-4a2c-b9ad-7cf7a166c113/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>

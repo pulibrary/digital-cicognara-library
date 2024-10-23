@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:dcterms="http://purl.org/dc/terms/"
+     xmlns:gettyterms="http://portal.getty.edu/terms/gri/"
+     xmlns:local="http://library.princeton.edu"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Americae pars VII [microform] : verissima et iucundissima descriptio praecipuarum quarundam Indiae regionum &amp; insularum : quae quidem nullis ante haec tempora visae cognitaeque / iam primum ab Vlrico Fabro Straubingensi, multo cum periculo inuentae &amp; ab eodem summa diligentia consignatae fuerunt ; ex germanico in latinum sermonem conuersa autore M. Gotardo Artus Dantiscano ...</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Arthus, Gotthard, 1568-</authority>
+            <authority>Bry, Johann Israel de, -1611. America. Pars 7. Latin</authority>
+            <authority>Bry, Theodor de, 1528-1598. America. Pars 7. Latin.</authority>
+            <authority>Bry, Theodor de, 1528-1598. Collectiones peregrinationum in Indiam orientalem et Indiam occidentalem.</authority>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <authority>Leopoldo Cicognara Program (University of Illinois at Urbana-Champaign)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985445493506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/pd2s16</idno>
+            <idno type="cico">3970</idno>
+            <idno type="dcl">hvm</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Americae pars VII [microform] : verissima et iucundissima descriptio praecipuarum quarundam Indiae regionum &amp; insularum : quae quidem nullis ante haec tempora visae cognitaeque / iam primum ab Vlrico Fabro Straubingensi, multo cum periculo inuentae &amp; ab eodem summa diligentia consignatae fuerunt ; ex germanico in latinum sermonem conuersa autore M. Gotardo Artus Dantiscano ...</title>
+                  <respStmt>
+                     <persName>Schmidel, Ulrich, approximately 1505-approximately 1581.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Latin</textLang>
+                  <imprint>
+                     <publisher>[Francofurti ad Moenum] : Theodorici de Bry piae memoriae, relictae viduae &amp; filiorum</publisher>
+                     <pubPlace>America</pubPlace>
+                     <pubPlace>Argentina</pubPlace>
+                     <pubPlace>Paraguay</pubPlace>
+                     <date>1599</date>
+                  </imprint>
+                  <extent>62 p.</extent>
+                  <extent>2 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest"
+                            target="https://figgy.princeton.edu/concern/scanned_resources/a16b3a66-729c-4c98-9010-59154a0eee87/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Indians of South America.</term>
+               <term>America -- Early accounts to 1600.</term>
+               <term>America -- Discovery and exploration -- Spanish.</term>
+               <term>Argentina -- History -- 1535-1617.</term>
+               <term>Paraguay -- History -- To 1811.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json"
+             url="https://figgy.princeton.edu/concern/scanned_resources/a16b3a66-729c-4c98-9010-59154a0eee87/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>

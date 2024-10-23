@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:dcterms="http://purl.org/dc/terms/"
+     xmlns:gettyterms="http://portal.getty.edu/terms/gri/"
+     xmlns:local="http://library.princeton.edu"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Notitia vtraqve cum Orientis tum Occidentis vltra Arcadii Honoriiqve Caesarum tempora, illustre uetustatis monumentum, im[m]o thesaurus prorsum incomparabilis [microform] : praecedit aute[m] D. Andreae Alciati libellus, De magistratib[us] ciuilibusq[ue] ac militaribus officijs, partim ex hac ipsa Notitia, partim aliunde desumptus. Cuvi succedit Descriptio urbis Romae, quae sub titulo Pub. Victoris circumfertur: &amp; altera urbis Constantinopolitanae incerto autore, nunqua[m] antehac typis excusa, imperialium uidelicet ac primariaru[m] sedium utriusq[ue] reipub : sub iungitur Notitiis uetustus liber De rebus bellicis ad Theodosium Aug &amp; filios eius Arcadium atq[ue] Honorium, ut uidetur, scriptus incerto autore. Item, ne quid de antiquo exemplari omitteretur, Disputatio Adriani Aug. &amp; Epicteti philosophi.</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Alciati, Andrea, 1492-1550. De magistratibus civilibusque &amp; militaribus officiis.</authority>
+            <authority>Gelen, Sigmund, 1497-1554.</authority>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <authority>Leopoldo Cicognara Program (University of Illinois at Urbana-Champaign)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985428573506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/fq1v39</idno>
+            <idno type="cico">4058A</idno>
+            <idno type="cico">4058</idno>
+            <idno type="dcl">26b</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Notitia vtraqve cum Orientis tum Occidentis vltra Arcadii Honoriiqve Caesarum tempora, illustre uetustatis monumentum, im[m]o thesaurus prorsum incomparabilis [microform] : praecedit aute[m] D. Andreae Alciati libellus, De magistratib[us] ciuilibusq[ue] ac militaribus officijs, partim ex hac ipsa Notitia, partim aliunde desumptus. Cuvi succedit Descriptio urbis Romae, quae sub titulo Pub. Victoris circumfertur: &amp; altera urbis Constantinopolitanae incerto autore, nunqua[m] antehac typis excusa, imperialium uidelicet ac primariaru[m] sedium utriusq[ue] reipub : sub iungitur Notitiis uetustus liber De rebus bellicis ad Theodosium Aug &amp; filios eius Arcadium atq[ue] Honorium, ut uidetur, scriptus incerto autore. Item, ne quid de antiquo exemplari omitteretur, Disputatio Adriani Aug. &amp; Epicteti philosophi.</title>
+                  <textLang>Latin</textLang>
+                  <imprint>
+                     <publisher>Basileae : [Apvd Hieronymvm Frobenivm, et Nicolavm Episcopivm]</publisher>
+                     <pubPlace>Rome</pubPlace>
+                     <date>1552</date>
+                  </imprint>
+                  <extent>[214] p.</extent>
+                  <extent>4 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest"
+                            target="https://figgy.princeton.edu/concern/scanned_resources/53598d3b-7b08-4b3b-bf45-840cc443b70b/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Rome -- Army -- Lists.</term>
+               <term>Rome -- Military antiquities.</term>
+               <term>Rome -- Officials and employees.</term>
+               <term>Rome -- Politics and government -- 284-476.</term>
+               <term>Rome -- Registers.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json"
+             url="https://figgy.princeton.edu/concern/scanned_resources/53598d3b-7b08-4b3b-bf45-840cc443b70b/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>

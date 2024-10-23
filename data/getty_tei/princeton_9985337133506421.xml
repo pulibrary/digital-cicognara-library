@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:dcterms="http://purl.org/dc/terms/"
+     xmlns:gettyterms="http://portal.getty.edu/terms/gri/"
+     xmlns:local="http://library.princeton.edu"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>L'imprese della M.C. di D. Filippo d'Austria II. Re de Spagna rappresentate nel tumulo per la sua morte eretto dalla fedelisima Città Aquila [microform] / ordinate, descritte &amp; dichiarate da Felice Benedetti ...</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985337133506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/cs919k</idno>
+            <idno type="cico">1845</idno>
+            <idno type="dcl">p5b</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>L'imprese della M.C. di D. Filippo d'Austria II. Re de Spagna rappresentate nel tumulo per la sua morte eretto dalla fedelisima Città Aquila [microform] / ordinate, descritte &amp; dichiarate da Felice Benedetti ...</title>
+                  <respStmt>
+                     <persName>Benedetti, Felice.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>Nell'Aquila : Appresso Lepido Facij</publisher>
+                     <date>1599</date>
+                  </imprint>
+                  <extent>99 p.</extent>
+                  <extent>2 microfiches : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest"
+                            target="https://figgy.princeton.edu/concern/scanned_resources/ac4406ab-da61-472e-a1c8-d876e42705f1/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Philip II, King of Spain, 1527-1598 -- Monuments.</term>
+               <term>Philip II, King of Spain, 1527-1598 -- Tombs.</term>
+               <term>Emblems -- Early works to 1800.</term>
+               <term>Mottoes -- Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json"
+             url="https://figgy.princeton.edu/concern/scanned_resources/ac4406ab-da61-472e-a1c8-d876e42705f1/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>

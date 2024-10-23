@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:dcterms="http://purl.org/dc/terms/"
+     xmlns:gettyterms="http://portal.getty.edu/terms/gri/"
+     xmlns:local="http://library.princeton.edu"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>De Superstitione &amp; Vinculis Daemonum Secundum Aegyptiorum Et Chaldaeorum Dogmata Iuxta Etiam Tychonis Calendarium Accurate Emendatum / [Ioseph Fortunatus De Grippis].</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <idno type="URI">http://portal.getty.edu/books/princeton_99100897153506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/xh227r</idno>
+            <idno>(OCoLC)313492755</idno>
+            <idno type="cico">4710</idno>
+            <idno type="dcl">q2k</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>De Superstitione &amp; Vinculis Daemonum Secundum Aegyptiorum Et Chaldaeorum Dogmata Iuxta Etiam Tychonis Calendarium Accurate Emendatum / [Ioseph Fortunatus De Grippis].</title>
+                  <respStmt>
+                     <persName>Greppi, Fortunato.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Latin</textLang>
+                  <imprint>
+                     <publisher>Mediolani : Auctor</publisher>
+                     <date>1805</date>
+                  </imprint>
+                  <extent>2 Mikrofiches : 24x.</extent>
+               </monogr>
+               <relatedItem type="manifest"
+                            target="https://figgy.princeton.edu/concern/scanned_resources/79dd1b6b-af50-46b8-ae68-64f9dde020db/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>BF1600</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json"
+             url="https://figgy.princeton.edu/concern/scanned_resources/79dd1b6b-af50-46b8-ae68-64f9dde020db/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>

@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:dcterms="http://purl.org/dc/terms/"
+     xmlns:gettyterms="http://portal.getty.edu/terms/gri/"
+     xmlns:local="http://library.princeton.edu"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Relazione del solenne funerale e catafalco fatto dalli padri della Compagnia di Giesù nella loro Chiesa della Casa Professa : a tutti li loro fondatori e benefattori per tutt il mondo defonti in questo primo lor secolo : con sacrificij &amp; orazioni per tre giorni continui.</title>
+            <respStmt>
+               <orgName>Getty Research Institute</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Geradi, Antonio, active 17th century.</authority>
+            <idno type="URI">http://portal.getty.edu/books/gri_9924046440001551</idno>
+            <idno type="URI">http://portal.getty.edu/api/sg0w0n</idno>
+            <idno>(OCoLC)503006818</idno>
+            <idno type="cico">1447</idno>
+            <idno type="dcl">33s</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Relazione del solenne funerale e catafalco fatto dalli padri della Compagnia di Giesù nella loro Chiesa della Casa Professa : a tutti li loro fondatori e benefattori per tutt il mondo defonti in questo primo lor secolo : con sacrificij &amp; orazioni per tre giorni continui.</title>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>In Roma : Appresso Vincenzo Bianchi :</publisher>
+                     <pubPlace>Rome (Italy)</pubPlace>
+                     <pubPlace>Italy</pubPlace>
+                     <date>1639</date>
+                  </imprint>
+                  <extent>[12] pages</extent>
+               </monogr>
+               <relatedItem type="manifest"
+                            target="https://media.getty.edu/iiif/manifest/09510704-9c0b-476c-820b-42d9347ab2e6"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Jesuits -- Anniversaries, etc.</term>
+               <term>Jesuits.</term>
+               <term>Rome (Italy) -- Religious life and customs -- Early works to 1800.</term>
+               <term>Anniversaries.</term>
+               <term>Italy -- Rome.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json"
+             url="https://media.getty.edu/iiif/manifest/09510704-9c0b-476c-820b-42d9347ab2e6">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>

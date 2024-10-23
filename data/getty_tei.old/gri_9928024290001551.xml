@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:dcterms="http://purl.org/dc/terms/"
+     xmlns:gettyterms="http://portal.getty.edu/terms/gri/"
+     xmlns:local="http://library.princeton.edu"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>La pittvra trionfante / da Givlio Cesare Gigli ; scritta in quattro capitoli.</title>
+            <respStmt>
+               <orgName>Getty Research Institute</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fialetti, Odoardo, 1573-1638</authority>
+            <authority>Palma, il Giovane, 1544-1628</authority>
+            <idno type="URI">http://portal.getty.edu/books/gri_9928024290001551</idno>
+            <idno type="URI">http://portal.getty.edu/api/1p1v8k</idno>
+            <idno>(OCoLC)80343165</idno>
+            <idno type="cico">987</idno>
+            <idno type="dcl">vnx</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>La pittvra trionfante / da Givlio Cesare Gigli ; scritta in quattro capitoli.</title>
+                  <respStmt>
+                     <persName>Gigli, Giulio Cesare, active 17th century</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>In Venezia : Da Giouanni Alberti</publisher>
+                     <pubPlace>Italy</pubPlace>
+                     <date>1615</date>
+                  </imprint>
+                  <extent>[8], 32 p.</extent>
+               </monogr>
+               <relatedItem type="manifest"
+                            target="https://media.getty.edu/iiif/manifest/2586b8fc-dd70-4333-9962-02c111186fc7"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Painting -- Early works to 1800.</term>
+               <term>Painters -- Italy -- Early works to 1800.</term>
+               <term>Painters</term>
+               <term>Painting</term>
+               <term>Italy</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json"
+             url="https://media.getty.edu/iiif/manifest/2586b8fc-dd70-4333-9962-02c111186fc7">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:dcterms="http://purl.org/dc/terms/"
+     xmlns:gettyterms="http://portal.getty.edu/terms/gri/"
+     xmlns:local="http://library.princeton.edu"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Apparati e solennità dell'ingresso in Milano [microform] : dell'emin.mo e rever.mo sig.re Cardinale, Arcivescovo Cesare Monti alli 29. d'Aprile dell'anno 1635.</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <authority>Leopoldo Cicognara Program (University of Illinois at Urbana-Champaign)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985448993506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/vs945k</idno>
+            <idno type="cico">1441</idno>
+            <idno type="dcl">mrr</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Apparati e solennità dell'ingresso in Milano [microform] : dell'emin.mo e rever.mo sig.re Cardinale, Arcivescovo Cesare Monti alli 29. d'Aprile dell'anno 1635.</title>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>In Milano : Per Filippo Ghisolfi</publisher>
+                     <pubPlace>Italy</pubPlace>
+                     <date>1635</date>
+                  </imprint>
+                  <extent>68 p.</extent>
+                  <extent>2 microfiches : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest"
+                            target="https://figgy.princeton.edu/concern/scanned_resources/0ed2887c-5be7-4450-a700-48d8e3f860b3/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Monti, Cesare, 1593-1650.</term>
+               <term>Festivals -- Italy -- Milan -- History -- 17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json"
+             url="https://figgy.princeton.edu/concern/scanned_resources/0ed2887c-5be7-4450-a700-48d8e3f860b3/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>

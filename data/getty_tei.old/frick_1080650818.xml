@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:dcterms="http://purl.org/dc/terms/"
+     xmlns:gettyterms="http://portal.getty.edu/terms/gri/"
+     xmlns:local="http://library.princeton.edu"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Catalogue d'une riche collection de tableaux, dessins, gouaches, miniatures, estampes, groupes et figures en marbre et en bronze, vases de porphire ... par feu Claude Tolozan.</title>
+            <respStmt>
+               <orgName>Frick Art Reference Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Delaroche, Gregoire-Hippolyte, approximately 1750-approximately 1824.</authority>
+            <authority>Paillet, A. J. (Alexandre Joseph)</authority>
+            <idno type="URI">http://portal.getty.edu/books/frick_1080650818</idno>
+            <idno type="URI">http://portal.getty.edu/api/tm9572</idno>
+            <idno>(OCoLC)1080650818</idno>
+            <idno type="cico">4562.</idno>
+            <idno type="dcl">3sm</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Catalogue d'une riche collection de tableaux, dessins, gouaches, miniatures, estampes, groupes et figures en marbre et en bronze, vases de porphire ... par feu Claude Tolozan.</title>
+                  <respStmt>
+                     <persName>Paillet, A. J. (Alexandre Joseph)</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>French</textLang>
+                  <imprint>
+                     <publisher>Paris : A.J. Paillet</publisher>
+                     <date>1801</date>
+                  </imprint>
+                  <extent>1 online resource (viii, 132, (10) pages)</extent>
+               </monogr>
+               <relatedItem type="manifest"
+                            target="https://imagesdigitalcollections.frick.org/compare/barcode/31072002713651"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords/>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json"
+             url="https://imagesdigitalcollections.frick.org/compare/barcode/31072002713651">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>

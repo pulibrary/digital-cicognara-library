@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:dcterms="http://purl.org/dc/terms/"
+     xmlns:gettyterms="http://portal.getty.edu/terms/gri/"
+     xmlns:local="http://library.princeton.edu"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>De ponderibus et mensuris veterum Romanorum, Graecorum, Hebraeorum; nec non de valore pecuniae veteris, disquisitio. Accesserunt hac editione tabulae scioppii nummariae et ex variis auctoribus de pecunia Romanorum excerpta.</title>
+            <respStmt>
+               <orgName>Harvard Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <idno type="URI">http://portal.getty.edu/books/hul_990013567460203941</idno>
+            <idno type="URI">http://portal.getty.edu/api/c11n2c</idno>
+            <idno>(OCoLC)5573805</idno>
+            <idno type="cico">1641</idno>
+            <idno type="dcl">68p</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>De ponderibus et mensuris veterum Romanorum, Graecorum, Hebraeorum; nec non de valore pecuniae veteris, disquisitio. Accesserunt hac editione tabulae scioppii nummariae et ex variis auctoribus de pecunia Romanorum excerpta.</title>
+                  <respStmt>
+                     <persName>Eisenschmidt, Johann Caspar, 1656-1712.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Latin</textLang>
+                  <imprint>
+                     <publisher>Argentorati, Henr. Leon Steinii</publisher>
+                     <date>1737</date>
+                  </imprint>
+                  <extent>[14], 219, [13] p.</extent>
+               </monogr>
+               <relatedItem type="manifest"
+                            target="https://iiif.lib.harvard.edu/manifests/drs:494002330"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Weights and measures -- History</term>
+               <term>Numismatics</term>
+               <term>QC84 .E6 1737</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json"
+             url="https://iiif.lib.harvard.edu/manifests/drs:494002330">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>

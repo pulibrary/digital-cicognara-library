@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:dcterms="http://purl.org/dc/terms/"
+     xmlns:gettyterms="http://portal.getty.edu/terms/gri/"
+     xmlns:local="http://library.princeton.edu"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Guida del forestiero nella basilica di S. Antonio di Padova [microform] : con la dichiarazione delle cose le più cospicue, cioè pitture, sculture, ori, argenti, bronzi, marmi ec. e' così pure di ogni altra cosa più ammimilmente di altre chiese le più principali, e cose più riguardevoli della città.</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Corradi Bianchi, Pier Luigi.</authority>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <authority>Leopoldo Cicognara Program (University of Illinois at Urbana-Champaign)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985442073506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/hj3v31</idno>
+            <idno type="cico">4279</idno>
+            <idno type="dcl">f8n</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Guida del forestiero nella basilica di S. Antonio di Padova [microform] : con la dichiarazione delle cose le più cospicue, cioè pitture, sculture, ori, argenti, bronzi, marmi ec. e' così pure di ogni altra cosa più ammimilmente di altre chiese le più principali, e cose più riguardevoli della città.</title>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>In Padova : Si dispensa ... da Giacomo Anastasi</publisher>
+                     <pubPlace>Italy</pubPlace>
+                     <pubPlace>Padua (Italy)</pubPlace>
+                     <date>[1768]</date>
+                     <date>1768</date>
+                  </imprint>
+                  <extent>24 p.</extent>
+                  <extent>1 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest"
+                            target="https://figgy.princeton.edu/concern/scanned_resources/ef124231-5df3-4984-ad9e-eb013c3eb4f0/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Basilica di S. Antonio di Padova.</term>
+               <term>Art -- Italy -- Padua -- Guidebooks -- Early works to 1800.</term>
+               <term>Padua (Italy) -- Buildings, structures, etc. -- Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json"
+             url="https://figgy.princeton.edu/concern/scanned_resources/ef124231-5df3-4984-ad9e-eb013c3eb4f0/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>

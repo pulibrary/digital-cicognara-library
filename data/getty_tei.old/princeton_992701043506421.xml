@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:dcterms="http://purl.org/dc/terms/"
+     xmlns:gettyterms="http://portal.getty.edu/terms/gri/"
+     xmlns:local="http://library.princeton.edu"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>L'antiquità di Roma : sito imperadori, famiglie, statue, chiese, corpi santi, reliquie, pontefici, &amp; Cardinali di essa / dal Luigi Contarino.</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Tasso, Torquato, 1544-1595. Secretario. 1611.</authority>
+            <authority>Tasso, Torquato, 1544-1595. Correspondence. Volume 2. 1611.</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_992701043506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/52503k</idno>
+            <idno>(OCoLC)29283158</idno>
+            <idno type="cico">3769</idno>
+            <idno type="dcl">8wb</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>L'antiquità di Roma : sito imperadori, famiglie, statue, chiese, corpi santi, reliquie, pontefici, &amp; Cardinali di essa / dal Luigi Contarino.</title>
+                  <respStmt>
+                     <persName>Contarino, Luigi.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>Venetia : F. Ziletti</publisher>
+                     <pubPlace>Rome (Italy)</pubPlace>
+                     <date>1575</date>
+                  </imprint>
+                  <extent>[14] 115, [6] p.</extent>
+               </monogr>
+               <relatedItem type="manifest"
+                            target="https://figgy.princeton.edu/concern/scanned_resources/a768b83b-9fd7-4744-b194-fc6c1c69a4f3/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Rome (Italy) -- Description and travel.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json"
+             url="https://figgy.princeton.edu/concern/scanned_resources/a768b83b-9fd7-4744-b194-fc6c1c69a4f3/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>

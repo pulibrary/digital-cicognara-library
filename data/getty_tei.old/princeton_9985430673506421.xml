@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:dcterms="http://purl.org/dc/terms/"
+     xmlns:gettyterms="http://portal.getty.edu/terms/gri/"
+     xmlns:local="http://library.princeton.edu"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>D'enombrement tant des corps des saints [microform] : que de ceux des Rois, des Reines, &amp; des autres, dont les tombeaux sont dans l'Eglise Royale de S. Denys et raretéts qui s'y voyent.</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <authority>Leopoldo Cicognara Program (University of Illinois at Urbana-Champaign)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985430673506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/9z5p2j</idno>
+            <idno type="cico">4289</idno>
+            <idno type="dcl">qzm</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>D'enombrement tant des corps des saints [microform] : que de ceux des Rois, des Reines, &amp; des autres, dont les tombeaux sont dans l'Eglise Royale de S. Denys et raretéts qui s'y voyent.</title>
+                  <textLang>French</textLang>
+                  <imprint>
+                     <publisher>A Paris : De l'imprimerie de Jacques Chardon</publisher>
+                     <pubPlace>Saint-Denis</pubPlace>
+                     <pubPlace>France</pubPlace>
+                     <date>1715</date>
+                  </imprint>
+                  <extent>16 p.</extent>
+                  <extent>1 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest"
+                            target="https://figgy.princeton.edu/concern/scanned_resources/c2fc4f7c-148b-48b9-9fce-9f813e2d945f/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Abbaye de Saint-Denis (Saint-Denis, France) -- Early works to 1800.</term>
+               <term>Église abbatiale de Saint-Denis (Saint-Denis, France) -- Early works to 1800.</term>
+               <term>Religious articles -- Saint-Denis -- Early works to 1800.</term>
+               <term>Tombs -- France -- Saint-Denis -- Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json"
+             url="https://figgy.princeton.edu/concern/scanned_resources/c2fc4f7c-148b-48b9-9fce-9f813e2d945f/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>

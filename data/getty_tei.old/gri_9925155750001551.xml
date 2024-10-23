@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:dcterms="http://purl.org/dc/terms/"
+     xmlns:gettyterms="http://portal.getty.edu/terms/gri/"
+     xmlns:local="http://library.princeton.edu"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Champ fleury : au quel est contenu lart &amp; science de la deue &amp; vraye proportio[n] des lettres attiques, quo[n] dit autreme[n]t lettres antiques, &amp; vulgairement lettres romaines proportionnees selon le corps &amp; visage humain / ce liure est priuilegie pour dix ans par le roy nostre sire ...</title>
+            <respStmt>
+               <orgName>Getty Research Institute</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Gourmont, Gilles de</authority>
+            <authority>Lessing J. Rosenwald Collection (Library of Congress)</authority>
+            <authority>Pforzheimer Bruce Rogers Collection (Library of Congress)</authority>
+            <idno type="URI">http://portal.getty.edu/books/gri_9925155750001551</idno>
+            <idno type="URI">http://portal.getty.edu/api/c34900</idno>
+            <idno>(OCoLC)15484232</idno>
+            <idno type="cico">362</idno>
+            <idno type="dcl">cc7</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Champ fleury : au quel est contenu lart &amp; science de la deue &amp; vraye proportio[n] des lettres attiques, quo[n] dit autreme[n]t lettres antiques, &amp; vulgairement lettres romaines proportionnees selon le corps &amp; visage humain / ce liure est priuilegie pour dix ans par le roy nostre sire ...</title>
+                  <respStmt>
+                     <persName>Tory, Geoffroy, approximately 1480-approximately 1533.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>French</textLang>
+                  <imprint>
+                     <publisher>A vendre a Paris sus Petit Pont : A Lenseigne du Pot Casse par Maistre Geofroy Tory di Bourges, libraire &amp; autheur du dict liure :</publisher>
+                     <pubPlace>France Paris.</pubPlace>
+                     <date>[1529]</date>
+                     <date>1529</date>
+                  </imprint>
+                  <extent>[8], LXXX numbered leaves</extent>
+               </monogr>
+               <relatedItem type="manifest"
+                            target="https://media.getty.edu/iiif/manifest/1b0eb043-31e1-48f9-bd37-de54600c4d21"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Alphabets.</term>
+               <term>French language -- Pronunciation.</term>
+               <term>French language -- Provincialisms.</term>
+               <term>Linguistics -- French.</term>
+               <term>Paleography -- history</term>
+               <term>Printing</term>
+               <term>Alphabets.</term>
+               <term>French language -- Pronunciation.</term>
+               <term>French language -- Provincialisms.</term>
+               <term>NK3615 .T6 1529</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json"
+             url="https://media.getty.edu/iiif/manifest/1b0eb043-31e1-48f9-bd37-de54600c4d21">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>

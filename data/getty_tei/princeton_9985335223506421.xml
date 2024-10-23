@@ -25,7 +25,7 @@
             <idno type="URI">http://portal.getty.edu/books/princeton_9985335223506421</idno>
             <idno type="URI">http://portal.getty.edu/api/d18k3v</idno>
             <idno type="URI">http://portal.getty.edu/api/sk4s3w</idno>
-            <idno type="URI">http://portal.getty.edu/api/8k3t1b</idno>
+            <idno type="URI">http://portal.getty.edu/api/wx8x61</idno>
             <idno type="cico">1695</idno>
             <idno type="dcl">xjk</idno>
             <idno type="dcl">jpb</idno>
@@ -49,7 +49,7 @@
                   <extent>9 microfiche : positive.</extent>
                </monogr>
                <relatedItem type="manifest"
-                            target="https://figgy.princeton.edu/concern/scanned_resources/c7195a6c-e827-426c-bfa5-cd1565858df2/manifest"/>
+                            target="https://figgy.princeton.edu/concern/scanned_resources/fad8e9b5-d7bf-4389-9386-3ca178eef7bb/manifest"/>
             </biblStruct>
          </sourceDesc>
       </fileDesc>
@@ -67,7 +67,7 @@
    </teiHeader>
    <facsimile>
       <media mimeType="application/json"
-             url="https://figgy.princeton.edu/concern/scanned_resources/c7195a6c-e827-426c-bfa5-cd1565858df2/manifest">
+             url="https://figgy.princeton.edu/concern/scanned_resources/fad8e9b5-d7bf-4389-9386-3ca178eef7bb/manifest">
          <desc>IIIF Manifest</desc>
       </media>
    </facsimile>

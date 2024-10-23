@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:dcterms="http://purl.org/dc/terms/"
+     xmlns:gettyterms="http://portal.getty.edu/terms/gri/"
+     xmlns:local="http://library.princeton.edu"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>L' Etruria pittrice ovvero storia della pittura Toscana dedotta dai suoi monumenti che si esibiscono in stampa dal secolo X. fino al presente. 1.</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <idno type="URI">http://portal.getty.edu/books/princeton_99100847883506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/1s6993</idno>
+            <idno>(OCoLC)313401611</idno>
+            <idno type="cico">3387</idno>
+            <idno type="dcl">c0b</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>L' Etruria pittrice ovvero storia della pittura Toscana dedotta dai suoi monumenti che si esibiscono in stampa dal secolo X. fino al presente. 1.</title>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>Firenze : Pagni &amp; Bardi</publisher>
+                     <date>1791</date>
+                  </imprint>
+                  <extent>13 Mikrofiches : 24x.</extent>
+               </monogr>
+               <relatedItem type="manifest"
+                            target="https://figgy.princeton.edu/concern/scanned_resources/8b51e84c-b7b9-482c-a0b2-61798aa3b55e/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords/>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json"
+             url="https://figgy.princeton.edu/concern/scanned_resources/8b51e84c-b7b9-482c-a0b2-61798aa3b55e/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>

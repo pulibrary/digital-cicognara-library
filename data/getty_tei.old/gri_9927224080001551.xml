@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:dcterms="http://purl.org/dc/terms/"
+     xmlns:gettyterms="http://portal.getty.edu/terms/gri/"
+     xmlns:local="http://library.princeton.edu"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Simulacro di nuova venere / illustrato da Adamo Fabbroni ...</title>
+            <respStmt>
+               <orgName>Getty Research Institute</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Cambiagi, Gaetano, printer.</authority>
+            <idno type="URI">http://portal.getty.edu/books/gri_9927224080001551</idno>
+            <idno type="URI">http://portal.getty.edu/api/hw0s9f</idno>
+            <idno>(OCoLC)123379308</idno>
+            <idno type="cico">3503</idno>
+            <idno type="dcl">pfw</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Simulacro di nuova venere / illustrato da Adamo Fabbroni ...</title>
+                  <respStmt>
+                     <persName>Fabbroni, Adamo, 1748-1816</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>Firenze : Per Gaet. Cambiagi stamp, gran Ducale</publisher>
+                     <pubPlace>Italy Florence.</pubPlace>
+                     <date>MDCCXCVI [1796]</date>
+                     <date>1796</date>
+                  </imprint>
+                  <extent>VIII, 85, [3] p., [1] folded leaf of plates</extent>
+               </monogr>
+               <relatedItem type="manifest"
+                            target="https://media.getty.edu/iiif/manifest/56688568-83ba-4ed6-a4ce-ca73d2d45c0a"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Seduction in art -- Early works to 1800.</term>
+               <term>Leda (Greek mythology) -- Early works to 1800.</term>
+               <term>Lamia (Greek mythology) -- Early works to 1800.</term>
+               <term>Lamia (Greek mythology)</term>
+               <term>Leda (Greek mythology)</term>
+               <term>Seduction in art.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json"
+             url="https://media.getty.edu/iiif/manifest/56688568-83ba-4ed6-a4ce-ca73d2d45c0a">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>

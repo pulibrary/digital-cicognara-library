@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:dcterms="http://purl.org/dc/terms/"
+     xmlns:gettyterms="http://portal.getty.edu/terms/gri/"
+     xmlns:local="http://library.princeton.edu"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Tre discorsi sopra il modo d'alzar acqve da' lvoghi bassi : per adacquar terreni : per leuar l'acque sorgenti &amp; piouute dalle cãpagne, che non possono naturalmente dare loro il decorso : per mandare l'acqua da bere alle città, che n'hanno bisogno, &amp; per altri simili vsi.</title>
+            <respStmt>
+               <orgName>Getty Research Institute</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <idno type="URI">http://portal.getty.edu/books/gri_9925126350001551</idno>
+            <idno type="URI">http://portal.getty.edu/api/fd8g14</idno>
+            <idno>(OCoLC)39805457</idno>
+            <idno type="cico">895</idno>
+            <idno type="dcl">k2s</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Tre discorsi sopra il modo d'alzar acqve da' lvoghi bassi : per adacquar terreni : per leuar l'acque sorgenti &amp; piouute dalle cãpagne, che non possono naturalmente dare loro il decorso : per mandare l'acqua da bere alle città, che n'hanno bisogno, &amp; per altri simili vsi.</title>
+                  <respStmt>
+                     <persName>Ceredi, Giuseppe.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>In Parma : Appresso Seth Viotti</publisher>
+                     <date>1567</date>
+                  </imprint>
+                  <extent>[20], 100, [1] (blank) pages</extent>
+               </monogr>
+               <relatedItem type="manifest"
+                            target="https://media.getty.edu/iiif/manifest/2f914b99-fbff-47da-9ad3-1f0d02fa36e6"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Hydraulic engineering -- Early works to 1800.</term>
+               <term>Hydraulic machinery -- Early works to 1800.</term>
+               <term>Archimedean screw -- Early works to 1800.</term>
+               <term>Archimedean screw.</term>
+               <term>Hydraulic engineering</term>
+               <term>Hydraulic machinery</term>
+               <term>TC404 .C4 1567</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json"
+             url="https://media.getty.edu/iiif/manifest/2f914b99-fbff-47da-9ad3-1f0d02fa36e6">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>

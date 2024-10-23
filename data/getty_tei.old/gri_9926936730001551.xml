@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:dcterms="http://purl.org/dc/terms/"
+     xmlns:gettyterms="http://portal.getty.edu/terms/gri/"
+     xmlns:local="http://library.princeton.edu"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Le iscrittioni poste sotto le vere imagini de gli huomini famosi : le quali à Como nel museo del Giouio si veggiono / tradotte di latino in volgare da Hippolito Orio ferrarese.</title>
+            <respStmt>
+               <orgName>Getty Research Institute</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Orio, Hippolito, translator.</authority>
+            <authority>Torrentino, Lorenzo, -1563, printer.</authority>
+            <idno type="URI">http://portal.getty.edu/books/gri_9926936730001551</idno>
+            <idno type="URI">http://portal.getty.edu/api/pp3x5n</idno>
+            <idno>(OCoLC)8744177</idno>
+            <idno type="cico">3140</idno>
+            <idno type="dcl">ncj</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Le iscrittioni poste sotto le vere imagini de gli huomini famosi : le quali à Como nel museo del Giouio si veggiono / tradotte di latino in volgare da Hippolito Orio ferrarese.</title>
+                  <respStmt>
+                     <persName>Giovio, Paolo, 1483-1552</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>In Fiorenza : [publisher not identified]</publisher>
+                     <pubPlace>Italy</pubPlace>
+                     <pubPlace>Italy.</pubPlace>
+                     <pubPlace>Italy Florence.</pubPlace>
+                     <date>MDLII [1552]</date>
+                     <date>1552</date>
+                  </imprint>
+                  <extent>[12], 245, [3] pages</extent>
+               </monogr>
+               <relatedItem type="manifest"
+                            target="https://media.getty.edu/iiif/manifest/ed6c1d23-3c1c-46c7-a10f-a1085e6f1e77"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Museo civico archeologico "P. Giovio" (Como, Italy)</term>
+               <term>Museo civico archeologico "P. Giovio" (Como, Italy)</term>
+               <term>Authors, Italian -- Biography -- Early works to 1800.</term>
+               <term>Scholars -- Italy -- Biography -- Early works to 1800.</term>
+               <term>Italy -- Biography -- Early works to 1800.</term>
+               <term>Authors, Italian.</term>
+               <term>Scholars.</term>
+               <term>Italy.</term>
+               <term>CT93 .G514 I1552</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json"
+             url="https://media.getty.edu/iiif/manifest/ed6c1d23-3c1c-46c7-a10f-a1085e6f1e77">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>

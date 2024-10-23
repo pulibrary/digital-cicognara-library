@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:dcterms="http://purl.org/dc/terms/"
+     xmlns:gettyterms="http://portal.getty.edu/terms/gri/"
+     xmlns:local="http://library.princeton.edu"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Idee de la perfection de la peinture [microform] : demonstree par les principes de l'art et par des exemples conformes aux obseruations que Pline et Quintilien ont faites sur les plus celebres tableaux des anciens peintres, mis en paralelle à quelques ouurages de nos meilleurs peintres modernes, Leonard de Vinci, Raphael, Iules Romain, et le Poussin / par Roland Freart sieur de Chambray.</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9984941013506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/mn6r5k</idno>
+            <idno type="cico">127</idno>
+            <idno type="dcl">qjr</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Idee de la perfection de la peinture [microform] : demonstree par les principes de l'art et par des exemples conformes aux obseruations que Pline et Quintilien ont faites sur les plus celebres tableaux des anciens peintres, mis en paralelle à quelques ouurages de nos meilleurs peintres modernes, Leonard de Vinci, Raphael, Iules Romain, et le Poussin / par Roland Freart sieur de Chambray.</title>
+                  <respStmt>
+                     <persName>Fréart, Roland, sieur de Chambray, 1606-1676.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>French</textLang>
+                  <imprint>
+                     <publisher>Au Mans : De l'imprimerie de Iacqves Ysambart</publisher>
+                     <date>1662</date>
+                  </imprint>
+                  <extent>[22], 134, [5] p.</extent>
+                  <extent>3 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest"
+                            target="https://figgy.princeton.edu/concern/scanned_resources/b429b187-292e-4d0e-a689-c8a579d180be/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Painting -- Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json"
+             url="https://figgy.princeton.edu/concern/scanned_resources/b429b187-292e-4d0e-a689-c8a579d180be/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>

@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:dcterms="http://purl.org/dc/terms/"
+     xmlns:gettyterms="http://portal.getty.edu/terms/gri/"
+     xmlns:local="http://library.princeton.edu"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Villa Pamphilia : eiusque palatium, cum suis prospectibus, statuae, fontes, vivaria, theatra, areolae, plantarum, viarumque ordines, cum eiusdem villae absoluta delineatione.</title>
+            <respStmt>
+               <orgName>Getty Research Institute</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Barrière, Dominique, approximately 1618-1678</authority>
+            <authority>Falda, Giovanni Battista, approximately 1640-1678</authority>
+            <authority>Rossi, Giovanni Giacomo de, 1627-1691.</authority>
+            <idno type="URI">http://portal.getty.edu/books/gri_9928386120001551</idno>
+            <idno type="URI">http://portal.getty.edu/api/6p6w3d</idno>
+            <idno>(OCoLC)23636968</idno>
+            <idno type="cico">3911</idno>
+            <idno type="dcl">8sf</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Villa Pamphilia : eiusque palatium, cum suis prospectibus, statuae, fontes, vivaria, theatra, areolae, plantarum, viarumque ordines, cum eiusdem villae absoluta delineatione.</title>
+                  <textLang>Latin</textLang>
+                  <imprint>
+                     <publisher>Romae : Formis Io. Iacobi de Rubeis</publisher>
+                     <pubPlace>Italy</pubPlace>
+                     <pubPlace>Villa Doria Pamphili (Rome, Italy)</pubPlace>
+                     <date>[16--]</date>
+                     <date>1650</date>
+                  </imprint>
+                  <extent>[4] pages, [2] leaves, 91 unnumbered leaves of plates (10 folded)</extent>
+               </monogr>
+               <relatedItem type="manifest"
+                            target="https://media.getty.edu/iiif/manifest/f0d6f707-dd5c-4b9f-9f12-7a7f705d7abc"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Villa Doria Pamphili (Rome, Italy)</term>
+               <term>Villa Doria Pamphili (Rome, Italy) -- Pictorial works.</term>
+               <term>Sculpture, Classical -- Italy -- Rome -- Pictorial works.</term>
+               <term>Fountains -- Italy -- Rome -- Pictorial works.</term>
+               <term>Fountains.</term>
+               <term>Sculpture, Classical.</term>
+               <term>Italy -- Rome.</term>
+               <term>NB87.R7 P2</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json"
+             url="https://media.getty.edu/iiif/manifest/f0d6f707-dd5c-4b9f-9f12-7a7f705d7abc">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>

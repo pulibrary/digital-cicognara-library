@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:dcterms="http://purl.org/dc/terms/"
+     xmlns:gettyterms="http://portal.getty.edu/terms/gri/"
+     xmlns:local="http://library.princeton.edu"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Lettera intorno alle cirimonie, e complimenti degli antichi romani / di Clemente Baroni delli marchese Cavalcabò.</title>
+            <respStmt>
+               <orgName>Getty Research Institute</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <idno type="URI">http://portal.getty.edu/books/gri_9928877640001551</idno>
+            <idno type="URI">http://portal.getty.edu/api/qt3511</idno>
+            <idno>(OCoLC)78057980</idno>
+            <idno type="cico">1572</idno>
+            <idno type="dcl">3ws</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Lettera intorno alle cirimonie, e complimenti degli antichi romani / di Clemente Baroni delli marchese Cavalcabò.</title>
+                  <respStmt>
+                     <persName>Baroni Cavalcabò, Clemente, 1726-1796</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>In Rovereto : Nella stamperia di Francescantonio Marchesani librajo</publisher>
+                     <pubPlace>Rome.</pubPlace>
+                     <pubPlace>Rome (Empire)</pubPlace>
+                     <date>1750</date>
+                  </imprint>
+                  <extent>CVII, [1] pages</extent>
+               </monogr>
+               <relatedItem type="manifest"
+                            target="https://media.getty.edu/iiif/manifest/b83706f5-1081-4803-9ffa-d060aac875e9"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Rites and ceremonies -- Rome.</term>
+               <term>Rites and ceremonies.</term>
+               <term>Rome (Empire)</term>
+               <term>DG121 .B37 1750</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json"
+             url="https://media.getty.edu/iiif/manifest/b83706f5-1081-4803-9ffa-d060aac875e9">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>

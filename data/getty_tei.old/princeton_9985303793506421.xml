@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:dcterms="http://purl.org/dc/terms/"
+     xmlns:gettyterms="http://portal.getty.edu/terms/gri/"
+     xmlns:local="http://library.princeton.edu"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Triumphus novem seculorum Imperii Romano-Germanici [microform] : Carolo Magno, Augustissimo Romanorum Imperatori, Germaniae, Hisp. Hung. Bohemiae Regi, &amp;c. &amp;c. Archiduci Austriae, &amp;c. virtutum et seculorum compendio Pacis Reparatori et Defensori gloriosissimo, felicissimo, seculum X. laetiss. auspiciis prosequenti et victoriis dinumeranti / a R.P. Antonio Bömer ... anno saeculari MDCC decantatus, nunc autem anno jubilaeo MDCCXXV quadrante seculi auctus et recusus a Joanne Andrea Pfeffel ...</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Pfeffel, Johann Andreas, 1674-1748.</authority>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <authority>Leopoldo Cicognara Program (University of Illinois at Urbana-Champaign)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985303793506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/h38999</idno>
+            <idno type="cico">1495</idno>
+            <idno type="dcl">v7x</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Triumphus novem seculorum Imperii Romano-Germanici [microform] : Carolo Magno, Augustissimo Romanorum Imperatori, Germaniae, Hisp. Hung. Bohemiae Regi, &amp;c. &amp;c. Archiduci Austriae, &amp;c. virtutum et seculorum compendio Pacis Reparatori et Defensori gloriosissimo, felicissimo, seculum X. laetiss. auspiciis prosequenti et victoriis dinumeranti / a R.P. Antonio Bömer ... anno saeculari MDCC decantatus, nunc autem anno jubilaeo MDCCXXV quadrante seculi auctus et recusus a Joanne Andrea Pfeffel ...</title>
+                  <respStmt>
+                     <persName>Bömer, Antonius, 1664-1706.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Latin</textLang>
+                  <imprint>
+                     <publisher>Augustae-Vindelicorum [Augsburg] : Typis Joannis Jacobi Lotteri</publisher>
+                     <pubPlace>Holy Roman Empire</pubPlace>
+                     <date>[1725]</date>
+                     <date>1725</date>
+                  </imprint>
+                  <extent>[28] p.</extent>
+                  <extent>3 microfiche : positive ; 11 x 15 cm.</extent>
+               </monogr>
+               <relatedItem type="manifest"
+                            target="https://figgy.princeton.edu/concern/scanned_resources/9846b621-3ea0-4a85-8380-ef061d116ea0/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Holy Roman Empire -- Kings and rulers -- Biography.</term>
+               <term>Holy Roman Empire -- Kings and rulers -- Pictorial works.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json"
+             url="https://figgy.princeton.edu/concern/scanned_resources/9846b621-3ea0-4a85-8380-ef061d116ea0/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>

@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:dcterms="http://purl.org/dc/terms/"
+     xmlns:gettyterms="http://portal.getty.edu/terms/gri/"
+     xmlns:local="http://library.princeton.edu"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Catalogue D'une très-belle Collection de Tableaux de différens grands Maîtres des trois Écoles, rassemblés par un Artiste : dont la vente se fera le Lundi 11 Janvier 1773 ... / par Fr. Basan.</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <idno type="URI">http://portal.getty.edu/books/princeton_99100947343506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/d93h29</idno>
+            <idno>(OCoLC)313529008</idno>
+            <idno type="cico">4469(5)</idno>
+            <idno type="dcl">rvw</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Catalogue D'une très-belle Collection de Tableaux de différens grands Maîtres des trois Écoles, rassemblés par un Artiste : dont la vente se fera le Lundi 11 Janvier 1773 ... / par Fr. Basan.</title>
+                  <respStmt>
+                     <persName>Basan, François, 1723-1797.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>French</textLang>
+                  <imprint>
+                     <publisher>Paris : Basan</publisher>
+                     <date>1773</date>
+                  </imprint>
+                  <extent>1 Mikrofiche : 24x.</extent>
+               </monogr>
+               <relatedItem type="manifest"
+                            target="https://figgy.princeton.edu/concern/scanned_resources/80d04452-b9b3-4616-bb1f-da7bbf1b6164/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords/>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json"
+             url="https://figgy.princeton.edu/concern/scanned_resources/80d04452-b9b3-4616-bb1f-da7bbf1b6164/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>

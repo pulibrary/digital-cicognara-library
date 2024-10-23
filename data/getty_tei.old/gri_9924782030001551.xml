@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:dcterms="http://purl.org/dc/terms/"
+     xmlns:gettyterms="http://portal.getty.edu/terms/gri/"
+     xmlns:local="http://library.princeton.edu"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Le origini di Padova / di Lorenzo Pignoria.</title>
+            <respStmt>
+               <orgName>Getty Research Institute</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Tozzi, Pietro Paolo, printer.</authority>
+            <idno type="URI">http://portal.getty.edu/books/gri_9924782030001551</idno>
+            <idno type="URI">http://portal.getty.edu/api/h9024r</idno>
+            <idno>(OCoLC)17601390</idno>
+            <idno type="cico">4068</idno>
+            <idno type="dcl">10b</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Le origini di Padova / di Lorenzo Pignoria.</title>
+                  <respStmt>
+                     <persName>Pignoria, Lorenzo, 1571-1631</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>English</textLang>
+                  <imprint>
+                     <publisher>Padoua : Appresso Pietro Paolo Tozzi</publisher>
+                     <pubPlace>Padua (Italy)</pubPlace>
+                     <pubPlace>Italy</pubPlace>
+                     <pubPlace>Padua</pubPlace>
+                     <pubPlace>Italy Padua.</pubPlace>
+                     <date>MDCXXV [1625]</date>
+                     <date>1625</date>
+                  </imprint>
+                  <extent>[4], 182 [i.e. 184] p., [2] folded leaves of plates</extent>
+               </monogr>
+               <relatedItem type="manifest"
+                            target="https://media.getty.edu/iiif/manifest/47099f7d-cfbf-4975-83f9-42c9db2f0b72"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Padua (Italy) -- History -- Early works to 1800.</term>
+               <term>Padua (Italy) -- Antiquities -- Early works to 1800.</term>
+               <term>Antiquities.</term>
+               <term>Italy -- Padua.</term>
+               <term>Geschichte</term>
+               <term>Padua</term>
+               <term>DG975.P15 P6 1625</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json"
+             url="https://media.getty.edu/iiif/manifest/47099f7d-cfbf-4975-83f9-42c9db2f0b72">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>

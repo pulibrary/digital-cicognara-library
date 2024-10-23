@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:dcterms="http://purl.org/dc/terms/"
+     xmlns:gettyterms="http://portal.getty.edu/terms/gri/"
+     xmlns:local="http://library.princeton.edu"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Statuti e piano d'istruzione per la Regia Accademia delle belle arti di Firenze : aprovati con sovrano rescritto del di 10. giugno 1807.</title>
+            <respStmt>
+               <orgName>Getty Research Institute</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <idno type="URI">http://portal.getty.edu/books/gri_9929587750001551</idno>
+            <idno type="URI">http://portal.getty.edu/api/1v766t</idno>
+            <idno>(OCoLC)79625989</idno>
+            <idno type="cico">1347</idno>
+            <idno type="dcl">t2s</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Statuti e piano d'istruzione per la Regia Accademia delle belle arti di Firenze : aprovati con sovrano rescritto del di 10. giugno 1807.</title>
+                  <respStmt>
+                     <persName>Regia Accademia di belle arti (Florence, Italy)</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>Firenze : Carli e Compo</publisher>
+                     <pubPlace>Italy</pubPlace>
+                     <date>[1807]</date>
+                     <date>1807</date>
+                  </imprint>
+                  <extent>XXXVIII pages</extent>
+               </monogr>
+               <relatedItem type="manifest"
+                            target="https://media.getty.edu/iiif/manifest/bd11683b-41de-4d2d-97d2-4506bdf2373a"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Regia Accademia di belle arti (Florence, Italy) -- Regulations.</term>
+               <term>Art -- Study and teaching -- Italy -- Florence.</term>
+               <term>Regia Accademia di belle arti (Florence, Italy)</term>
+               <term>Art -- Study and teaching.</term>
+               <term>Italy -- Florence.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json"
+             url="https://media.getty.edu/iiif/manifest/bd11683b-41de-4d2d-97d2-4506bdf2373a">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>

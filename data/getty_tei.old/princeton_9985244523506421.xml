@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:dcterms="http://purl.org/dc/terms/"
+     xmlns:gettyterms="http://portal.getty.edu/terms/gri/"
+     xmlns:local="http://library.princeton.edu"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Trattato della cognizione pratica delle resistenze [microform] / geometricamente dimostrato dall'architetto Giambatista Borra ; ad uso d'ogni sorta d'edifizj, coll'aggiunta delle armature di varie maniere di coperti, volte, ed altre cose di tal genere.</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985244523506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/xx8b5g</idno>
+            <idno type="cico">887</idno>
+            <idno type="dcl">qzq</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Trattato della cognizione pratica delle resistenze [microform] / geometricamente dimostrato dall'architetto Giambatista Borra ; ad uso d'ogni sorta d'edifizj, coll'aggiunta delle armature di varie maniere di coperti, volte, ed altre cose di tal genere.</title>
+                  <respStmt>
+                     <persName>Borra, Giovanni Battista, 1713-1770.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>In Torino : Nella Stamparia reale</publisher>
+                     <date>1748</date>
+                  </imprint>
+                  <extent>[8], 313 p., [27] leaves of plates (26 folded)</extent>
+                  <extent>6 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest"
+                            target="https://figgy.princeton.edu/concern/scanned_resources/8021fe47-dfd2-4e97-a728-c708760acf54/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Statics -- Early works to 1800.</term>
+               <term>Strength of materials -- Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json"
+             url="https://figgy.princeton.edu/concern/scanned_resources/8021fe47-dfd2-4e97-a728-c708760acf54/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>

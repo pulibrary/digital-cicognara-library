@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:dcterms="http://purl.org/dc/terms/"
+     xmlns:gettyterms="http://portal.getty.edu/terms/gri/"
+     xmlns:local="http://library.princeton.edu"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Elogio di Paolo Caliari.</title>
+            <respStmt>
+               <orgName>Getty Research Institute</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <idno type="URI">http://portal.getty.edu/books/gri_9929491690001551</idno>
+            <idno type="URI">http://portal.getty.edu/api/8j896r</idno>
+            <idno>(OCoLC)878841829</idno>
+            <idno type="cico">2407</idno>
+            <idno type="dcl">709</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Elogio di Paolo Caliari.</title>
+                  <respStmt>
+                     <persName>Zabeo, Gio. Prosdocimo (Giovanni Prosdocimo), 1753-1828.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>Venezia : Nella stamperia Parolari</publisher>
+                     <pubPlace>Italy Venice.</pubPlace>
+                     <date>l'anno 1813</date>
+                     <date>1813</date>
+                  </imprint>
+                  <extent>25, [3] p.</extent>
+               </monogr>
+               <relatedItem type="manifest"
+                            target="https://media.getty.edu/iiif/manifest/d7f6f0f1-9c7e-42ff-aae9-f97221394cc9"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Veronese, 1528-1588.</term>
+               <term>Veronese, 1528-1588</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json"
+             url="https://media.getty.edu/iiif/manifest/d7f6f0f1-9c7e-42ff-aae9-f97221394cc9">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>

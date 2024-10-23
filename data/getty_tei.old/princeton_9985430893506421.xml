@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:dcterms="http://purl.org/dc/terms/"
+     xmlns:gettyterms="http://portal.getty.edu/terms/gri/"
+     xmlns:local="http://library.princeton.edu"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Theatrum basilicae Pisanae [microform] : in quo praecipuae illius partes enarrationibus, iconibusque ostenduntur / cura &amp; studio Josephi Martinii ...</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <authority>Leopoldo Cicognara Program (University of Illinois at Urbana-Champaign)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985430893506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/zd5k6s</idno>
+            <idno type="cico">4041</idno>
+            <idno type="dcl">r89</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Theatrum basilicae Pisanae [microform] : in quo praecipuae illius partes enarrationibus, iconibusque ostenduntur / cura &amp; studio Josephi Martinii ...</title>
+                  <respStmt>
+                     <persName>Martini, Giuseppe.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Latin</textLang>
+                  <imprint>
+                     <publisher>Romae : Typis &amp; sumptibus Antonii de Rubeis</publisher>
+                     <pubPlace>Italy</pubPlace>
+                     <date>1728</date>
+                  </imprint>
+                  <extent>154, 168 p.</extent>
+                  <extent>12 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest"
+                            target="https://figgy.princeton.edu/concern/scanned_resources/7d027465-7703-4c62-a213-1a6bf4091124/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Duomo (Pisa, Italy) -- Early works to 1800.</term>
+               <term>Architecture -- Italy -- Pisa -- Early works to 1800.</term>
+               <term>Basilicas -- Italy -- Pisa -- Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json"
+             url="https://figgy.princeton.edu/concern/scanned_resources/7d027465-7703-4c62-a213-1a6bf4091124/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>

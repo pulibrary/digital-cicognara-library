@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:dcterms="http://purl.org/dc/terms/"
+     xmlns:gettyterms="http://portal.getty.edu/terms/gri/"
+     xmlns:local="http://library.princeton.edu"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Indicazione antiqvaria per la villa svbvrbana dell'eccellentissima casa Albani.</title>
+            <respStmt>
+               <orgName>Getty Research Institute</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Morcelli, Stefano Antonio, 1737-1821</authority>
+            <authority>Torlonia, Alessandro, principe, 1800-1886</authority>
+            <authority>Fèa, Carlo, 1753-1836, editor.</authority>
+            <idno type="URI">http://portal.getty.edu/books/gri_9927808300001551</idno>
+            <idno type="URI">http://portal.getty.edu/api/rm1t33</idno>
+            <idno>(OCoLC)23618671</idno>
+            <idno type="cico">3756</idno>
+            <idno type="dcl">zzf</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Indicazione antiqvaria per la villa svbvrbana dell'eccellentissima casa Albani.</title>
+                  <respStmt>
+                     <persName>Albani, Alessandro, 1692-1779</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>Roma, P. Givnchi</publisher>
+                     <pubPlace>Italy</pubPlace>
+                     <pubPlace>Rome (Italie)</pubPlace>
+                     <date>1785</date>
+                  </imprint>
+                  <extent>158 pages</extent>
+               </monogr>
+               <relatedItem type="manifest"
+                            target="https://media.getty.edu/iiif/manifest/3cabdc8c-c53d-426f-b9c9-b8693e307c37"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Albani, Alessandro, 1692-1779 -- Art collections -- Catalogs.</term>
+               <term>Villa Albani (Rome, Italy) -- Catalogs.</term>
+               <term>Art -- Italy -- Rome -- Catalogs.</term>
+               <term>Albani, Alessandro, 1692-1779</term>
+               <term>Villa Albani (Rome, Italy)</term>
+               <term>Art -- Private collections.</term>
+               <term>Art.</term>
+               <term>Italy -- Rome.</term>
+               <term>Rome (Italie) -- Villa Albani.</term>
+               <term>N2813 .A33</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json"
+             url="https://media.getty.edu/iiif/manifest/3cabdc8c-c53d-426f-b9c9-b8693e307c37">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>

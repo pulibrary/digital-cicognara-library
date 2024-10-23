@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:dcterms="http://purl.org/dc/terms/"
+     xmlns:gettyterms="http://portal.getty.edu/terms/gri/"
+     xmlns:local="http://library.princeton.edu"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>I quattro libri dell'architettura di Andrea Palladio : ne' quali, dopo vn breue trattato de' cinque ordini, &amp; di quelli auertimenti, che sono piu necessarij nel fabricare : si tratta delle case priuate, delle vie, dei ponti, delle piazze, dei xisti, et de' tempij.</title>
+            <respStmt>
+               <orgName>Getty Research Institute</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Chrieger, Giovanni, active 16th century</authority>
+            <authority>Coriolanus, Christophorus</authority>
+            <authority>Chrieger, Cristoforo, -approximately 1590</authority>
+            <idno type="URI">http://portal.getty.edu/books/gri_9922536040001551</idno>
+            <idno type="URI">http://portal.getty.edu/api/7m5p23</idno>
+            <idno>(OCoLC)81178665</idno>
+            <idno type="cico">595</idno>
+            <idno type="dcl">nrh</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>I quattro libri dell'architettura di Andrea Palladio : ne' quali, dopo vn breue trattato de' cinque ordini, &amp; di quelli auertimenti, che sono piu necessarij nel fabricare : si tratta delle case priuate, delle vie, dei ponti, delle piazze, dei xisti, et de' tempij.</title>
+                  <respStmt>
+                     <persName>Palladio, Andrea, 1508-1580</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>In Venetia : Apresso Bartolomeo Carampello</publisher>
+                     <pubPlace>Rome</pubPlace>
+                     <pubPlace>Rome (Empire)</pubPlace>
+                     <date>1581</date>
+                  </imprint>
+                  <extent>4 v. in 1</extent>
+               </monogr>
+               <relatedItem type="manifest"
+                            target="https://media.getty.edu/iiif/manifest/8c282c1d-7fe5-4259-8111-958f38e27d28"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Architecture -- Composition, proportion, etc. -- Early works to 1800.</term>
+               <term>Architecture, Renaissance -- Designs and plans -- Early works to 1800.</term>
+               <term>Classicism in architecture -- Designs and plans -- Early works to 1800.</term>
+               <term>Architecture -- Rome -- Early works to 1800.</term>
+               <term>Architecture</term>
+               <term>Architecture -- Composition, proportion, etc.</term>
+               <term>Rome (Empire)</term>
+               <term>720</term>
+               <term>NA2515 .P25 1581</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json"
+             url="https://media.getty.edu/iiif/manifest/8c282c1d-7fe5-4259-8111-958f38e27d28">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>

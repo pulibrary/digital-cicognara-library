@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:dcterms="http://purl.org/dc/terms/"
+     xmlns:gettyterms="http://portal.getty.edu/terms/gri/"
+     xmlns:local="http://library.princeton.edu"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Traité théorique et pratique sur l'art de faire et d'appliquer les vernis [microform] : sur les différens genres de peinture par impression et en décoration, ainsi que sur les couleurs simples et composées : accompagné de nouvelles observations sur le copal ... avec gravures / par P.F. Tingry ...</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9984941723506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/df0v3q</idno>
+            <idno type="cico">218</idno>
+            <idno type="dcl">zbm</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Traité théorique et pratique sur l'art de faire et d'appliquer les vernis [microform] : sur les différens genres de peinture par impression et en décoration, ainsi que sur les couleurs simples et composées : accompagné de nouvelles observations sur le copal ... avec gravures / par P.F. Tingry ...</title>
+                  <respStmt>
+                     <persName>Tingry, P. F. (Pierre François), 1743-1821.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>French</textLang>
+                  <imprint>
+                     <publisher>Genève : Chez G.J. Manget</publisher>
+                     <date>1803</date>
+                  </imprint>
+                  <extent>2 v.</extent>
+                  <extent>12 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest"
+                            target="https://figgy.princeton.edu/concern/scanned_resources/902537d0-2f13-40f3-8a83-4940e18549d8/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Paint.</term>
+               <term>Painting, Industrial.</term>
+               <term>Varnish and varnishing.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json"
+             url="https://figgy.princeton.edu/concern/scanned_resources/902537d0-2f13-40f3-8a83-4940e18549d8/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>

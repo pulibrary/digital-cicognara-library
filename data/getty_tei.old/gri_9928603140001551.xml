@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:dcterms="http://purl.org/dc/terms/"
+     xmlns:gettyterms="http://portal.getty.edu/terms/gri/"
+     xmlns:local="http://library.princeton.edu"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Americae pars qvarta, siue, Insignis &amp; admiranda historia de reperta primùm Occidentali India à Christophoro Columbo anno M. CCCCXCII / scripta ab Hieronymo Bezono Mediolanense ... ; addita ad singula ferè capita, non contemnenda scholia, in quibus agitur de earum etiam gentium idololatria ... ; omnia elegantibus figuris in aes incisis expressa à Theodoro de Bry ... Ad invictis. Rudolph[us] II. Rom. Imperator cum privelegio ...</title>
+            <respStmt>
+               <orgName>Getty Research Institute</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Bry, Theodor de, 1528-1598</authority>
+            <authority>Chauveton, Urbain, -approximately 1616</authority>
+            <idno type="URI">http://portal.getty.edu/books/gri_9928603140001551</idno>
+            <idno type="URI">http://portal.getty.edu/api/px0060</idno>
+            <idno>(OCoLC)84279420</idno>
+            <idno type="cico">3970C-3(4)</idno>
+            <idno type="dcl">bk3</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Americae pars qvarta, siue, Insignis &amp; admiranda historia de reperta primùm Occidentali India à Christophoro Columbo anno M. CCCCXCII / scripta ab Hieronymo Bezono Mediolanense ... ; addita ad singula ferè capita, non contemnenda scholia, in quibus agitur de earum etiam gentium idololatria ... ; omnia elegantibus figuris in aes incisis expressa à Theodoro de Bry ... Ad invictis. Rudolph[us] II. Rom. Imperator cum privelegio ...</title>
+                  <respStmt>
+                     <persName>Benzoni, Girolamo, 1519-</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Latin</textLang>
+                  <imprint>
+                     <publisher>Impressvm Francofvrti ad Moenum : Typis Ioannis Feyrabend, impensis Theodori de Bry</publisher>
+                     <pubPlace>America</pubPlace>
+                     <pubPlace>Latin America</pubPlace>
+                     <date>Anno M.D.LXXXXIIII [1594]</date>
+                     <date>1594</date>
+                  </imprint>
+                  <extent>[8], 145, [3] p., 24, [1] leaves of plates (1 folded)</extent>
+               </monogr>
+               <relatedItem type="manifest"
+                            target="https://media.getty.edu/iiif/manifest/e70b038a-f081-44fb-811e-cb48db49bc45"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Indians -- First contact with Europeans.</term>
+               <term>America -- Early accounts to 1600.</term>
+               <term>Latin America -- History -- To 1600.</term>
+               <term>America -- Discovery and exploration.</term>
+               <term>Discoveries in geography</term>
+               <term>Indians -- First contact with Europeans</term>
+               <term>America</term>
+               <term>Latin America</term>
+               <term>G159 .B7 pt.4a</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json"
+             url="https://media.getty.edu/iiif/manifest/e70b038a-f081-44fb-811e-cb48db49bc45">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>

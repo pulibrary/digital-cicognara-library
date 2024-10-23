@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:dcterms="http://purl.org/dc/terms/"
+     xmlns:gettyterms="http://portal.getty.edu/terms/gri/"
+     xmlns:local="http://library.princeton.edu"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Les plus beaux monuments de Rome ancienne; ou, Recueïl des plus beaux morceaux de l'antiquité romaine qui existent encore: dessinés par Monsieur Barbault peintre... et gravés en 128 planches avec leur explication.</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9923059003506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/qj8q5m</idno>
+            <idno>(OCoLC)03164298</idno>
+            <idno type="cico">3592</idno>
+            <idno type="dcl">8ck</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Les plus beaux monuments de Rome ancienne; ou, Recueïl des plus beaux morceaux de l'antiquité romaine qui existent encore: dessinés par Monsieur Barbault peintre... et gravés en 128 planches avec leur explication.</title>
+                  <respStmt>
+                     <persName>Barbault, Jean, 1718-1762.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>French</textLang>
+                  <imprint>
+                     <publisher>Rome, Bouchard &amp; Gravier</publisher>
+                     <pubPlace>Rome.</pubPlace>
+                     <pubPlace>Rome</pubPlace>
+                     <date>1761</date>
+                  </imprint>
+                  <extent>viii, 90 p.</extent>
+               </monogr>
+               <relatedItem type="manifest"
+                            target="https://figgy.princeton.edu/concern/scanned_resources/6c458370-2e2a-4ea6-88cb-6f7235738ca7/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Rome -- Antiquities.</term>
+               <term>Art -- Rome.</term>
+               <term>N5761 .B3</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json"
+             url="https://figgy.princeton.edu/concern/scanned_resources/6c458370-2e2a-4ea6-88cb-6f7235738ca7/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>

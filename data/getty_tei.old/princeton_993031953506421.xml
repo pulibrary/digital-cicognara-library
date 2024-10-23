@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:dcterms="http://purl.org/dc/terms/"
+     xmlns:gettyterms="http://portal.getty.edu/terms/gri/"
+     xmlns:local="http://library.princeton.edu"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Conférences de l'Académie royale de peinture et de sculpture pendant l'année 1667.</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Félibien, André, sieur des Avaux et de Javercy, 1619-1695.</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_993031953506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/bh831x</idno>
+            <idno>(OCoLC)47190245</idno>
+            <idno type="cico">1314</idno>
+            <idno type="dcl">9vx</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Conférences de l'Académie royale de peinture et de sculpture pendant l'année 1667.</title>
+                  <respStmt>
+                     <persName>Académie royale de peinture et de sculpture (France)</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>French</textLang>
+                  <imprint>
+                     <publisher>Paris : F. Leonard</publisher>
+                     <date>1669</date>
+                     <date>1667</date>
+                  </imprint>
+                  <extent>144 p.</extent>
+               </monogr>
+               <relatedItem type="manifest"
+                            target="https://figgy.princeton.edu/concern/scanned_resources/95001bd7-fb12-4e7f-97ad-7966b0338544/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Painting -- Early works to 1800.</term>
+               <term>Sculpture -- Early works to 1800.</term>
+               <term>ND1130</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json"
+             url="https://figgy.princeton.edu/concern/scanned_resources/95001bd7-fb12-4e7f-97ad-7966b0338544/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>

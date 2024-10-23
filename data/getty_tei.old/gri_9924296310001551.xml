@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:dcterms="http://purl.org/dc/terms/"
+     xmlns:gettyterms="http://portal.getty.edu/terms/gri/"
+     xmlns:local="http://library.princeton.edu"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Ode, inscribed to John Howard, Esq. F.R.S., author of "The state of English and foreign prisons" / by William Hayley, Esq.</title>
+            <respStmt>
+               <orgName>Getty Research Institute</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Dodsley, James, 1724-1797</authority>
+            <authority>Bartolozzi, Francesco, 1727-1815</authority>
+            <idno type="URI">http://portal.getty.edu/books/gri_9924296310001551</idno>
+            <idno type="URI">http://portal.getty.edu/api/sf3t3z</idno>
+            <idno>(OCoLC)4898145</idno>
+            <idno type="cico">989C</idno>
+            <idno type="dcl">30h</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Ode, inscribed to John Howard, Esq. F.R.S., author of "The state of English and foreign prisons" / by William Hayley, Esq.</title>
+                  <respStmt>
+                     <persName>Hayley, William, 1745-1820</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>English</textLang>
+                  <imprint>
+                     <publisher>London : Printed for J. Dodsley, Pall-Mall</publisher>
+                     <pubPlace>Great Britain</pubPlace>
+                     <pubPlace>England London.</pubPlace>
+                     <date>MDCCLXXXI [1781]</date>
+                     <date>1781</date>
+                  </imprint>
+                  <extent>20 p., [1] leaf of plates</extent>
+               </monogr>
+               <relatedItem type="manifest"
+                            target="https://media.getty.edu/iiif/manifest/d9edcff9-7afa-44f4-a9be-3355b6fd8f32"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Howard, John, 1726-1790 -- Poetry.</term>
+               <term>Prison reformers -- Great Britain -- Poetry -- Early works to 1800.</term>
+               <term>Howard, John, 1726-1790</term>
+               <term>Prison reformers</term>
+               <term>Great Britain</term>
+               <term>PR1171 .Z5</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json"
+             url="https://media.getty.edu/iiif/manifest/d9edcff9-7afa-44f4-a9be-3355b6fd8f32">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>

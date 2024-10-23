@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:dcterms="http://purl.org/dc/terms/"
+     xmlns:gettyterms="http://portal.getty.edu/terms/gri/"
+     xmlns:local="http://library.princeton.edu"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Le ingeniose sorti / composte per Francesco Marcolini da Forli, intitulate Giardino di pensieri.</title>
+            <respStmt>
+               <orgName>Getty Research Institute</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Dolce, Lodovico, 1508-1568</authority>
+            <authority>Porta, Giuseppe, approximately 1520-approximately 1576</authority>
+            <authority>Salviati, Francesco, 1510-1563</authority>
+            <authority>Titian, approximately 1488-1576</authority>
+            <idno type="URI">http://portal.getty.edu/books/gri_9925953360001551</idno>
+            <idno type="URI">http://portal.getty.edu/api/f60p3m</idno>
+            <idno>(OCoLC)80945396</idno>
+            <idno type="cico">1701</idno>
+            <idno type="dcl">d5k</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Le ingeniose sorti / composte per Francesco Marcolini da Forli, intitulate Giardino di pensieri.</title>
+                  <respStmt>
+                     <persName>Marcolini, Francesco, approximately 1500-approximately 1559</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>In Venetia : Per Fra[n]cesco Marcolino da Forli</publisher>
+                     <pubPlace>Italy Venice.</pubPlace>
+                     <date>ne glianni del Signore 1550 del mese di luglio</date>
+                     <date>1550</date>
+                  </imprint>
+                  <extent>157 [i.e. 207], [1] p.</extent>
+               </monogr>
+               <relatedItem type="manifest"
+                            target="https://media.getty.edu/iiif/manifest/f5620fbf-7de5-4b6f-aa5e-8d8eab172dc1"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Fortune-telling by cards -- Early works to 1800.</term>
+               <term>Tarot -- Early works to 1800.</term>
+               <term>Fortune-telling by cards</term>
+               <term>Tarot.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json"
+             url="https://media.getty.edu/iiif/manifest/f5620fbf-7de5-4b6f-aa5e-8d8eab172dc1">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>

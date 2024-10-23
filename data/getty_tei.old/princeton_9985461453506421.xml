@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:dcterms="http://purl.org/dc/terms/"
+     xmlns:gettyterms="http://portal.getty.edu/terms/gri/"
+     xmlns:local="http://library.princeton.edu"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Descrizione antiquario-architettonica [microform] : con rami dell'Arco di Augusto, Ponte di Tiberio e Tempio Malatestiano di Rimino.</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <authority>Leopoldo Cicognara Program (University of Illinois at Urbana-Champaign)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985461453506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/c87j1s</idno>
+            <idno type="cico">4053</idno>
+            <idno type="dcl">pp1</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Descrizione antiquario-architettonica [microform] : con rami dell'Arco di Augusto, Ponte di Tiberio e Tempio Malatestiano di Rimino.</title>
+                  <respStmt>
+                     <persName>Nardi, Luigi.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>Rimino : Nella stamperia Marsoner e Grandi</publisher>
+                     <pubPlace>Italy</pubPlace>
+                     <pubPlace>Rimini (Italy)</pubPlace>
+                     <date>1813</date>
+                  </imprint>
+                  <extent>81 p., 17 leaves of plates (some folded)</extent>
+                  <extent>3 microfiche : positive ; 11 x 15 cm.</extent>
+               </monogr>
+               <relatedItem type="manifest"
+                            target="https://figgy.princeton.edu/concern/scanned_resources/f4d0ce07-09b4-4fa8-856a-7ab2f2aec6c2/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Architecture, Roman -- Italy -- Rimini.</term>
+               <term>Rimini (Italy) -- Antiquities.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json"
+             url="https://figgy.princeton.edu/concern/scanned_resources/f4d0ce07-09b4-4fa8-856a-7ab2f2aec6c2/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>

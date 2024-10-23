@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:dcterms="http://purl.org/dc/terms/"
+     xmlns:gettyterms="http://portal.getty.edu/terms/gri/"
+     xmlns:local="http://library.princeton.edu"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Perugia Augusta / descritta da Cesare Crispolti, perugino ; all'eminent.mo e reu.mo sig. padrone col.mo il sig. cardinale Gasparo Mattei.</title>
+            <respStmt>
+               <orgName>Getty Research Institute</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Eredi di Pietro Tomassi.</authority>
+            <authority>Zecchini, Sebastiano, active 1640-1661, printer.</authority>
+            <idno type="URI">http://portal.getty.edu/books/gri_9928586680001551</idno>
+            <idno type="URI">http://portal.getty.edu/api/w04t82</idno>
+            <idno>(OCoLC)3629365</idno>
+            <idno type="cico">4299</idno>
+            <idno type="dcl">7sw</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Perugia Augusta / descritta da Cesare Crispolti, perugino ; all'eminent.mo e reu.mo sig. padrone col.mo il sig. cardinale Gasparo Mattei.</title>
+                  <respStmt>
+                     <persName>Crispolti, Cesare, 1563-1608</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>In Perugia : Appresso gli eredi di Pietro Tomassi &amp; Sebastiano Zecchini</publisher>
+                     <pubPlace>Italy</pubPlace>
+                     <pubPlace>Perugia (Italy)</pubPlace>
+                     <pubPlace>Italy Perugia</pubPlace>
+                     <date>1648 [MDCXLVIII]</date>
+                     <date>1648</date>
+                  </imprint>
+                  <extent>[16], 384, [4] pages</extent>
+               </monogr>
+               <relatedItem type="manifest"
+                            target="https://media.getty.edu/iiif/manifest/6974de90-0872-41f1-9000-15d3f439ce6e"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Perugia (Italy) -- Description and travel -- Early works to 1800.</term>
+               <term>Religious institutions -- Italy -- Perugia -- Early works to 1800.</term>
+               <term>Religious institutions.</term>
+               <term>Travel.</term>
+               <term>Italy -- Perugia.</term>
+               <term>DG975.P4 C74</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json"
+             url="https://media.getty.edu/iiif/manifest/6974de90-0872-41f1-9000-15d3f439ce6e">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>

@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:dcterms="http://purl.org/dc/terms/"
+     xmlns:gettyterms="http://portal.getty.edu/terms/gri/"
+     xmlns:local="http://library.princeton.edu"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Achillis Bocchii Bonon. Symbolicarvm qvaestionvm, de vniverso genere, quas serio ludebat, libri qvinqve.</title>
+            <respStmt>
+               <orgName>Getty Research Institute</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Bonasone, Giulio, approximately 1498-approximately 1580, ustrator.</authority>
+            <authority>Fontana, Prospero, 1512-1597, ustrator.</authority>
+            <authority>Rocca, Michele, approximately 1670-approximately 1751, ustrator.</authority>
+            <authority>Società Tipografica bolognese, publisher.</authority>
+            <idno type="URI">http://portal.getty.edu/books/gri_9923980300001551</idno>
+            <idno type="URI">http://portal.getty.edu/api/mh302j</idno>
+            <idno>(OCoLC)10137367</idno>
+            <idno type="cico">1851A</idno>
+            <idno type="cico">1851B</idno>
+            <idno type="dcl">s5q</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Achillis Bocchii Bonon. Symbolicarvm qvaestionvm, de vniverso genere, quas serio ludebat, libri qvinqve.</title>
+                  <respStmt>
+                     <persName>Bocchi, Achille, 1488-1562</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Latin</textLang>
+                  <imprint>
+                     <publisher>Bononiae : Apud Societatem Typographiæ Bononiensis</publisher>
+                     <pubPlace>Italy Bologna.</pubPlace>
+                     <date>MDLXXIIII [1574]</date>
+                     <date>1574</date>
+                  </imprint>
+                  <extent>[48], ccclvii, [3] p. (last [2] p. are blank)</extent>
+               </monogr>
+               <relatedItem type="manifest"
+                            target="https://media.getty.edu/iiif/manifest/0b5df59b-1ffe-4dc8-aaac-dc5803d6e9eb"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Symbolism in art.</term>
+               <term>Emblems.</term>
+               <term>Art, Renaissance.</term>
+               <term>Emblems and Insignia.</term>
+               <term>Art, Renaissance.</term>
+               <term>Emblems.</term>
+               <term>Symbolism in art.</term>
+               <term>N7740 .B66 1574</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json"
+             url="https://media.getty.edu/iiif/manifest/0b5df59b-1ffe-4dc8-aaac-dc5803d6e9eb">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>

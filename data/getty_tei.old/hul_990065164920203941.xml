@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:dcterms="http://purl.org/dc/terms/"
+     xmlns:gettyterms="http://portal.getty.edu/terms/gri/"
+     xmlns:local="http://library.princeton.edu"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Monumentorum Sveo-Gothicorum liber primus, Uplandiae partem primariam Thiundiam continens, cum antiquitatibus ac inscriptionibus quae cippis &amp; rupibus, vel tumbis incisae passim reperiuntur, justa delineatione, brevique commentario illustratae. Lat. and Swed.</title>
+            <respStmt>
+               <orgName>Harvard Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Peringskiöld, Johan, 1654-1720. Ulleråkerś häradź minnings-merken.</authority>
+            <authority>Peringskiöld, Johan, 1654-1720. Monumenta Ullerakerensia.</authority>
+            <idno type="URI">http://portal.getty.edu/books/hul_990065164920203941</idno>
+            <idno type="URI">http://portal.getty.edu/api/4p418f</idno>
+            <idno>(OCoLC)612717912</idno>
+            <idno type="cico">4063-1-2-5-12</idno>
+            <idno type="dcl">w2h</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Monumentorum Sveo-Gothicorum liber primus, Uplandiae partem primariam Thiundiam continens, cum antiquitatibus ac inscriptionibus quae cippis &amp; rupibus, vel tumbis incisae passim reperiuntur, justa delineatione, brevique commentario illustratae. Lat. and Swed.</title>
+                  <respStmt>
+                     <persName>Peringskiöld, Johan, 1654-1720.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Multiple languages</textLang>
+                  <imprint>
+                     <publisher>Stockholmiae</publisher>
+                     <pubPlace>Upland (Sweden)</pubPlace>
+                     <date>1710</date>
+                  </imprint>
+                  <extent>p.</extent>
+               </monogr>
+               <relatedItem type="manifest"
+                            target="https://iiif.lib.harvard.edu/manifests/drs:494458190"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Monuments -- Uppland, Sweden. hou</term>
+               <term>Upland (Sweden) -- Antiquities -- Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json"
+             url="https://iiif.lib.harvard.edu/manifests/drs:494458190">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>

@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:dcterms="http://purl.org/dc/terms/"
+     xmlns:gettyterms="http://portal.getty.edu/terms/gri/"
+     xmlns:local="http://library.princeton.edu"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Traité de perspective : où sont contenus les fondemens de la peinture / par le R.P. Bernard Lamy ...</title>
+            <respStmt>
+               <orgName>Getty Research Institute</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <idno type="URI">http://portal.getty.edu/books/gri_9924387670001551</idno>
+            <idno type="URI">http://portal.getty.edu/api/j79634</idno>
+            <idno>(OCoLC)23616035</idno>
+            <idno type="cico">843</idno>
+            <idno type="dcl">tvt</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Traité de perspective : où sont contenus les fondemens de la peinture / par le R.P. Bernard Lamy ...</title>
+                  <respStmt>
+                     <persName>Lamy, Bernard, 1640-1715</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>French</textLang>
+                  <imprint>
+                     <publisher>A Paris : Chez Anisson</publisher>
+                     <pubPlace>France Paris.</pubPlace>
+                     <date>1701</date>
+                  </imprint>
+                  <extent>xxj, [3], 227, [9] p., [8] leaves of plates (1 folded)</extent>
+               </monogr>
+               <relatedItem type="manifest"
+                            target="https://media.getty.edu/iiif/manifest/a81e6e24-d2f7-4b69-a464-8e4cd485914a"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Perspective -- Early works to 1800.</term>
+               <term>Painting -- Technique -- Early works to 1800.</term>
+               <term>Painting -- Technique</term>
+               <term>Perspective</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json"
+             url="https://media.getty.edu/iiif/manifest/a81e6e24-d2f7-4b69-a464-8e4cd485914a">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:dcterms="http://purl.org/dc/terms/"
+     xmlns:gettyterms="http://portal.getty.edu/terms/gri/"
+     xmlns:local="http://library.princeton.edu"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Catalogue de tableaux des écoles d'Italie, de Flandres, et de France [microform] : dessins, estampes, terres-cuites, marbres, bronzes antiques &amp; modernes, ouvrages de mosaïque, surtout de table en pierres précieuses, porcelaines anciennes &amp; modernes, tabatière ornée de peintures de Petitot, camées antiques, boîtes de malaquit &amp; de lapis, vases &amp; table de marbre rare, belles girandoles, pendule, feux &amp; bras de bronze doré d'or mat &amp; d'or moulu, lustre de cristal de Roche, meubles, &amp; différens autres objets rares &amp; précieux formant le cabinet de feu ... M. Le Bailli de Breteuil.</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <authority>Leopoldo Cicognara Program (University of Illinois at Urbana-Champaign)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9984940213506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/qq0k71</idno>
+            <idno>(OCoLC)225865184</idno>
+            <idno type="cico">4516</idno>
+            <idno type="dcl">wvm</idno>
+            <idno type="dcl">596</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Catalogue de tableaux des écoles d'Italie, de Flandres, et de France [microform] : dessins, estampes, terres-cuites, marbres, bronzes antiques &amp; modernes, ouvrages de mosaïque, surtout de table en pierres précieuses, porcelaines anciennes &amp; modernes, tabatière ornée de peintures de Petitot, camées antiques, boîtes de malaquit &amp; de lapis, vases &amp; table de marbre rare, belles girandoles, pendule, feux &amp; bras de bronze doré d'or mat &amp; d'or moulu, lustre de cristal de Roche, meubles, &amp; différens autres objets rares &amp; précieux formant le cabinet de feu ... M. Le Bailli de Breteuil.</title>
+                  <respStmt>
+                     <persName>Le Brun, Jean-Baptiste-Pierre, 1748-1813.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>French</textLang>
+                  <imprint>
+                     <publisher>Paris : Chez M. Le Brun</publisher>
+                     <date>1786</date>
+                  </imprint>
+                  <extent>30, 6 p.</extent>
+                  <extent>3 microfiche : positive ; 11 x 15 cm.</extent>
+               </monogr>
+               <relatedItem type="manifest"
+                            target="https://figgy.princeton.edu/concern/scanned_resources/c02adb22-b0b3-4165-9701-34bd3a120cfb/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords/>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json"
+             url="https://figgy.princeton.edu/concern/scanned_resources/c02adb22-b0b3-4165-9701-34bd3a120cfb/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>

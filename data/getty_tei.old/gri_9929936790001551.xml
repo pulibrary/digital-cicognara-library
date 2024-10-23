@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:dcterms="http://purl.org/dc/terms/"
+     xmlns:gettyterms="http://portal.getty.edu/terms/gri/"
+     xmlns:local="http://library.princeton.edu"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Serie di ritratti degli eccellenti pittori : dipinti di propria mano che esistona nell' Imperial galleria di Firenze / colle vite compendio de' medisimi descritte da Francesco Moücke.</title>
+            <respStmt>
+               <orgName>Getty Research Institute</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <idno type="URI">http://portal.getty.edu/books/gri_9929936790001551</idno>
+            <idno type="URI">http://portal.getty.edu/api/jf7h1k</idno>
+            <idno type="URI">http://portal.getty.edu/api/p79772</idno>
+            <idno type="URI">http://portal.getty.edu/api/vt5f13</idno>
+            <idno type="URI">http://portal.getty.edu/api/nn1g65</idno>
+            <idno>(OCoLC)6727954</idno>
+            <idno type="cico">3417D</idno>
+            <idno type="dcl">fs4</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Serie di ritratti degli eccellenti pittori : dipinti di propria mano che esistona nell' Imperial galleria di Firenze / colle vite compendio de' medisimi descritte da Francesco Moücke.</title>
+                  <respStmt>
+                     <persName>Moücke, Francesco, 1700-1758</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Latin</textLang>
+                  <imprint>
+                     <publisher>In Firenze : Nella stamperia Moückiana</publisher>
+                     <pubPlace>Italy Florence.</pubPlace>
+                     <date>l'anno 1752-1762</date>
+                     <date>1752</date>
+                  </imprint>
+                  <extent>4 volumes</extent>
+               </monogr>
+               <relatedItem type="manifest"
+                            target="https://media.getty.edu/iiif/manifest/6b335841-4ff7-40ce-8d8e-a2bb6f51d1e3https://media.getty.edu/iiif/manifest/06d40da5-28c2-458e-9faf-5b117dc5e458https://media.getty.edu/iiif/manifest/4eb5e087-5602-454a-a9a4-0aaf24623e7fhttps://media.getty.edu/iiif/manifest/54b4b267-1c8d-4226-beec-4be6ff04d2f3"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Artists -- Portraits -- Early works to 1800.</term>
+               <term>Galleria degli Uffizi.</term>
+               <term>Galleria degli Uffizi.</term>
+               <term>Artists.</term>
+               <term>N2571 .G6 vol. 7-10</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json"
+             url="https://media.getty.edu/iiif/manifest/6b335841-4ff7-40ce-8d8e-a2bb6f51d1e3">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+   <facsimile>
+      <media mimeType="application/json"
+             url="https://media.getty.edu/iiif/manifest/06d40da5-28c2-458e-9faf-5b117dc5e458">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+   <facsimile>
+      <media mimeType="application/json"
+             url="https://media.getty.edu/iiif/manifest/4eb5e087-5602-454a-a9a4-0aaf24623e7f">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+   <facsimile>
+      <media mimeType="application/json"
+             url="https://media.getty.edu/iiif/manifest/54b4b267-1c8d-4226-beec-4be6ff04d2f3">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>

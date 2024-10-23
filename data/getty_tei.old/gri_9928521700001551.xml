@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:dcterms="http://purl.org/dc/terms/"
+     xmlns:gettyterms="http://portal.getty.edu/terms/gri/"
+     xmlns:local="http://library.princeton.edu"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Trattato di Teofilo Gallaccini sopra gli errori degli architetti.</title>
+            <respStmt>
+               <orgName>Getty Research Institute</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Pecci, Giovanni Antonio, 1693-1768.</authority>
+            <idno type="URI">http://portal.getty.edu/books/gri_9928521700001551</idno>
+            <idno type="URI">http://portal.getty.edu/api/8g907z</idno>
+            <idno>(OCoLC)3364208</idno>
+            <idno type="cico">513</idno>
+            <idno type="dcl">xjg</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Trattato di Teofilo Gallaccini sopra gli errori degli architetti.</title>
+                  <respStmt>
+                     <persName>Gallaccini, Teofilo, 1564-1641.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>In Venezia : Per Giambatista Pasquali</publisher>
+                     <date>1767</date>
+                  </imprint>
+                  <extent>xii, 81 p.</extent>
+               </monogr>
+               <relatedItem type="manifest"
+                            target="https://media.getty.edu/iiif/manifest/a2b1bf67-50e7-43e8-a26f-1c5ac706fa9a"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Architecture -- Early works to 1800.</term>
+               <term>Architecture</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json"
+             url="https://media.getty.edu/iiif/manifest/a2b1bf67-50e7-43e8-a26f-1c5ac706fa9a">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>

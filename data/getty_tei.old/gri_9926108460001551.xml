@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:dcterms="http://purl.org/dc/terms/"
+     xmlns:gettyterms="http://portal.getty.edu/terms/gri/"
+     xmlns:local="http://library.princeton.edu"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Descrizione delle cappelle pontificie e cardinalizie di tutto l'anno e de' concistori pubblici e segreti : da aggiugnersi a quella de' Tre pontificali, e delle Funzioni della Settimana santa, pubblicata in altri due tometti : si premette vna descrizione storico-critica delle Sale regie, e ducale, e delle Cappelle Paoline, e Sistina, del Vaticano, e del Quirinale.</title>
+            <respStmt>
+               <orgName>Getty Research Institute</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Zaccaria, Francescantonio, 1714-1795</authority>
+            <authority>Giardoni, Alessio, active 1760-1791</authority>
+            <authority>Perego Salvioni, Luigi, active 1781-1811, printer.</authority>
+            <idno type="URI">http://portal.getty.edu/books/gri_9926108460001551</idno>
+            <idno type="URI">http://portal.getty.edu/api/gt6p3w</idno>
+            <idno>(OCoLC)80956762</idno>
+            <idno type="cico">3641-3</idno>
+            <idno type="dcl">268</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Descrizione delle cappelle pontificie e cardinalizie di tutto l'anno e de' concistori pubblici e segreti : da aggiugnersi a quella de' Tre pontificali, e delle Funzioni della Settimana santa, pubblicata in altri due tometti : si premette vna descrizione storico-critica delle Sale regie, e ducale, e delle Cappelle Paoline, e Sistina, del Vaticano, e del Quirinale.</title>
+                  <respStmt>
+                     <persName>Cancellieri, Francesco, 1751-1826</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>Roma : Presso Luigi Perego Salvioni, stampator Vaticano</publisher>
+                     <pubPlace>Vatican City.</pubPlace>
+                     <pubPlace>Italy Rome.</pubPlace>
+                     <date>MDCCXC [1790]</date>
+                     <date>1790</date>
+                  </imprint>
+                  <extent>4 parts in 1 volume (VI, [2], 400 pages, [1] folded leaf of plates)</extent>
+               </monogr>
+               <relatedItem type="manifest"
+                            target="https://media.getty.edu/iiif/manifest/9b134ae3-5ea7-462e-a21c-75a0d27ef959"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Vatican City.</term>
+               <term>Patrizi Piccolomini, Agostino, approximately 1435-1496. Caeremoniale Romanum</term>
+               <term>Vatican Palace (Vatican City) -- Catalogs.</term>
+               <term>Catholic Church. Collegium Cardinalium</term>
+               <term>Papal courts.</term>
+               <term>Catholic Church. Collegium Cardinalium</term>
+               <term>Vatican Palace (Vatican City)</term>
+               <term>Caeremoniale Romanum (Patrizi Piccolomini, Agostino)</term>
+               <term>Papal courts.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json"
+             url="https://media.getty.edu/iiif/manifest/9b134ae3-5ea7-462e-a21c-75a0d27ef959">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>

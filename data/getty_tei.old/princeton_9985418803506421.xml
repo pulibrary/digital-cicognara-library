@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:dcterms="http://purl.org/dc/terms/"
+     xmlns:gettyterms="http://portal.getty.edu/terms/gri/"
+     xmlns:local="http://library.princeton.edu"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Picturae antiquae cryptarum romanarum et sepulcri Nasonum [microform] : delineatae &amp; expressae ad archetypa a Petro Sancti Bartholi et Francisco ejus filio / descriptae vero, &amp; illustratae a Joanne Petro Belloro et Michaele Angelo Causseo ; opus nunc primum latine redditum, proditque absolutius &amp; exactius.</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Bartoli, Francesco, 1675?-1730?</authority>
+            <authority>Bartoli, Pietro Santi, 1635-1700.</authority>
+            <authority>La Chausse, Michel Ange de, 1660?-1724.</authority>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <authority>Leopoldo Cicognara Program (University of Illinois at Urbana-Champaign)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985418803506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/g51t0m</idno>
+            <idno type="cico">3612</idno>
+            <idno type="dcl">267</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Picturae antiquae cryptarum romanarum et sepulcri Nasonum [microform] : delineatae &amp; expressae ad archetypa a Petro Sancti Bartholi et Francisco ejus filio / descriptae vero, &amp; illustratae a Joanne Petro Belloro et Michaele Angelo Causseo ; opus nunc primum latine redditum, proditque absolutius &amp; exactius.</title>
+                  <respStmt>
+                     <persName>Bellori, Giovanni Pietro, 1613-1696.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Latin</textLang>
+                  <imprint>
+                     <publisher>Romae : Ex typographia S. Michaelis ad Ripam, sumptibus Hieronymi Mainardi</publisher>
+                     <pubPlace>Rome (Italy)</pubPlace>
+                     <date>1738</date>
+                  </imprint>
+                  <extent>XII, 214 p.</extent>
+                  <extent>4 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest"
+                            target="https://figgy.princeton.edu/concern/scanned_resources/4b7f5105-4351-4910-90f7-5899e9e79f62/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Nasoni family.</term>
+               <term>Mural painting and decoration -- Early works to 1800.</term>
+               <term>Painting, Greco-Roman -- Early works to 1800.</term>
+               <term>Pavements, Mosaic -- Early works to 1800.</term>
+               <term>Rome (Italy) -- Tombs -- Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json"
+             url="https://figgy.princeton.edu/concern/scanned_resources/4b7f5105-4351-4910-90f7-5899e9e79f62/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>

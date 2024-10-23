@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:dcterms="http://purl.org/dc/terms/"
+     xmlns:gettyterms="http://portal.getty.edu/terms/gri/"
+     xmlns:local="http://library.princeton.edu"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Sac. Congreg. Riparum Tyberis Romana remunerationis pro illustriss. d. Cornelio Meyer Memoriale.</title>
+            <respStmt>
+               <orgName>Getty Research Institute</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <idno type="URI">http://portal.getty.edu/books/gri_9933932111301551</idno>
+            <idno type="URI">http://portal.getty.edu/api/v03w2k</idno>
+            <idno>(OCoLC)26188608</idno>
+            <idno type="cico">3792-1A</idno>
+            <idno type="dcl">0gs</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Sac. Congreg. Riparum Tyberis Romana remunerationis pro illustriss. d. Cornelio Meyer Memoriale.</title>
+                  <textLang>Latin</textLang>
+                  <imprint>
+                     <publisher>Romae : Ex Typographia Rev. Cam. Apost</publisher>
+                     <pubPlace>Tiber River (Italy)</pubPlace>
+                     <pubPlace>Italy</pubPlace>
+                     <pubPlace>Italy Rome.</pubPlace>
+                     <date>MDCLXXXV [1685]</date>
+                     <date>1685</date>
+                  </imprint>
+                  <extent>15 pages</extent>
+               </monogr>
+               <relatedItem type="manifest"
+                            target="https://media.getty.edu/iiif/manifest/7c7d8572-3a0b-4941-9a96-3aff904ab992"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Meijer, Cornelis, 1629-1701</term>
+               <term>Tiber River (Italy) -- Early works to 1800.</term>
+               <term>Meijer, Cornelis, 1629-1701</term>
+               <term>Italy -- Tiber River.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json"
+             url="https://media.getty.edu/iiif/manifest/7c7d8572-3a0b-4941-9a96-3aff904ab992">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>

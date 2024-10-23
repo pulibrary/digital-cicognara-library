@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:dcterms="http://purl.org/dc/terms/"
+     xmlns:gettyterms="http://portal.getty.edu/terms/gri/"
+     xmlns:local="http://library.princeton.edu"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Indiae Orientalis par septima [microform] : nauigationes duas, primam, trium annorum, à Georgio Spilbergio, trium nauium praefecto, ann. 1601. ex Selandia in Indiam Orientalem susceptam : alteram, nouem annorum, à Gasparo Balby, Gemmario Veneto, anno. 1579. ex Alepo Babyloniam versus, &amp; inde porro ad regnum Pegu vsque continuatam, continens : omnium, quae illi quidem ad annum 1604. huic vero ad annum 1588, vsque acciderunt, commemoratione : regum item, locorum, populorum, rituumque variorum descriptione addita / auctore M. Gotardo Arthus Dantiscano ...</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Arthus, Gotthard, 1568-</authority>
+            <authority>Balbi, Gasparo. Viaggio dell' Indie Orientali. Latin.</authority>
+            <authority>Bry, Johann Israel de, -1611. India Orientalis. Pars 7. Latin.</authority>
+            <authority>Bry, Theodor de, 1528-1598. Collectiones peregrinationum in Indiam orientalem et Indiam occidentalem.</authority>
+            <authority>Bry, Theodor de, 1528-1598. India Orientalis. Pars 7 Latin.</authority>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985445753506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/039c97</idno>
+            <idno type="cico">3970</idno>
+            <idno type="dcl">x7s</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Indiae Orientalis par septima [microform] : nauigationes duas, primam, trium annorum, à Georgio Spilbergio, trium nauium praefecto, ann. 1601. ex Selandia in Indiam Orientalem susceptam : alteram, nouem annorum, à Gasparo Balby, Gemmario Veneto, anno. 1579. ex Alepo Babyloniam versus, &amp; inde porro ad regnum Pegu vsque continuatam, continens : omnium, quae illi quidem ad annum 1604. huic vero ad annum 1588, vsque acciderunt, commemoratione : regum item, locorum, populorum, rituumque variorum descriptione addita / auctore M. Gotardo Arthus Dantiscano ...</title>
+                  <respStmt>
+                     <persName>Spilbergen, Joris van, approximately 1568-1620.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Latin</textLang>
+                  <imprint>
+                     <publisher>Francofurti : typis Wolffgangi Richteri</publisher>
+                     <date>1606</date>
+                  </imprint>
+                  <extent>126 p., XXII leaves of plates</extent>
+                  <extent>4 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest"
+                            target="https://figgy.princeton.edu/concern/scanned_resources/899ebc9e-8dc6-47f3-8d9d-a72ddbb0be3c/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Voyages and travels -- Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json"
+             url="https://figgy.princeton.edu/concern/scanned_resources/899ebc9e-8dc6-47f3-8d9d-a72ddbb0be3c/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>

@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:dcterms="http://purl.org/dc/terms/"
+     xmlns:gettyterms="http://portal.getty.edu/terms/gri/"
+     xmlns:local="http://library.princeton.edu"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Traité des couleurs matérielles et de la maniere de colorer relativement aux différens arts et métiers / par m. Le Pileur d'Apligny.</title>
+            <respStmt>
+               <orgName>Getty Research Institute</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Saugrain, Claude Marin</authority>
+            <idno type="URI">http://portal.getty.edu/books/gri_9929662930001551</idno>
+            <idno type="URI">http://portal.getty.edu/api/2k804w</idno>
+            <idno>(OCoLC)21475817</idno>
+            <idno type="cico">184</idno>
+            <idno type="dcl">6sr</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Traité des couleurs matérielles et de la maniere de colorer relativement aux différens arts et métiers / par m. Le Pileur d'Apligny.</title>
+                  <respStmt>
+                     <persName>Lepileur d'Apligny</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>French</textLang>
+                  <imprint>
+                     <publisher>A Paris : Chez Saugrain &amp; Lamy ... et chez Barrois aîné</publisher>
+                     <pubPlace>France Paris.</pubPlace>
+                     <date>1779</date>
+                  </imprint>
+                  <extent>xij, 342, [4] p.</extent>
+               </monogr>
+               <relatedItem type="manifest"
+                            target="https://media.getty.edu/iiif/manifest/49db8e18-880b-4ab2-a326-1327bcfa9c9a"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Color -- Early works to 1800.</term>
+               <term>Painting -- Technique.</term>
+               <term>Art -- Early works to 1800.</term>
+               <term>Color.</term>
+               <term>Art.</term>
+               <term>Art.</term>
+               <term>Color.</term>
+               <term>Painting -- Technique.</term>
+               <term>ND1486 .L59 1779</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json"
+             url="https://media.getty.edu/iiif/manifest/49db8e18-880b-4ab2-a326-1327bcfa9c9a">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>

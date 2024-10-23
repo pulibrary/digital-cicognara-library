@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:dcterms="http://purl.org/dc/terms/"
+     xmlns:gettyterms="http://portal.getty.edu/terms/gri/"
+     xmlns:local="http://library.princeton.edu"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>La Hypnerotomachia di Poliphilo : cioè pugna d'amore in sogno, dou'egli mostra, che tutte le cose humane non sono altro che sogno, &amp; doue narra molt'altre cose degne di cognitione.</title>
+            <respStmt>
+               <orgName>Getty Research Institute</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <idno type="URI">http://portal.getty.edu/books/gri_9924426660001551</idno>
+            <idno type="URI">http://portal.getty.edu/api/z86b4s</idno>
+            <idno>(OCoLC)58787527</idno>
+            <idno type="cico">614</idno>
+            <idno type="dcl">jgn</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>La Hypnerotomachia di Poliphilo : cioè pugna d'amore in sogno, dou'egli mostra, che tutte le cose humane non sono altro che sogno, &amp; doue narra molt'altre cose degne di cognitione.</title>
+                  <respStmt>
+                     <persName>Colonna, Francesco, -1527</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>In Venetia : In Casa de' Figliovoli di Aldo</publisher>
+                     <date>1545</date>
+                  </imprint>
+                  <extent>[468] pages</extent>
+               </monogr>
+               <relatedItem type="manifest"
+                            target="https://media.getty.edu/iiif/manifest/ddc45a69-e96a-4b33-8d8f-2c039fd96c9c"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Allegories -- Early works to 1800.</term>
+               <term>Classical antiquities -- Early works to 1800.</term>
+               <term>Dreams -- Early works to 1800.</term>
+               <term>Allegories.</term>
+               <term>Classical antiquities.</term>
+               <term>Dreams.</term>
+               <term>PQ4619.C9 H9 1545</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json"
+             url="https://media.getty.edu/iiif/manifest/ddc45a69-e96a-4b33-8d8f-2c039fd96c9c">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>

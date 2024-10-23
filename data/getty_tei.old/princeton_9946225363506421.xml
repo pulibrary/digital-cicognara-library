@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:dcterms="http://purl.org/dc/terms/"
+     xmlns:gettyterms="http://portal.getty.edu/terms/gri/"
+     xmlns:local="http://library.princeton.edu"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Delle lodi di Luigi XIII, il giusto, rè di Francia, e di Navarra : orazione / di Francesco Rinuccini.</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Smarrito, 1619-1675. Esequie della Maestà Cristianiss. di Luigi XIII., il giusto, rè di Francia e di Navarra.</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9946225363506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/ss1k0z</idno>
+            <idno type="cico">1450b</idno>
+            <idno type="cico">1450</idno>
+            <idno type="dcl">qjt</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Delle lodi di Luigi XIII, il giusto, rè di Francia, e di Navarra : orazione / di Francesco Rinuccini.</title>
+                  <respStmt>
+                     <persName>Rinuccini, Francesco, -1678.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>Firenze : Stamperia di S. A. S. alla condotta</publisher>
+                     <date>1645</date>
+                  </imprint>
+                  <extent>19 p.</extent>
+               </monogr>
+               <relatedItem type="manifest"
+                            target="https://figgy.princeton.edu/concern/scanned_resources/d786c562-c875-4bee-bd5a-ef744444a212/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Louis XIII, King of France, 1601-1643 -- Death and burial.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json"
+             url="https://figgy.princeton.edu/concern/scanned_resources/d786c562-c875-4bee-bd5a-ef744444a212/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>

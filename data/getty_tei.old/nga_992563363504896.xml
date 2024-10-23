@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:dcterms="http://purl.org/dc/terms/"
+     xmlns:gettyterms="http://portal.getty.edu/terms/gri/"
+     xmlns:local="http://library.princeton.edu"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Thomae Dempsteri De Etruria regali libri VII. nuno primum editi curante Thoma Coke ...</title>
+            <respStmt>
+               <orgName>National Gallery of Art Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Leicester, Thomas Coke, Earl of, -1759.</authority>
+            <authority>Buonarroti, Filippo, 1661-1733. Ad monumenta Etrusca operi Dempsteriano addita explicationes et conjecturae.</authority>
+            <authority>Franceschini, Vincenzo, 1680-approximately 1744.</authority>
+            <authority>Verkruys, Theodor, -1739.</authority>
+            <idno type="URI">http://portal.getty.edu/books/nga_992563363504896</idno>
+            <idno type="URI">http://portal.getty.edu/api/c65p4k</idno>
+            <idno>(OCoLC)191673432</idno>
+            <idno>(OCoLC)12294093</idno>
+            <idno type="cico">2569</idno>
+            <idno type="dcl">jk2</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Thomae Dempsteri De Etruria regali libri VII. nuno primum editi curante Thoma Coke ...</title>
+                  <respStmt>
+                     <persName>Dempster, Thomas, 1579?-1625.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>Florentiae [Typis Regiae Celsitudinis</publisher>
+                     <pubPlace>Italy</pubPlace>
+                     <pubPlace>Etruria</pubPlace>
+                     <date>1723-[1726]</date>
+                     <date>1723</date>
+                  </imprint>
+                  <extent>3 v.</extent>
+               </monogr>
+               <relatedItem type="manifest"
+                            target="https://libraryimage.nga.gov/manifest/mms/992563363504896.json"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Eugubine tables.</term>
+               <term>Art -- Italy -- Etruria -- Early works to 1800.</term>
+               <term>Provenance -- Dempster (G. H.)</term>
+               <term>Etruria -- Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json"
+             url="https://libraryimage.nga.gov/manifest/mms/992563363504896.json">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>

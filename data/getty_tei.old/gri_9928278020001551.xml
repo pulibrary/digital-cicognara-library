@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:dcterms="http://purl.org/dc/terms/"
+     xmlns:gettyterms="http://portal.getty.edu/terms/gri/"
+     xmlns:local="http://library.princeton.edu"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Indice del libro intitolato Parnaso de' pittori : in cui si contengono varj disegni originali raccolti in Roma da S.R.</title>
+            <respStmt>
+               <orgName>Getty Research Institute</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Baduel, Carlo, 1739-1808.</authority>
+            <idno type="URI">http://portal.getty.edu/books/gri_9928278020001551</idno>
+            <idno type="URI">http://portal.getty.edu/api/fx3k2d</idno>
+            <idno>(OCoLC)146166222</idno>
+            <idno type="cico">2357</idno>
+            <idno type="dcl">75w</idno>
+            <idno type="dcl">sg2</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Indice del libro intitolato Parnaso de' pittori : in cui si contengono varj disegni originali raccolti in Roma da S.R.</title>
+                  <respStmt>
+                     <persName>Resta, Sebastiano.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>In Perugia : Presso Carlo Baduel</publisher>
+                     <pubPlace>Italy</pubPlace>
+                     <pubPlace>Italy Perugia.</pubPlace>
+                     <date>1787</date>
+                  </imprint>
+                  <extent>70, 21, [1] pages</extent>
+               </monogr>
+               <relatedItem type="manifest"
+                            target="https://media.getty.edu/iiif/manifest/b2fe4472-3a9f-44ed-888f-14710cd7fc98"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Parnaso de' pittori -- Indexes.</term>
+               <term>Painting, Italian -- Early works to 1800.</term>
+               <term>Painters -- Italy -- Biography -- Early works to 1800.</term>
+               <term>Painters</term>
+               <term>Painting, Italian</term>
+               <term>Italy</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json"
+             url="https://media.getty.edu/iiif/manifest/b2fe4472-3a9f-44ed-888f-14710cd7fc98">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>

@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:dcterms="http://purl.org/dc/terms/"
+     xmlns:gettyterms="http://portal.getty.edu/terms/gri/"
+     xmlns:local="http://library.princeton.edu"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A description of Fonthill Abbey, Wiltshire : illustrated by views, drawn and engraved / by James Storer.</title>
+            <respStmt>
+               <orgName>Getty Research Institute</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <idno type="URI">http://portal.getty.edu/books/gri_9928741350001551</idno>
+            <idno type="URI">http://portal.getty.edu/api/qx0n06</idno>
+            <idno>(OCoLC)54144030</idno>
+            <idno type="cico">4772</idno>
+            <idno type="dcl">v38</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>A description of Fonthill Abbey, Wiltshire : illustrated by views, drawn and engraved / by James Storer.</title>
+                  <respStmt>
+                     <persName>Storer, James, 1771-1853</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>English</textLang>
+                  <imprint>
+                     <publisher>London : Published by W. Clarke, J. Carpenter, W. Miller, C. Chappel, White and Cochrane, Sherwood, Neely, and Jones, Brodie and Co., and J. Storer :</publisher>
+                     <pubPlace>England</pubPlace>
+                     <pubPlace>Wiltshire (England)</pubPlace>
+                     <date>1812</date>
+                  </imprint>
+                  <extent>24 p., [7] leaves of plates</extent>
+               </monogr>
+               <relatedItem type="manifest"
+                            target="https://media.getty.edu/iiif/manifest/2320ae8c-cb10-4fbd-81ed-9270b1bdcbaa"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Fonthill Abbey.</term>
+               <term>Abbeys -- England -- Wiltshire.</term>
+               <term>Wiltshire (England) -- History.</term>
+               <term>Fonthill Abbey</term>
+               <term>Abbeys</term>
+               <term>England -- Wiltshire</term>
+               <term>DA690.F6 S8</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json"
+             url="https://media.getty.edu/iiif/manifest/2320ae8c-cb10-4fbd-81ed-9270b1bdcbaa">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>

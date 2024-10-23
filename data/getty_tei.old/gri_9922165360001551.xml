@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:dcterms="http://purl.org/dc/terms/"
+     xmlns:gettyterms="http://portal.getty.edu/terms/gri/"
+     xmlns:local="http://library.princeton.edu"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Notice des tableaux des écoles française et flamande, exposés dans la grande galerie, dont l'ouverture a eu lieu le 18 Germinal an VII, et des tableaux des écoles de Lombardie et de Bologne, dont l'exposition a eu lieu le 25 Messidor an IX.</title>
+            <respStmt>
+               <orgName>Getty Research Institute</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <idno type="URI">http://portal.getty.edu/books/gri_9922165360001551</idno>
+            <idno type="URI">http://portal.getty.edu/api/vj439q</idno>
+            <idno type="URI">http://portal.getty.edu/api/b22m0j</idno>
+            <idno>(OCoLC)123219624</idno>
+            <idno type="cico">3423-2</idno>
+            <idno type="dcl">kkf</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Notice des tableaux des écoles française et flamande, exposés dans la grande galerie, dont l'ouverture a eu lieu le 18 Germinal an VII, et des tableaux des écoles de Lombardie et de Bologne, dont l'exposition a eu lieu le 25 Messidor an IX.</title>
+                  <respStmt>
+                     <persName>Musée Napoléon</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>French</textLang>
+                  <imprint>
+                     <publisher>[Paris] : Impr. des sciences et arts</publisher>
+                     <pubPlace>Europe</pubPlace>
+                     <pubPlace>France</pubPlace>
+                     <pubPlace>Europe.</pubPlace>
+                     <date>[1804?]</date>
+                     <date>1804</date>
+                  </imprint>
+                  <extent>ii, 224 pages</extent>
+               </monogr>
+               <relatedItem type="manifest"
+                            target="https://media.getty.edu/iiif/manifest/7f1157ef-e514-4e13-9415-18e28b8ec692https://media.getty.edu/iiif/manifest/99d099d4-cbb1-4818-8cad-ffcb666bcab8"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Musée Napoléon -- Catalogs.</term>
+               <term>Painting, European -- Catalogs.</term>
+               <term>Painting, Renaissance -- Europe -- Catalogs.</term>
+               <term>Painting -- France -- Paris -- Catalogs.</term>
+               <term>Musée Napoléon.</term>
+               <term>Painting.</term>
+               <term>Painting, European.</term>
+               <term>Painting, Modern.</term>
+               <term>Painting, Renaissance.</term>
+               <term>Europe.</term>
+               <term>France -- Paris.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json"
+             url="https://media.getty.edu/iiif/manifest/7f1157ef-e514-4e13-9415-18e28b8ec692">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+   <facsimile>
+      <media mimeType="application/json"
+             url="https://media.getty.edu/iiif/manifest/99d099d4-cbb1-4818-8cad-ffcb666bcab8">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>

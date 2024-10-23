@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:dcterms="http://purl.org/dc/terms/"
+     xmlns:gettyterms="http://portal.getty.edu/terms/gri/"
+     xmlns:local="http://library.princeton.edu"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Galleria di pittu̇re dellʹ em̃o, e rm̃o principe signor cardinale Tommaso Ruffo, vescovo di Palestrina, e di Ferrara, ecc. Rime, e prose.</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Ruffo, Tommaso, cardinal, 1663-1753.</authority>
+            <authority>Marquand, Allan, 1853-1924, donor.</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9920592593506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/qg0h6x</idno>
+            <idno>(OCoLC)69658102</idno>
+            <idno type="cico">3365 (1)</idno>
+            <idno type="dcl">1wf</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Galleria di pittu̇re dellʹ em̃o, e rm̃o principe signor cardinale Tommaso Ruffo, vescovo di Palestrina, e di Ferrara, ecc. Rime, e prose.</title>
+                  <respStmt>
+                     <persName>Agnelli, Jacopo, 1702-1799.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>Ferrara, Bernardino Pomatelli</publisher>
+                     <date>1734</date>
+                  </imprint>
+                  <extent>299, [8] p.</extent>
+               </monogr>
+               <relatedItem type="manifest"
+                            target="https://figgy.princeton.edu/concern/scanned_resources/cd450c03-783c-4c03-8263-fd0879b66ba4/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Painting -- Private collections.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json"
+             url="https://figgy.princeton.edu/concern/scanned_resources/cd450c03-783c-4c03-8263-fd0879b66ba4/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
