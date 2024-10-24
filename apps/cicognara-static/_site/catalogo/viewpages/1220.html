@@ -5,8 +5,8 @@
         <title>Cico digital editions</title>
         <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:300,400,500"></link>
         <meta charset="UTF-8"></meta>
-         <script src="https://unpkg.com/mirador@latest/dist/mirador.min.js"></script>
-    </head>
+        <script src="https://unpkg.com/mirador@3.2.0/dist/mirador.min.js"></script>
+     </head>
     <body>
           <div id="the-viewer"/>
     
@@ -14,7 +14,7 @@
       <script type="text/javascript">
         const mirador = Mirador.viewer({
                "id": "the-viewer",
-               "windows": [{"manifestId":"https://figgy.princeton.edu/concern/scanned_resources/96544277-ed0f-4a6c-904a-5dbfabbed818/manifest"}],
+               "windows": [{"manifestId":"https://iiif.lib.harvard.edu/manifests/drs:482146638"},{"manifestId":"https://figgy.princeton.edu/concern/scanned_resources/96544277-ed0f-4a6c-904a-5dbfabbed818/manifest"}],
                "catalog": [{"manifestId":"https://iiif.lib.harvard.edu/manifests/drs:482146638","provider":"Harvard Library"},{"manifestId":"https://figgy.princeton.edu/concern/scanned_resources/96544277-ed0f-4a6c-904a-5dbfabbed818/manifest","provider":"Princeton University Library"}]
                 });
       </script>
