@@ -66,10 +66,6 @@ Dir["#{sourcedir}/*.xml"].each do |file|
 
     windows_arr << { manifestId: facs.text }
 
-    # if authorities.any? { |a| a.text == "Fondo Cicognara (Biblioteca apostolica vaticana)"}
-    #   windows_arr << { manifestId: facs.text }
-    # end
-
     catalog_arr << {
       manifestId: facs.text,
       provider: provider.text
