@@ -171,31 +171,6 @@
         </idno>
     </xsl:template>
 
-    <xsl:template match="dc:identifierOld">
-        <xsl:variable name="elvalue" select="."/>
-
-        <xsl:analyze-string select="$elvalue" regex="^(.*?):(.*)$">
-            <xsl:matching-substring>
-                <xsl:variable name="type" select="regex-group(1)"/>
-                <idno xmlns="http://www.tei-c.org/ns/1.0" type="{$type}">
-                    <xsl:choose>
-                        <xsl:when test="$type = 'cico'">
-                            <xsl:value-of select="local:clean-cico-num(regex-group(2))"/>
-                        </xsl:when>
-                        <xsl:otherwise>
-                            <xsl:value-of select="regex-group(2)"/>
-                        </xsl:otherwise>
-                    </xsl:choose>
-                </idno>
-            </xsl:matching-substring>
-            <xsl:non-matching-substring>
-                <idno xmlns="http://www.tei-c.org/ns/1.0">
-                    <xsl:value-of select="$elvalue"/>
-                </idno>
-            </xsl:non-matching-substring>
-        </xsl:analyze-string>
-    </xsl:template>
-
     <xsl:template match="dc:identifier">
         <xsl:variable name="elvalue" select="."/>
         

@@ -23,6 +23,7 @@
             <authority>Raffei, Stefano, 1712-1788. Dissertazione sopra un singolar combattimento espresso in bassorilievo.</authority>
             <authority>Raffei, Stefano, 1712-1788. Filottete addolorato altro bassorilievo.</authority>
             <idno type="URI">http://portal.getty.edu/books/gri_9926322230001551</idno>
+            <idno type="URI">http://portal.getty.edu/api/km7c34</idno>
             <idno type="URI">http://portal.getty.edu/api/bt2f22</idno>
             <idno>(OCoLC)146008691</idno>
             <idno type="cico">2506-3-2</idno>
@@ -33,7 +34,7 @@
                <monogr>
                   <title>Saggio di osservazioni sopra un bassorilievo della villa dell'eminentissimo signor cardinale Alessandro Albani.</title>
                   <respStmt>
-                     <persName>Raffei, Stefano, 1712-1788.</persName>
+                     <persName>Raffei, Stefano, 1712-1788</persName>
                      <resp>creator</resp>
                   </respStmt>
                   <textLang>Italian</textLang>
@@ -55,7 +56,7 @@
             <keywords>
                <term>Albani, Alessandro, 1692-1779 -- Art collections.</term>
                <term>Bas-relief -- Private collections -- Italy -- Rome.</term>
-               <term>Albani, Alessandro, 1692-1779.</term>
+               <term>Albani, Alessandro, 1692-1779  http://id.worldcat.org//00081294</term>
                <term>Art -- Private collections.</term>
                <term>Italy -- Rome.</term>
                <term>NB87.A32 R13 1772</term>

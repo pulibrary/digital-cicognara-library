@@ -8,7 +8,11 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Caravanne du sultan ala Mecque : mascarade turque donnée a Rome par Messieurs les pensionnaires de l'Academie de France et leurs amis au Carnaval de l'année 1748 : dediée à messire Iean Francois de Troy, ecuïer, conseiller sécrétaire du Roi, chevalier de l'Ordre de S. Michel, directeur de l'Academie roïale de France a Rome, ancien Recteur de celle de Paris, et ancien Prince de l'Academie de S. Luc de Rome &amp; c ... / Joseph Vien.</title>
+            <title>Caravanne du sultan ala Mecque : mascarade turque donnée a Rome par Messieurs les pensionnaires de
+            l'Academie de France et leurs amis au Carnaval de l'année 1748 : dediée à messire
+            Iean Francois de Troy, ecuïer, conseiller sécrétaire du Roi, chevalier de l'Ordre de
+            S. Michel, directeur de l'Academie roïale de France a Rome, ancien Recteur de celle de
+            Paris, et ancien Prince de l'Academie de S. Luc de Rome &amp; c ... / Joseph Vien.</title>
             <respStmt>
                <orgName>Getty Research Institute</orgName>
                <resp>contributor</resp>
@@ -21,6 +25,7 @@
             </publisher>
             <authority>Accademia di Francia (Rome, Italy)</authority>
             <idno type="URI">http://portal.getty.edu/books/gri_9925489180001551</idno>
+            <idno type="URI">http://portal.getty.edu/api/xs1751</idno>
             <idno type="URI">http://portal.getty.edu/api/g33j0g</idno>
             <idno>(OCoLC)657411042</idno>
             <idno type="cico">2131</idno>
@@ -30,12 +35,15 @@
          <sourceDesc>
             <biblStruct>
                <monogr>
-                  <title>Caravanne du sultan ala Mecque : mascarade turque donnée a Rome par Messieurs les pensionnaires de l'Academie de France et leurs amis au Carnaval de l'année 1748 : dediée à messire Iean Francois de Troy, ecuïer, conseiller sécrétaire du Roi, chevalier de l'Ordre de S. Michel, directeur de l'Academie roïale de France a Rome, ancien Recteur de celle de Paris, et ancien Prince de l'Academie de S. Luc de Rome &amp; c ... / Joseph Vien.</title>
+                  <title>Caravanne du sultan ala Mecque : mascarade turque donnée a Rome par Messieurs les pensionnaires de
+            l'Academie de France et leurs amis au Carnaval de l'année 1748 : dediée à messire
+            Iean Francois de Troy, ecuïer, conseiller sécrétaire du Roi, chevalier de l'Ordre de
+            S. Michel, directeur de l'Academie roïale de France a Rome, ancien Recteur de celle de
+            Paris, et ancien Prince de l'Academie de S. Luc de Rome &amp; c ... / Joseph Vien.</title>
                   <respStmt>
                      <persName>Vien, Joseph-Marie, 1716-1809</persName>
                      <resp>creator</resp>
                   </respStmt>
-                  <textLang>French</textLang>
                   <imprint>
                      <publisher>[Paris] : [publisher not identified]</publisher>
                      <pubPlace>Italy</pubPlace>

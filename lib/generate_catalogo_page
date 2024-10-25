@@ -8,8 +8,4 @@ SAXON=$CUR/saxon-he-12.4.jar
 XSL=$CUR/catalogo_to_html.xsl
 
 
-# fetch catalogo TEI XML
-#wget https://raw.githubusercontent.com/pulibrary/cicognara-catalogo/main/catalogo.tei.xml -P $DATADIR
-
-# generate HTML
 java -cp  $SAXON net.sf.saxon.Transform -s:$INPUTDIR/catalogo.tei.xml -xsl:$XSL -o:$TARGETDIR/index.html

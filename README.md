@@ -13,15 +13,3 @@ This repository combines the data and code from two earlier project repositories
   * *docs/* A directory of documentation about the way the Project models the *Catalogo*, the items it contains, and the surrogate resources being digitized by the Partner institutions.
 
 
-## Managing Tasks with Rake ##
-
-The DCL contains [rake tasks](https://www.rubyguides.com/2019/02/ruby-rake/) that may be used to download metadata from the Getty Portal and convert it into formats used by the static web application. **NB**: these tasks are being deprecated in favor of a more targeted ingest of Getty-portal metadata, which will allow for local curation and augmentation of the data managed by the Project and displayed on its websites.
-
-## Building HTML Pages
-
-``` shell
-cd lib
-./generate_catalogo_page
-./generate_viewer_pages
-./generate_item_pages
-```

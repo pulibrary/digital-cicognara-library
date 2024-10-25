@@ -20,11 +20,11 @@
                <ref>https://cicognara.org/</ref>
             </publisher>
             <authority>Chamfort, Sébastien-Roch-Nicolas, 1740?-1794. Précis historique de révolutions de Naples et de Sicile.</authority>
-            <authority>Fragonard, Honoré, 1732-1799.</authority>
-            <authority>Paris, Pierre-Adrien, 1745?-1819.</authority>
-            <authority>Choffard, Pierre-Philippe, 1730-1809.</authority>
+            <authority>Fragonard, Honoré, 1732-1799</authority>
+            <authority>Paris, Pierre-Adrien, 1745?-1819</authority>
+            <authority>Choffard, Pierre-Philippe, 1730-1809</authority>
             <authority>Robert, Hubert, 1733-1808</authority>
-            <authority>Desprez, Louis-Jean, 1743-1804.</authority>
+            <authority>Desprez, Louis-Jean, 1743-1804</authority>
             <authority>Imprimerie de Clousier.</authority>
             <idno type="URI">http://portal.getty.edu/books/gri_9925193210001551</idno>
             <idno type="URI">http://portal.getty.edu/api/qb9t1q</idno>
@@ -41,7 +41,7 @@
                <monogr>
                   <title>Voyage pittoresque, ou, Description des royaumes de Naples et de Sicile.</title>
                   <respStmt>
-                     <persName>Saint Non, Jean Claude Richard de, 1727-1791.</persName>
+                     <persName>Saint Non, Jean Claude Richard de, 1727-1791</persName>
                      <resp>creator</resp>
                   </respStmt>
                   <textLang>French</textLang>
@@ -67,7 +67,7 @@
                <term>Naples (Italy) -- Description and travel -- Early works to 1800.</term>
                <term>Sicily (Italy) -- Description and travel -- Early works to 1800.</term>
                <term>Travel</term>
-               <term>Italy</term>
+               <term>Italy     -781</term>
                <term>Italy -- Naples</term>
                <term>Italy -- Sicily</term>
                <term>DG821 .S14 1781</term>

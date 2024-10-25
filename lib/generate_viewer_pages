@@ -13,8 +13,8 @@ template = %(
         <title>Cico digital editions</title>
         <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:300,400,500"></link>
         <meta charset="UTF-8"></meta>
-         <script src="https://unpkg.com/mirador@latest/dist/mirador.min.js"></script>
-    </head>
+        <script src="https://unpkg.com/mirador@3.2.0/dist/mirador.min.js"></script>
+     </head>
     <body>
           <div id="the-viewer"/>
     <% if windows && catalog %>
@@ -64,9 +64,7 @@ Dir["#{sourcedir}/*.xml"].each do |file|
     facs = doc.xpath('.//tei:facsimile/tei:media/@url', ns)
 
 
-    if authorities.any? { |a| a.text == "Fondo Cicognara (Biblioteca apostolica vaticana)"}
-      windows_arr << { manifestId: facs.text }
-    end
+    windows_arr << { manifestId: facs.text }
 
     catalog_arr << {
       manifestId: facs.text,

@@ -21,10 +21,11 @@
             </publisher>
             <authority>Duhamel du Monceau, M., 1700-1782</authority>
             <authority>Le Mercier, Pierre-Gilles, 1698-1773</authority>
-            <authority>Nyon, Jean-Luc, -1799.</authority>
+            <authority>Nyon, Jean-Luc, -1799</authority>
             <authority>Lambert, Michel, 1722?-1787</authority>
-            <authority>Gautier de Montdorge, Antoine, 1701-1768.</authority>
+            <authority>Gautier de Montdorge, Antoine, 1701-1768</authority>
             <idno type="URI">http://portal.getty.edu/books/gri_9926496770001551</idno>
+            <idno type="URI">http://portal.getty.edu/api/7d7w2d</idno>
             <idno type="URI">http://portal.getty.edu/api/913d3k</idno>
             <idno>(OCoLC)3306214</idno>
             <idno type="cico">250</idno>
@@ -35,7 +36,7 @@
                <monogr>
                   <title>L'art d'imprimer les tableaux / traité d'après les écrits, les opérations &amp; les instructions verbales, de J. C. Le Blon.</title>
                   <respStmt>
-                     <persName>Le Blon, J. C., 1667-1741.</persName>
+                     <persName>Le Blon, J. C., 1667-1741</persName>
                      <resp>creator</resp>
                   </respStmt>
                   <textLang>French</textLang>
@@ -56,13 +57,13 @@
       <profileDesc>
          <textClass>
             <keywords>
-               <term>Le Blon, J. C., 1667-1741.</term>
+               <term>Le Blon, J. C., 1667-1741</term>
                <term>Color prints, French -- 18th century.</term>
                <term>Color printing -- France -- Early works to 1800.</term>
-               <term>Le Blon, J. C., 1667-1741</term>
+               <term>Le Blon, J. C., 1667-1741  http://id.worldcat.org//00081000</term>
                <term>Color printing</term>
                <term>Color prints, French</term>
-               <term>France</term>
+               <term>France     -781</term>
                <term>NE1850 .G38 1756</term>
             </keywords>
          </textClass>

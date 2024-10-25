@@ -44,6 +44,82 @@
         </header>
     </xsl:template>
 
+    <xd:doc>
+        <xd:desc>
+            <xd:p>A named template to generate the site footer</xd:p>
+        </xd:desc>
+    </xd:doc>
+    <xsl:template name="createSiteFooter">
+        <footer id="site-footer">
+            <section class="partners" id="partners">
+                <ul>
+                    <li>
+                        <a href="https://www.vaticanlibrary.va/home.php" target="_blank">
+                            <img src="/assets/images/vatican.png"
+                                alt="Biblioteca Apostolica Vaticana"
+                                title="Biblioteca Apostolica Vaticana"/>
+                        </a>
+                    </li>
+                    <li>
+                        <a href="http://library.columbia.edu/" target="_blank">
+                            <img src="/assets/images/columbia.png" alt="Columbia University Library"
+                                title="Columbia University Library"/>
+                        </a>
+                    </li>
+                    <li>
+                        <a href="http://www.frick.org/research/library" target="_blank">
+                            <img src="/assets/images/frick.png" alt="Frick Art Reference Library"
+                                title="Frick Art Reference Library"/>
+                        </a>
+                    </li>
+                    <li>
+                        <a href="https://www.getty.edu/research/" target="_blank">
+                            <img src="/assets/images/getty.png" alt="Getty Research Institute"
+                                title="Getty Research Institute"/>
+                        </a>
+                    </li>
+                    <li>
+                        <a href="http://library.harvard.edu/" target="_blank">
+                            <img src="/assets/images/harvard.png" alt="Harvard University Library"
+                                title="Harvard University Library"/>
+                        </a>
+                    </li>
+                    <li>
+                        <a href="http://www.ub.uni-heidelberg.de/" target="_blank">
+                            <img src="/assets/images/heidelberg.png"
+                                alt="Heidelberg University Library"
+                                title="Heidelberg University Library"/>
+                        </a>
+                    </li>
+                    <li>
+                        <a href="https://library.nga.gov/" target="_blank">
+                            <img src="/assets/images/national_gallery_of_art.png"
+                                alt="National Gallery of Art Library"
+                                title="National Gallery of Art Library"/>
+                        </a>
+                    </li>
+                    <li>
+                        <a href="http://library.princeton.edu/" target="_blank">
+                            <img src="/assets/images/princeton.png"
+                                alt="Princeton University Library"
+                                title="Princeton University Library"/>
+                        </a>
+                    </li>
+                    <li>
+                        <a href="http://www.library.illinois.edu/" target="_blank">
+                            <img src="/assets/images/illinois.png"
+                                alt="University of Illinois at Urbana-Champaign Library"
+                                title="University of Illinois at Urbana-Champaign Library"/>
+                        </a>
+                    </li>
+                </ul>
+                <span class="footer-bottom">&#169; <xsl:value-of
+                    select="year-from-date(current-date())"/> The Trustees of Princeton
+                    University. All rights reserved.</span>
+            </section>
+        </footer>
+    </xsl:template>
+    
     <xsl:template match="tei:teiCorpus">
         <xsl:variable name="ciconum">
             <xsl:value-of
@@ -127,122 +203,5 @@
     </xsl:template>
 
 
-    <xsl:template match="tei:teiCorpusOld">
-        <xsl:variable name="ciconum">
-            <xsl:value-of
-                select="tei:teiHeader/tei:fileDesc/tei:publicationStmt/tei:idno[@type = 'cico']"/>
-        </xsl:variable>
-        <xsl:result-document href="{$ciconum}.html" indent="yes">
-            <html xmlns="http://www.w3.org/1999/xhtml" lang="it">
-                <head>
-                    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
-                    <title>
-                        <xsl:value-of select="tei:teiHeader/tei:fileDesc/tei:titleStmt/tei:title"/>
-                    </title>
-                    <link rel="stylesheet" href="{$css}"/>
-                </head>
-
-                <body>
-                    <xsl:call-template name="createSiteMastHead"/>
-
-                    <nav>
-                        <ul class="breadcrumb">
-                            <li>
-                                <a href="../index.html" class="browse-catalogo-button">Catalogo</a>
-                            </li>
-                        </ul>
-                    </nav>
-
-                    <header id="metadata">
-                        <div class="bibl">
-                            <xsl:apply-templates
-                                select="tei:teiHeader/tei:fileDesc/tei:sourceDesc/tei:bibl"/>
-                        </div>
-                    </header>
-
-                    <main id="main">
-                        <iframe allowfullscreen="true" src="{$viewpages}/{$ciconum}.html"/>
-                    </main>
-                    <xsl:call-template name="createSiteFooter"/>
-                </body>
-            </html>
-        </xsl:result-document>
-    </xsl:template>
-
-    <xd:doc>
-        <xd:desc>
-            <xd:p>A named template to generate the site footer</xd:p>
-        </xd:desc>
-    </xd:doc>
-    <xsl:template name="createSiteFooter">
-        <footer id="site-footer">
-            <section class="partners" id="partners">
-                <ul>
-                    <li>
-                        <a href="https://www.vaticanlibrary.va/home.php" target="_blank">
-                            <img src="/assets/images/vatican.png"
-                                alt="Biblioteca Apostolica Vaticana"
-                                title="Biblioteca Apostolica Vaticana"/>
-                        </a>
-                    </li>
-                    <li>
-                        <a href="http://library.columbia.edu/" target="_blank">
-                            <img src="/assets/images/columbia.png" alt="Columbia University Library"
-                                title="Columbia University Library"/>
-                        </a>
-                    </li>
-                    <li>
-                        <a href="http://www.frick.org/research/library" target="_blank">
-                            <img src="/assets/images/frick.png" alt="Frick Art Reference Library"
-                                title="Frick Art Reference Library"/>
-                        </a>
-                    </li>
-                    <li>
-                        <a href="https://www.getty.edu/research/" target="_blank">
-                            <img src="/assets/images/getty.png" alt="Getty Research Institute"
-                                title="Getty Research Institute"/>
-                        </a>
-                    </li>
-                    <li>
-                        <a href="http://library.harvard.edu/" target="_blank">
-                            <img src="/assets/images/harvard.png" alt="Harvard University Library"
-                                title="Harvard University Library"/>
-                        </a>
-                    </li>
-                    <li>
-                        <a href="http://www.ub.uni-heidelberg.de/" target="_blank">
-                            <img src="/assets/images/heidelberg.png"
-                                alt="Heidelberg University Library"
-                                title="Heidelberg University Library"/>
-                        </a>
-                    </li>
-                    <li>
-                        <a href="https://library.nga.gov/" target="_blank">
-                            <img src="/assets/images/national_gallery_of_art.png"
-                                alt="National Gallery of Art Library"
-                                title="National Gallery of Art Library"/>
-                        </a>
-                    </li>
-                    <li>
-                        <a href="http://library.princeton.edu/" target="_blank">
-                            <img src="/assets/images/princeton.png"
-                                alt="Princeton University Library"
-                                title="Princeton University Library"/>
-                        </a>
-                    </li>
-                    <li>
-                        <a href="http://www.library.illinois.edu/" target="_blank">
-                            <img src="/assets/images/illinois.png"
-                                alt="University of Illinois at Urbana-Champaign Library"
-                                title="University of Illinois at Urbana-Champaign Library"/>
-                        </a>
-                    </li>
-                </ul>
-                <span class="footer-bottom">&#169; <xsl:value-of
-                        select="year-from-date(current-date())"/> The Trustees of Princeton
-                    University. All rights reserved.</span>
-            </section>
-        </footer>
-    </xsl:template>
 
 </xsl:stylesheet>

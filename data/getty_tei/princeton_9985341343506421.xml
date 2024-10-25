@@ -19,7 +19,7 @@
                <orgName>Digital Cicognara Library</orgName>
                <ref>https://cicognara.org/</ref>
             </publisher>
-            <authority>Holbein, Hans, 1497-1543.</authority>
+            <authority>Holbein, Hans, 1497?-1543.</authority>
             <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
             <idno type="URI">http://portal.getty.edu/books/princeton_9985341343506421</idno>
             <idno type="URI">http://portal.getty.edu/api/pd1f7h</idno>
@@ -46,7 +46,7 @@
       <profileDesc>
          <textClass>
             <keywords>
-               <term>Holbein, Hans, 1497-1543 -- Individual works -- Historiarum Veteris Testamenti icones.</term>
+               <term>Holbein, Hans, 1497?-1543 -- Individual works -- Historiarum Veteris Testamenti icones.</term>
                <term>Bible. Old Testament -- Illustrations.</term>
                <term>Wood-engraving, German -- 16th century.</term>
             </keywords>

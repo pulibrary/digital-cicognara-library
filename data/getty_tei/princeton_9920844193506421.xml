@@ -19,7 +19,6 @@
                <orgName>Digital Cicognara Library</orgName>
                <ref>https://cicognara.org/</ref>
             </publisher>
-            <authority>Fontana, Carlo, 1634-1714.</authority>
             <idno type="URI">http://portal.getty.edu/books/princeton_9920844193506421</idno>
             <idno type="URI">http://portal.getty.edu/api/jp7x5x</idno>
             <idno>(OCoLC)39898958</idno>
@@ -37,11 +36,10 @@
                   <textLang>Italian</textLang>
                   <imprint>
                      <publisher>In Roma, Per G.F. Buagni</publisher>
-                     <pubPlace>Italy</pubPlace>
                      <pubPlace>Rome (city) Ponte senatorio.</pubPlace>
                      <date>1692</date>
                   </imprint>
-                  <extent>[16] p.</extent>
+                  <extent>16 unnumbered pages</extent>
                </monogr>
                <relatedItem type="manifest"
                             target="https://figgy.princeton.edu/concern/scanned_resources/022b0299-a7c0-465d-836f-cf877bf1718a/manifest"/>
@@ -51,7 +49,6 @@
       <profileDesc>
          <textClass>
             <keywords>
-               <term>Bridges -- Italy -- Rome -- Conservation and restoration.</term>
                <term>Rome (city) Ponte senatorio.</term>
                <term>NA1111</term>
             </keywords>

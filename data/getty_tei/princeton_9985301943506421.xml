@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:dcterms="http://purl.org/dc/terms/"
+     xmlns:gettyterms="http://portal.getty.edu/terms/gri/"
+     xmlns:local="http://library.princeton.edu"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Il trionfo delle bell'arti [microform] : renduto gloriosissimo sotto gli auspicj delle ... Pietro Leopoldo ... e Maria Luisa di Borbone ... : in occasione, che gli Accademici del Disegno ... fanno la solenne mostra delle opere antiche ... in Firenze l'anno 1767.</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Accademia delle arti del disegno (Florence, Italy)</authority>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <authority>Leopoldo Cicognara Program (University of Illinois at Urbana-Champaign)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985301943506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/z70h0m</idno>
+            <idno type="cico">1300</idno>
+            <idno type="dcl">5zz</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Il trionfo delle bell'arti [microform] : renduto gloriosissimo sotto gli auspicj delle ... Pietro Leopoldo ... e Maria Luisa di Borbone ... : in occasione, che gli Accademici del Disegno ... fanno la solenne mostra delle opere antiche ... in Firenze l'anno 1767.</title>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>In Firenze : Nella stamperia di Gio. Batista Stecchi e Anton Giuseppe Pagani</publisher>
+                     <date>1767</date>
+                  </imprint>
+                  <extent>LXVI, 48 p.</extent>
+                  <extent>2 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest"
+                            target="https://figgy.princeton.edu/concern/scanned_resources/963fc1f9-2bee-4d95-ae2e-0dac16f19969/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Art, Italian -- Exhibitions.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json"
+             url="https://figgy.princeton.edu/concern/scanned_resources/963fc1f9-2bee-4d95-ae2e-0dac16f19969/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>

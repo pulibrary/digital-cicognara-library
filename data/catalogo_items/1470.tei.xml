@@ -113,7 +113,7 @@
             <idno type="URI">http://portal.getty.edu/books/princeton_9985303993506421</idno>
             <idno type="URI">http://portal.getty.edu/api/6m1k7v</idno>
             <idno type="URI">http://portal.getty.edu/api/q88g46</idno>
-            <idno type="URI">http://portal.getty.edu/api/ns8g7s</idno>
+            <idno type="URI">http://portal.getty.edu/api/8t7x8w</idno>
             <idno type="cico">1470</idno>
             <idno type="dcl">xr9</idno>
             <idno type="dcl">s5r</idno>
@@ -135,7 +135,7 @@
                   <extent>79 p.</extent>
                   <extent>2 microfiche : positive.</extent>
                </monogr>
-               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/09bd50ef-e068-46b9-8574-9c3ad2a96232/manifest"/>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/c215397c-d560-47d8-b8a3-508182d1faae/manifest"/>
             </biblStruct>
          </sourceDesc>
       </fileDesc>
@@ -150,7 +150,7 @@
       </profileDesc>
    </teiHeader>
    <facsimile>
-      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/09bd50ef-e068-46b9-8574-9c3ad2a96232/manifest">
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/c215397c-d560-47d8-b8a3-508182d1faae/manifest">
          <desc>IIIF Manifest</desc>
       </media>
    </facsimile>
@@ -366,7 +366,7 @@
             <idno type="URI">http://portal.getty.edu/books/princeton_9985303993506421</idno>
             <idno type="URI">http://portal.getty.edu/api/6m1k7v</idno>
             <idno type="URI">http://portal.getty.edu/api/q88g46</idno>
-            <idno type="URI">http://portal.getty.edu/api/ns8g7s</idno>
+            <idno type="URI">http://portal.getty.edu/api/8t7x8w</idno>
             <idno type="cico">1470</idno>
             <idno type="dcl">xr9</idno>
             <idno type="dcl">s5r</idno>
@@ -388,7 +388,7 @@
                   <extent>79 p.</extent>
                   <extent>2 microfiche : positive.</extent>
                </monogr>
-               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/09bd50ef-e068-46b9-8574-9c3ad2a96232/manifest"/>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/c215397c-d560-47d8-b8a3-508182d1faae/manifest"/>
             </biblStruct>
          </sourceDesc>
       </fileDesc>
@@ -403,7 +403,7 @@
       </profileDesc>
    </teiHeader>
    <facsimile>
-      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/09bd50ef-e068-46b9-8574-9c3ad2a96232/manifest">
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/c215397c-d560-47d8-b8a3-508182d1faae/manifest">
          <desc>IIIF Manifest</desc>
       </media>
    </facsimile>

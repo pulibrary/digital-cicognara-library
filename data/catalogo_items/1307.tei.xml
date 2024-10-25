@@ -1049,7 +1049,7 @@
             <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
             <authority>Leopoldo Cicognara Program (University of Illinois at Urbana-Champaign)</authority>
             <idno type="URI">http://portal.getty.edu/books/princeton_9985301683506421</idno>
-            <idno type="URI">http://portal.getty.edu/api/7x641b</idno>
+            <idno type="URI">http://portal.getty.edu/api/xk686x</idno>
             <idno type="cico">1307</idno>
             <idno type="dcl">h2n</idno>
          </publicationStmt>
@@ -1070,7 +1070,7 @@
                   <extent>LXXIX p.</extent>
                   <extent>2 microfiche : positive.</extent>
                </monogr>
-               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/2ce6cbb9-b610-434a-b824-0c7ed53a8745/manifest"/>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/eca2e111-602d-4e9e-bc72-ac0248ad2951/manifest"/>
             </biblStruct>
          </sourceDesc>
       </fileDesc>
@@ -1084,7 +1084,7 @@
       </profileDesc>
    </teiHeader>
    <facsimile>
-      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/2ce6cbb9-b610-434a-b824-0c7ed53a8745/manifest">
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/eca2e111-602d-4e9e-bc72-ac0248ad2951/manifest">
          <desc>IIIF Manifest</desc>
       </media>
    </facsimile>

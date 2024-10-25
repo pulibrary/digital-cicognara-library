@@ -8,7 +8,10 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>De re aedificatoria libri decem / Leonis Baptistæ Alberti Florentini ... ; recens summa diligentia capitibus distincti &amp; a foedis mendis repurgati per Eberhardum Tappium Lunensem ; quanti hoc opus Angelus Politianus acerrimi iudicij uir fecerit in sequenti pagina reperies.</title>
+            <title>De re aedificatoria libri decem / Leonis Baptistæ Alberti Florentini ... ; recens summa diligentia
+            capitibus distincti &amp; a foedis mendis repurgati per Eberhardum Tappium Lunensem ;
+            quanti hoc opus Angelus Politianus acerrimi iudicij uir fecerit in sequenti pagina
+            reperies.</title>
             <respStmt>
                <orgName>Getty Research Institute</orgName>
                <resp>contributor</resp>
@@ -19,8 +22,9 @@
                <orgName>Digital Cicognara Library</orgName>
                <ref>https://cicognara.org/</ref>
             </publisher>
-            <authority>Tappe, Eberhard.</authority>
+            <authority>Tappe, Eberhard</authority>
             <idno type="URI">http://portal.getty.edu/books/gri_9924819650001551</idno>
+            <idno type="URI">http://portal.getty.edu/api/nw859d</idno>
             <idno type="URI">http://portal.getty.edu/api/bj1436</idno>
             <idno>(OCoLC)8324726</idno>
             <idno type="cico">372</idno>
@@ -29,12 +33,14 @@
          <sourceDesc>
             <biblStruct>
                <monogr>
-                  <title>De re aedificatoria libri decem / Leonis Baptistæ Alberti Florentini ... ; recens summa diligentia capitibus distincti &amp; a foedis mendis repurgati per Eberhardum Tappium Lunensem ; quanti hoc opus Angelus Politianus acerrimi iudicij uir fecerit in sequenti pagina reperies.</title>
+                  <title>De re aedificatoria libri decem / Leonis Baptistæ Alberti Florentini ... ; recens summa diligentia
+            capitibus distincti &amp; a foedis mendis repurgati per Eberhardum Tappium Lunensem ;
+            quanti hoc opus Angelus Politianus acerrimi iudicij uir fecerit in sequenti pagina
+            reperies.</title>
                   <respStmt>
                      <persName>Alberti, Leon Battista, 1404-1472</persName>
                      <resp>creator</resp>
                   </respStmt>
-                  <textLang>Latin</textLang>
                   <imprint>
                      <publisher>Argentorati [Strasbourg] : excudebat M. Iacobus Cammerlander Moguntinus</publisher>
                      <date>Anno 1541</date>

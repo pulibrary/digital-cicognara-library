@@ -20,6 +20,7 @@
                <ref>https://cicognara.org/</ref>
             </publisher>
             <idno type="URI">http://portal.getty.edu/books/gri_9921712720001551</idno>
+            <idno type="URI">http://portal.getty.edu/api/qz6v7r</idno>
             <idno type="URI">http://portal.getty.edu/api/nh5j0b</idno>
             <idno>(OCoLC)13610394</idno>
             <idno type="cico">4725</idno>
@@ -73,7 +74,7 @@
                <term>Religions.</term>
                <term>Rome (Empire)</term>
                <term>Europe -- Gaul.</term>
-               <term>Egypt.</term>
+               <term>Egypt.     -781</term>
                <term>BL96 .M26</term>
             </keywords>
          </textClass>

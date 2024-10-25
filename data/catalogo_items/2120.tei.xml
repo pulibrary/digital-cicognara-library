@@ -132,7 +132,7 @@
                   <extent>[1] leaf, [6] p., LII leaves of plates</extent>
                   <extent>2 microfiche : positive.</extent>
                </monogr>
-               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/253c83e4-1746-4562-a320-c68750fa2010/manifest"/>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/d1912870-24e5-417d-ab74-c2a830df3600/manifest"/>
             </biblStruct>
          </sourceDesc>
       </fileDesc>
@@ -145,7 +145,7 @@
       </profileDesc>
    </teiHeader>
    <facsimile>
-      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/253c83e4-1746-4562-a320-c68750fa2010/manifest">
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/d1912870-24e5-417d-ab74-c2a830df3600/manifest">
          <desc>IIIF Manifest</desc>
       </media>
    </facsimile>
@@ -187,7 +187,7 @@
                   <extent>[1] leaf, [6] p., LII leaves of plates</extent>
                   <extent>2 microfiche : positive.</extent>
                </monogr>
-               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/253c83e4-1746-4562-a320-c68750fa2010/manifest"/>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/d1912870-24e5-417d-ab74-c2a830df3600/manifest"/>
             </biblStruct>
          </sourceDesc>
       </fileDesc>
@@ -200,7 +200,7 @@
       </profileDesc>
    </teiHeader>
    <facsimile>
-      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/253c83e4-1746-4562-a320-c68750fa2010/manifest">
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/d1912870-24e5-417d-ab74-c2a830df3600/manifest">
          <desc>IIIF Manifest</desc>
       </media>
    </facsimile>

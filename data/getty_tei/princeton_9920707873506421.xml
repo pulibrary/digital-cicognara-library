@@ -23,6 +23,7 @@
             <idno type="URI">http://portal.getty.edu/api/vn4f0p</idno>
             <idno>(OCoLC)23602692</idno>
             <idno type="cico">3935</idno>
+            <idno type="dcl">fp4 dclib</idno>
             <idno type="dcl">fp4</idno>
          </publicationStmt>
          <sourceDesc>

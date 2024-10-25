@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:dcterms="http://purl.org/dc/terms/"
+     xmlns:gettyterms="http://portal.getty.edu/terms/gri/"
+     xmlns:local="http://library.princeton.edu"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Description historique de l'Hôtel royal des invalides. Par M. l'abbé Pérau ... Avec les plans, coupes, élevations geometrales de cet édifice, &amp; les peintures &amp; sculptures de l'eglise, dessinées et gravées par le Sieur Cochin ...</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Cochin, Charles Nicolas, 1688-1754, engr.</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9920106843506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/v62k0h</idno>
+            <idno>(OCoLC)02019539</idno>
+            <idno type="cico">4062</idno>
+            <idno type="dcl">w5h dclib</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Description historique de l'Hôtel royal des invalides. Par M. l'abbé Pérau ... Avec les plans, coupes, élevations geometrales de cet édifice, &amp; les peintures &amp; sculptures de l'eglise, dessinées et gravées par le Sieur Cochin ...</title>
+                  <respStmt>
+                     <persName>Pérau, M. l'abbé (Gabriel-Louis-Calabre), 1700-1767.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>French</textLang>
+                  <imprint>
+                     <publisher>Paris, G. Desprez</publisher>
+                     <date>1756</date>
+                  </imprint>
+                  <extent>2 p. ., xii, 104 p.</extent>
+               </monogr>
+               <relatedItem type="manifest"
+                            target="https://figgy.princeton.edu/concern/scanned_resources/ad1d9d5d-7387-43a4-a9d1-8882d3c1e6b2/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Hôtel des invalides (France)</term>
+               <term>NA4510.H6 P2</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json"
+             url="https://figgy.princeton.edu/concern/scanned_resources/ad1d9d5d-7387-43a4-a9d1-8882d3c1e6b2/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
