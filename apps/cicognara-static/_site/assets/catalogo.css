@@ -19,18 +19,12 @@ iframe {
   width: 65vw;
   height: 90vh;
   overflow-y: auto;
-  margin-right:10px;
+  margin-right: auto;
+  margin-left: auto;
 }
 
 body {
   background-color: #fff;
-  display: grid;
-  grid-template-columns: 1fr 2fr;
-  grid-template-rows: auto;
-    grid-template-areas:
-    "header"
-    "main"
-    "footer";
   color: #333;
   font-family: "Cardo", Georgia, serif;
   font-size: 16px;
@@ -39,12 +33,20 @@ body {
 
 .catalogo-page-display {
   display: grid;
-  grid-template-columns: 1fr 4fr;
-  grid-template-rows: auto;
-    grid-template-areas:
+  gap: 10px;
+  grid-template-areas:
     "header header"
-    "side main"
+    "main main"
     "footer footer";
+}
+
+.catalogo-index-display {
+  display: grid;
+  gap: 10px;
+  grid-template-areas:
+    "header header header header"
+    "side main main main"
+    "footer footer footer footer";
 }
 
 a {
@@ -69,20 +71,10 @@ a:visited {
   margin-right: auto;
   margin-left: auto;
 }
-@media (min-width: 768px) {
-  .container {
-    width: 750px;
-  }
-}
-@media (min-width: 992px) {
-  .container {
-    width: 970px;
-  }
-}
-@media (min-width: 1200px) {
-  .container {
-    width: 1170px;
-  }
+
+.container {
+  width: auto;
+  min-width: 720px;
 }
 
 summary {
@@ -104,7 +96,7 @@ summary::-webkit-details-marker {
 }
 
 #pageheader {
-  grid-area: header;
+  grid-area: header !important;
   background-color: #e6e8db;
   border-color: #efefef;
   height: 55.95px;
@@ -122,16 +114,18 @@ summary::-webkit-details-marker {
 }
 
 #main {
-  grid-area: main;
+  grid-area: main !important;
   padding-right:10px;
+  margin-top: 20px;
 }
 
 #side {
-  grid-area: side;
+  grid-area: side !important;
+  margin-top: 30px;
 }
 
 #pageFooter {
-  grid-area: footer;
+  grid-area: footer !important;
 }
 
 ul.breadcrumb {
