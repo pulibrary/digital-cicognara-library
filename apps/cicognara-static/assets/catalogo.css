@@ -66,8 +66,8 @@ a:visited {
 }
 
 .container {
-  padding-right: 15px;
-  padding-left: 15px;
+  padding-right: 0px;
+  padding-left: 0px;
   margin-right: auto;
   margin-left: auto;
 }
@@ -226,13 +226,12 @@ footer {
 #site-footer {
   margin-top: auto;
   grid-area: footer;
-  width: 100vw;
   border-top: 1px solid #e8e8e8;
   padding: 0px;
 }
 
 #site-footer section {
-  width: 100%;
+  width: 90%;
   display: block;
   position: relative;
   padding: 5px 10px;
