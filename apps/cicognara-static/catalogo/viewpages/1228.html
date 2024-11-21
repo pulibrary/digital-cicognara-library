@@ -1,0 +1,23 @@
+
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+    <head>
+        <title>Cico digital editions</title>
+        <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:300,400,500"></link>
+        <meta charset="UTF-8"></meta>
+        <script src="https://unpkg.com/mirador@3.2.0/dist/mirador.min.js"></script>
+     </head>
+    <body>
+          <div id="the-viewer"/>
+    
+
+      <script type="text/javascript">
+        const mirador = Mirador.viewer({
+               "id": "the-viewer",
+               "windows": [{"manifestId":"https://media.getty.edu/iiif/manifest/67bbbb06-7683-42b6-9090-70f7ae1eae3a"},{"manifestId":"https://media.getty.edu/iiif/manifest/f92fa810-beaf-476d-bcbd-7ea62c32e4e4"},{"manifestId":"https://media.getty.edu/iiif/manifest/0d91a469-c202-4417-9cc9-126a30a071f6"}],
+               "catalog": [{"manifestId":"https://media.getty.edu/iiif/manifest/67bbbb06-7683-42b6-9090-70f7ae1eae3a","provider":"Getty Research Institute"},{"manifestId":"https://media.getty.edu/iiif/manifest/f92fa810-beaf-476d-bcbd-7ea62c32e4e4","provider":"Getty Research Institute"},{"manifestId":"https://media.getty.edu/iiif/manifest/0d91a469-c202-4417-9cc9-126a30a071f6","provider":"Getty Research Institute"}]
+                });
+      </script>
+    
+        </body>
+</html>
