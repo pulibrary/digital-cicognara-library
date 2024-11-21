@@ -1,0 +1,82 @@
+  <teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+    <fileDesc>
+                <titleStmt>
+            <title>Catalogo Cicognara Number 4380</title>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org</ref>
+            </publisher>
+            <idno type="cico">4380</idno>
+        </publicationStmt>
+        <sourceDesc>
+            <bibl><author>SANSOVINO Francesco</author>, <title>La stessa descritta dal Sansovino colle aggiunte del Martignoni, e dello Stringa</title>, <pubPlace>Venezia</pubPlace>
+<date>1663</date>, in 4.
+<note>Questa è la miglior illustrazione di Venezia non senza errori, ma almeno desunta da buone fonti. In questa ultima
+edizione le aggiunte sono importanti, ma sarebbe da rifarsi con note d’un altro genere che facessero conoscere
+cosa fu, e cosa sia al presente.</note>
+</bibl>
+        </sourceDesc>
+    </fileDesc>
+</teiHeader>
+        <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:local="http://library.princeton.edu" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Venetia, città nobilissima, et singolare [microform] /</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Martinioni, Giustiniano.</authority>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <authority>Leopoldo Cicognara Program (University of Illinois at Urbana-Champaign)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985431953506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/5f3j1r</idno>
+            <idno type="cico">4380</idno>
+            <idno type="dcl">50d</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Venetia, città nobilissima, et singolare [microform] /</title>
+                  <respStmt>
+                     <persName>Sansovino, Francesco, 1521-1586.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>In Venetia : Appresso Steffano Curti</publisher>
+                     <pubPlace>Venice (Italy)</pubPlace>
+                     <date>1663</date>
+                  </imprint>
+                  <extent>754, 86, [10], 24 p.</extent>
+                  <extent>15 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/637c1f6c-1a47-4841-bef4-8837b9250d57/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Venice (Italy) -- Description and travel -- Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/637c1f6c-1a47-4841-bef4-8837b9250d57/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

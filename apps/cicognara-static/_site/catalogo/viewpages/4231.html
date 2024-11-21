@@ -5,12 +5,19 @@
         <title>Cico digital editions</title>
         <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:300,400,500"></link>
         <meta charset="UTF-8"></meta>
-         <script src="https://unpkg.com/mirador@latest/dist/mirador.min.js"></script>
-    </head>
+        <script src="https://unpkg.com/mirador@3.2.0/dist/mirador.min.js"></script>
+     </head>
     <body>
           <div id="the-viewer"/>
     
-    <p>No digital editions are available.</p>
+
+      <script type="text/javascript">
+        const mirador = Mirador.viewer({
+               "id": "the-viewer",
+               "windows": [{"manifestId":"https://media.getty.edu/iiif/manifest/996d1e96-75e4-4952-a439-47bcaccf6c65"},{"manifestId":"https://figgy.princeton.edu/concern/scanned_resources/4898f551-c9ad-445e-852d-9cef31684856/manifest"}],
+               "catalog": [{"manifestId":"https://media.getty.edu/iiif/manifest/996d1e96-75e4-4952-a439-47bcaccf6c65","provider":"Getty Research Institute"},{"manifestId":"https://figgy.princeton.edu/concern/scanned_resources/4898f551-c9ad-445e-852d-9cef31684856/manifest","provider":"Princeton University Library"}]
+                });
+      </script>
     
         </body>
 </html>
