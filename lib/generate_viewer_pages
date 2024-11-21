@@ -61,15 +61,12 @@ Dir["#{sourcedir}/*.xml"].each do |file|
     provider = doc.xpath('.//tei:titleStmt/tei:respStmt/tei:orgName', ns)
     authorities = doc.xpath('.//tei:authority', ns)
 
-    facs = doc.xpath('.//tei:facsimile/tei:media/@url', ns)
-
-
-    windows_arr << { manifestId: facs.text }
-
-    catalog_arr << {
-      manifestId: facs.text,
-      provider: provider.text
-    }
+    # facs = doc.xpath('.//tei:facsimile/tei:media/@url', ns)
+    manifests = doc.xpath('.//tei:facsimile/tei:media/@url', ns)
+    manifests.each do |m|
+      windows_arr << { manifestId: m.text }
+      catalog_arr << { manifestId: m.text, provider: provider.text }
+    end
   end
 
   catalog = catalog_arr.empty? ? nil : catalog_arr.to_json
