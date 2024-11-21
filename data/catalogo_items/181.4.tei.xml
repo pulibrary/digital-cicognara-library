@@ -1,0 +1,80 @@
+  <teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+    <fileDesc>
+                <titleStmt>
+            <title>Catalogo Cicognara Number 181.4</title>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org</ref>
+            </publisher>
+            <idno type="cico">181.4</idno>
+        </publicationStmt>
+        <sourceDesc>
+            <bibl>
+                           <author/>
+                           <title>L’art de la peinture de C. A. du Fresnoy, traduit par de Piles,</title> 
+                           <date>1783.</date>
+                        </bibl>
+        </sourceDesc>
+    </fileDesc>
+</teiHeader>
+        <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:local="http://library.princeton.edu" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>L'art de peinture de C.A. Du Fresnoy [microform] / traduit en françois ; enrichi de remarques, revu, corrigé &amp; augmenté par Monsieur de Piles.</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Piles, Roger de, 1635-1709.</authority>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985248363506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/pc4g5g</idno>
+            <idno type="cico">181b</idno>
+            <idno type="dcl">pjq</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>L'art de peinture de C.A. Du Fresnoy [microform] / traduit en françois ; enrichi de remarques, revu, corrigé &amp; augmenté par Monsieur de Piles.</title>
+                  <respStmt>
+                     <persName>Dufresnoy, Charles-Alphonse, 1611-1668.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>French</textLang>
+                  <imprint>
+                     <publisher>A Paris : Chez Alex. Jombert</publisher>
+                     <date>1783</date>
+                  </imprint>
+                  <extent>[4], vii, 371 p.</extent>
+                  <extent>6 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/1e6d2c52-bf14-45c7-baf7-a9692822c5da/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Painters -- Early works to 1800.</term>
+               <term>Painting -- Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/1e6d2c52-bf14-45c7-baf7-a9692822c5da/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>
