@@ -60,7 +60,7 @@ EOF
   # file.
 
   doc = Nokogiri::XML(File.read(Settings[:catalogo_file]))
-  sections = doc.xpath("//xmlns:div[@type='section']")
+  items = doc.xpath("//xmlns:list[@type='catalog']//xmlns:item")
 
   ##
   # Generate a tei:teiCorpus file for each Cicognara item.  Extract the
@@ -68,42 +68,39 @@ EOF
   # <item> to insert as bindings into the corpus template.
   ##
 
-  sections.each do |section|
-    section_number = section.xpath("@n")
-
-    section.xpath("//xmlns:list[@type='catalog']//xmlns:item").each do |item|
-      n = item.xpath("@n")
-      bibl = item.xpath("xmlns:bibl")
-
-      # The dclnums are encoded as values in the @corresp attribute of the
-      # <item>.  Compile an array of corresponding TEI documents by
-      # looking up the dclnum in the dcl_index and appending their string
-      # representations to the array.
-      getty_docarray = []
-
-      corresps = item.xpath("@corresp").text
-      c2 = corresps.split(' ')
-      dclnums = c2.collect { |x| x.split(":")[1]}
-
-      dclnums.each do |dclnum|
-        files = dcl_index[dclnum]
-        if files
-          files.each do |file|
-            doc = File.open(Settings[:getty_tei_dir] + file) { |f| Nokogiri::XML(f) }
-            # To avoid including the xml declaration and any processing
-            # instructions at the top of the document, only append the
-            # root of the document (the <TEI> element).
-            
-            getty_docarray << doc.root.to_s
-          end
+  items.each do |item|
+    n = item.xpath("@n")
+    bibl = item.xpath("xmlns:bibl")
+    
+    # The dclnums are encoded as values in the @corresp attribute of the
+    # <item>.  Compile an array of corresponding TEI documents by
+    # looking up the dclnum in the dcl_index and appending their string
+    # representations to the array.
+    getty_docarray = []
+    
+    corresps = item.xpath("@corresp").text
+    c2 = corresps.split(' ')
+    dclnums = c2.collect { |x| x.split(":")[1]}
+    
+    dclnums.each do |dclnum|
+      files = dcl_index[dclnum]
+      if files
+        files.each do |file|
+          doc = File.open(Settings[:getty_tei_dir] + file) { |f| Nokogiri::XML(f) }
+          # To avoid including the xml declaration and any processing
+          # instructions at the top of the document, only append the
+          # root of the document (the <TEI> element).
+          
+          getty_docarray << doc.root.to_s
         end
-      end 
-      
-      getty_docs = getty_docarray.join("\n")
-      corpus_doc = corpus.result(binding)
-      item_path = Settings[:catalogo_items_dir] + Pathname("#{n}.tei.xml")
-      
-      File.open(item_path, "w") { |f| f.write corpus_doc }
+      end
     end 
-  end 
+    
+    getty_docs = getty_docarray.join("\n")
+    corpus_doc = corpus.result(binding)
+    item_path = Settings[:catalogo_items_dir] + Pathname("#{n}.tei.xml")
+    
+    File.open(item_path, "w") { |f| f.write corpus_doc }
+    
+  end
 end
