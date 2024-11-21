@@ -16,7 +16,6 @@ require "pathname"
 require "json"
 require 'erb'
 require 'fileutils'
-require 'pry'
 
 desc "Generate the TEI corpus files for the Catalogo items."
 task :generate_item_files do
@@ -41,7 +40,6 @@ task :generate_item_files do
                <orgName>Digital Cicognara Library</orgName>
                <ref>https://cicognara.org</ref>
             </publisher>
-            <sectionNumber><%= section_number %></sectionNumber>
             <idno type="cico"><%= n %></idno>
         </publicationStmt>
         <sourceDesc>
@@ -73,7 +71,7 @@ EOF
   sections.each do |section|
     section_number = section.xpath("@n")
 
-    section.xpath("xmlns:list[@type='catalog']/xmlns:item").each do |item|
+    section.xpath("//xmlns:list[@type='catalog']//xmlns:item").each do |item|
       n = item.xpath("@n")
       bibl = item.xpath("xmlns:bibl")
 
