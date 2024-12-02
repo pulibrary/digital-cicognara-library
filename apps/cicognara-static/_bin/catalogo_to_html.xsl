@@ -124,9 +124,11 @@
         <html xmlns="http://www.w3.org/1999/xhtml" lang="it">
             <xsl:call-template name="createHead"/>
             <body class="container">
+              <div class="catalogo-index-display">
                 <xsl:call-template name="createSiteMastHead"/>
                 <xsl:apply-templates select="tei:teiCorpus"/>
                 <xsl:call-template name="createSiteFooter"/>
+              </div>
             </body>
         </html>
     </xsl:template>
@@ -142,9 +144,6 @@
 
     <xsl:template match="tei:TEI" mode="toc">
         <section>
-            <h1>
-                <xsl:value-of select="tei:teiHeader/tei:fileDesc/tei:titleStmt"/>
-            </h1>
             <ul>
                 <xsl:apply-templates select="tei:text" mode="toc"/>
             </ul>
