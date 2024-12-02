@@ -35,6 +35,7 @@ minima:
 exclude:
    - tmp/
    - bin/
+   - README.org
 #   - .sass-cache/
 #   - .jekyll-cache/
 #   - gemfiles/
