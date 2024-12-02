@@ -66,6 +66,7 @@
                         <div class="container">
                         <section class="catalogo-item-header">
                             <h1>
+                              <xsl:value-of select="$ciconum"/>.
                               <xsl:apply-templates select="tei:teiHeader/tei:fileDesc/tei:sourceDesc/tei:bibl" />
                             </h1>
                         </section>
