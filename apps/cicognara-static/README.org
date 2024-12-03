@@ -83,7 +83,7 @@ Preview locally at http://127.0.0.1:4000/.
   cp cicognara-catalogo/catalogo.tei.xml .
   cp -R cicognara-catalogo/getty/items .
   cd ..
-  bin/generate_catalogo_page
-  bin/generate_viewer_pages
-  bin/generate_item_pages
+  _bin/generate_catalogo_page
+  _bin/generate_viewer_pages
+  _bin/generate_item_pages
 #+end_src
