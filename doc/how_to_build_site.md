@@ -2,7 +2,7 @@
 
 ## Introduction
 
-The DCL site is generated from records in the Getty Research Portal. Those records are updated irregularly; when they are, the records must be downloaded and the site regenerated.
+The DCL site is generated from the TEI-encoded edition of Cicognara\'s /Catalogo/ and bibliographic records from the Getty Research Portal. Those records are updated irregularly; when they are, the records must be downloaded and the site regenerated.
 
 Doing so requires several steps:
 
@@ -65,11 +65,11 @@ To generate these files, run the `generate_item_files` Rake task:
 
 
 ### How to Generate HTML files
-There are two types of HTML pages in the site (besides the *Catalogo* page): a page for each entry in the *Catalogo*, displaying bibliographic metadata and a list of links to pages for each associated digital object; and a page for each of those digital objects, displaying a Mirador IIIF viewer.  Run the following shell scripts (not Rake tasks) to generate these pages:
+There are two types of HTML pages in the site (besides the *Catalogo* page): a page for each entry in the *Catalogo*, displaying bibliographic metadata and a list of links to pages for each associated digital object; and a page for each of those digital objects, displaying a Mirador IIIF viewer.  Run the following Rake to generate these pages:
 
    ```shell
-   generate_item_pages
-   generate_viewer_pages
+   rake generate_item_pages
+   rake generate_viewer_pages
    ```
 
 ### How to Generate a Search Index

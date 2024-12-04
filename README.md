@@ -10,6 +10,6 @@ This repository combines the data and code from two earlier project repositories
 
   * *data/*  This directory contains the principal assets of the Project: the TEI encoding of Cicognara's *Catalogo Ragionato*, and metadata about the surrogates being compiled by the Project partners.  It also contains several indexes used by the static website builder and the Project maintainers.
 
-  * *docs/* A directory of documentation about the way the Project models the *Catalogo*, the items it contains, and the surrogate resources being digitized by the Partner institutions.
+  * *doc/* A directory of documentation about the way the Project models the *Catalogo*, the items it contains, and the surrogate resources being digitized by the Partner institutions, as well as instructions for generating data files and indexes.
 
 
