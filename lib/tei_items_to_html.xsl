@@ -142,6 +142,7 @@
                         <div class="container">
                         <section class="catalogo-item-header">
                             <h1>
+                                <xsl:apply-templates select="tei:teiHeader/tei:fileDesc/tei:publicationStmt/tei:idno[@type='cico']" />. 
                               <xsl:apply-templates select="tei:teiHeader/tei:fileDesc/tei:sourceDesc/tei:bibl" />
                             </h1>
                         </section>
