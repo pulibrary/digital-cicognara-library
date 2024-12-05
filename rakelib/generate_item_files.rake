@@ -73,7 +73,7 @@ EOF
   sections.each do |section|
     section_number = section.xpath("@n")
 
-    section.xpath("xmlns:list[@type='catalog']/xmlns:item").each do |item|
+    section.xpath(".//xmlns:list[@type='catalog']/xmlns:item").each do |item|
       n = item.xpath("@n")
       bibl = item.xpath("xmlns:bibl")
 
