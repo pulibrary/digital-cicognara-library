@@ -21,5 +21,67 @@ monete veneziane.</note>
         </sourceDesc>
     </fileDesc>
 </teiHeader>
-        
+        <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:local="http://library.princeton.edu" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Della zecca e delle monete degli antichi marchesi della Toscana.</title>
+            <respStmt>
+               <orgName>Getty Research Institute</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Nistri, Sebastiano, printer.</authority>
+            <idno type="URI">http://portal.getty.edu/books/gri_9926438530001551</idno>
+            <idno type="URI">http://portal.getty.edu/api/2k4w27</idno>
+            <idno>(OCoLC)83681039</idno>
+            <idno type="cico">4769</idno>
+            <idno type="dcl">2mb</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Della zecca e delle monete degli antichi marchesi della Toscana.</title>
+                  <respStmt>
+                     <persName>Cordero di San Quintino, Giulio, 1778-1857</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>Pisa, S. Nistri</publisher>
+                     <pubPlace>Italy</pubPlace>
+                     <pubPlace>Italy Pisa.</pubPlace>
+                     <date>1821</date>
+                  </imprint>
+                  <extent>172 pages</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://media.getty.edu/iiif/manifest/0133d1b2-9455-463a-b79c-0c936d7c2e0c"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Coins -- Italy -- Tuscany -- History.</term>
+               <term>Mints.</term>
+               <term>Coinage.</term>
+               <term>Coins.</term>
+               <term>Mints -- Italy -- Tuscany -- History.</term>
+               <term>Coinage -- Italy -- Tuscany -- History.</term>
+               <term>Italy -- Tuscany.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://media.getty.edu/iiif/manifest/0133d1b2-9455-463a-b79c-0c936d7c2e0c">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
 </teiCorpus>
