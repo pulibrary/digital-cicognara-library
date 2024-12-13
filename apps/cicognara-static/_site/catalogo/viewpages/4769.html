@@ -10,7 +10,14 @@
     <body>
           <div id="the-viewer"/>
     
-    <p>No digital editions are available.</p>
+
+      <script type="text/javascript">
+        const mirador = Mirador.viewer({
+               "id": "the-viewer",
+               "windows": [{"manifestId":"https://media.getty.edu/iiif/manifest/0133d1b2-9455-463a-b79c-0c936d7c2e0c"}],
+               "catalog": [{"manifestId":"https://media.getty.edu/iiif/manifest/0133d1b2-9455-463a-b79c-0c936d7c2e0c","provider":"Getty Research Institute"}]
+                });
+      </script>
     
         </body>
 </html>
