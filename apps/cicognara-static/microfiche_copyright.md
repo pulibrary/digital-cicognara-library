@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Microfice Copyright
+title: Microfiche Copyright
 ---
 
 <h1>Microfiche Copyright</h1>
