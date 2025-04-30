@@ -8,7 +8,7 @@ job "cicognara-production" {
   node_pool = "staging"
   type = "service"
   group "web" {
-    count = 2
+    count = 3
     network {
       port "http" { to = 80 }
     }
