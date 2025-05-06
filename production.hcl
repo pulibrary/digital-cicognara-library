@@ -5,7 +5,7 @@ variable "branch_or_sha" {
 job "cicognara-production" {
   region = "global"
   datacenters = ["dc1"]
-  node_pool = "staging"
+  node_pool = "production"
   type = "service"
   group "web" {
     count = 2
