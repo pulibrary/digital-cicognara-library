@@ -1,5 +1,4 @@
 name: Create and publish a Docker image
-
 on:
   push:
     branches:
@@ -7,29 +6,24 @@ on:
   pull_request:
     branches:
       - main
-
 env:
   REGISTRY: ghcr.io
   IMAGE_NAME: ${{ github.repository }}
-
 jobs:
   build-and-push-image:
     runs-on: ubuntu-latest
     permissions:
       contents: read
       packages: write
-
     steps:
       - name: Checkout repository
         uses: actions/checkout@v2
-
       - name: Log in to the Container registry
         uses: docker/login-action@v2
         with:
           registry: ${{ env.REGISTRY }}
           username: ${{ github.actor }}
           password: ${{ secrets.GITHUB_TOKEN }}
-
       - name: Extract metadata (tags & labels)
         id: meta
         uses: docker/metadata-action@v2
@@ -41,7 +35,6 @@ jobs:
             type=sha
         env:
           DOCKER_METADATA_PR_HEAD_SHA: true
-
       - name: Build and push Docker image
         uses: docker/build-push-action@v2
         with:
@@ -50,17 +43,14 @@ jobs:
           push: true
           tags: ${{ steps.meta.outputs.tags }}
           labels: ${{ steps.meta.outputs.labels }}
-
   container-vuln-scan:
     needs: build-and-push-image
     runs-on: ubuntu-latest
     permissions:
       issues: write     # allow open/close issues
-
     steps:
       - name: Checkout code
         uses: actions/checkout@v2
-
       - name: Extract metadata (tags & labels)
         id: meta
         uses: docker/metadata-action@v2
@@ -72,9 +62,8 @@ jobs:
             type=sha
         env:
           DOCKER_METADATA_PR_HEAD_SHA: true
-
       - name: Run Trivy vulnerability scanner
-        uses: aquasecurity/trivy-action@v0.31.0
+        uses: aquasecurity/trivy-action@v0.30.0
         id: runscanner
         continue-on-error: true
         env:
@@ -87,7 +76,6 @@ jobs:
           vuln-type: os,library
           severity: CRITICAL,HIGH
           output: vulnerabilities.table
-
       - name: Capture Trivy output
         id: capture
         run: |
@@ -95,7 +83,6 @@ jobs:
           echo "results<<$EOF" >> $GITHUB_OUTPUT
           echo "$(cat vulnerabilities.table 2>/dev/null || echo 'No vulnerabilities.table found')" >> $GITHUB_OUTPUT
           echo "$EOF" >> $GITHUB_OUTPUT
-
       - name: Post PR comment
         if: ${{ github.event_name == 'pull_request' }}
         uses: peter-evans/create-or-update-comment@v4
@@ -107,8 +94,6 @@ jobs:
             ${{ steps.capture.outputs.results }}
             ```
           edit-mode: replace
-
       - name: Open issue on main-branch failure
         if: ${{ steps.runscanner.outcome != 'success' && github.event_name != 'pull_request' }}
         uses: JasonEtco/create-an-issue@v2
-

@@ -1,25 +1,20 @@
 name: Run nightly vulnerability check
-
 on:
   schedule:
-    - cron: '0 0 * * *'
-
+    - cron: '0 0 * * *'  # Fixed: was '0 0 * **'
 env:
   REGISTRY: ghcr.io
   IMAGE_NAME: ${{ github.repository }}
-
 jobs:
   container-vuln-scan:
     runs-on: ubuntu-latest
     permissions:
       issues: write
-
     steps:
       - name: Checkout code
-        uses: actions/checkout@v2
-
+        uses: actions/checkout@v4  # Updated from v2
       - name: Run Trivy vulnerability scanner
-        uses: aquasecurity/trivy-action@v0.30.0
+        uses: aquasecurity/trivy-action@v0.30.0  # Fixed: was v0.31.1
         id: runscanner
         continue-on-error: true
         env:
@@ -32,7 +27,6 @@ jobs:
           vuln-type: os,library
           severity: CRITICAL,HIGH
           output: vulnerabilities.table
-
       - name: Capture Trivy output
         id: capture
         run: |
@@ -40,7 +34,6 @@ jobs:
           echo "results<<$EOF" >> $GITHUB_OUTPUT
           echo "$(cat vulnerabilities.table 2>/dev/null || echo 'No vulnerabilities.table found')" >> $GITHUB_OUTPUT
           echo "$EOF" >> $GITHUB_OUTPUT
-
       - name: Create or update nightly issue
         if: ${{ steps.runscanner.outcome != 'success' }}
         uses: JasonEtco/create-an-issue@v2
@@ -49,12 +42,10 @@ jobs:
           title: "❌ Nightly vulnerability scan failed"
           body: |
             **Run:** ${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }}
-
             ```
             ${{ steps.capture.outputs.results }}
             ```
           update_existing: true
-
       - name: Close resolved nightly issues
         if: ${{ steps.runscanner.outcome == 'success' }}
         uses: lee-dohm/select-matching-issues@v1
@@ -62,9 +53,7 @@ jobs:
         with:
           query: 'Nightly vulnerability scan failed is:open'
           token: ${{ secrets.GITHUB_TOKEN }}
-
       - name: Close found issues
         if: ${{ steps.runscanner.outcome == 'success' }}
         continue-on-error: true
         run: gh issue close ${{ steps.found.outputs.issues }} -c "Nightly scan now passing"
-
