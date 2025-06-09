@@ -63,7 +63,7 @@ jobs:
         env:
           DOCKER_METADATA_PR_HEAD_SHA: true
       - name: Run Trivy vulnerability scanner
-        uses: aquasecurity/trivy-action@v0.30.0
+        uses: aquasecurity/trivy-action@v0.20.0
         id: runscanner
         continue-on-error: true
         env:
